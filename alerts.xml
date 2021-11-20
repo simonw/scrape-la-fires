@@ -5,10 +5,21 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5"/>
-<lastBuildDate>Fri, 19 Nov 2021 10:13:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 19 Nov 2021 14:30:00 -0800</lastBuildDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-11192021-inc0525" hreflang="en">Hiker Rescue 11/19/2021 INC#0525</a></title>
+  <link><a href="/alert/hiker-rescue-11192021-inc0525" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0525; 10:40AM; 1544 N Lachman Ln; MAP: &lt;a href="https://bit.ly/3CyJzB4" target="_blank" rel="noopener"&gt;https://bit.ly/3CyJzB4&lt;/a&gt;; Pacific Palisades; Firefighters have located a lost elderly male in the hills of Pacific Palisades. He was reportedly lost/missing for days prior. LAFD Air Operations hoisted him from his remote location and transported him to an area hospital for further care.; FS 23; Batt 9; West Bureau; Council District 11; AO1  BC9  E23  E269  H1  H2  HA1  HA2  RA23  RH114  T69; CH7; 12; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+    <category>West</category>
+    <category>Pacific Palisades</category>
+    <guid isPermaLink="false"><a href="/alert/hiker-rescue-11192021-inc0525" hreflang="en">view</a></guid>
+    <pubDate>Friday, November 19, 2021 - 11:54</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-11192021-inc0444" hreflang="en">KNOCKDOWN Structure Fire 11/19/2021 INC#0444</a></title>
   <link><a href="/alert/knockdown-structure-fire-11192021-inc0444" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0444; 09:57AM; 2500 E Whittier Bl; MAP: &lt;a href="https://bit.ly/3FweD6f" target="_blank" rel="noopener"&gt;https://bit.ly/3FweD6f&lt;/a&gt;; Boyle Heights; *Corrected Address* Firefighters found an approximately 40' x 60' standalone one-story commercial building (and site of a previous burn), with no other structures threatened. Firefighters began the attack from the exterior, in defensive mode, and as the flames were quickly knocked back, transitioned to offensive mode to finish off extinguishment. Ultimately, it took 34 firefighters 18 minutes to extinguish the flames. No reported injuries. The cause of the fire is under investigation.; FS 25; Batt 1; Central Bureau; Council District 14; BC1  CM22  E10  E17  E203  E209  E210  E25  E9  RA209  RA25  T10  T3  T9; CH9; 14; Nicholas Prange</description>
@@ -17,7 +28,7 @@
     <category>Boyle Heights</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11192021-inc0444" hreflang="en">view</a></guid>
     <pubDate>Friday, November 19, 2021 - 10:12</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-11192021-inc0444" hreflang="en">Structure Fire 11/19/2021 INC#0444</a></title>
@@ -28,7 +39,7 @@
     <category>Boyle Heights</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-11192021-inc0444" hreflang="en">view</a></guid>
     <pubDate>Friday, November 19, 2021 - 09:48</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-updated-address-structure-fire-11142021-inc1443" hreflang="en">KNOCKDOWN (updated address) Structure Fire 11/14/2021 INC#1443</a></title>
@@ -39,7 +50,7 @@
     <category>Sylmar</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-updated-address-structure-fire-11142021-inc1443" hreflang="en">view</a></guid>
     <pubDate>Sunday, November 14, 2021 - 19:56</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-11142021-inc1443" hreflang="en">Structure Fire 11/14/2021 INC#1443</a></title>
@@ -50,7 +61,7 @@
     <category>Sylmar</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-11142021-inc1443" hreflang="en">view</a></guid>
     <pubDate>Sunday, November 14, 2021 - 19:46</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11132021-inc1111" hreflang="en">KNOCKDOWN Structure Fire 11/13/2021 INC#1111</a></title>
@@ -61,7 +72,7 @@
     <category>Shadow Hills</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11132021-inc1111" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 13, 2021 - 16:25</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-structure-fire-11132021-inc1111" hreflang="en">Update Structure Fire 11/13/2021 INC#1111</a></title>
@@ -72,7 +83,7 @@
     <category>Shadow Hills</category>
     <guid isPermaLink="false"><a href="/alert/update-structure-fire-11132021-inc1111" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 13, 2021 - 16:19</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-11132021-inc1111" hreflang="en">Structure Fire 11/13/2021 INC#1111</a></title>
@@ -83,7 +94,7 @@
     <category>Shadow Hills</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-11132021-inc1111" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 13, 2021 - 16:12</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/red-line-fatality-11122021-inc1503" hreflang="en">Red Line - FATALITY 11/12/2021 INC#1503</a></title>
@@ -94,7 +105,7 @@
     <category>Downtown</category>
     <guid isPermaLink="false"><a href="/alert/red-line-fatality-11122021-inc1503" hreflang="en">view</a></guid>
     <pubDate>Friday, November 12, 2021 - 18:33</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-11112021-inc0093" hreflang="en">Structure Fire - Now Out 11/11/2021 INC#0093</a></title>
@@ -105,18 +116,7 @@
     <category>Westlake</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-11112021-inc0093" hreflang="en">view</a></guid>
     <pubDate>Thursday, November 11, 2021 - 02:13</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/knockdown-boat-fire-11102021-inc0999" hreflang="en">KNOCKDOWN Boat Fire 11/10/2021 INC#0999</a></title>
-  <link><a href="/alert/knockdown-boat-fire-11102021-inc0999" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Boat Fire; INC#0999; 03:05PM; 1500 E Anchorage Rd; MAP: &lt;a href="https://bit.ly/3bY3dvh" target="_blank" rel="noopener"&gt;https://bit.ly/3bY3dvh&lt;/a&gt;; San Pedro; LAFD responded by land and sea to find two power vessels, approximately 30 feet long, engulfed in flames. Thirty-two firefighters extinguished the flames in 30 minutes. No reports of individuals previously living on these vessels. No reported injuries. The cause of the fire is under investigation.; FS 49; Batt 6; South Bureau; Council District outside city; BC6  BT3  BT4  E238  E285  E36  E38  E49  E85  T38  T85; CH7; 12; Nicholas Prange</description>
-  <category>Boat Fire</category>
-    <category>South</category>
-    <category>San Pedro</category>
-    <guid isPermaLink="false"><a href="/alert/knockdown-boat-fire-11102021-inc0999" hreflang="en">view</a></guid>
-    <pubDate>Wednesday, November 10, 2021 - 15:10</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c481bc9-4964-11ec-b842-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
