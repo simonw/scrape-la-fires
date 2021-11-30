@@ -5,10 +5,32 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 29 Nov 2021 10:20:27 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5"/>
+<lastBuildDate>Tue, 30 Nov 2021 09:10:41 -0800</lastBuildDate>
 
     <item>
+  <title><a href="/alert/structure-fire-11292021-inc1689" hreflang="en">Structure Fire 11/29/2021 INC#1689</a></title>
+  <link><a href="/alert/structure-fire-11292021-inc1689" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1689; 11:59PM; 145 W 99th St; MAP: &lt;a href="https://bit.ly/3llcu5E" target="_blank" rel="noopener"&gt;https://bit.ly/3llcu5E&lt;/a&gt;; Broadway-Manchester; Firefighters responded to a structure fire at a two story multi-unit building (group/care home type facility) and found a fire out (held in check by sprinkler). They located and transported one 58 yo female patient with critical burn injuries. Initial investigation of cause of fire and injuries appear to be smoking in bed. The initial 9-1-1 call was received at 11:31PM. No further details. ; FS 64; Batt 13; South Bureau; Council District 8; BC13  E233  E264  E33  E64  E65  RA64  RA864  T33  T64; CH7; 12; Margaret Stewart</description>
+  <category>Structure Fire</category>
+    <category>South</category>
+    <category>Broadway-Manchester</category>
+    <guid isPermaLink="false"><a href="/alert/structure-fire-11292021-inc1689" hreflang="en">view</a></guid>
+    <pubDate>Monday, November 29, 2021 - 23:59</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
+    </item>
+<item>
+  <title><a href="/alert/cliff-vehicle-11292021-inc1137" hreflang="en">Cliff, Vehicle 11/29/2021 INC#1137</a></title>
+  <link><a href="/alert/cliff-vehicle-11292021-inc1137" hreflang="en">view</a></link>
+  <description>Cliff, Vehicle; INC#1137; 05:30PM; 46 Saddlebow Rd; MAP: &lt;a href="https://bit.ly/3d324Di" target="_blank" rel="noopener"&gt;https://bit.ly/3d324Di&lt;/a&gt;; outside city; Ventura Co Fire and LAFD worked together to safely rescue an (elderly) adult male from approximately 200' down a cliff side. While his vehicle did not go down the cliff (it was teetering and a few more feet would have caused it to go down), when he exited the car he lost his balance and fell down the very steep (too steep for rescuers to walk down) hill side. VCFD helicopter conducted the hoist operation and air ambulance. Fortunately, the patient did not appear to have any life threatening injuries. LAFD Heavy Rescue is on scene to assist with pulling the vehicle back to the road. The original 9-1-1 call was received at 4:24PM. Any further questions are referred to LAPD Inc# 3147.; FS 106; Batt 17; Valley Bureau; Council District outside city; AO1  AO2  BC14  BC17  E105  E289  E305  E89  E90  EM17  H2  H4  HA2  HA4  HR3  RA106  RA3  RA5  RA89  RH114  T105  T89  UR89; CH8; 17; Margaret Stewart</description>
+  <category>Cliff</category>
+    <category>Valley</category>
+    <category>outside city</category>
+    <guid isPermaLink="false"><a href="/alert/cliff-vehicle-11292021-inc1137" hreflang="en">view</a></guid>
+    <pubDate>Monday, November 29, 2021 - 17:46</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
+    </item>
+<item>
   <title><a href="/alert/fatality-physical-rescue-11282021-inc1644" hreflang="en">FATALITY Physical Rescue 11/28/2021 INC#1644</a></title>
   <link><a href="/alert/fatality-physical-rescue-11282021-inc1644" hreflang="en">view</a></link>
   <description>FATALITY Physical Rescue; INC#1644; 12:30AM; 5006 N Odessa Av; MAP: &lt;a href="https://bit.ly/3ro1GrD" target="_blank" rel="noopener"&gt;https://bit.ly/3ro1GrD&lt;/a&gt;; Encino; Sadly, one person perished due to a tree falling into the two-story home. LAFD firefighters, heavy rescue, and urban search and rescue teams will continue working together to remove the tree. LAPD, Coroner, and Mayor's Crisis Response Team responding. PIO Captain Cody Weireter en route.; FS 83; Batt 10; Valley Bureau; Council District 5; BC10  BC14  E109  E288  E289  E83  E88  E89  EM17  HE1  HR3  PI3  RA100  RA83  RA88  RA889  RA90  T88  T89  UR88  UR89; CH8; 17  18; Nicholas Prange</description>
@@ -17,7 +39,7 @@
     <category>Encino</category>
     <guid isPermaLink="false"><a href="/alert/fatality-physical-rescue-11282021-inc1644" hreflang="en">view</a></guid>
     <pubDate>Monday, November 29, 2021 - 00:47</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/physical-rescue-11282021-inc1644" hreflang="en">Physical Rescue 11/28/2021 INC#1644</a></title>
@@ -28,7 +50,7 @@
     <category>Encino</category>
     <guid isPermaLink="false"><a href="/alert/physical-rescue-11282021-inc1644" hreflang="en">view</a></guid>
     <pubDate>Sunday, November 28, 2021 - 23:42</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/hiker-rescue-11282021-inc1003" hreflang="en">Hiker Rescue 11/28/2021 INC#1003</a></title>
@@ -39,7 +61,7 @@
     <category>Chatsworth</category>
     <guid isPermaLink="false"><a href="/alert/hiker-rescue-11282021-inc1003" hreflang="en">view</a></guid>
     <pubDate>Sunday, November 28, 2021 - 16:43</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/hiker-rescue-11282021-inc0940" hreflang="en">Hiker Rescue 11/28/2021 INC#0940</a></title>
@@ -50,7 +72,7 @@
     <category>Brentwood</category>
     <guid isPermaLink="false"><a href="/alert/hiker-rescue-11282021-inc0940" hreflang="en">view</a></guid>
     <pubDate>Sunday, November 28, 2021 - 15:57</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11272021-inc1450" hreflang="en">KNOCKDOWN Structure Fire 11/27/2021 INC#1450</a></title>
@@ -61,7 +83,7 @@
     <category>Green Meadows</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11272021-inc1450" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 27, 2021 - 22:03</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-11272021-inc1450" hreflang="en">Structure Fire 11/27/2021 INC#1450</a></title>
@@ -72,7 +94,7 @@
     <category>Green Meadows</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-11272021-inc1450" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 27, 2021 - 21:20</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/hiker-rescue-11272021-inc1041" hreflang="en">Hiker Rescue 11/27/2021 INC#1041</a></title>
@@ -83,7 +105,7 @@
     <category>Pacific Palisades</category>
     <guid isPermaLink="false"><a href="/alert/hiker-rescue-11272021-inc1041" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 27, 2021 - 16:52</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/fire-11272021-inc0235-0" hreflang="en">Fire 11/27/2021 INC#0235</a></title>
@@ -94,29 +116,7 @@
     <category>Pacoima</category>
     <guid isPermaLink="false"><a href="/alert/fire-11272021-inc0235-0" hreflang="en">view</a></guid>
     <pubDate>Saturday, November 27, 2021 - 06:53</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/fire-11272021-inc0235" hreflang="en">Fire 11/27/2021 INC#0235</a></title>
-  <link><a href="/alert/fire-11272021-inc0235" hreflang="en">view</a></link>
-  <description>Fire; INC#0235; 05:28AM; 12269 W Montague St; MAP: &lt;a href="https://bit.ly/3I2lLts" target="_blank" rel="noopener"&gt;https://bit.ly/3I2lLts&lt;/a&gt;; Pacoima; PRELIM: Fire involving vehicles (including motorhomes?) that extended to involve propane tanks and vegetation, to involve a home and threaten a commercial building.; FS 98; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  BC15  CM42  E24  E260  E275  E289  E290  E298  E7  E77  E89  E91  E98  EM15  HR3  RA889  RA89  RA898  RA98  T60  T75  T89  T90  T98  UR88  UR89; CH9; 17  18; Brian Humphrey</description>
-  <category>Fire</category>
-    <category>Valley</category>
-    <category>Pacoima</category>
-    <guid isPermaLink="false"><a href="/alert/fire-11272021-inc0235" hreflang="en">view</a></guid>
-    <pubDate>Saturday, November 27, 2021 - 05:53</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/pedestrian-struck-11262021-inc1344" hreflang="en">Pedestrian Struck 11/26/2021 INC#1344</a></title>
-  <link><a href="/alert/pedestrian-struck-11262021-inc1344" hreflang="en">view</a></link>
-  <description>Pedestrian Struck; INC#1344; 07:35PM; 2141 W Venice Bl; MAP: &lt;a href="https://bit.ly/3regeK0" target="_blank" rel="noopener"&gt;https://bit.ly/3regeK0&lt;/a&gt;; Harvard Heights; PRELIM: 1 person (unknown age / gender / affiliation / circumstances) deceased at scene after reportedly being struck by a vehicle. No further details. Media Inquiries: LAPD West Traffic (Incident #3394).; FS 26; Batt 11; Central Bureau; Council District 10; E226  EM1  RA26  T26; CH4; 10; Brian Humphrey</description>
-  <category>Pedestrian Struck</category>
-    <category>Central</category>
-    <category>Harvard Heights</category>
-    <guid isPermaLink="false"><a href="/alert/pedestrian-struck-11262021-inc1344" hreflang="en">view</a></guid>
-    <pubDate>Friday, November 26, 2021 - 19:47</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=71d748ea-5200-11ec-b842-002590f4cea5">Alerts Feed</source>
     </item>
 
   </channel>
