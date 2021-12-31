@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5"/>
-<lastBuildDate>Thu, 30 Dec 2021 09:39:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 30 Dec 2021 18:06:13 -0800</lastBuildDate>
 
     <item>
   <title><a href="/alert/knockdown-structure-fire-12302021-inc0117" hreflang="en">Knockdown -  Structure Fire 12/30/2021 INC#0117</a></title>
@@ -17,7 +17,7 @@
     <category>#Reseda</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12302021-inc0117" hreflang="en">view</a></guid>
     <pubDate>Thursday, December 30, 2021 - 02:14</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-12302021-inc0117" hreflang="en">Structure Fire 12/30/2021 INC#0117</a></title>
@@ -28,7 +28,7 @@
     <category>#Reseda</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-12302021-inc0117" hreflang="en">view</a></guid>
     <pubDate>Thursday, December 30, 2021 - 02:05</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-traffic-collision-12292021-inc1033" hreflang="en">Update Traffic Collision 12/29/2021 INC#1033</a></title>
@@ -39,7 +39,7 @@
     <category>#BeverlyGrove</category>
     <guid isPermaLink="false"><a href="/alert/update-traffic-collision-12292021-inc1033" hreflang="en">view</a></guid>
     <pubDate>Wednesday, December 29, 2021 - 16:16</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-12292021-inc1037" hreflang="en">Structure Fire - Now Out 12/29/2021 INC#1037</a></title>
@@ -50,7 +50,7 @@
     <category>Downtown</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-12292021-inc1037" hreflang="en">view</a></guid>
     <pubDate>Wednesday, December 29, 2021 - 16:04</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-12292021-inc1033" hreflang="en">Traffic Collision 12/29/2021 INC#1033</a></title>
@@ -61,7 +61,7 @@
     <category>Beverly Grove</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-12292021-inc1033" hreflang="en">view</a></guid>
     <pubDate>Wednesday, December 29, 2021 - 15:58</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12292021-inc1013" hreflang="en">Knockdown - Structure Fire 12/29/2021 INC#1013</a></title>
@@ -72,7 +72,7 @@
     <category>#Westlake</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12292021-inc1013" hreflang="en">view</a></guid>
     <pubDate>Wednesday, December 29, 2021 - 15:51</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-12292021-inc1013" hreflang="en">Structure Fire 12/29/2021 INC#1013</a></title>
@@ -83,7 +83,7 @@
     <category>#Westlake</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-12292021-inc1013" hreflang="en">view</a></guid>
     <pubDate>Wednesday, December 29, 2021 - 15:41</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-12272021-inc1489" hreflang="en">Update Traffic Collision with Entrapment 12/27/2021 INC#1489</a></title>
@@ -94,7 +94,7 @@
     <category>#BoyleHeights</category>
     <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-12272021-inc1489" hreflang="en">view</a></guid>
     <pubDate>Monday, December 27, 2021 - 20:42</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-12272021-inc1489" hreflang="en">Traffic Collision with Entrapment 12/27/2021 INC#1489</a></title>
@@ -105,7 +105,7 @@
     <category>#BoyleHeights</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-12272021-inc1489" hreflang="en">view</a></guid>
     <pubDate>Monday, December 27, 2021 - 20:05</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12262021-inc1194" hreflang="en">KNOCKDOWN Structure Fire 12/26/2021 INC#1194</a></title>
@@ -116,7 +116,7 @@
     <category>Fairfax</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12262021-inc1194" hreflang="en">view</a></guid>
     <pubDate>Sunday, December 26, 2021 - 18:18</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=774c0d4d-6997-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
