@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5"/>
-<lastBuildDate>Sat, 08 Jan 2022 05:28:42 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 08 Jan 2022 11:26:10 -0800</lastBuildDate>
 
     <item>
   <title><a href="/alert/structure-fire-now-out-01082022-inc0269" hreflang="en">Structure Fire - Now Out 01/08/2022 INC#0269</a></title>
@@ -17,7 +17,7 @@
     <category>#VermontKnolls</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01082022-inc0269" hreflang="en">view</a></guid>
     <pubDate>Saturday, January 8, 2022 - 05:28</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-laurelcanyonfire-greater-alarm-structure-fire-01072022-inc1874" hreflang="en">Knockdown - #LaurelCanyonFire -  Greater Alarm Structure Fire 01/07/2022 INC#1874</a></title>
@@ -28,7 +28,7 @@
     <category>#NorthHollywood</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-laurelcanyonfire-greater-alarm-structure-fire-01072022-inc1874" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 23:34</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-laurelcanyonfire-01072022-inc1874-0" hreflang="en">Update Greater Alarm Structure Fire #LaurelCanyonFire -  01/07/2022 INC#1874</a></title>
@@ -39,7 +39,7 @@
     <category>#NorthHollywood</category>
     <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-laurelcanyonfire-01072022-inc1874-0" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 23:07</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-laurelcanyonfire-01072022-inc1874" hreflang="en">Update Greater Alarm Structure Fire #LaurelCanyonFire 01/07/2022 INC#1874</a></title>
@@ -50,7 +50,7 @@
     <category>#NorthHollywood</category>
     <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-laurelcanyonfire-01072022-inc1874" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 22:52</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-01072022-inc1874" hreflang="en">Structure Fire 01/07/2022 INC#1874</a></title>
@@ -61,7 +61,7 @@
     <category>#NorthHollywood</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-01072022-inc1874" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 22:45</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-01072022-inc1782" hreflang="en">Update Traffic Collision with Entrapment 01/07/2022 INC#1782</a></title>
@@ -72,7 +72,7 @@
     <category>#SanPedro</category>
     <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-01072022-inc1782" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 22:07</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-01072022-inc1782" hreflang="en">Traffic Collision with Entrapment 01/07/2022 INC#1782</a></title>
@@ -83,7 +83,7 @@
     <category>#SanPedro</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-01072022-inc1782" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 21:43</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01072022-inc0944" hreflang="en">Knockdown -  Structure Fire 01/07/2022 INC#0944</a></title>
@@ -94,7 +94,7 @@
     <category>#Westlake</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01072022-inc0944" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 13:25</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-01072022-inc0944" hreflang="en">Structure Fire 01/07/2022 INC#0944</a></title>
@@ -105,7 +105,7 @@
     <category>#Westlake</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-01072022-inc0944" hreflang="en">view</a></guid>
     <pubDate>Friday, January 7, 2022 - 13:16</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01062022-inc1240" hreflang="en">Knockdown -  Structure Fire 01/06/2022 INC#1240</a></title>
@@ -116,7 +116,7 @@
     <category>#EchoPark</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01062022-inc1240" hreflang="en">view</a></guid>
     <pubDate>Thursday, January 6, 2022 - 16:26</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e4fa5ef0-7086-11ec-b843-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
