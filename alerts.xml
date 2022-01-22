@@ -5,10 +5,32 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5"/>
-<lastBuildDate>Fri, 21 Jan 2022 19:53:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 22 Jan 2022 09:49:33 -0800</lastBuildDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-01222022-inc0530" hreflang="en">Hiker Rescue 01/22/2022 INC#0530</a></title>
+  <link><a href="/alert/hiker-rescue-01222022-inc0530" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0530; 09:47AM; 16601 Via Pacifica; MAP: &lt;a href="https://bit.ly/3Kzup3K" target="_blank" rel="noopener"&gt;https://bit.ly/3Kzup3K&lt;/a&gt;; Pacific Palisades; LAFD Air Ops will conduct a hoist rescue and transport for a 26yo female hiker who sustained an approximately 10' fall with injuries. The 9-1-1 call was received at 9:23AM. No further details.; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  H1  H2  HA1  HA2  RA23  RH114  T69; CH7; 12; Margaret Stewart</description>
+  <category>Hiker Rescue</category>
+    <category>West</category>
+    <category>Pacific Palisades</category>
+    <guid isPermaLink="false"><a href="/alert/hiker-rescue-01222022-inc0530" hreflang="en">view</a></guid>
+    <pubDate>Saturday, January 22, 2022 - 09:49</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
+  <title><a href="/alert/structure-fire-01212022-inc1953" hreflang="en">Structure Fire 01/21/2022 INC#1953</a></title>
+  <link><a href="/alert/structure-fire-01212022-inc1953" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1953; 11:34PM; 8845 N Morehart Av; MAP: &lt;a href="https://bit.ly/3g3QvNX" target="_blank" rel="noopener"&gt;https://bit.ly/3g3QvNX&lt;/a&gt;; Sun Valley; In 18 minutes, 26 firefighters extinguished fire in a one story, single family dwelling. Both the primary and secondary search found no occupants. No injuries reported. Cause and $ loss TBD. The original 9-1-1 call was received at 11:16PM. No further details. ; FS 89; Batt 14; Valley Bureau; Council District 6; BC14  E289  E298  E77  E89  RA889  RA89  T89  T98; CH9; 18; Margaret Stewart</description>
+  <category>Structure Fire</category>
+    <category>Valley</category>
+    <category>Sun Valley</category>
+    <guid isPermaLink="false"><a href="/alert/structure-fire-01212022-inc1953" hreflang="en">view</a></guid>
+    <pubDate>Friday, January 21, 2022 - 23:40</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
   <title><a href="/alert/auto-vs-motorcycle-fatality-01202022-inc0860" hreflang="en">Auto vs Motorcycle - FATALITY 01/20/2022 INC#0860</a></title>
   <link><a href="/alert/auto-vs-motorcycle-fatality-01202022-inc0860" hreflang="en">view</a></link>
   <description>Auto vs Motorcycle - FATALITY; INC#0860; 01:14PM; 22800 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/3IoPg84" target="_blank" rel="noopener"&gt;https://bit.ly/3IoPg84&lt;/a&gt;; West Hills; An auto versus motorcycle collision has left one person determined dead on scene (age/gender unknown at this time) and two additional patients with undetermined injuries. Media questions regarding the collision are referred to LAPD Topanga Division Inc# 2166. No further details; FS 106; Batt 17; Valley Bureau; Council District 12; E106  E305  RA72  T105; CH8; Margaret Stewart</description>
@@ -17,7 +39,7 @@
     <category>West Hills</category>
     <guid isPermaLink="false"><a href="/alert/auto-vs-motorcycle-fatality-01202022-inc0860" hreflang="en">view</a></guid>
     <pubDate>Thursday, January 20, 2022 - 13:23</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/vehicle-building-01202022-inc0425" hreflang="en">Vehicle into Building 01/20/2022 INC#0425</a></title>
@@ -28,7 +50,7 @@
     <category>Woodland Hills</category>
     <guid isPermaLink="false"><a href="/alert/vehicle-building-01202022-inc0425" hreflang="en">view</a></guid>
     <pubDate>Thursday, January 20, 2022 - 09:57</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01192022-inc1501" hreflang="en">Knockdown -  Structure Fire 01/19/2022 INC#1501</a></title>
@@ -39,7 +61,7 @@
     <category>#ValleyGlen</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01192022-inc1501" hreflang="en">view</a></guid>
     <pubDate>Wednesday, January 19, 2022 - 19:27</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-01192022-inc1501" hreflang="en">Structure Fire 01/19/2022 INC#1501</a></title>
@@ -50,7 +72,7 @@
     <category>#ValleyGlen</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-01192022-inc1501" hreflang="en">view</a></guid>
     <pubDate>Wednesday, January 19, 2022 - 19:12</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-01192022-inc0837" hreflang="en">Traffic Collision 01/19/2022 INC#0837</a></title>
@@ -61,7 +83,7 @@
     <category>#HollywoodHills West</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-01192022-inc0837" hreflang="en">view</a></guid>
     <pubDate>Wednesday, January 19, 2022 - 13:28</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-01182022-inc1706" hreflang="en">Structure Fire - Now Out 01/18/2022 INC#1706</a></title>
@@ -72,7 +94,7 @@
     <category>#Venice</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01182022-inc1706" hreflang="en">view</a></guid>
     <pubDate>Tuesday, January 18, 2022 - 23:50</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-agency-assist-01182022-inc1331" hreflang="en">Update Agency Assist 01/18/2022 INC#1331</a></title>
@@ -83,7 +105,7 @@
     <category>#Downtown</category>
     <guid isPermaLink="false"><a href="/alert/update-agency-assist-01182022-inc1331" hreflang="en">view</a></guid>
     <pubDate>Tuesday, January 18, 2022 - 22:23</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01182022-inc1411" hreflang="en">Knockdown -  Structure Fire 01/18/2022 INC#1411</a></title>
@@ -94,29 +116,7 @@
     <category>#Koreatown</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01182022-inc1411" hreflang="en">view</a></guid>
     <pubDate>Tuesday, January 18, 2022 - 19:54</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/structure-fire-01182022-inc1411" hreflang="en">Structure Fire 01/18/2022 INC#1411</a></title>
-  <link><a href="/alert/structure-fire-01182022-inc1411" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1411; 07:25PM; 857 S Manhattan Pl; MAP: &lt;a href="https://bit.ly/3nzwK4M" target="_blank" rel="noopener"&gt;https://bit.ly/3nzwK4M&lt;/a&gt;; #Koreatown; PRELIM: 2 story vacant and boarded home with fire on the 2nd floor; FS 29; Batt 11; Central Bureau; Council District 4; BC11  E13  E211  E29  LF26  LF29  RA26  RA929  T11; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-    <category>Central</category>
-    <category>#Koreatown</category>
-    <guid isPermaLink="false"><a href="/alert/structure-fire-01182022-inc1411" hreflang="en">view</a></guid>
-    <pubDate>Tuesday, January 18, 2022 - 19:40</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/agency-assist-01182022-inc1331" hreflang="en">Agency Assist 01/18/2022 INC#1331</a></title>
-  <link><a href="/alert/agency-assist-01182022-inc1331" hreflang="en">view</a></link>
-  <description>Agency Assist; INC#1331; 06:31PM; 800 E Jackson St; MAP: &lt;a href="https://bit.ly/3GJ3eRM" target="_blank" rel="noopener"&gt;https://bit.ly/3GJ3eRM&lt;/a&gt;; #Downtown; LAFD responding by ground and air to assist law enforcement at a single patient behavioral emergency, where one adult male has climbed a tall electrical transmission tower in an industrial area. No escalating or off-site hazard known. To assure patient and responder safety, all train traffic on the west side of the L.A. River will be stopped until emergency operations are complete. LA DWP is en route. Train Riders: Follow @Metrolink and @PacSurfliners on Twitter ( https://twitter.com/metrolink and https://twitter.com/PacSurfliners ) for any service related information. Media Inquiries: LAPD Central Division (Incident #3592); FS 4; Batt 1; Central Bureau; Council District 14; BC1  E202  E203  E4  EM1  RA2  T2  T3  UR3; CH7; 13; Brian Humphrey</description>
-  <category>Agency Assist</category>
-    <category>Central</category>
-    <category>#Downtown</category>
-    <guid isPermaLink="false"><a href="/alert/agency-assist-01182022-inc1331" hreflang="en">view</a></guid>
-    <pubDate>Tuesday, January 18, 2022 - 18:56</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2a08547-7b36-11ec-b845-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
