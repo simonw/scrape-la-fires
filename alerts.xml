@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5"/>
-<lastBuildDate>Mon, 14 Feb 2022 18:44:42 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 15 Feb 2022 09:23:01 -0800</lastBuildDate>
 
     <item>
   <title><a href="/alert/update-structure-fire-knockdown-02142022-inc1393" hreflang="en">Update Structure Fire Knockdown -  02/14/2022 INC#1393</a></title>
@@ -17,7 +17,7 @@
     <category>#ShermanOaks</category>
     <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-02142022-inc1393" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 18:44</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-02142022-inc1374" hreflang="en">Update Structure Fire Knockdown -  02/14/2022 INC#1374</a></title>
@@ -28,7 +28,7 @@
     <category>#Winnetka</category>
     <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-02142022-inc1374" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 18:38</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-02142022-inc1393" hreflang="en">Structure Fire 02/14/2022 INC#1393</a></title>
@@ -39,7 +39,7 @@
     <category>#ShermanOaks</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-02142022-inc1393" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 18:00</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-02142022-inc1374" hreflang="en">Structure Fire 02/14/2022 INC#1374</a></title>
@@ -50,7 +50,7 @@
     <category>#Winnetka</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-02142022-inc1374" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 17:51</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02142022-inc1084" hreflang="en">Knockdown -  Structure Fire 02/14/2022 INC#1084</a></title>
@@ -61,7 +61,7 @@
     <category>#ExpositionPark</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02142022-inc1084" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 14:51</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-02142022-inc1084" hreflang="en">Structure Fire 02/14/2022 INC#1084</a></title>
@@ -72,7 +72,7 @@
     <category>#ExpositionPark</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-02142022-inc1084" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 14:43</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-02142022-inc0133" hreflang="en">Traffic Collision with Entrapment 02/14/2022 INC#0133</a></title>
@@ -83,7 +83,7 @@
     <category>#PicoUnion</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-02142022-inc0133" hreflang="en">view</a></guid>
     <pubDate>Monday, February 14, 2022 - 02:40</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/agency-assist-02132022-inc0929" hreflang="en">Agency Assist 02/13/2022 INC#0929</a></title>
@@ -94,7 +94,7 @@
     <category>#Wilmington</category>
     <guid isPermaLink="false"><a href="/alert/agency-assist-02132022-inc0929" hreflang="en">view</a></guid>
     <pubDate>Sunday, February 13, 2022 - 13:58</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-02122022-inc1731" hreflang="en">Update Traffic Collision with Entrapment 02/12/2022 INC#1731</a></title>
@@ -105,7 +105,7 @@
     <category>#WoodlandHills</category>
     <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-02122022-inc1731" hreflang="en">view</a></guid>
     <pubDate>Saturday, February 12, 2022 - 22:59</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-02122022-inc1731" hreflang="en">Traffic Collision with Entrapment 02/12/2022 INC#1731</a></title>
@@ -116,7 +116,7 @@
     <category>#Woodl1andHills</category>
     <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-02122022-inc1731" hreflang="en">view</a></guid>
     <pubDate>Saturday, February 12, 2022 - 22:19</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=392b2659-8e09-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
