@@ -16,7 +16,7 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://www.lafd.org/alerts-rss.xml> alerts.xml
+        curl https://www.lafd.org/alerts-rss.xml > alerts.xml
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
