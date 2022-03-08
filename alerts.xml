@@ -5,10 +5,32 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5"/>
-<lastBuildDate>Mon, 07 Mar 2022 15:47:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 08 Mar 2022 09:55:05 -0800</lastBuildDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-03072022-inc1845" hreflang="en">KNOCKDOWN Structure Fire 03/07/2022 INC#1845</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03072022-inc1845" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1845; 11:20PM; 19223 W Saticoy St; MAP: &lt;a href="https://bit.ly/3tDCKMf" target="_blank" rel="noopener"&gt;https://bit.ly/3tDCKMf&lt;/a&gt;; Reseda; Firefighters quickly deployed hose lines and contained the fire to its unit of origin. It took 26 firefighters just 13 minutes to extinguish the flames. There was smoke damage to other units on the floor above. Firefighter-paramedics evaluated and treated four patients, and transported at least two of them to the hospital (unknown ages/genders/conditions). Thankfully, everyone escaped the building, as audible alarms could be heard from functional smoke detectors warning occupants of the danger. Cause under investigation.; FS 73; Batt 17; Valley Bureau; Council District 3; BC10  BC15  BC17  CM42  E103  E104  E273  E290  E293  E73  E87  E93  EM14  EM17  RA104  RA72  RA73  RA93  T73  T90  T93; CH8; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+    <category>Valley</category>
+    <category>Reseda</category>
+    <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03072022-inc1845" hreflang="en">view</a></guid>
+    <pubDate>Tuesday, March 8, 2022 - 00:01</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
+  <title><a href="/alert/structure-fire-03072022-inc1845" hreflang="en">Structure Fire 03/07/2022 INC#1845</a></title>
+  <link><a href="/alert/structure-fire-03072022-inc1845" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1845; 11:07PM; 19223 W Saticoy St; MAP: &lt;a href="https://bit.ly/3tDCKMf" target="_blank" rel="noopener"&gt;https://bit.ly/3tDCKMf&lt;/a&gt;; Reseda; Two-story garden-style apartment with fire showing. Offensive mode.; FS 73; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E103  E104  E273  E293  E73  RA104  RA73  T73  T93; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+    <category>Valley</category>
+    <category>Reseda</category>
+    <guid isPermaLink="false"><a href="/alert/structure-fire-03072022-inc1845" hreflang="en">view</a></guid>
+    <pubDate>Monday, March 7, 2022 - 23:15</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
   <title><a href="/alert/physical-rescue-03072022-inc1163" hreflang="en">Physical Rescue 03/07/2022 INC#1163</a></title>
   <link><a href="/alert/physical-rescue-03072022-inc1163" hreflang="en">view</a></link>
   <description>Physical Rescue; INC#1163; 03:30PM; 19500 W Ventura Bl; MAP: &lt;a href="https://bit.ly/3hKLfPV" target="_blank" rel="noopener"&gt;https://bit.ly/3hKLfPV&lt;/a&gt;; Tarzana; Two-vehicle collision, involving a pedestrian. Minor injuries to one driver. Pedestrian was pulled from under vehicle prior to extrication tools being deployed, and transported to a local trauma center in serious condition. No building involvement (vehicle stopped short of hitting the structure). Nothing further. LAPD Inc 2742.; FS 93; Batt 17; Valley Bureau; Council District 3; BC17  E273  E73  E83  E84  E93  EM17  HR3  RA73  RA84  RA903  T73  UR88; CH8; 17; Nicholas Prange</description>
@@ -17,7 +39,7 @@
     <category>Tarzana</category>
     <guid isPermaLink="false"><a href="/alert/physical-rescue-03072022-inc1163" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 15:47</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03072022-inc1053" hreflang="en">KNOCKDOWN Structure Fire 03/07/2022 INC#1053</a></title>
@@ -28,7 +50,7 @@
     <category>Downtown</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03072022-inc1053" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 14:56</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03072022-inc1053" hreflang="en">Structure Fire 03/07/2022 INC#1053</a></title>
@@ -39,7 +61,7 @@
     <category>Downtown</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03072022-inc1053" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 14:46</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/brush-fire-03072022-inc0734" hreflang="en">Brush Fire 03/07/2022 INC#0734</a></title>
@@ -50,7 +72,7 @@
     <category>Ventura County</category>
     <guid isPermaLink="false"><a href="/alert/brush-fire-03072022-inc0734" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 11:52</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03072022-inc0238" hreflang="en">KNOCKDOWN Structure Fire 03/07/2022 INC#0238</a></title>
@@ -61,7 +83,7 @@
     <category>Valley Village</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03072022-inc0238" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 05:41</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03072022-inc0238" hreflang="en">Structure Fire 03/07/2022 INC#0238</a></title>
@@ -72,7 +94,7 @@
     <category>Valley Village</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03072022-inc0238" hreflang="en">view</a></guid>
     <pubDate>Monday, March 7, 2022 - 05:27</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-hiker-rescue-03062022-inc0575" hreflang="en">Update Hiker Rescue 03/06/2022 INC#0575</a></title>
@@ -83,7 +105,7 @@
     <category>Brentwood</category>
     <guid isPermaLink="false"><a href="/alert/update-hiker-rescue-03062022-inc0575" hreflang="en">view</a></guid>
     <pubDate>Sunday, March 6, 2022 - 11:21</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/hiker-rescue-03062022-inc0575" hreflang="en">Hiker Rescue 03/06/2022 INC#0575</a></title>
@@ -94,29 +116,7 @@
     <category>Brentwood</category>
     <guid isPermaLink="false"><a href="/alert/hiker-rescue-03062022-inc0575" hreflang="en">view</a></guid>
     <pubDate>Sunday, March 6, 2022 - 11:06</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/update-hiker-rescue-03052022-inc1006" hreflang="en">Update Hiker Rescue 03/05/2022 INC#1006</a></title>
-  <link><a href="/alert/update-hiker-rescue-03052022-inc1006" hreflang="en">view</a></link>
-  <description>Update Hiker Rescue; INC#1006; 05:27PM; 3032 Runyon Canyon Rd; MAP: &lt;a href="https://bit.ly/3vI78Yb" target="_blank" rel="noopener"&gt;https://bit.ly/3vI78Yb&lt;/a&gt;; Hollywood Hills West; Urban search and rescue specialists/firefighters rescued both mother, daughter, and canine from the steep slope near Runyon Canyon Road. We are pleased to report no illness or injury was discovered upon evaluation by firefighter-paramedics. Nothing further.; FS 41; Batt 5; West Bureau; Council District 4; AO1  BC5  E227  E290  E41  E82  H1  H5  HA1  HA5  RA41  RH114  T27  T90; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-    <category>West</category>
-    <category>Hollywood Hills West</category>
-    <guid isPermaLink="false"><a href="/alert/update-hiker-rescue-03052022-inc1006" hreflang="en">view</a></guid>
-    <pubDate>Saturday, March 5, 2022 - 17:38</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/hiker-rescue-03052022-inc1006" hreflang="en">Hiker Rescue 03/05/2022 INC#1006</a></title>
-  <link><a href="/alert/hiker-rescue-03052022-inc1006" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#1006; 03:47PM; 3032 Runyon Canyon Rd; MAP: &lt;a href="https://bit.ly/3vI78Yb" target="_blank" rel="noopener"&gt;https://bit.ly/3vI78Yb&lt;/a&gt;; Hollywood Hills West; LAFD has located two females (one adult/one juvenille) with a canine stranded mid slope, unable to return to trail or road. Crews set up a two-line rope system and have sent two rescuers down to make contact and create a rescue plan.; FS 41; Batt 5; West Bureau; Council District 4; AO1  BC5  E227  E290  E41  E82  H1  H5  HA1  HA5  RA41  RH114  T27  T90; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-    <category>West</category>
-    <category>Hollywood Hills West</category>
-    <guid isPermaLink="false"><a href="/alert/hiker-rescue-03052022-inc1006" hreflang="en">view</a></guid>
-    <pubDate>Saturday, March 5, 2022 - 16:48</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f95f2c8a-9e70-11ec-b846-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
