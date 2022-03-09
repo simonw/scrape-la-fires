@@ -6,9 +6,18 @@
     <description/>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 08 Mar 2022 09:55:05 -0800</lastBuildDate>
+<lastBuildDate>Tue, 08 Mar 2022 13:41:05 -0800</lastBuildDate>
 
     <item>
+  <title><a href="/alert/test-only-03082022-inctest" hreflang="en">TEST ONLY 03/08/2022 INC#TEST</a></title>
+  <link><a href="/alert/test-only-03082022-inctest" hreflang="en">view</a></link>
+  <description>TEST ONLY; INC#TEST; 12:07PM; TEST ONLY; Margaret Stewart</description>
+  <category>TEST ONLY</category>
+    <guid isPermaLink="false"><a href="/alert/test-only-03082022-inctest" hreflang="en">view</a></guid>
+    <pubDate>Tuesday, March 8, 2022 - 12:07</pubDate>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+    </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03072022-inc1845" hreflang="en">KNOCKDOWN Structure Fire 03/07/2022 INC#1845</a></title>
   <link><a href="/alert/knockdown-structure-fire-03072022-inc1845" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1845; 11:20PM; 19223 W Saticoy St; MAP: &lt;a href="https://bit.ly/3tDCKMf" target="_blank" rel="noopener"&gt;https://bit.ly/3tDCKMf&lt;/a&gt;; Reseda; Firefighters quickly deployed hose lines and contained the fire to its unit of origin. It took 26 firefighters just 13 minutes to extinguish the flames. There was smoke damage to other units on the floor above. Firefighter-paramedics evaluated and treated four patients, and transported at least two of them to the hospital (unknown ages/genders/conditions). Thankfully, everyone escaped the building, as audible alarms could be heard from functional smoke detectors warning occupants of the danger. Cause under investigation.; FS 73; Batt 17; Valley Bureau; Council District 3; BC10  BC15  BC17  CM42  E103  E104  E273  E290  E293  E73  E87  E93  EM14  EM17  RA104  RA72  RA73  RA93  T73  T90  T93; CH8; 17; Nicholas Prange</description>
@@ -105,17 +114,6 @@
     <category>Brentwood</category>
     <guid isPermaLink="false"><a href="/alert/update-hiker-rescue-03062022-inc0575" hreflang="en">view</a></guid>
     <pubDate>Sunday, March 6, 2022 - 11:21</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-    </item>
-<item>
-  <title><a href="/alert/hiker-rescue-03062022-inc0575" hreflang="en">Hiker Rescue 03/06/2022 INC#0575</a></title>
-  <link><a href="/alert/hiker-rescue-03062022-inc0575" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0575; 10:39AM; 2600 N Westridge Rd; MAP: &lt;a href="https://bit.ly/3vF1Tc1" target="_blank" rel="noopener"&gt;https://bit.ly/3vF1Tc1&lt;/a&gt;; Brentwood; Firefighter-paramedics have located an injured mountain bike rider in a remote area, and are preparing for a hoist operation.; FS 19; Batt 9; West Bureau; Council District 11; AO1  AO2  BC9  BP19  E19  E237  H1  H5  HA1  HA5  RA37  RH114  T37; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-    <category>West</category>
-    <category>Brentwood</category>
-    <guid isPermaLink="false"><a href="/alert/hiker-rescue-03062022-inc0575" hreflang="en">view</a></guid>
-    <pubDate>Sunday, March 6, 2022 - 11:06</pubDate>
     <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
