@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5"/>
-<lastBuildDate>Tue, 15 Mar 2022 11:38:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 16 Mar 2022 11:11:34 -0700</lastBuildDate>
 
     <item>
   <title><a href="/alert/knockdown-structure-fire-03152022-inc0653" hreflang="en">KNOCKDOWN Structure Fire 03/15/2022 INC#0653</a></title>
@@ -17,7 +17,7 @@
     <category>Florence</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03152022-inc0653" hreflang="en">view</a></guid>
     <pubDate>Tuesday, March 15, 2022 - 11:38</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03152022-inc0653" hreflang="en">Structure Fire 03/15/2022 INC#0653</a></title>
@@ -28,7 +28,7 @@
     <category>Florence</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03152022-inc0653" hreflang="en">view</a></guid>
     <pubDate>Tuesday, March 15, 2022 - 11:21</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03142022-inc1805" hreflang="en">KNOCKDOWN Structure Fire 03/14/2022 INC#1805</a></title>
@@ -39,7 +39,7 @@
     <category>Highland Park</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03142022-inc1805" hreflang="en">view</a></guid>
     <pubDate>Tuesday, March 15, 2022 - 00:10</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03142022-inc1805" hreflang="en">Structure Fire 03/14/2022 INC#1805</a></title>
@@ -50,7 +50,7 @@
     <category>Highland Park</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03142022-inc1805" hreflang="en">view</a></guid>
     <pubDate>Monday, March 14, 2022 - 23:11</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03142022-inc1156" hreflang="en">KNOCKDOWN Structure Fire 03/14/2022 INC#1156</a></title>
@@ -61,7 +61,7 @@
     <category>Boyle Heights</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03142022-inc1156" hreflang="en">view</a></guid>
     <pubDate>Monday, March 14, 2022 - 16:45</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03142022-inc1156" hreflang="en">Structure Fire 03/14/2022 INC#1156</a></title>
@@ -72,7 +72,7 @@
     <category>Boyle Heights</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03142022-inc1156" hreflang="en">view</a></guid>
     <pubDate>Monday, March 14, 2022 - 16:04</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03142022-inc0692" hreflang="en">KNOCKDOWN Structure Fire 03/14/2022 INC#0692</a></title>
@@ -83,7 +83,7 @@
     <category>North Hollywood</category>
     <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03142022-inc0692" hreflang="en">view</a></guid>
     <pubDate>Monday, March 14, 2022 - 12:21</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/structure-fire-03142022-inc0692" hreflang="en">Structure Fire 03/14/2022 INC#0692</a></title>
@@ -94,7 +94,7 @@
     <category>North Hollywood</category>
     <guid isPermaLink="false"><a href="/alert/structure-fire-03142022-inc0692" hreflang="en">view</a></guid>
     <pubDate>Monday, March 14, 2022 - 11:40</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-major-emergency-brush-fire-contained-hansenfire-03132022-inc1459" hreflang="en">Update Major Emergency Brush Fire CONTAINED - #HansenFire 03/13/2022 INC#1459</a></title>
@@ -105,7 +105,7 @@
     <category>Hansen Dam</category>
     <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-contained-hansenfire-03132022-inc1459" hreflang="en">view</a></guid>
     <pubDate>Sunday, March 13, 2022 - 23:25</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 <item>
   <title><a href="/alert/update-major-emergency-brush-fire-hansenfire-03132022-inc1459" hreflang="en">Update Major Emergency Brush Fire #HansenFire 03/13/2022 INC#1459</a></title>
@@ -116,7 +116,7 @@
     <category>Hansen Dam</category>
     <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-hansenfire-03132022-inc1459" hreflang="en">view</a></guid>
     <pubDate>Sunday, March 13, 2022 - 22:55</pubDate>
-    <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=22aadc1c-a48f-11ec-b847-002590f4cea5">Alerts Feed</source>
+    <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
     </item>
 
   </channel>
