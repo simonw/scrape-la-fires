@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5"/>
-<lastBuildDate>Thu, 24 Mar 2022 09:47:42 -0700</lastBuildDate>
-<pubDate>Wednesday, March 23, 2022 - 17:29</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 24 Mar 2022 14:03:41 -0700</lastBuildDate>
+<pubDate>Thursday, March 24, 2022 - 13:05</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-03242022-inc0860" hreflang="en">Hiker Rescue 03/24/2022 INC#0860</a></title>
+  <link><a href="/alert/hiker-rescue-03242022-inc0860" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0860; 12:29PM; 1450 N Chautauqua Bl; MAP: &lt;a href="https://bit.ly/3DaEjWn" target="_blank" rel="noopener"&gt;https://bit.ly/3DaEjWn&lt;/a&gt;; Pacific Palisades; A hiker (adult male) in need of medical attention is stranded in a remote area near Temescal Canyon Park. Rescuers on the ground hiked in to make initial patient contact and initiate care, while air support was en route. LAFD Air Ops arrived from Van Nuys Airport shortly after to hoist and transport the patient in moderate condition to a local hospital. Nothing further.; FS 69; Batt 9; West Bureau; Council District 11; BC9  E269  E69  H1  H3  HA1  HA3  RA69  RH114  T69; CH7; 13; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+          <category>West</category>
+          <category>Pacific Palisades</category>
+          <guid isPermaLink="false"><a href="/alert/hiker-rescue-03242022-inc0860" hreflang="en">view</a></guid>
+          <pubDate>Thursday, March 24, 2022 - 13:05</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/update-physical-rescue-03232022-inc1204" hreflang="en">Update Physical Rescue 03/23/2022 INC#1204</a></title>
   <link><a href="/alert/update-physical-rescue-03232022-inc1204" hreflang="en">view</a></link>
   <description>Update Physical Rescue; INC#1204; 05:23PM; 711 S La Brea Av; MAP: &lt;a href="https://bit.ly/3umtRHg" target="_blank" rel="noopener"&gt;https://bit.ly/3umtRHg&lt;/a&gt;; Mid-Wilshire; *Corrected to Metro D Line (Purple)* Firefighter-paramedics made access to the patient in an area of the Purple (D) Line under construction and, sadly, found that the patient was deceased. Firefighters will remain on scene and continue to assist with recovery efforts. No other patients reported. Age/gender/affiliation/circumstances unknown. Nothing further. LAPD Inc # 3607.; FS 61; Batt 18; South Bureau; Council District 4; BC1  BC11  BC13  BC18  CM22  E13  E226  E227  E229  E261  E27  E29  E61  E68  EM11  HR3  RA61  RA94  SQ21  T26  T27  T29  T61  UR27  UR88; CH7; 15  16  17; Nicholas Prange</description>
@@ -18,7 +29,7 @@
           <category>Mid-Wilshire</category>
           <guid isPermaLink="false"><a href="/alert/update-physical-rescue-03232022-inc1204" hreflang="en">view</a></guid>
           <pubDate>Wednesday, March 23, 2022 - 17:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/physical-rescue-03232022-inc1204" hreflang="en">Physical Rescue 03/23/2022 INC#1204</a></title>
@@ -29,7 +40,7 @@
           <category>Mid-Wilshire</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-03232022-inc1204" hreflang="en">view</a></guid>
           <pubDate>Wednesday, March 23, 2022 - 17:20</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03222022-inc0708" hreflang="en">Knockdown -  Structure Fire 03/22/2022 INC#0708</a></title>
@@ -40,7 +51,7 @@
           <category>#SunValley</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03222022-inc0708" hreflang="en">view</a></guid>
           <pubDate>Tuesday, March 22, 2022 - 12:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-03222022-inc0708" hreflang="en">Structure Fire 03/22/2022 INC#0708</a></title>
@@ -51,7 +62,7 @@
           <category>#SunValley</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-03222022-inc0708" hreflang="en">view</a></guid>
           <pubDate>Tuesday, March 22, 2022 - 11:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-03202022-inc1413" hreflang="en">Traffic Collision 03/20/2022 INC#1413</a></title>
@@ -62,7 +73,7 @@
           <category>#BaldwinHills / #Crenshaw</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-03202022-inc1413" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 20, 2022 - 19:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-grass-fire-03202022-inc1364" hreflang="en">Knockdown -  Grass Fire 03/20/2022 INC#1364</a></title>
@@ -73,7 +84,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-grass-fire-03202022-inc1364" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 20, 2022 - 19:32</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/rubbish-fire-03202022-inc1364" hreflang="en">Rubbish Fire 03/20/2022 INC#1364</a></title>
@@ -84,7 +95,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/rubbish-fire-03202022-inc1364" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 20, 2022 - 19:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-collision-03202022-inc1170-0" hreflang="en">Update Traffic Collision 03/20/2022 INC#1170</a></title>
@@ -95,7 +106,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-03202022-inc1170-0" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 20, 2022 - 17:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-collision-03202022-inc1170" hreflang="en">Update Traffic Collision 03/20/2022 INC#1170</a></title>
@@ -106,18 +117,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-03202022-inc1170" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 20, 2022 - 16:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/traffic-collision-03202022-inc1170" hreflang="en">Traffic Collision 03/20/2022 INC#1170</a></title>
-  <link><a href="/alert/traffic-collision-03202022-inc1170" hreflang="en">view</a></link>
-  <description>Traffic Collision; INC#1170; 04:41PM; 18300 W Sherman Wy; MAP: &lt;a href="https://bit.ly/3IkMU9T" target="_blank" rel="noopener"&gt;https://bit.ly/3IkMU9T&lt;/a&gt;; #Reseda; 4 critical patients. No entrapment.; FS 73; Batt 17; Valley Bureau; Council District 3; BC17  E100  E103  E273  E290  E73  EM17  HR3  RA100  RA104  T90  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Traffic Collision</category>
-          <category>Valley</category>
-          <category>#Reseda</category>
-          <guid isPermaLink="false"><a href="/alert/traffic-collision-03202022-inc1170" hreflang="en">view</a></guid>
-          <pubDate>Sunday, March 20, 2022 - 16:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ec980cf-ab92-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
