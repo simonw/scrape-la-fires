@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5"/>
-<lastBuildDate>Fri, 01 Apr 2022 20:52:42 -0700</lastBuildDate>
-<pubDate>Friday, April 1, 2022 - 18:49</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 02 Apr 2022 19:08:47 -0700</lastBuildDate>
+<pubDate>Saturday, April 2, 2022 - 19:08</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-04022022-inc1285" hreflang="en">KNOCKDOWN Structure Fire 04/02/2022 INC#1285</a></title>
+  <link><a href="/alert/knockdown-structure-fire-04022022-inc1285" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1285; 06:55PM; 13234 W Sherman Wy; MAP: &lt;a href="https://bit.ly/35y8KsY" target="_blank" rel="noopener"&gt;https://bit.ly/35y8KsY&lt;/a&gt;; Valley Glen; Twenty-six firefighters extinguished flames in a one-story commercial building with a row of storage units in 20 minutes. The fire damaged one adjacent unit from the unit of origin. Firefighters forced entry from the front and protected the rest of the units in the row. No reported injuries. Cause under investigation.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E239  E289  E89  RA81  RA889  T39  T89; CH8; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>Valley</category>
+          <category>Valley Glen</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04022022-inc1285" hreflang="en">view</a></guid>
+          <pubDate>Saturday, April 2, 2022 - 19:08</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-04022022-inc1285" hreflang="en">Structure Fire 04/02/2022 INC#1285</a></title>
+  <link><a href="/alert/structure-fire-04022022-inc1285" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1285; 06:35PM; 13228 W Sherman Wy; MAP: &lt;a href="https://bit.ly/3qYRche" target="_blank" rel="noopener"&gt;https://bit.ly/3qYRche&lt;/a&gt;; Valley Glen; One-story row of commercials, with one unit involved with fire.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E239  E289  E89  RA81  RA889  T39  T89; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>Valley</category>
+          <category>Valley Glen</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-04022022-inc1285" hreflang="en">view</a></guid>
+          <pubDate>Saturday, April 2, 2022 - 18:51</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04012022-inc1340" hreflang="en">KNOCKDOWN Structure Fire 04/01/2022 INC#1340</a></title>
   <link><a href="/alert/knockdown-structure-fire-04012022-inc1340" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1340; 06:44PM; 9660 N Texhoma Av; MAP: &lt;a href="https://bit.ly/3NGAhd1" target="_blank" rel="noopener"&gt;https://bit.ly/3NGAhd1&lt;/a&gt;; Northridge; Twenty-six firefighters defended the home and extinguished flames inside of the detached garage in 17 minutes. No reported injuries. Cause under investigation.; FS 70; Batt 15; Valley Bureau; Council District 12; BC15  E273  E290  E70  E87  RA70  RA903  T73  T90; CH9; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
           <category>Northridge</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04012022-inc1340" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 18:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04012022-inc1340" hreflang="en">Structure Fire 04/01/2022 INC#1340</a></title>
@@ -29,7 +51,7 @@
           <category>Northridge</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04012022-inc1340" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 18:39</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04012022-inc0328" hreflang="en">KNOCKDOWN Structure Fire 04/01/2022 INC#0328</a></title>
@@ -40,7 +62,7 @@
           <category>Beverly Grove</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04012022-inc0328" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 08:33</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04012022-inc0328" hreflang="en">Structure Fire 04/01/2022 INC#0328</a></title>
@@ -51,7 +73,7 @@
           <category>Beverly Grove</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04012022-inc0328" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 07:40</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04012022-inc0157" hreflang="en">KNOCKDOWN Structure Fire 04/01/2022 INC#0157</a></title>
@@ -62,7 +84,7 @@
           <category>Reseda</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04012022-inc0157" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 04:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04012022-inc0178" hreflang="en">KNOCKDOWN Structure Fire 04/01/2022 INC#0178</a></title>
@@ -74,7 +96,7 @@
           <category>Westchester</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04012022-inc0178" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 04:45</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04012022-inc0178" hreflang="en">Structure Fire 04/01/2022 INC#0178</a></title>
@@ -85,7 +107,7 @@
           <category>Westchester</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04012022-inc0178" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 03:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04012022-inc0157" hreflang="en">Structure Fire 04/01/2022 INC#0157</a></title>
@@ -96,29 +118,7 @@
           <category>Reseda</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04012022-inc0157" hreflang="en">view</a></guid>
           <pubDate>Friday, April 1, 2022 - 03:40</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/agency-assist-03312022-inc1396" hreflang="en">Agency Assist 03/31/2022 INC#1396</a></title>
-  <link><a href="/alert/agency-assist-03312022-inc1396" hreflang="en">view</a></link>
-  <description>Agency Assist; INC#1396; 07:12PM; 4730 N Crystal Springs Dr; MAP: &lt;a href="https://bit.ly/3K0gh2G" target="_blank" rel="noopener"&gt;https://bit.ly/3K0gh2G&lt;/a&gt;; Griffith Park; Park Rangers requested LAFD assistance for a body recovery at or near Griffith Park. Due to the location and light conditions, the Incident Commander has determined a "short haul" hoist will be the best course of action to relocate the victim for law enforcement and Coroner to continue their investigations. ; FS 56; Batt 5; West Bureau; Council District 4; BC5  E227  E27  E56  E90  H1  HA1  T27  UR27; CH7; 13; Nicholas Prange</description>
-  <category>Agency Assist</category>
-          <category>West</category>
-          <category>Griffith Park</category>
-          <guid isPermaLink="false"><a href="/alert/agency-assist-03312022-inc1396" hreflang="en">view</a></guid>
-          <pubDate>Thursday, March 31, 2022 - 20:03</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/hiker-rescue-03312022-inc0816" hreflang="en">Hiker Rescue 03/31/2022 INC#0816</a></title>
-  <link><a href="/alert/hiker-rescue-03312022-inc0816" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0816; 01:07PM; 7193 W Mulholland Dr; MAP: &lt;a href="https://bit.ly/38bH12d" target="_blank" rel="noopener"&gt;https://bit.ly/38bH12d&lt;/a&gt;; Hollywood Hills; One injured adult male hiker (in fair condition) has been safely hoisted from his remote location by LAFD Air Ops and taken to a local hospital.; FS 76; Batt 5; West Bureau; Council District 4; AO1  AO2  BC5  E227  E290  E97  H1  H6  HA1  HA6  HH97  RA97  RH114  T27  T90; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-          <category>West</category>
-          <category>Hollywood Hills</category>
-          <guid isPermaLink="false"><a href="/alert/hiker-rescue-03312022-inc0816" hreflang="en">view</a></guid>
-          <pubDate>Thursday, March 31, 2022 - 13:57</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58549ac0-b238-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
