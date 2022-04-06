@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5"/>
-<lastBuildDate>Tue, 05 Apr 2022 11:15:42 -0700</lastBuildDate>
-<pubDate>Tuesday, April 5, 2022 - 10:23</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 05 Apr 2022 20:43:59 -0700</lastBuildDate>
+<pubDate>Tuesday, April 5, 2022 - 20:43</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-fatality-04052022-inc1461" hreflang="en">Traffic - FATALITY 04/05/2022 INC#1461</a></title>
+  <link><a href="/alert/traffic-fatality-04052022-inc1461" hreflang="en">view</a></link>
+  <description>Traffic - FATALITY; INC#1461; 08:28PM; 10201 N Mason Av; MAP: &lt;a href="https://bit.ly/3jrkTDD" target="_blank" rel="noopener"&gt;https://bit.ly/3jrkTDD&lt;/a&gt;; Chatsworth; Auto vs Bicycle with one person determined dead on scene (age/gender unknown at this time). All questions regarding the collision are referred to LAPD Inc# 4494 and the LA County Coroner. No further details.; FS 107; Batt 15; Valley Bureau; Council District 12; E107  RA96; CH8; Margaret Stewart</description>
+  <category>Traffic - FATALITY</category>
+          <category>Valley</category>
+          <category>Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/traffic-fatality-04052022-inc1461" hreflang="en">view</a></guid>
+          <pubDate>Tuesday, April 5, 2022 - 20:43</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/structure-fire-04052022-inc0512-0" hreflang="en">Structure Fire 04/05/2022 INC#0512</a></title>
   <link><a href="/alert/structure-fire-04052022-inc0512-0" hreflang="en">view</a></link>
   <description>Structure Fire; INC#0512; 10:22AM; 1226 S Lorena St; MAP: &lt;a href="https://bit.ly/3ubqGDp" target="_blank" rel="noopener"&gt;https://bit.ly/3ubqGDp&lt;/a&gt;; Boyle Heights; KNOCKDOWN: 36 firefighters (before the arrival of the additionally requested resources) extinguished the fire in 17 minutes. The fire appears to have primarily been an outside fire (numerous refrigerators et al in front of the small appliance business) which extended inside. Firefighters prevented the fire from extending into the attached medical clinic. The primary and secondary searches were clear. No injuries reported. Cause and $ loss TBD. No further details.; FS 25; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC13  E1  E17  E203  E209  E21  E210  RA14  RA809  SQ21  T1  T10  T3; CH9; 14; Margaret Stewart</description>
@@ -18,7 +29,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04052022-inc0512-0" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 10:23</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04052022-inc0512" hreflang="en">Structure Fire 04/05/2022 INC#0512</a></title>
@@ -29,7 +40,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04052022-inc0512" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 10:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04052022-inc0489" hreflang="en">KNOCKDOWN Structure Fire 04/05/2022 INC#0489</a></title>
@@ -40,7 +51,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04052022-inc0489" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 10:04</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-04052022-inc0489" hreflang="en">Structure Fire 04/05/2022 INC#0489</a></title>
@@ -51,7 +62,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-04052022-inc0489" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 09:56</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-brush-fire-04052022-inc0311" hreflang="en">Update Brush Fire 04/05/2022 INC#0311</a></title>
@@ -62,7 +73,7 @@
           <category>Pacoima</category>
           <guid isPermaLink="false"><a href="/alert/update-brush-fire-04052022-inc0311" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 08:03</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-04052022-inc0311" hreflang="en">Brush Fire 04/05/2022 INC#0311</a></title>
@@ -73,7 +84,7 @@
           <category>Pacoima</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-04052022-inc0311" hreflang="en">view</a></guid>
           <pubDate>Tuesday, April 5, 2022 - 07:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-04042022-inc0433" hreflang="en">Update Hazardous Materials  04/04/2022 INC#0433</a></title>
@@ -84,7 +95,7 @@
           <category>Broadway-Manchester</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-04042022-inc0433" hreflang="en">view</a></guid>
           <pubDate>Monday, April 4, 2022 - 11:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazardous-materials-04042022-inc0433" hreflang="en">Hazardous Materials 04/04/2022 INC#0433</a></title>
@@ -95,7 +106,7 @@
           <category>Broadway-Manchester</category>
           <guid isPermaLink="false"><a href="/alert/hazardous-materials-04042022-inc0433" hreflang="en">view</a></guid>
           <pubDate>Monday, April 4, 2022 - 09:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/drowning-fatality-04042022-inc0429" hreflang="en">Drowning - FATALITY 04/04/2022 INC#0429</a></title>
@@ -106,18 +117,7 @@
           <category>San Pedro</category>
           <guid isPermaLink="false"><a href="/alert/drowning-fatality-04042022-inc0429" hreflang="en">view</a></guid>
           <pubDate>Monday, April 4, 2022 - 09:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-jumper-04032022-inc0684" hreflang="en">Update Jumper 04/03/2022 INC#0684</a></title>
-  <link><a href="/alert/update-jumper-04032022-inc0684" hreflang="en">view</a></link>
-  <description>Update Jumper; INC#0684; 01:30PM; 110 Fwy x Adams Bl; MAP: &lt;a href="https://bit.ly/3u3NEft" target="_blank" rel="noopener"&gt;https://bit.ly/3u3NEft&lt;/a&gt;; University Park; Firefighters and law enforcement officers worked together to safely bring the adult male patient into LAPD custody. Firefighter-paramedics treated and transported him to the hospital. Freeway lanes are now open. Nothing further.; FS 10; Batt 1; Central Bureau; Council District 9; BC1  E10  E210  E211  E215  E226  E26  EM1  RA15  T10  T11  T15  T26; CH7; 13; Nicholas Prange</description>
-  <category>Jumper</category>
-          <category>Central</category>
-          <category>University Park</category>
-          <guid isPermaLink="false"><a href="/alert/update-jumper-04032022-inc0684" hreflang="en">view</a></guid>
-          <pubDate>Sunday, April 3, 2022 - 13:35</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=66d93d81-b50c-11ec-b847-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
