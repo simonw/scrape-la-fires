@@ -5,118 +5,119 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5"/>
-<lastBuildDate>Sun, 15 May 2022 08:06:42 -0700</lastBuildDate>
-<pubDate>Sunday, May 15, 2022 - 00:39</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5"/>
+<lastBuildDate>Sun, 15 May 2022 21:12:42 -0700</lastBuildDate>
+<pubDate>Sunday, May 15, 2022 - 21:11</pubDate>
 
     <item>
-  <title><a href="/alert/fatal-traffic-collision-05142022-inc1946" hreflang="en">Fatal Traffic Collision 05/14/2022 INC#1946</a></title>
-  <link><a href="/alert/fatal-traffic-collision-05142022-inc1946" hreflang="en">view</a></link>
-  <description>Fatal Traffic Collision; INC#1946; 11:59PM; EB 118 Fwy x San Diego Fwy; MAP: &lt;a href="https://bit.ly/3Mm0JaL" target="_blank" rel="noopener"&gt;https://bit.ly/3Mm0JaL&lt;/a&gt;; #GranadaHills; PRELIM: Two vehicle traffic collision with fire. Four patients total: Three persons (no details) within one burnt vehicle, all deceased at scene. Another person (unknown age / gender / condition ) from the other vehicle (unknown if involved with fire), taken by LAFD Paramedics to an area hospital. No further details. Media Inquiries: CHP West Valley (Log #3820) and Coroner. ; FS 87; Batt 15; Valley Bureau; Council District 12; E275  E7  E87  RA87  T75; CH8; 17; Brian Humphrey</description>
-  <category>Fatal Traffic Collision</category>
-          <category>Valley</category>
-          <category>#GranadaHills</category>
-          <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-05142022-inc1946" hreflang="en">view</a></guid>
-          <pubDate>Sunday, May 15, 2022 - 00:39</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+  <title><a href="/alert/knockdown-structure-fire-05152022-inc1532" hreflang="en">Knockdown -  Structure Fire 05/15/2022 INC#1532</a></title>
+  <link><a href="/alert/knockdown-structure-fire-05152022-inc1532" hreflang="en">view</a></link>
+  <description>Knockdown -  Structure Fire; INC#1532; 09:05PM; 8325 S Stanford Av; MAP: &lt;a href="https://bit.ly/3wuJXzx" target="_blank" rel="noopener"&gt;https://bit.ly/3wuJXzx&lt;/a&gt;; #Florence; 30 Firefighters took just 28 minutes to access, confine and extinguish an outside rubbish fire that extended to and involved several detached garages. No injury. No other structures. Fire cause under investigation.; FS 33; Batt 13; South Bureau; Council District 9; BC11  BC13  E221  E233  E264  E33  E57  E65  RA257  RA833  RA865  T21  T33  T64; CH9; 14; Brian Humphrey</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>#Florence</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05152022-inc1532" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 21:11</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/fatal-traffic-collision-05142022-inc1736" hreflang="en">Fatal Traffic Collision 05/14/2022 INC#1736</a></title>
-  <link><a href="/alert/fatal-traffic-collision-05142022-inc1736" hreflang="en">view</a></link>
-  <description>Fatal Traffic Collision; INC#1736; 09:34PM; 7600 N Winnetka Av; MAP: &lt;a href="https://bit.ly/3FLEQPz" target="_blank" rel="noopener"&gt;https://bit.ly/3FLEQPz&lt;/a&gt;; #Winnetka; One person deceased at scene (unknown age / gender / affiliation / circumstances). No other injuries reported. No further details. Media Inquiries: LAPD Valley Traffic Division (Incident #4110) and Coroner; FS 104; Batt 17; Valley Bureau; Council District 3; E104  EM17  RA104; CH8; Brian Humphrey</description>
-  <category>Fatal Traffic Collision</category>
-          <category>Valley</category>
-          <category>#Winnetka</category>
-          <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-05142022-inc1736" hreflang="en">view</a></guid>
-          <pubDate>Saturday, May 14, 2022 - 21:44</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+  <title><a href="/alert/structure-fire-05152022-inc1532" hreflang="en">Structure Fire 05/15/2022 INC#1532</a></title>
+  <link><a href="/alert/structure-fire-05152022-inc1532" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1532; 08:33PM; 8325 S Stanford Av; MAP: &lt;a href="https://bit.ly/3wuJXzx" target="_blank" rel="noopener"&gt;https://bit.ly/3wuJXzx&lt;/a&gt;; #Florence; Outside rubbish fire has extended to involve several detached garages. ; FS 33; Batt 13; South Bureau; Council District 9; BC11  BC13  E221  E233  E264  E33  E57  E65  RA257  RA833  RA865  T21  T33  T64; CH9; 14; Brian Humphrey</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>#Florence</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-05152022-inc1532" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 20:57</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313-0" hreflang="en">Update Greater Alarm Brush Fire #LopezCanyonFire 05/14/2022 INC#1313</a></title>
-  <link><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313-0" hreflang="en">view</a></link>
-  <description>Update #LopezCanyonFire Greater Alarm Brush Fire; INC#1313; 09:00PM; 12031 N Lopez Canyon Rd; MAP: &lt;a href="https://bit.ly/3DVayIr" target="_blank" rel="noopener"&gt;https://bit.ly/3DVayIr&lt;/a&gt;; #LakeViewTerrace; A detailed hiking survey of the fireline now shows that 8.29 acres of vegetation has burned, and the blaze is 90% contained with no visible flame. LAFD Paramedics assisted one adult male civilian who became suddenly ill near the fireline. He has been taken to an area hospital in undetermined condition. No other injuries have been reported. 50 LAFD Firefighters are currently assigned to the incident, which will remain in an active patrol status through the night. The cause of the fire remains under investigation.; FS 98; Batt 12; Valley Bureau; Council District 7; AO1  BC10  BC12  BP19  BP74  CE83  E15  E24  E275  E29  E290  E298  E35  E77  E87  E89  E90  E91  E98  EM14  H2  H3  H4  HA2  HA3  HA4  RA74  RA87  RA90  RA91  RA98  RT83  T75  T90  T98  WT77 + LACoFD + ANF; CH8; 17; Brian Humphrey</description>
-  <category>Greater Alarm Brush Fire</category>
+  <title><a href="/alert/update-major-emergency-brush-fire-porterranch-05152022-inc1088" hreflang="en">Update Major Emergency Brush Fire #PorterRanch -  05/15/2022 INC#1088</a></title>
+  <link><a href="/alert/update-major-emergency-brush-fire-porterranch-05152022-inc1088" hreflang="en">view</a></link>
+  <description>Update #PorterRanch -  Major Emergency Brush Fire; INC#1088; 05:30PM; 11200 Porter Ranch Dr; MAP: &lt;a href="https://bit.ly/3FRlIQu" target="_blank" rel="noopener"&gt;https://bit.ly/3FRlIQu&lt;/a&gt;; #Chatsworth; While the fire's (area of) *origin* has  been localized to *at or near* a freeway adjacent homeless encampment, the specific *cause* of the wildfire has yet to be determined by Investigators. LAFD and allied agency resources are expected to remain at scene through the night.; FS 28; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  BC17  BP109  CE59  CE83  CM42  E100  E103  E105  E107  E109  E18  E23  E28  E287  E290  E296  E37  E39  E63  E7  E70  E72  E73  E8  E88  E93  E99  EA1  EM14  EM17  H2  H4  H5  HA2  HA4  HA5  PI3  RA107  RA96  RI600  T87  T90  T96  WT88 + LACoFD + ANF; CH8; 18; Brian Humphrey</description>
+  <category>Major Emergency Brush Fire</category>
           <category>Valley</category>
-          <category>#LakeViewTerrace</category>
-          <guid isPermaLink="false"><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313-0" hreflang="en">view</a></guid>
-          <pubDate>Saturday, May 14, 2022 - 21:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-porterranch-05152022-inc1088" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 17:46</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313" hreflang="en">Update Greater Alarm Brush Fire #LopezCanyonFire 05/14/2022 INC#1313</a></title>
-  <link><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313" hreflang="en">view</a></link>
-  <description>Update #LopezCanyonFire Greater Alarm Brush Fire; INC#1313; 06:38PM; 12031 N Lopez Canyon Rd; MAP: &lt;a href="https://bit.ly/3DVayIr" target="_blank" rel="noopener"&gt;https://bit.ly/3DVayIr&lt;/a&gt;; #LakeViewTerrace; The fire remains within LAFD jurisdiction, held at a little over four (4) acres of light grass and medium brush in steep terrain near the Lopez Canyon Landfill. The blaze is now 60% contained. No injuries have been reported. Firefighters will remain at scene tonight to check for hotspots, extinguish smoldering debris and further contain the fire's perimeter. The cause of the fire is still under investigation. LAFD Public Information Officer (PIO) Captain Cody Weireter is en route to the Command Post at Lopez Canyon Road and Paxton Street, ETA 7:30 PM.; FS 98; Batt 12; Valley Bureau; Council District 7; AO1  BC10  BC12  BP74  CE83  E24  E275  E290  E298  E77  E87  E89  E90  E91  E98  EM14  H2  H3  H4  HA2  HA3  HA4  RA74  RA87  RA90  RA91  RA98  T75  T90  T98  WT77 + LACoFD _ ANF; CH5; 17; Brian Humphrey</description>
-  <category>Greater Alarm Brush Fire</category>
+  <title><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088-0" hreflang="en">Update Major Emergency Brush Fire #PorterFire 05/15/2022 INC#1088</a></title>
+  <link><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088-0" hreflang="en">view</a></link>
+  <description>Update #PorterFire Major Emergency Brush Fire; INC#1088; 05:25PM; 11200 Porter Ranch Dr; MAP: &lt;a href="https://bit.ly/3FRlIQu" target="_blank" rel="noopener"&gt;https://bit.ly/3FRlIQu&lt;/a&gt;; #Chatsworth; 140 LAFD Firefighters continue to work the perimeter of the fire, which is now 75% contained, and remains at an estimated seven (7) acres. Hand crews from the Los Angeles County Fire Department and Angeles National Forest are assigned to assist with further containment, felling of dangerous tree limbs and cold trailing of the fire's perimeter. One civilian pickup truck parked at the Porter Ranch Drive park-and-ride lot adjacent to the 118 Freeway, was destroyed by fire. No injury. No structure damage. No evacuation. LAFD Investigators have yet to formally determine the specific origin and cause of the blaze.; FS 28; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  BC17  BP109  CE59  CE83  CM42  E100  E103  E105  E107  E109  E18  E23  E28  E287  E290  E296  E37  E39  E63  E7  E70  E72  E73  E8  E88  E93  E99  EA1  EM14  EM17  H2  H4  H5  HA2  HA4  HA5  PI3  RA107  RA96  RI600  T87  T90  T96  WT88 + LACoFD + ANF; CH8; 18; Brian Humphrey</description>
+  <category>Major Emergency Brush Fire</category>
           <category>Valley</category>
-          <category>#LakeViewTerrace</category>
-          <guid isPermaLink="false"><a href="/alert/update-greater-alarm-brush-fire-lopezcanyonfire-05142022-inc1313" hreflang="en">view</a></guid>
-          <pubDate>Saturday, May 14, 2022 - 18:45</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088-0" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 17:28</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/update-greater-alarm-brush-fire-controlled-lopezcanyonfire-05142022-inc1313" hreflang="en">Update Greater Alarm Brush Fire Controlled - #LopezCanyonFire 05/14/2022 INC#1313</a></title>
-  <link><a href="/alert/update-greater-alarm-brush-fire-controlled-lopezcanyonfire-05142022-inc1313" hreflang="en">view</a></link>
-  <description>Update Controlled - #LopezCanyonFire Greater Alarm Brush Fire; INC#1313; 06:21PM; 12031 N Lopez Canyon Rd; MAP: &lt;a href="https://bit.ly/3DVayIr" target="_blank" rel="noopener"&gt;https://bit.ly/3DVayIr&lt;/a&gt;; #LakeViewTerrace; A well coordinated ground and air response by 69 LAFD personnel, LACoFD and ANF has taken just 55 minutes to stop forward progress of the fire at four (4) acres of light grass and medium brush in steep terrain near the Lopez Canyon Landfill. No injury. No structure damage. No evacuation. Firefighters will remain at scene tonight to extinguish smoldering debris and fully contain the fire's perimeter. The fire remains within City of Los Angeles (LAFD) jurisdiction. The cause of the fire is under investigation.; FS 98; Batt 12; Valley Bureau; Council District 7; AO1  BC10  BC12  BP74  E24  E275  E290  E298  E77  E87  E89  E90  E91  E98  EM14  H2  H3  H4  HA2  HA3  HA4  RA90  RA91  T75  T90  T98  WT77 + LACoFD + ANF; CH5; 17; Brian Humphrey</description>
-  <category>Greater Alarm Brush Fire</category>
+  <title><a href="/alert/update-major-emergency-brush-fire-forward-progress-stopped-porterfire-05152022-inc1088" hreflang="en">Update Major Emergency Brush Fire Forward Progress Stopped - #PorterFire 05/15/2022 INC#1088</a></title>
+  <link><a href="/alert/update-major-emergency-brush-fire-forward-progress-stopped-porterfire-05152022-inc1088" hreflang="en">view</a></link>
+  <description>Update Forward Progress Stopped - #PorterFire Major Emergency Brush Fire; INC#1088; 04:30PM; 11200 Porter Ranch Dr; MAP: &lt;a href="https://bit.ly/3FRlIQu" target="_blank" rel="noopener"&gt;https://bit.ly/3FRlIQu&lt;/a&gt;; #Chatsworth; Despite wind-driven flames, 140 LAFD Firefighters responding by land and air have stopped forward progress of the fire in one hour at an estimated seven (7) acres. The fire remains south of the Ronald Reagan (SR118) Freeway, with some small spotting at the perimeter. The firefight continues, with a containment factor yet to be determined. No injury. No structure damage. No evacuation. LAFD Public Information Officer (PIO) Captain Cody Weireter encourages media to meet with him now near the LAFD Command Post, located on the Porter Ranch Drive overpass of the 118 Freeway.; FS 28; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  BC17  BP109  CE83  CM42  E100  E103  E105  E107  E109  E18  E23  E28  E287  E290  E296  E37  E39  E63  E7  E70  E72  E73  E8  E88  E93  E99  EA1  EM14  EM17  H2  H4  H5  HA2  HA4  HA5  PI3  RA107  RA96  RI600  T87  T90  T96  WT88; CH5; 18; Brian Humphrey</description>
+  <category>Major Emergency Brush Fire</category>
           <category>Valley</category>
-          <category>#LakeViewTerrace</category>
-          <guid isPermaLink="false"><a href="/alert/update-greater-alarm-brush-fire-controlled-lopezcanyonfire-05142022-inc1313" hreflang="en">view</a></guid>
-          <pubDate>Saturday, May 14, 2022 - 18:23</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-forward-progress-stopped-porterfire-05152022-inc1088" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 16:34</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/brush-fire-05142022-inc1313" hreflang="en">Brush Fire 05/14/2022 INC#1313</a></title>
-  <link><a href="/alert/brush-fire-05142022-inc1313" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1313; 05:26PM; 12031 N Lopez Canyon Rd; MAP: &lt;a href="https://bit.ly/3DVayIr" target="_blank" rel="noopener"&gt;https://bit.ly/3DVayIr&lt;/a&gt;; #LakeViewTerrace; PRELIM: LAFD ground and air response with LACoFD and ANF to as many as four (4) acres of light grass and medium brush burning uphill with light wind near Lopez Canyon Landfill, slow rate of spread. No structure threat. No evacuation.; FS 98; Batt 12; Valley Bureau; Council District 7; AO1  BC10  BC12  BP74  E24  E275  E290  E298  E77  E87  E89  E90  E91  E98  EM14  H2  H3  H4  HA2  HA3  HA4  RA91  T75  T90  T98  WT77 + LACoFD + ANF; CH5; 17; Brian Humphrey</description>
-  <category>Brush Fire</category>
+  <title><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088" hreflang="en">Update Major Emergency Brush Fire #PorterFire 05/15/2022 INC#1088</a></title>
+  <link><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088" hreflang="en">view</a></link>
+  <description>Update #PorterFire Major Emergency Brush Fire; INC#1088; 03:28PM; 11200 Porter Ranch Dr; MAP: &lt;a href="https://bit.ly/3FRlIQu" target="_blank" rel="noopener"&gt;https://bit.ly/3FRlIQu&lt;/a&gt;; #Chatsworth; With 116 LAFD Firefighters responding by ground and air, this incident, known as the 'Porter Fire' has escalated to Major Emergency status. The fire remains south of the Ronald Reagan (SR118) Freeway, fanned by 10-15 mph wind from the south. Though there are some spot fires near and within Monteria Estates, no residential structures are imminently threatened or damaged, and there is no formal call for evacuation.; FS 28; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  BC17  CM42  E100  E103  E105  E107  E109  E18  E23  E28  E287  E290  E296  E39  E70  E72  E73  E8  E88  E93  E99  EM17  H2  H4  H5  HA2  HA4  HA5  PI3  RA107  RI600  T87  T90  T96  WT88; CH5; 18; Brian Humphrey</description>
+  <category>Major Emergency Brush Fire</category>
           <category>Valley</category>
-          <category>#LakeViewTerrace</category>
-          <guid isPermaLink="false"><a href="/alert/brush-fire-05142022-inc1313" hreflang="en">view</a></guid>
-          <pubDate>Saturday, May 14, 2022 - 17:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-porterfire-05152022-inc1088" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 15:57</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/public-media-advisory-05132022" hreflang="en">Public / Media Advisory 05/13/2022</a></title>
-  <link><a href="/alert/public-media-advisory-05132022" hreflang="en">view</a></link>
-  <description>Public / Media Advisory; 10:45PM; #GranadaHills / #PorterRanch; The cause of this evening's two brush fires alongside the eastbound Ronald Reagan (SR118) Freeway between Hayvenhurst Avenue (LAFD Incident #1853) and Reseda Boulevard (LAFD Incident #1841) are connected, and considered to be incendiary in nature. Eyewitnesses informed the California Highway Patrol (West Valley Log #3318) that one or more persons were seen discharging fireworks from a black van. Anyone with information regarding the suspect(s) is encouraged to notify law enforcement anonymously via Crimestoppers by calling 1-800-222-TIPS.; - Brian Humphrey</description>
-  <category>Public / Media Advisory</category>
-          <category>#GranadaHills / #PorterRanch</category>
-          <guid isPermaLink="false"><a href="/alert/public-media-advisory-05132022" hreflang="en">view</a></guid>
-          <pubDate>Friday, May 13, 2022 - 23:05</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+  <title><a href="/alert/major-emergency-brush-fire-05152022-inc1088" hreflang="en">Major Emergency Brush Fire 05/15/2022 INC#1088</a></title>
+  <link><a href="/alert/major-emergency-brush-fire-05152022-inc1088" hreflang="en">view</a></link>
+  <description>Major Emergency Brush Fire; INC#1088; 03:28PM; 11200 Porter Ranch Dr; MAP: &lt;a href="https://bit.ly/3FRlIQu" target="_blank" rel="noopener"&gt;https://bit.ly/3FRlIQu&lt;/a&gt;; @Chatsworth; PRELIM: As many as two acres of grass burning south of the 118 Freeway, approaching heavy vegetation, fanned by 10-15 mph wind from the south. ; FS 28; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC15  BC17  CM42  E100  E103  E105  E107  E109  E18  E23  E28  E287  E290  E296  E39  E70  E72  E73  E8  E88  E93  E99  EM17  H2  H4  H5  HA2  HA4  HA5  RA107  T87  T90  T96  WT88; CH5; 18; Brian Humphrey</description>
+  <category>Major Emergency Brush Fire</category>
+          <category>Valley</category>
+          <category>@Chatsworth</category>
+          <guid isPermaLink="false"><a href="/alert/major-emergency-brush-fire-05152022-inc1088" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 15:44</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/update-brush-fire-05132022-inc1853" hreflang="en">Update Brush Fire 05/13/2022 INC#1853</a></title>
-  <link><a href="/alert/update-brush-fire-05132022-inc1853" hreflang="en">view</a></link>
-  <description>Update Brush Fire; INC#1853; 09:50PM; EB 118 Fwy x Hayvenhurst Av; MAP: &lt;a href="https://bit.ly/3wolwUt" target="_blank" rel="noopener"&gt;https://bit.ly/3wolwUt&lt;/a&gt;; #GranadaHills; Despite erratic wind with embercast, 73 LAFD ground-based Firefighters took just one hour to stop forward progress of this fire, holding it to (yet to be determined size) brush, grass and trees adjacent to the eastbound lanes of the Ronald Reagan Freeway near Hayvenhurst Avenue. No injury. No structures damaged. Firefighters will remain at scene to continue containment and overhaul. This fire is under investigation. There is *presently* no correlation determined between this fire, and a concurrent brush fire that burned to the west near Reseda Blvd (LAFD Incident #1841).; FS 18; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC14  CM42  E100  E103  E106  E18  E24  E287  E290  E75  E83  E84  E93  EM15  H2  H4  H5  HA2  HA4  HA5  RA18  T87  T90; CH5; 13; Brian Humphrey</description>
-  <category>Brush Fire</category>
+  <title><a href="/alert/knockdown-sanfernandofire-greater-alarm-structure-fire-05152022-inc0785" hreflang="en">#Knockdown - #SanFernandoFire - Greater Alarm Structure Fire 05/15/2022 INC#0785</a></title>
+  <link><a href="/alert/knockdown-sanfernandofire-greater-alarm-structure-fire-05152022-inc0785" hreflang="en">view</a></link>
+  <description>#Knockdown - #SanFernandoFire - Greater Alarm Structure Fire; INC#0785; 01:16PM; 10219 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/3wr39hK" target="_blank" rel="noopener"&gt;https://bit.ly/3wr39hK&lt;/a&gt;; #Pacoima; It took 71 LAFD Firefighters just 63 minutes to access, confine and extinguish this Greater Alarm fire that began as a large outside rubbish fire, extending into an unoccupied one-story church that has been heavily damaged by fire. Firefighters safely evacuated an undetermined number of persons from, and prevent fire damage to, an adjacent two-story residential motel ( Villa Las Palmas? ). No Injury. No resident displacement is currently anticipated. Fire cause is under investigation.; FS 98; Batt 12; Valley Bureau; Council District 7; AR1  BC10  BC12  BC14  BC5  CE83  CM42  E227  E239  E275  E288  E289  E298  E7  E77  E88  E89  E98  EA1  EM14  EM15  HR3  RA75  RA98  T27  T39  T75  T88  T89  T98  UR27  UR88; CH9; 17  18; Brian Humphrey</description>
+  <category>Greater Alarm Structure Fire</category>
           <category>Valley</category>
-          <category>#GranadaHills</category>
-          <guid isPermaLink="false"><a href="/alert/update-brush-fire-05132022-inc1853" hreflang="en">view</a></guid>
-          <pubDate>Friday, May 13, 2022 - 21:58</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Pacoima</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-sanfernandofire-greater-alarm-structure-fire-05152022-inc0785" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 12:55</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/update-brush-fire-05132022-inc1841" hreflang="en">Update Brush Fire 05/13/2022 INC#1841</a></title>
-  <link><a href="/alert/update-brush-fire-05132022-inc1841" hreflang="en">view</a></link>
-  <description>Update Brush Fire; INC#1841; 09:45PM; EB 118 Fwy x Reseda Bl; MAP: &lt;a href="https://bit.ly/3N8uqMk" target="_blank" rel="noopener"&gt;https://bit.ly/3N8uqMk&lt;/a&gt;; #PorterRanch; Despite a 10 mph wind with embercast, 74 LAFD ground-based Firefighters took just one hour to stop forward progress of the fire, holding it to (yet to be determined size) brush adjacent to the eastbound lanes of the Ronald Reagan Freeway. No injury. No structures damaged. Firefighters will remain at scene to continue containment and overhaul. Fire cause under investigation.; FS 8; Batt 15; Valley Bureau; Council District 12; BC15  BC17  E103  E104  E106  E28  E287  E290  E296  E70  E87  EM17  H5  HA5  RA107  RA90  T87  T90  T96; CH5; 18; Brian Humphrey</description>
-  <category>Brush Fire</category>
+  <title><a href="/alert/update-greater-alarm-structure-fire-sanfernandofire-05152022-inc0785" hreflang="en">Update Greater Alarm Structure Fire #SanFernandoFire 05/15/2022 INC#0785</a></title>
+  <link><a href="/alert/update-greater-alarm-structure-fire-sanfernandofire-05152022-inc0785" hreflang="en">view</a></link>
+  <description>Update #SanFernandoFire Greater Alarm Structure Fire; INC#0785; 12:30PM; 10219 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/3wr39hK" target="_blank" rel="noopener"&gt;https://bit.ly/3wr39hK&lt;/a&gt;; #Pacoima; With 71 LAFD Firefighters assigned in offensive firefighting operations, this active structure fire is categorized as a Greater Alarm incident, known as the #SanFernandoFire. Flames from the large outside rubbish fire extended into and now heavily involves the rear/attic area of the nearby one-story (unoccupied) church, and continue to threaten a now evacuated nearby two-story apartment building. No injuries have been reported as the firefight continues.; FS 98; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  BC5  CM42  E227  E239  E275  E288  E289  E298  E7  E77  E88  E89  E98  EM14  EM15  HR3  RA75  RA98  T27  T39  T75  T88  T89  T98  UR27  UR88; CH9; 17  18; Brian Humphrey</description>
+  <category>Greater Alarm Structure Fire</category>
           <category>Valley</category>
-          <category>#PorterRanch</category>
-          <guid isPermaLink="false"><a href="/alert/update-brush-fire-05132022-inc1841" hreflang="en">view</a></guid>
-          <pubDate>Friday, May 13, 2022 - 21:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Pacoima</category>
+          <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-sanfernandofire-05152022-inc0785" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 12:37</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
-  <title><a href="/alert/brush-fire-05132022-inc1853" hreflang="en">Brush Fire 05/13/2022 INC#1853</a></title>
-  <link><a href="/alert/brush-fire-05132022-inc1853" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1853; 08:51PM; EB 118 Fwy x Hayvenhurst Av; MAP: &lt;a href="https://bit.ly/3wolwUt" target="_blank" rel="noopener"&gt;https://bit.ly/3wolwUt&lt;/a&gt;; #GranadaHills; PRELIM: LAFD ground and air response to as much as one (1) acre of brush burning adjacent to the eastbound lanes of the Ronald Reagan Freeway.; FS 18; Batt 15; Valley Bureau; Council District 12; BC10  E100  E18  E75  E93; CH8; 13; Brian Humphrey</description>
-  <category>Brush Fire</category>
+  <title><a href="/alert/structure-fire-05152022-inc0785-0" hreflang="en">Structure Fire 05/15/2022 INC#0785</a></title>
+  <link><a href="/alert/structure-fire-05152022-inc0785-0" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0785; 12:20PM; 10219 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/3wr39hK" target="_blank" rel="noopener"&gt;https://bit.ly/3wr39hK&lt;/a&gt;; #Pacoima; Address Corrected to 10219. Flames from the large outside rubbish fire has extended into a nearby one story (unoccupied) church. and is threatening a nearby occupied two story apartment building, which Firefighters have now safely evacuated.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  CM42  E275  E289  E298  E7  E77  E89  E98  EM15  RA75  RA98  T75  T89  T98; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
           <category>Valley</category>
-          <category>#GranadaHills</category>
-          <guid isPermaLink="false"><a href="/alert/brush-fire-05132022-inc1853" hreflang="en">view</a></guid>
-          <pubDate>Friday, May 13, 2022 - 21:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a0124545-d460-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <category>#Pacoima</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-05152022-inc0785-0" hreflang="en">view</a></guid>
+          <pubDate>Sunday, May 15, 2022 - 12:26</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6da12688-d4ce-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
