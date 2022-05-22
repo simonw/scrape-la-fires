@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5"/>
-<lastBuildDate>Sat, 21 May 2022 00:14:42 -0700</lastBuildDate>
-<pubDate>Thursday, May 19, 2022 - 19:17</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 21 May 2022 20:44:59 -0700</lastBuildDate>
+<pubDate>Saturday, May 21, 2022 - 20:17</pubDate>
 
     <item>
+  <title><a href="/alert/physical-rescue-05212022-inc1386" hreflang="en">Physical Rescue 05/21/2022 INC#1386</a></title>
+  <link><a href="/alert/physical-rescue-05212022-inc1386" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#1386; 07:40PM; 13055 W Victory Bl; MAP: &lt;a href="https://bit.ly/3NskHRd" target="_blank" rel="noopener"&gt;https://bit.ly/3NskHRd&lt;/a&gt;; Valley Glen; One male patient (approximately 45 years old) sustained injury after an approximately 30-foot fall into the wash off of a bridge. LAFD firefighters and paramedics set up a rope system with a rescue basket and retrieved the patient from the wash below. The patient was transported to a local hospital in critical condition. Nothing further.; FS 102; Batt 14; Valley Bureau; Council District 2; BC10  BC14  E102  E239  E289  E89  EM14  HR3  RA5  RA889  RA89  T39  T89  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+          <category>Valley</category>
+          <category>Valley Glen</category>
+          <guid isPermaLink="false"><a href="/alert/physical-rescue-05212022-inc1386" hreflang="en">view</a></guid>
+          <pubDate>Saturday, May 21, 2022 - 20:17</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-fatality-05192022-inc1214" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire - Fatality 05/19/2022 INC#1214</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-fatality-05192022-inc1214" hreflang="en">view</a></link>
   <description>KNOCKDOWN Greater Alarm Structure Fire - Fatality; INC#1214; 06:33PM; 6600 W Lexington Av; MAP: &lt;a href="https://bit.ly/3G64Jdk" target="_blank" rel="noopener"&gt;https://bit.ly/3G64Jdk&lt;/a&gt;; #Hollywood; It took 78 firefighters 51 minutes to extinguish flames inside of a portion of a two-story concrete industrial building. Two patients reported respiratory symptoms related to smoke exposure. Both patients were evaluated on scene and declined transport to the hospital. Sadly, one person was found dead inside, as firefighters searched the structure. No firefighter injuries. Cause under investigation. MEDIA: PIO Captain Erik Scott en route for media requests, ETA 7:55.; FS 27; Batt 5; West Bureau; Council District 13; AR1  BC1  BC11  BC14  BC18  BC5  CM22  E203  E227  E229  E235  E261  E3  E41  E52  E61  E76  E82  EA1  EM11  HR3  PH1  PI1  RA27  RA3  RA41  RA827  T27  T29  T3  T35  T61  UR3  UR88; CH7; 14  15; Nicholas Prange</description>
@@ -18,7 +29,7 @@
           <category>#Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-fatality-05192022-inc1214" hreflang="en">view</a></guid>
           <pubDate>Thursday, May 19, 2022 - 19:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-05192022-inc1214" hreflang="en">Structure Fire 05/19/2022 INC#1214</a></title>
@@ -29,7 +40,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-05192022-inc1214" hreflang="en">view</a></guid>
           <pubDate>Thursday, May 19, 2022 - 17:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/investigation-police-05192022-inc0605" hreflang="en">Investigation, Police 05/19/2022 INC#0605</a></title>
@@ -40,7 +51,7 @@
           <category>Westwood</category>
           <guid isPermaLink="false"><a href="/alert/investigation-police-05192022-inc0605" hreflang="en">view</a></guid>
           <pubDate>Thursday, May 19, 2022 - 11:42</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-05182022-inc0543" hreflang="en">Update Structure Fire KNOCKDOWN 05/18/2022 INC#0543</a></title>
@@ -51,7 +62,7 @@
           <category>#Fairfax</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-05182022-inc0543" hreflang="en">view</a></guid>
           <pubDate>Wednesday, May 18, 2022 - 11:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-05182022-inc0543" hreflang="en">Structure Fire 05/18/2022 INC#0543</a></title>
@@ -62,7 +73,7 @@
           <category>#Fairfax</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-05182022-inc0543" hreflang="en">view</a></guid>
           <pubDate>Wednesday, May 18, 2022 - 10:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/jumper-05182022-inc0512" hreflang="en">Jumper 05/18/2022 INC#0512</a></title>
@@ -73,7 +84,7 @@
           <category>#DowntownLA</category>
           <guid isPermaLink="false"><a href="/alert/jumper-05182022-inc0512" hreflang="en">view</a></guid>
           <pubDate>Wednesday, May 18, 2022 - 10:25</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hoist-rescue-05172022-inc1732" hreflang="en">Hoist Rescue 05/17/2022 INC#1732</a></title>
@@ -84,7 +95,7 @@
           <category>Porter Ranch</category>
           <guid isPermaLink="false"><a href="/alert/hoist-rescue-05172022-inc1732" hreflang="en">view</a></guid>
           <pubDate>Wednesday, May 18, 2022 - 00:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/contained-brush-fire-05172022-inc1295" hreflang="en">CONTAINED Brush Fire 05/17/2022 INC#1295</a></title>
@@ -95,7 +106,7 @@
           <category>#Sylmar</category>
           <guid isPermaLink="false"><a href="/alert/contained-brush-fire-05172022-inc1295" hreflang="en">view</a></guid>
           <pubDate>Tuesday, May 17, 2022 - 19:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-05172022-inc1295" hreflang="en">Brush Fire 05/17/2022 INC#1295</a></title>
@@ -106,18 +117,7 @@
           <category>#Sylmar</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-05172022-inc1295" hreflang="en">view</a></guid>
           <pubDate>Tuesday, May 17, 2022 - 18:04</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-major-emergency-brush-fire-05172022-inc0993" hreflang="en">Update Major Emergency Brush Fire 05/17/2022 INC#0993</a></title>
-  <link><a href="/alert/update-major-emergency-brush-fire-05172022-inc0993" hreflang="en">view</a></link>
-  <description>Update Major Emergency Brush Fire; INC#0993; 05:00PM; 2675 N Nottingham Av; MAP: &lt;a href="https://bit.ly/37U4GEJ" target="_blank" rel="noopener"&gt;https://bit.ly/37U4GEJ&lt;/a&gt;; #LosFeliz; A person-of-interest (in the general area of the incident) was questioned by LAPD and is in custody. The cause of the fire remains under active investigation in a joint effort by LAPD and LAFD's Arson Investigators. Refer additional questions to LAPD. Nothing further.; FS 82; Batt 5; West Bureau; Council District 4; AO1  AO2  AR17  BC11  BC2  BC5  CE59  CM42  CM52  CW3A  E11  E20  E220  E227  E235  E27  E29  E290  E35  E41  E52  E56  E61  E76  E82  E86  EM11  EM55  H3  H4  H5  HA3  HA4  HA5  PI1  PI2  RA35  RA56  RA90  T20  T27  T35  T90; CH7; 13; Nicholas Prange</description>
-  <category>Major Emergency Brush Fire</category>
-          <category>West</category>
-          <category>#LosFeliz</category>
-          <guid isPermaLink="false"><a href="/alert/update-major-emergency-brush-fire-05172022-inc0993" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, May 17, 2022 - 17:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=ae9d0b92-d8d5-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
