@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 30 May 2022 02:49:35 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5"/>
+<lastBuildDate>Mon, 30 May 2022 11:25:42 -0700</lastBuildDate>
 <pubDate>Monday, May 30, 2022 - 02:49</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>Canoga Park</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05302022-inc0135" hreflang="en">view</a></guid>
           <pubDate>Monday, May 30, 2022 - 02:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-05302022-inc0135" hreflang="en">Structure Fire 05/30/2022 INC#0135</a></title>
@@ -29,7 +29,7 @@
           <category>Canoga Park</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-05302022-inc0135" hreflang="en">view</a></guid>
           <pubDate>Monday, May 30, 2022 - 02:36</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-fatality-05292022-inc0677" hreflang="en">Hiker - FATALITY 05/29/2022 INC#0677</a></title>
@@ -40,7 +40,7 @@
           <category>Pacific Palisades</category>
           <guid isPermaLink="false"><a href="/alert/hiker-fatality-05292022-inc0677" hreflang="en">view</a></guid>
           <pubDate>Sunday, May 29, 2022 - 12:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05282022-inc1075" hreflang="en">KNOCKDOWN Structure Fire 05/28/2022 INC#1075</a></title>
@@ -51,7 +51,7 @@
           <category>North Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05282022-inc1075" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 18:58</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-05282022-inc1075-0" hreflang="en">Update Structure Fire 05/28/2022 INC#1075</a></title>
@@ -62,7 +62,7 @@
           <category>North Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-05282022-inc1075-0" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 18:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-05282022-inc1075" hreflang="en">Update Structure Fire 05/28/2022 INC#1075</a></title>
@@ -73,7 +73,7 @@
           <category>North Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-05282022-inc1075" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 17:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-05282022-inc1075" hreflang="en">Structure Fire 05/28/2022 INC#1075</a></title>
@@ -84,7 +84,7 @@
           <category>North Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-05282022-inc1075" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 17:16</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/test-only-05282022-incedit" hreflang="en">TEST ONLY 05/28/2022 INC#Edit</a></title>
@@ -93,7 +93,7 @@
   <category>TEST ONLY</category>
           <guid isPermaLink="false"><a href="/alert/test-only-05282022-incedit" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 07:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/test-ii-05282022-inc0320" hreflang="en">TEST II 05/28/2022 INC#0320</a></title>
@@ -102,7 +102,7 @@
   <category>TEST II</category>
           <guid isPermaLink="false"><a href="/alert/test-ii-05282022-inc0320" hreflang="en">view</a></guid>
           <pubDate>Saturday, May 28, 2022 - 06:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/physical-rescue-05272022-inc1656" hreflang="en">Physical Rescue 05/27/2022 INC#1656</a></title>
@@ -113,7 +113,7 @@
           <category>Van Nuys</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-05272022-inc1656" hreflang="en">view</a></guid>
           <pubDate>Friday, May 27, 2022 - 21:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e9246b2b-e045-11ec-b849-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
