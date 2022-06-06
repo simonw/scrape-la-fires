@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5"/>
-<lastBuildDate>Sat, 04 Jun 2022 17:32:42 -0700</lastBuildDate>
-<pubDate>Saturday, June 4, 2022 - 08:38</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 05 Jun 2022 11:29:46 -0700</lastBuildDate>
+<pubDate>Sunday, June 5, 2022 - 11:29</pubDate>
 
     <item>
+  <title><a href="/alert/rubbish-fire-06052022-inc0684" hreflang="en">Rubbish Fire 06/05/2022 INC#0684</a></title>
+  <link><a href="/alert/rubbish-fire-06052022-inc0684" hreflang="en">view</a></link>
+  <description>Rubbish Fire; INC#0684; 10:59AM; 5901 Center Dr; MAP: &lt;a href="https://bit.ly/3GSzLFF" target="_blank" rel="noopener"&gt;https://bit.ly/3GSzLFF&lt;/a&gt;; Westchester; With assistance from our friends at Culver City Fire Department, firefighters have extinguished the bulk of the flames of a rubbish fire that spread to a small patch of heavy brush under/near an overpass. Smoke may continue to be seen in the area due to lingering embers. Crews will remain on scene to ensure that all hot spots and smoldering materials are cooled. No reported injuries. Cause under investigation. Nothing further. ; FS 5; Batt 4; West Bureau; Council District 11; E205  E5  T5; CH7; Nicholas Prange</description>
+  <category>Rubbish Fire</category>
+          <category>West</category>
+          <category>Westchester</category>
+          <guid isPermaLink="false"><a href="/alert/rubbish-fire-06052022-inc0684" hreflang="en">view</a></guid>
+          <pubDate>Sunday, June 5, 2022 - 11:29</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-06042022-inc0419" hreflang="en">Structure Fire - Now Out 06/04/2022 INC#0419</a></title>
   <link><a href="/alert/structure-fire-now-out-06042022-inc0419" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#0419; 08:08AM; 14242 W Victory Bl; MAP: &lt;a href="https://bit.ly/3zjG6sg" target="_blank" rel="noopener"&gt;https://bit.ly/3zjG6sg&lt;/a&gt;; Van Nuys; A large outside fire spread to one vacant single-family home and threatened others. Twenty-eight firefighters extinguished the flames in 13 minutes (8:25am), holding the fire to just the first involved structure. Firefighter-paramedics are providing medical assessment and care to one female patient on scene. Cause under investigation. Nothing further.; FS 39; Batt 10; Valley Bureau; Council District 6; BC10  E102  E239  E289  E81  RA102  RA39  RA839  T39  T89; CH8; 17; Nicholas Prange</description>
@@ -18,7 +29,7 @@
           <category>Van Nuys</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06042022-inc0419" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 4, 2022 - 08:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06022022-inc1158" hreflang="en">Knockdown -  Structure Fire 06/02/2022 INC#1158</a></title>
@@ -29,7 +40,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06022022-inc1158" hreflang="en">view</a></guid>
           <pubDate>Thursday, June 2, 2022 - 16:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-06022022-inc1158" hreflang="en">Structure Fire 06/02/2022 INC#1158</a></title>
@@ -40,7 +51,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-06022022-inc1158" hreflang="en">view</a></guid>
           <pubDate>Thursday, June 2, 2022 - 16:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06012022-inc1907" hreflang="en">Knockdown -  Structure Fire 06/01/2022 INC#1907</a></title>
@@ -51,7 +62,7 @@
           <category>#EastHollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06012022-inc1907" hreflang="en">view</a></guid>
           <pubDate>Thursday, June 2, 2022 - 00:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-06012022-inc1907" hreflang="en">Structure Fire 06/01/2022 INC#1907</a></title>
@@ -62,7 +73,7 @@
           <category>#EastHollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-06012022-inc1907" hreflang="en">view</a></guid>
           <pubDate>Thursday, June 2, 2022 - 00:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-injured-animal-update-06012022-inc1447" hreflang="en">Update Structure Fire Injured Animal Update -  06/01/2022 INC#1447</a></title>
@@ -73,7 +84,7 @@
           <category>#EastHollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-injured-animal-update-06012022-inc1447" hreflang="en">view</a></guid>
           <pubDate>Wednesday, June 1, 2022 - 20:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-06012022-inc1447" hreflang="en">Structure Fire - Now Out 06/01/2022 INC#1447</a></title>
@@ -84,7 +95,7 @@
           <category>#EastHollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06012022-inc1447" hreflang="en">view</a></guid>
           <pubDate>Wednesday, June 1, 2022 - 19:03</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05312022-inc1773" hreflang="en">Knockdown -  Structure Fire 05/31/2022 INC#1773</a></title>
@@ -95,7 +106,7 @@
           <category>#Wilmington</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05312022-inc1773" hreflang="en">view</a></guid>
           <pubDate>Tuesday, May 31, 2022 - 22:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-05312022-inc1773" hreflang="en">Structure Fire 05/31/2022 INC#1773</a></title>
@@ -106,18 +117,7 @@
           <category>#Wilmington</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-05312022-inc1773" hreflang="en">view</a></guid>
           <pubDate>Tuesday, May 31, 2022 - 22:43</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/hazardous-materials-investigation-05312022-inc0392" hreflang="en">Hazardous Materials Investigation 05/31/2022 INC#0392</a></title>
-  <link><a href="/alert/hazardous-materials-investigation-05312022-inc0392" hreflang="en">view</a></link>
-  <description>Hazardous Materials Investigation; INC#0392; 07:58AM; 350 W King Bl; MAP: &lt;a href="https://bit.ly/3lZPj0T" target="_blank" rel="noopener"&gt;https://bit.ly/3lZPj0T&lt;/a&gt;; #HistoricSouthCentral; Six adult workers have been medically evaluated by LAFD after they experienced brief respiratory irritation upon entering a legal cannabis operation, which they were opening for daily business. The site had reportedly been sprayed overnight with pesticide while closed. All six workers have declined further medical care or ambulance transportation. LAFD Hazmat experts have determined there is presently no off-site or escalating hazard. No other illness or injury has been reported.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E17  E21  E221  E46  E7  EM11  JT3  RA15  RA21  RA46  SQ21  T21; CH7; 13; Brian Humphrey</description>
-  <category>Hazardous Materials Investigation</category>
-          <category>South</category>
-          <category>#HistoricSouthCentral</category>
-          <guid isPermaLink="false"><a href="/alert/hazardous-materials-investigation-05312022-inc0392" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, May 31, 2022 - 08:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=022fbbaa-e467-11ec-b849-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
