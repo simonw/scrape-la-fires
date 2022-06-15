@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 14 Jun 2022 19:19:17 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5"/>
+<lastBuildDate>Wed, 15 Jun 2022 05:41:46 -0700</lastBuildDate>
 <pubDate>Tuesday, June 14, 2022 - 19:19</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-06142022-inc1406" hreflang="en">view</a></guid>
           <pubDate>Tuesday, June 14, 2022 - 19:19</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06122022-inc1196" hreflang="en">KNOCKDOWN Structure Fire 06/12/2022 INC#1196</a></title>
@@ -29,7 +29,7 @@
           <category>#DowntownLA</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06122022-inc1196" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 18:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-06122022-inc1196" hreflang="en">Structure Fire 06/12/2022 INC#1196</a></title>
@@ -40,7 +40,7 @@
           <category>Downtown</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-06122022-inc1196" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 17:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-06122022-inc0376" hreflang="en">Hiker Rescue 06/12/2022 INC#0376</a></title>
@@ -51,7 +51,7 @@
           <category>#GriffithPark</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-06122022-inc0376" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 08:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-06122022-inc0148" hreflang="en">Traffic Collision 06/12/2022 INC#0148</a></title>
@@ -62,7 +62,7 @@
           <category>#PanoramaCity</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-06122022-inc0148" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 02:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-investigation-06112022-inc1162" hreflang="en">Update Hazardous Materials Investigation 06/11/2022 INC#1162</a></title>
@@ -73,7 +73,7 @@
           <category>#StudioCity</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-investigation-06112022-inc1162" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 11, 2022 - 19:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazardous-material-investigation-06112022-inc1162" hreflang="en">Hazardous Material Investigation 06/11/2022 INC#1162</a></title>
@@ -84,7 +84,7 @@
           <category>#StudioCity</category>
           <guid isPermaLink="false"><a href="/alert/hazardous-material-investigation-06112022-inc1162" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 11, 2022 - 17:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-pedestrians-struck-06112022-inc0442" hreflang="en">Update Pedestrians Struck 06/11/2022 INC#0442</a></title>
@@ -95,7 +95,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/update-pedestrians-struck-06112022-inc0442" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 11, 2022 - 09:18</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/pedestrians-struck-06112022-inc0442" hreflang="en">Pedestrians Struck 06/11/2022 INC#0442</a></title>
@@ -106,7 +106,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/pedestrians-struck-06112022-inc0442" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 11, 2022 - 08:51</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/pedestrian-fatality-06102022-inc1802" hreflang="en">Pedestrian Fatality 06/10/2022 INC#1802</a></title>
@@ -117,7 +117,7 @@
           <category>#Arleta</category>
           <guid isPermaLink="false"><a href="/alert/pedestrian-fatality-06102022-inc1802" hreflang="en">view</a></guid>
           <pubDate>Friday, June 10, 2022 - 22:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=83fd4978-eca8-11ec-b84a-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
