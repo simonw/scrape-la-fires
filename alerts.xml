@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5"/>
-<lastBuildDate>Wed, 15 Jun 2022 21:15:41 -0700</lastBuildDate>
-<pubDate>Wednesday, June 15, 2022 - 21:15</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 16 Jun 2022 10:41:02 -0700</lastBuildDate>
+<pubDate>Thursday, June 16, 2022 - 10:40</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-06162022-inc0521" hreflang="en">KNOCKDOWN Structure Fire 06/16/2022 INC#0521</a></title>
+  <link><a href="/alert/knockdown-structure-fire-06162022-inc0521" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0521; 10:04AM; 1543 W 70th St; MAP: &lt;a href="https://bit.ly/3HJvvZT" target="_blank" rel="noopener"&gt;https://bit.ly/3HJvvZT&lt;/a&gt;; Harvard Park; It took 30 firefighters 12 minutes to extinguish the flames consuming a detached two-car garage and auto inside. No spread to nearby structures. No reported injury. Cause under investigation. Nothing further.; FS 57; Batt 13; South Bureau; Council District 8; BC13  E215  E266  E33  RA57  RA866  T15  T64; CH7; 13; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>Harvard Park</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06162022-inc0521" hreflang="en">view</a></guid>
+          <pubDate>Thursday, June 16, 2022 - 10:40</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-06162022-inc0521" hreflang="en">Structure Fire 06/16/2022 INC#0521</a></title>
+  <link><a href="/alert/structure-fire-06162022-inc0521" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0521; 09:52AM; 1543 W 70th St; MAP: &lt;a href="https://bit.ly/3HJvvZT" target="_blank" rel="noopener"&gt;https://bit.ly/3HJvvZT&lt;/a&gt;; Harvard Park; Detached garage to the rear, fully engulfed in flames.; FS 57; Batt 13; South Bureau; Council District 8; BC13  E215  E266  E33  RA57  RA866  T15  T64; CH9; 13; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>Harvard Park</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-06162022-inc0521" hreflang="en">view</a></guid>
+          <pubDate>Thursday, June 16, 2022 - 10:02</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/physical-rescue-06152022-inc1557" hreflang="en">Physical Rescue 06/15/2022 INC#1557</a></title>
   <link><a href="/alert/physical-rescue-06152022-inc1557" hreflang="en">view</a></link>
   <description>Physical Rescue; INC#1557; 08:38PM; 9900 N Winnetka Av; MAP: &lt;a href="https://bit.ly/3MU7ZKj" target="_blank" rel="noopener"&gt;https://bit.ly/3MU7ZKj&lt;/a&gt;; Chatsworth; A multi-vehicle collision resulted in LAFD firefighters performing a physical extrication operation, and transporting two patients in at least serious condition. Sadly, one victim was killed in the crash. LAPD #4192.; FS 107; Batt 15; Valley Bureau; Council District 12; BC15  E104  E107  E28  E296  EM17  HR3  RA107  RA70  RA73  T96  UR88; CH8; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
           <category>Chatsworth</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-06152022-inc1557" hreflang="en">view</a></guid>
           <pubDate>Wednesday, June 15, 2022 - 21:15</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/vehicle-vs-structure-06152022-inc1483" hreflang="en">Vehicle vs Structure 06/15/2022 INC#1483</a></title>
@@ -29,7 +51,7 @@
           <category>#BroadwayManchester</category>
           <guid isPermaLink="false"><a href="/alert/vehicle-vs-structure-06152022-inc1483" hreflang="en">view</a></guid>
           <pubDate>Wednesday, June 15, 2022 - 20:50</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-06142022-inc1406" hreflang="en">Traffic Collision 06/14/2022 INC#1406</a></title>
@@ -40,7 +62,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-06142022-inc1406" hreflang="en">view</a></guid>
           <pubDate>Tuesday, June 14, 2022 - 19:19</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06122022-inc1196" hreflang="en">KNOCKDOWN Structure Fire 06/12/2022 INC#1196</a></title>
@@ -51,7 +73,7 @@
           <category>#DowntownLA</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06122022-inc1196" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 18:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-06122022-inc1196" hreflang="en">Structure Fire 06/12/2022 INC#1196</a></title>
@@ -62,7 +84,7 @@
           <category>Downtown</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-06122022-inc1196" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 17:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-06122022-inc0376" hreflang="en">Hiker Rescue 06/12/2022 INC#0376</a></title>
@@ -73,7 +95,7 @@
           <category>#GriffithPark</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-06122022-inc0376" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 08:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-06122022-inc0148" hreflang="en">Traffic Collision 06/12/2022 INC#0148</a></title>
@@ -84,7 +106,7 @@
           <category>#PanoramaCity</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-06122022-inc0148" hreflang="en">view</a></guid>
           <pubDate>Sunday, June 12, 2022 - 02:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-investigation-06112022-inc1162" hreflang="en">Update Hazardous Materials Investigation 06/11/2022 INC#1162</a></title>
@@ -95,29 +117,7 @@
           <category>#StudioCity</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-investigation-06112022-inc1162" hreflang="en">view</a></guid>
           <pubDate>Saturday, June 11, 2022 - 19:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/hazardous-material-investigation-06112022-inc1162" hreflang="en">Hazardous Material Investigation 06/11/2022 INC#1162</a></title>
-  <link><a href="/alert/hazardous-material-investigation-06112022-inc1162" hreflang="en">view</a></link>
-  <description>Hazardous Material Investigation; INC#1162; 04:21PM; 333 Universal Hollywood Dr; MAP: &lt;a href="https://bit.ly/3mH2SCA" target="_blank" rel="noopener"&gt;https://bit.ly/3mH2SCA&lt;/a&gt;; #StudioCity; PRELIM: Summoned to investigate an unresponsive person in a 9th floor hotel room, LAPD and LAFD discovered (handwritten?) warning sign(s) telling others not to enter that room due to the presence of a potentially hazardous substance. The immediate area on floor 9 was calmly isolated, and nearby persons sheltered in place as an LAFD Hazardous Materials team assisted first arriving LAFD responders who have safely gained access to and are now treating the one "viable" male patient with unspecified symptoms found within the room. No escalating or off-site hazard has been identified, and there are no other persons at scene requiring medical attention or experiencing illness. It is expected that the one male patient discovered within the room  (unknown age / condition / affiliation / circumstances) will be taken to an area hospital. LAPD and County Health Hazmat will then take control of what appears to be a static scene. Media Inquiries: LAPD North Hollywood Division (Incident 2763) and L.A. County Health Haz Mat; FS 86; Batt 14; Valley Bureau; Council District 4; BC14  E287  E86  EM11  JT4  JT6  RA76  RA86  SQ87  T87; CH8; 17; Brian Humphrey</description>
-  <category>Hazardous Material Investigation</category>
-          <category>Valley</category>
-          <category>#StudioCity</category>
-          <guid isPermaLink="false"><a href="/alert/hazardous-material-investigation-06112022-inc1162" hreflang="en">view</a></guid>
-          <pubDate>Saturday, June 11, 2022 - 17:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-pedestrians-struck-06112022-inc0442" hreflang="en">Update Pedestrians Struck 06/11/2022 INC#0442</a></title>
-  <link><a href="/alert/update-pedestrians-struck-06112022-inc0442" hreflang="en">view</a></link>
-  <description>Update Pedestrians Struck; INC#0442; 09:10AM; 647 S Alvarado St; MAP: &lt;a href="https://bit.ly/3xphMT9" target="_blank" rel="noopener"&gt;https://bit.ly/3xphMT9&lt;/a&gt;; #Westlake; Unknown type/size truck vs pedestrians. No entrapment. Nine patients total (6 taken by ambulance to an area hospital, 3 have declined further care). One adult was seriously injured, the others have minor injuries. No details on ages / genders / affiliation / circumstances. Media Inquiries: LAPD Central Traffic Division (Incident #1145); FS 11; Batt 11; Central Bureau; Council District 1; BC1  E11  E211  EM1  EM11  EM13  RA10  RA17  RA209  RA26  RA29  RA809  T11; CH4; 13; Brian Humphrey</description>
-  <category>Pedestrians Struck</category>
-          <category>Central</category>
-          <category>#Westlake</category>
-          <guid isPermaLink="false"><a href="/alert/update-pedestrians-struck-06112022-inc0442" hreflang="en">view</a></guid>
-          <pubDate>Saturday, June 11, 2022 - 09:18</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fb6ddd8d-ed2a-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
