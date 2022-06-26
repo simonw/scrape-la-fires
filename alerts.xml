@@ -6,10 +6,21 @@
     <description/>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 25 Jun 2022 08:56:36 -0700</lastBuildDate>
-<pubDate>Friday, June 24, 2022 - 22:15</pubDate>
+<lastBuildDate>Sat, 25 Jun 2022 20:56:28 -0700</lastBuildDate>
+<pubDate>Saturday, June 25, 2022 - 15:30</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-multicasualty-incident-06252022-inc0957" hreflang="en">Traffic - Multi-Casualty Incident 06/25/2022 INC#0957</a></title>
+  <link><a href="/alert/traffic-multicasualty-incident-06252022-inc0957" hreflang="en">view</a></link>
+  <description>Traffic - Multi-Casualty Incident; INC#0957; 02:58PM; 2200 S Sawtelle Bl; MAP: &lt;a href="https://bit.ly/3Nn4dcA" target="_blank" rel="noopener"&gt;https://bit.ly/3Nn4dcA&lt;/a&gt;; Sawtelle; A traffic collision reported as three vehicles and pedestrians (exact number of pedestrians unknown at this time) with initial reports of six patients (ages are approximate): 3 "ALS" patients with a range of injuries - 79yo F patient sustained the most significant injuries and is transporting in critical condition, 23yo F and 20yo F also transporting with *at least* serious injuries. Three additional patients with non-life threatening injuries: 70yo M, 26yo F and 26yo M. Any questions regarding the collision are referred to LAPD Inc# 2404. No further details.; FS 59; Batt 9; West Bureau; Council District 11; BC9  E19  E37  E5  EM9  RA37  RA43  RA62  RA834  RA867  RA894; CH4; 13; Margaret Stewart</description>
+  <category>Traffic - Multi-Casualty Incident</category>
+          <category>West</category>
+          <category>Sawtelle</category>
+          <guid isPermaLink="false"><a href="/alert/traffic-multicasualty-incident-06252022-inc0957" hreflang="en">view</a></guid>
+          <pubDate>Saturday, June 25, 2022 - 15:30</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/train-vs-ped-fatality-06242022-inc1718" hreflang="en">Train vs Ped - FATALITY 06/24/2022 INC#1718</a></title>
   <link><a href="/alert/train-vs-ped-fatality-06242022-inc1718" hreflang="en">view</a></link>
   <description>Train vs Ped - FATALITY; INC#1718; 10:15PM; 12323 W Sherman Wy; MAP: &lt;a href="https://bit.ly/3bsaJlj" target="_blank" rel="noopener"&gt;https://bit.ly/3bsaJlj&lt;/a&gt;; North Hollywood; Amtrack train struck a pedestrian (circumstances unknown) and firefighters determined death of the patient on scene (age/gender unknown at this time). LAPD Inc# 4238 Sheriff Dept also responding. All further questions are referred to the appropriate law enforcement agency. Firefighters will assist with body recovery as required. The 9-1-1 call was received at 10:02PM. No further details.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E289  E60  E81  EM17  HR3  RA81  RA86  RA889  RA89  T60  T89  UR88; CH8; 17; Margaret Stewart</description>
@@ -106,17 +117,6 @@
           <category>Eagle Rock</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-06242022-inc0968" hreflang="en">view</a></guid>
           <pubDate>Friday, June 24, 2022 - 14:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-trench-rescue-fatality-06242022-inc0742" hreflang="en">Update Trench Rescue FATALITY 06/24/2022 INC#0742</a></title>
-  <link><a href="/alert/update-trench-rescue-fatality-06242022-inc0742" hreflang="en">view</a></link>
-  <description>Update FATALITY Trench Rescue; INC#0742; 12:18PM; 8405 N Glenoaks Bl; MAP: &lt;a href="https://bit.ly/3OX4NiP" target="_blank" rel="noopener"&gt;https://bit.ly/3OX4NiP&lt;/a&gt;; Sun Valley; Sadly, the patient was determined dead on scene. The incident is transitioning to a recovery operation with some LAFD resources being released. This does not *appear* to be a city employee but instead a private business construction operation however that is not yet confirmed. OSHA is being notified, per protocol, and is the point of contact regarding circumstances/cause etc. LAPD (Inc# 2136) and LA County Coroner are the referring agencies regarding identity and cause of death. No further details. Note: The incident was initially reported as a Confined Space rescue and was updated to Trench Rescue once LAFD arrived and assessed the incident.; FS 77; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC15  CM42  E227  E24  E288  E289  E298  E77  E88  E93  EM14  HR3  RA74  RA89  RA98  T27  T88  T89  T98  UR88  UR89; CH8; 17; Margaret Stewart</description>
-  <category>Trench Rescue</category>
-          <category>Valley</category>
-          <category>Sun Valley</category>
-          <guid isPermaLink="false"><a href="/alert/update-trench-rescue-fatality-06242022-inc0742" hreflang="en">view</a></guid>
-          <pubDate>Friday, June 24, 2022 - 12:58</pubDate>
           <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
