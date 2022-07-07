@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5"/>
-<lastBuildDate>Wed, 06 Jul 2022 15:30:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 07 Jul 2022 07:16:40 -0700</lastBuildDate>
 <pubDate>Wednesday, July 6, 2022 - 15:30</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#AtwaterVillage</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07062022-inc1045" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 15:30</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-07062022-inc1045" hreflang="en">Structure Fire 07/06/2022 INC#1045</a></title>
@@ -29,7 +29,7 @@
           <category>#AtwaterVillage</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07062022-inc1045" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 15:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-fatality-traffic-collision-entrapment-final-07062022-inc0475" hreflang="en">Update Fatality Traffic Collision with Entrapment FINAL -  07/06/2022 INC#0475</a></title>
@@ -40,7 +40,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/update-fatality-traffic-collision-entrapment-final-07062022-inc0475" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 10:03</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fatality-traffic-collision-entrapment-07062022-inc0475" hreflang="en">Fatality Traffic Collision with Entrapment 07/06/2022 INC#0475</a></title>
@@ -51,7 +51,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-entrapment-07062022-inc0475" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 09:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-07062022-inc0475" hreflang="en">Update Traffic Collision with Entrapment 07/06/2022 INC#0475</a></title>
@@ -62,7 +62,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-07062022-inc0475" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 09:28</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-07062022-inc0475" hreflang="en">Traffic Collision with Entrapment 07/06/2022 INC#0475</a></title>
@@ -73,7 +73,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-07062022-inc0475" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 09:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-07062022-inc0249" hreflang="en">Update Structure Fire KNOCKDOWN 07/06/2022 INC#0249</a></title>
@@ -84,7 +84,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-07062022-inc0249" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 06:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-07062022-inc0249" hreflang="en">Structure Fire 07/06/2022 INC#0249</a></title>
@@ -95,7 +95,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07062022-inc0249" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 6, 2022 - 05:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-07052022-inc1780" hreflang="en">Update Structure Fire KNOCKDOWN 07/05/2022 INC#1780</a></title>
@@ -106,7 +106,7 @@
           <category>Vermont Square</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-07052022-inc1780" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 5, 2022 - 21:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-07052022-inc1780" hreflang="en">Structure Fire 07/05/2022 INC#1780</a></title>
@@ -117,7 +117,7 @@
           <category>Vermont Square</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07052022-inc1780" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 5, 2022 - 21:40</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4415899c-fd7b-11ec-b84a-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
