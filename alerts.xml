@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5"/>
-<lastBuildDate>Wed, 20 Jul 2022 09:24:41 -0700</lastBuildDate>
-<pubDate>Wednesday, July 20, 2022 - 09:24</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 20 Jul 2022 15:07:20 -0700</lastBuildDate>
+<pubDate>Wednesday, July 20, 2022 - 15:03</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-07202022-inc0982" hreflang="en">KNOCKDOWN Structure Fire 07/20/2022 INC#0982</a></title>
+  <link><a href="/alert/knockdown-structure-fire-07202022-inc0982" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0982; 02:44PM; 5939 S Flower St; MAP: &lt;a href="https://bit.ly/3RHRIMe" target="_blank" rel="noopener"&gt;https://bit.ly/3RHRIMe&lt;/a&gt;; #VermontSlauson; It took 65 firefighters 38 minutes to extinguish the flames consuming an out building to the rear of a property, which spread to a two-story church. Firefighters limited the church's damage to the eave and slight attic involvement. No reported injuries. Cause under investigation.; FS 33; Batt 13; South Bureau; Council District 9; BC1  BC11  BC2  BC5  CM20  CM22  E10  E14  E15  E21  E215  E221  E233  E264  E57  E64  EA1  EM13  HR3  RA64  RA814  RA833  RA857  SQ21  T15  T21  T33  T64  UR88; CH7; 13  14; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>#VermontSlauson</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07202022-inc0982" hreflang="en">view</a></guid>
+          <pubDate>Wednesday, July 20, 2022 - 15:03</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-07202022-inc0982" hreflang="en">Structure Fire 07/20/2022 INC#0982</a></title>
+  <link><a href="/alert/structure-fire-07202022-inc0982" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0982; 02:06PM; 500 W 59th St; MAP: &lt;a href="https://bit.ly/3aPpKOg" target="_blank" rel="noopener"&gt;https://bit.ly/3aPpKOg&lt;/a&gt;; #VermontSlauson; PRELIM: Fully-involved out building, spreading to a two-story house of worship. Offensive mode.; FS 33; Batt 13; South Bureau; Council District 9; BC1  BC11  BC2  BC5  CM20  CM22  E10  E14  E15  E21  E215  E221  E233  E264  E57  EM13  HR3  RA64  RA814  RA833  RA857  SQ21  T15  T21  T33  T64  UR88; CH9; 13  14; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>#VermontSlauson</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-07202022-inc0982" hreflang="en">view</a></guid>
+          <pubDate>Wednesday, July 20, 2022 - 14:18</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/update-physical-rescue-07202022-inc0434" hreflang="en">Update Physical Rescue 07/20/2022 INC#0434</a></title>
   <link><a href="/alert/update-physical-rescue-07202022-inc0434" hreflang="en">view</a></link>
   <description>Update Physical Rescue; INC#0434; 09:00AM; 10500 W Sunset Bl; MAP: &lt;a href="https://bit.ly/3ogd4mi" target="_blank" rel="noopener"&gt;https://bit.ly/3ogd4mi&lt;/a&gt;; #BelAir; Firefighters rapidly completed extrication and two patients were transported to a local hospital (unknown age/gender/condition/circumstances) from the scene of a traffic collision with a concrete mixing truck on its side. LAPD Inc #1230. Nothing further.; FS 71; Batt 9; West Bureau; Council District 5; BC9  E19  E237  E292  E71  EM9  HR3  RA37  RA71  T37  T92  UR88; CH7; 13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
           <category>#BelAir</category>
           <guid isPermaLink="false"><a href="/alert/update-physical-rescue-07202022-inc0434" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 20, 2022 - 09:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/physical-rescue-07202022-inc0434" hreflang="en">Physical Rescue 07/20/2022 INC#0434</a></title>
@@ -29,7 +51,7 @@
           <category>#BelAir</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-07202022-inc0434" hreflang="en">view</a></guid>
           <pubDate>Wednesday, July 20, 2022 - 08:58</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07192022-inc1574" hreflang="en">KNOCKDOWN Structure Fire 07/19/2022 INC#1574</a></title>
@@ -40,7 +62,7 @@
           <category>#Pacoima</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07192022-inc1574" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 19, 2022 - 22:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-07192022-inc1574" hreflang="en">Structure Fire 07/19/2022 INC#1574</a></title>
@@ -51,7 +73,7 @@
           <category>#Pacoima</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07192022-inc1574" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 19, 2022 - 21:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/jumper-07192022-inc1394" hreflang="en">Jumper 07/19/2022 INC#1394</a></title>
@@ -62,7 +84,7 @@
           <category>#SanPedro</category>
           <guid isPermaLink="false"><a href="/alert/jumper-07192022-inc1394" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 19, 2022 - 19:25</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07182022-inc1428" hreflang="en">KNOCKDOWN Structure Fire 07/18/2022 INC#1428</a></title>
@@ -73,7 +95,7 @@
           <category>#VermontKnolls</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07182022-inc1428" hreflang="en">view</a></guid>
           <pubDate>Monday, July 18, 2022 - 18:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-07182022-inc1428" hreflang="en">Structure Fire 07/18/2022 INC#1428</a></title>
@@ -84,7 +106,7 @@
           <category>Vermont Knolls</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07182022-inc1428" hreflang="en">view</a></guid>
           <pubDate>Monday, July 18, 2022 - 17:50</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/automobile-fire-07182022-inc0170" hreflang="en">Automobile Fire 07/18/2022 INC#0170</a></title>
@@ -95,29 +117,7 @@
           <category>Cypress Park</category>
           <guid isPermaLink="false"><a href="/alert/automobile-fire-07182022-inc0170" hreflang="en">view</a></guid>
           <pubDate>Monday, July 18, 2022 - 07:33</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/traffic-collision-07172022-inc1342" hreflang="en">Traffic Collision 07/17/2022 INC#1342</a></title>
-  <link><a href="/alert/traffic-collision-07172022-inc1342" hreflang="en">view</a></link>
-  <description>Traffic Collision; INC#1342; 06:34PM; 12201 Canyon Hill Av; MAP: &lt;a href="https://bit.ly/3ckOXjM" target="_blank" rel="noopener"&gt;https://bit.ly/3ckOXjM&lt;/a&gt;; #Sylmar; PRELIM: Solo vehicle into the rear of a one-story home. The briefly-trapped driver (unknown age / gender / condition / affiliation / circumstances) has been freed from the wreckage of their vehicle, and is being medically assessed by LAFD Paramedics. All occupants of the home are accounted for, and none have sustained injury. First arriving LAFD firefighters, including those specially trained and equipped in Urban Search and Rescue, will remain at the scene to assure safety and stabilize the residence, pending arrival of an inspector from the City's Department of Building &amp; Safety (ETA 8:00 PM). Media Inquiries: LAPD Valley Traffic Division (Incident #3239); FS 75; Batt 12; Valley Bureau; Council District 7; BC12  E18  E275  E298  E7  E98  EM15  HR3  RA7  RA98  T75  T98  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Traffic Collision</category>
-          <category>Valley</category>
-          <category>#Sylmar</category>
-          <guid isPermaLink="false"><a href="/alert/traffic-collision-07172022-inc1342" hreflang="en">view</a></guid>
-          <pubDate>Sunday, July 17, 2022 - 18:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-07162022-inc1125" hreflang="en">Contained -  Brush Fire 07/16/2022 INC#1125</a></title>
-  <link><a href="/alert/contained-brush-fire-07162022-inc1125" hreflang="en">view</a></link>
-  <description>Contained -  Brush Fire; INC#1125; 04:07PM; WB 210 Fwy x Roxford St; MAP: &lt;a href="https://bit.ly/3AWfwWE" target="_blank" rel="noopener"&gt;https://bit.ly/3AWfwWE&lt;/a&gt;; #Sylmar; First arriving LAFD ground crews have been able to stop forward progress of the three spot fires alongside the Foothill (I-210) Freeway between Bledsoe Street and Polk Street, at approximately one acre, and have released LAFD helicopters and Los Angeles County Fire Department / Angeles National Forest responders. No injury. No structures. No evacuation. LAFD personnel will remain at scene into this evening to check for hot spots and complete fire line control. Fire cause under investigation.; FS 91; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC10  BC12  E18  E275  E287  E290  E298  E7  E75  E8  E8140  E90  E91  EM14  H4  H5  H6  HA4  HA5  HA6  RA91  T75  T87  T90  T98 + LACoFD + ANF; CH5; 17; Brian Humphrey</description>
-  <category>Brush Fire</category>
-          <category>Valley</category>
-          <category>#Sylmar</category>
-          <guid isPermaLink="false"><a href="/alert/contained-brush-fire-07162022-inc1125" hreflang="en">view</a></guid>
-          <pubDate>Saturday, July 16, 2022 - 16:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=746f9323-0848-11ed-b84b-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
