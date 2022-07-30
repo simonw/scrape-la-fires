@@ -6,16 +6,49 @@
     <description/>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 29 Jul 2022 16:51:21 -0700</lastBuildDate>
-<pubDate>Friday, July 29, 2022 - 14:45</pubDate>
+<lastBuildDate>Sat, 30 Jul 2022 10:26:02 -0700</lastBuildDate>
+<pubDate>Saturday, July 30, 2022 - 10:25</pubDate>
 
     <item>
-  <title><a href="/alert/test-only-07292022-inc0000" hreflang="en">TEST ONLY 07/29/2022 INC#0000</a></title>
-  <link><a href="/alert/test-only-07292022-inc0000" hreflang="en">view</a></link>
-  <description>TEST ONLY; INC#0000; 02:45PM; Test ONLY;; Test. Test Only. LAFD Systems Test. No Action Required. Test Complete; West Bureau; LAFD Admin</description>
+  <title><a href="/alert/hiker-hoist-operation-07302022-inc0580" hreflang="en">Hiker - Hoist Operation 07/30/2022 INC#0580</a></title>
+  <link><a href="/alert/hiker-hoist-operation-07302022-inc0580" hreflang="en">view</a></link>
+  <description>Hiker - Hoist Operation; INC#0580; 10:00AM; 8310 La Tuna Canyon Rd; MAP: &lt;a href="https://bit.ly/3oInkEa" target="_blank" rel="noopener"&gt;https://bit.ly/3oInkEa&lt;/a&gt;; Shadow Hills; LAFD Aeromedics located the injured 30 year old male mountain biker who is alert and oriented.  The patient sustained, what appear to be on initial assessment, non-life threatening injuries. LAFD Air Ops will conduct a hoist operation and transport to the hospital. No further details.; FS 77; Batt 12; Valley Bureau; Council District 7; AO1  BC12  E260  E77  H4  H6  HA4  HA6  RA77  RA874  RH114  T60; CH8; 17; Margaret Stewart</description>
+  <category>Hiker - Hoist Operation</category>
+          <category>Valley</category>
+          <category>Shadow Hills</category>
+          <guid isPermaLink="false"><a href="/alert/hiker-hoist-operation-07302022-inc0580" hreflang="en">view</a></guid>
+          <pubDate>Saturday, July 30, 2022 - 10:25</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/update-structure-fire-knockdown-07302022-inc0348" hreflang="en">Update Structure Fire KNOCKDOWN 07/30/2022 INC#0348</a></title>
+  <link><a href="/alert/update-structure-fire-knockdown-07302022-inc0348" hreflang="en">view</a></link>
+  <description>Update KNOCKDOWN Structure Fire; INC#0348; 06:57AM; 563 N Heliotrope Dr; MAP: &lt;a href="https://bit.ly/3Q8AfLc" target="_blank" rel="noopener"&gt;https://bit.ly/3Q8AfLc&lt;/a&gt;; East Hollywood; KNOCKDOWN: 26 firefighters extinguished the fire in 20 minutes with no injuries reported. Firefighters remained in the offensive mode as they made entry and extinguished the fire on the 1st floor before making their way up to the 2nd floor and attic. Officers are inspecting the attic of the exposed building to ensure no extension occurred. Crews will remain on scene conducting overhaul operations. No further details.; FS 6; Batt 11; Central Bureau; Council District 13; BC11  E220  E235  E52  E6 RA6  T20  T35; CH9; 13; Margaret Stewart</description>
+  <category>Structure Fire</category>
+          <category>Central</category>
+          <category>East Hollywood</category>
+          <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-07302022-inc0348" hreflang="en">view</a></guid>
+          <pubDate>Saturday, July 30, 2022 - 06:59</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-07302022-inc0348" hreflang="en">Structure Fire 07/30/2022 INC#0348</a></title>
+  <link><a href="/alert/structure-fire-07302022-inc0348" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0348; 06:37AM; 563 N Heliotrope Dr; MAP: &lt;a href="https://bit.ly/3Q8AfLc" target="_blank" rel="noopener"&gt;https://bit.ly/3Q8AfLc&lt;/a&gt;; East Hollywood; Two story (reportedly vacant) single family dwelling with heavy fire showing. Initial reports of additional structures exposed. Firefighters are in the offensive mode.; FS 6; Batt 11; Central Bureau; Council District 13; BC11  E220  E235  E52  E6  T20  T35; CH9; 13; Margaret Stewart</description>
+  <category>Structure Fire</category>
+          <category>Central</category>
+          <category>East Hollywood</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-07302022-inc0348" hreflang="en">view</a></guid>
+          <pubDate>Saturday, July 30, 2022 - 06:47</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/test-only-07302022-inc0000" hreflang="en">TEST ONLY 07/30/2022 INC#0000</a></title>
+  <link><a href="/alert/test-only-07302022-inc0000" hreflang="en">view</a></link>
+  <description>TEST ONLY; INC#0000; 02:45PM; Test ONLY;; Test. Test Only. LAFD Systems Test. No Action Required. Test Complete  MS; West Bureau; LAFD Admin</description>
   <category>TEST ONLY</category>
           <category>West</category>
-          <guid isPermaLink="false"><a href="/alert/test-only-07292022-inc0000" hreflang="en">view</a></guid>
+          <guid isPermaLink="false"><a href="/alert/test-only-07302022-inc0000" hreflang="en">view</a></guid>
           <pubDate>Friday, July 29, 2022 - 14:45</pubDate>
           <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
@@ -83,39 +116,6 @@
           <category>#NorthHollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-07262022-inc1715" hreflang="en">view</a></guid>
           <pubDate>Tuesday, July 26, 2022 - 23:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-07262022-inc1311" hreflang="en">Contained -  Brush Fire 07/26/2022 INC#1311</a></title>
-  <link><a href="/alert/contained-brush-fire-07262022-inc1311" hreflang="en">view</a></link>
-  <description>Contained -  Brush Fire; INC#1311; 07:18PM; 15700 W Burbank Bl; MAP: &lt;a href="https://bit.ly/3aPmUFx" target="_blank" rel="noopener"&gt;https://bit.ly/3aPmUFx&lt;/a&gt;; #SepulvedaBasin; Thanks to precise water drops from a pair of quickly arriving LAFD helicopters, forward progress of the fire/s has been stopped in just 50 minutes. The 40 ground-based LAFD firefighters are finalizing control of the perimeter of the blaze with hand tools and hose lines. No final acreage estimate is available. No injury. No structures damaged. Fire cause under investigation.; FS 88; Batt 10; Valley Bureau; Council District 6; BC10  BC14  E100  E109  E239  E288  E290  E81  E88  E90  E99  EM14  H1  H2  HA1  HA2  RA83  T39  T88  T90  WT88; CH5; 17; Brian Humphrey</description>
-  <category>Brush Fire</category>
-          <category>Valley</category>
-          <category>#SepulvedaBasin</category>
-          <guid isPermaLink="false"><a href="/alert/contained-brush-fire-07262022-inc1311" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, July 26, 2022 - 19:28</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/brush-fire-07262022-inc1311" hreflang="en">Brush Fire 07/26/2022 INC#1311</a></title>
-  <link><a href="/alert/brush-fire-07262022-inc1311" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1311; 06:28PM; 15700 W Burbank Bl; MAP: &lt;a href="https://bit.ly/3aPmUFx" target="_blank" rel="noopener"&gt;https://bit.ly/3aPmUFx&lt;/a&gt;; #SepulvedaBasin; PRELIM: LAFD ground and air response to several spot fires in volatile light-to-medium density brush south of Burbank Boulevard. No road closure. No structure threat. No evacuation.; FS 88; Batt 10; Valley Bureau; Council District 6; BC10  BC14  E100  E109  E239  E288  E290  E81  E88  E90  E99  EM14  H1  H2  HA1  HA2  RA83  T39  T88  T90  WT88; CH5; 17; Brian Humphrey</description>
-  <category>Brush Fire</category>
-          <category>Valley</category>
-          <category>#SepulvedaBasin</category>
-          <guid isPermaLink="false"><a href="/alert/brush-fire-07262022-inc1311" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, July 26, 2022 - 19:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/traffic-collision-07262022-inc1158" hreflang="en">Traffic Collision 07/26/2022 INC#1158</a></title>
-  <link><a href="/alert/traffic-collision-07262022-inc1158" hreflang="en">view</a></link>
-  <description>Traffic Collision; INC#1158; 04:47PM; 13750 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/3zy7qCK" target="_blank" rel="noopener"&gt;https://bit.ly/3zy7qCK&lt;/a&gt;; #PanoramaCity; PRELIM: Pickup Truck towing a concrete pumping trailer entered a gas station, striking three vehicles, knocking over one fuel pump and causing 11 persons (6 adults / 5 children) to sustain minor injuries. No fire. No entrapment. Minor fuel spill on premises only. Four of the patients have declined offered ambulance transportation. The remaining seven ( unknown age / gender / affiliation ) will be taken to area hospitals for further evaluation of their non-life threatening injuries. No street or lane closures. Media Inquiries: LAPD Valley Traffic Division (Incident #3253).; FS 81; Batt 10; Valley Bureau; Council District 6; E290  E81  RA81  RA881  RA891  T90; CH8; Brian Humphrey</description>
-  <category>Traffic Collision</category>
-          <category>Valley</category>
-          <category>#PanoramaCity</category>
-          <guid isPermaLink="false"><a href="/alert/traffic-collision-07262022-inc1158" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, July 26, 2022 - 17:29</pubDate>
           <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
