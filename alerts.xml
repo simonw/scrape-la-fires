@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5"/>
-<lastBuildDate>Sun, 11 Sep 2022 21:14:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 12 Sep 2022 16:36:02 -0700</lastBuildDate>
 <pubDate>Sunday, September 11, 2022 - 04:36</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#SouthPark</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-09112022-inc0156" hreflang="en">view</a></guid>
           <pubDate>Sunday, September 11, 2022 - 04:36</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-09112022-inc0156" hreflang="en">Update Major Emergency Structure Fire 09/11/2022 INC#0156</a></title>
@@ -29,7 +29,7 @@
           <category>#SouthPark</category>
           <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-09112022-inc0156" hreflang="en">view</a></guid>
           <pubDate>Sunday, September 11, 2022 - 03:39</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/major-emergency-structure-fire-09112022-inc0156" hreflang="en">Major Emergency Structure Fire 09/11/2022 INC#0156</a></title>
@@ -40,7 +40,7 @@
           <category>#SouthPark</category>
           <guid isPermaLink="false"><a href="/alert/major-emergency-structure-fire-09112022-inc0156" hreflang="en">view</a></guid>
           <pubDate>Sunday, September 11, 2022 - 03:16</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-09072022-inc1187" hreflang="en">Knockdown -  Brush Fire 09/07/2022 INC#1187</a></title>
@@ -51,7 +51,7 @@
           <category>#ElysianPark</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-09072022-inc1187" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 15:45</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-09072022-inc1187" hreflang="en">Brush Fire 09/07/2022 INC#1187</a></title>
@@ -62,7 +62,7 @@
           <category>#ElysianPark</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-09072022-inc1187" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 15:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-09072022-inc0332" hreflang="en">Structure Fire - Now Out 09/07/2022 INC#0332</a></title>
@@ -73,7 +73,7 @@
           <category>#Sawtelle</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-09072022-inc0332" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 07:04</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09072022-inc0230" hreflang="en">KNOCKDOWN Structure Fire 09/07/2022 INC#0230</a></title>
@@ -84,7 +84,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09072022-inc0230" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 05:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-09072022-inc0230" hreflang="en">Structure Fire 09/07/2022 INC#0230</a></title>
@@ -95,7 +95,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-09072022-inc0230" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 04:28</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09072022-inc0130" hreflang="en">KNOCKDOWN Structure Fire 09/07/2022 INC#0130</a></title>
@@ -106,7 +106,7 @@
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09072022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 03:50</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09072022-inc0130" hreflang="en">Greater Alarm Structure Fire 09/07/2022 INC#0130</a></title>
@@ -117,7 +117,7 @@
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09072022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 7, 2022 - 03:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6c3a22aa-3251-11ed-b84c-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
