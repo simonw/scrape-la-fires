@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5"/>
-<lastBuildDate>Thu, 15 Sep 2022 10:00:45 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 15 Sep 2022 14:24:27 -0700</lastBuildDate>
 <pubDate>Thursday, September 15, 2022 - 07:14</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>Watts</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-09152022-inc0301" hreflang="en">view</a></guid>
           <pubDate>Thursday, September 15, 2022 - 07:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-09152022-inc0301" hreflang="en">Structure Fire 09/15/2022 INC#0301</a></title>
@@ -29,7 +29,7 @@
           <category>Watts</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-09152022-inc0301" hreflang="en">view</a></guid>
           <pubDate>Thursday, September 15, 2022 - 07:00</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-09142022-inc1501" hreflang="en">Update Structure Fire KNOCKDOWN 09/14/2022 INC#1501</a></title>
@@ -40,7 +40,7 @@
           <category>Sun Valley</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-09142022-inc1501" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 18:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-09142022-inc1501" hreflang="en">Structure Fire 09/14/2022 INC#1501</a></title>
@@ -51,7 +51,7 @@
           <category>Sun Valley</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-09142022-inc1501" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 18:45</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/auto-fire-now-out-09142022-inc1429" hreflang="en">Auto Fire - Now Out 09/14/2022 INC#1429</a></title>
@@ -62,7 +62,7 @@
           <category>Sun Valley</category>
           <guid isPermaLink="false"><a href="/alert/auto-fire-now-out-09142022-inc1429" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 18:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-09142022-inc0422" hreflang="en">Update Structure Fire KNOCKDOWN 09/14/2022 INC#0422</a></title>
@@ -73,7 +73,7 @@
           <category>Mid-City</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-09142022-inc0422" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 08:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-09142022-inc0422" hreflang="en">Structure Fire 09/14/2022 INC#0422</a></title>
@@ -84,7 +84,7 @@
           <category>Mid-City</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-09142022-inc0422" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 08:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-09142022-inc0160" hreflang="en">Update Structure Fire KNOCKDOWN 09/14/2022 INC#0160</a></title>
@@ -95,7 +95,7 @@
           <category>Westlake</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-09142022-inc0160" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 04:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-09142022-inc0160" hreflang="en">Structure Fire 09/14/2022 INC#0160</a></title>
@@ -106,7 +106,7 @@
           <category>Westlake</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-09142022-inc0160" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 04:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/confined-space-rescue-09142022-inc0033" hreflang="en">Confined Space Rescue 09/14/2022 INC#0033</a></title>
@@ -117,7 +117,7 @@
           <category>Westchester</category>
           <guid isPermaLink="false"><a href="/alert/confined-space-rescue-09142022-inc0033" hreflang="en">view</a></guid>
           <pubDate>Wednesday, September 14, 2022 - 01:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=efc3a9a3-3517-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
