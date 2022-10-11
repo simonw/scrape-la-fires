@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5"/>
-<lastBuildDate>Mon, 10 Oct 2022 12:16:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 11 Oct 2022 04:58:02 -0700</lastBuildDate>
 <pubDate>Monday, October 10, 2022 - 12:16</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>West Los Angeles</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10102022-inc0703" hreflang="en">view</a></guid>
           <pubDate>Monday, October 10, 2022 - 12:16</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-10102022-inc0703" hreflang="en">Structure Fire 10/10/2022 INC#0703</a></title>
@@ -29,7 +29,7 @@
           <category>West Los Angeles</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-10102022-inc0703" hreflang="en">view</a></guid>
           <pubDate>Monday, October 10, 2022 - 12:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10102022-inc0201" hreflang="en">KNOCKDOWN Structure Fire 10/10/2022 INC#0201</a></title>
@@ -40,7 +40,7 @@
           <category>Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10102022-inc0201" hreflang="en">view</a></guid>
           <pubDate>Monday, October 10, 2022 - 06:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-controlled-10102022-inc0201" hreflang="en">Update Structure Fire CONTROLLED 10/10/2022 INC#0201</a></title>
@@ -51,7 +51,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-controlled-10102022-inc0201" hreflang="en">view</a></guid>
           <pubDate>Monday, October 10, 2022 - 05:18</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-10102022-inc0201" hreflang="en">Structure Fire 10/10/2022 INC#0201</a></title>
@@ -62,7 +62,7 @@
           <category>#Winnetka</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-10102022-inc0201" hreflang="en">view</a></guid>
           <pubDate>Monday, October 10, 2022 - 04:57</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/orcasfire-contained-brush-fire-10062022-inc0778" hreflang="en">#OrcasFire - Contained -  Brush Fire 10/06/2022 INC#0778</a></title>
@@ -75,7 +75,7 @@
           <category>#LakeViewTerrace</category>
           <guid isPermaLink="false"><a href="/alert/orcasfire-contained-brush-fire-10062022-inc0778" hreflang="en">view</a></guid>
           <pubDate>Thursday, October 6, 2022 - 13:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/orcasfire-brush-fire-10062022-inc0778" hreflang="en">#OrcasFire -  Brush Fire 10/06/2022 INC#0778</a></title>
@@ -86,7 +86,7 @@
           <category>#LakeViewTerrace</category>
           <guid isPermaLink="false"><a href="/alert/orcasfire-brush-fire-10062022-inc0778" hreflang="en">view</a></guid>
           <pubDate>Thursday, October 6, 2022 - 12:50</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/contained-brush-fire-10052022-inc1445" hreflang="en">Contained -  Brush Fire 10/05/2022 INC#1445</a></title>
@@ -97,7 +97,7 @@
           <category>#LakeViewTerrace</category>
           <guid isPermaLink="false"><a href="/alert/contained-brush-fire-10052022-inc1445" hreflang="en">view</a></guid>
           <pubDate>Wednesday, October 5, 2022 - 20:50</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-10052022-inc1445" hreflang="en">Brush Fire 10/05/2022 INC#1445</a></title>
@@ -108,7 +108,7 @@
           <category>#LakeViewTerrace</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-10052022-inc1445" hreflang="en">view</a></guid>
           <pubDate>Wednesday, October 5, 2022 - 19:56</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/contained-brush-fire-10052022-inc0840" hreflang="en">Contained -  Brush Fire 10/05/2022 INC#0840</a></title>
@@ -119,7 +119,7 @@
           <category>LakeViewTerrace</category>
           <guid isPermaLink="false"><a href="/alert/contained-brush-fire-10052022-inc0840" hreflang="en">view</a></guid>
           <pubDate>Wednesday, October 5, 2022 - 14:33</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=11915779-48d0-11ed-b84d-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
