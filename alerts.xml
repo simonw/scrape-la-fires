@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 04 Nov 2022 04:07:18 -0700</lastBuildDate>
-<pubDate>Friday, November 4, 2022 - 04:07</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5"/>
+<lastBuildDate>Fri, 04 Nov 2022 19:10:41 -0700</lastBuildDate>
+<pubDate>Friday, November 4, 2022 - 17:35</pubDate>
 
     <item>
+  <title><a href="/alert/update-major-emergency-structure-fire-11042022-inc0088" hreflang="en">Update Major Emergency Structure Fire 11/04/2022 INC#0088</a></title>
+  <link><a href="/alert/update-major-emergency-structure-fire-11042022-inc0088" hreflang="en">view</a></link>
+  <description>Update Major Emergency Structure Fire; INC#0088; 05:35PM; 3133 E 12th St; MAP: &lt;a href="https://bit.ly/3T6fgtQ" target="_blank" rel="noopener"&gt;https://bit.ly/3T6fgtQ&lt;/a&gt;; #BoyleHeights; LAFD Firefighters continue to operate at the scene of this morning's predawn fire that destroyed a one-story commercial building fully involved with fire on firefighters arrival. We are pleased to confirm there have been no responder or civilian injuries reported, as stubborn flames have been accessed and extinguished, and the building's immediate physical hazards abated through the strategic use of specialized LAFD heavy equipment, including the RS3 Robotic Firefighting Vehicle and an LAFD Excavator. Though the building housed smoking products, including a large amount of tobacco, firefighters are not aware of any specific hazard related to smoke from the fire, which was largely extinguished at 3:08 AM. As the burning tobacco naturally contained nicotine, firefighters took efforts to prevent personal contact with contaminants and to contain water runoff, so that it could be serially tested by LAFD, health and environmental officials. Anyone who may have come into contact with water runoff from this fire, is encouraged to wash thoroughly with soap and water, so as to limit any health concerns related to nicotine exposure. LAFD efforts, including a formal fire cause investigation will continue at the scene this evening.; FS 17; Batt 1; Central Bureau; Council District 14; Dispatched LAFD Units: AR1  AR17  BC1  BC11  BC13  BC5  CM20  CM21  CM22  E1  E14  E15  E16  E17  E2  E20  E201  E202  E203  E209  E21  E210  E211  E220  E221  E25  E250  E3  E4  E43  E9  EA1  EM1  EM11  HE2  HR3  JT1  JT2  RA17  RA2  RA25  RA3  RA803  RS3  SQ21  T1  T10  T11  T2  T20  T21  T3  T50  T9  UR3  UR88; CH7; 13; - Brian Humphrey</description>
+  <category>Major Emergency Structure Fire</category>
+          <category>Central</category>
+          <category>#BoyleHeights</category>
+          <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-11042022-inc0088" hreflang="en">view</a></guid>
+          <pubDate>Friday, November 4, 2022 - 17:35</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-11042022-inc0088" hreflang="en">KNOCKDOWN Structure Fire 11/04/2022 INC#0088</a></title>
   <link><a href="/alert/knockdown-structure-fire-11042022-inc0088" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0088; 03:08AM; 3133 E 12th St; MAP: &lt;a href="https://bit.ly/3UmHTUw" target="_blank" rel="noopener"&gt;https://bit.ly/3UmHTUw&lt;/a&gt;; #BoyleHeights; Over 120 firefighters battled the commercial blaze relentlessly for one hour and 33 minutes in defensive mode, utilizing heavy streams including ladder pipes. With the help of RS3's remote firefighting capabilities, the flames were extinguished without injury. The cause of the fire is under investigation.; FS 17; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC13  BC5  CM20  CM21  CM22  E14  E15  E17  E2  E201  E202  E203  E209  E21  E210  E211  E220  E221  E25  E3  E4  E9  EA1  EM1  EM11  HE2  HR3  RA17  RA2  RA25  RA3  RA803  RS3  SQ21  T1  T10  T11  T2  T20  T21  T3  T9  UR3  UR88; CH7; 13  14; Nicholas Prange</description>
@@ -18,7 +29,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11042022-inc0088" hreflang="en">view</a></guid>
           <pubDate>Friday, November 4, 2022 - 04:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11042022-inc0088" hreflang="en">Structure Fire 11/04/2022 INC#0088</a></title>
@@ -29,7 +40,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11042022-inc0088" hreflang="en">view</a></guid>
           <pubDate>Friday, November 4, 2022 - 02:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11032022-inc1677" hreflang="en">KNOCKDOWN Structure Fire 11/03/2022 INC#1677</a></title>
@@ -40,7 +51,7 @@
           <category>#PanoramaCity</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11032022-inc1677" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 3, 2022 - 21:05</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11032022-inc1677" hreflang="en">Structure Fire 11/03/2022 INC#1677</a></title>
@@ -51,7 +62,7 @@
           <category>#PanoramaCity</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11032022-inc1677" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 3, 2022 - 20:51</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11032022-inc1304" hreflang="en">KNOCKDOWN Structure Fire 11/03/2022 INC#1304</a></title>
@@ -62,7 +73,7 @@
           <category>#Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11032022-inc1304" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 3, 2022 - 18:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11032022-inc1304" hreflang="en">Structure Fire 11/03/2022 INC#1304</a></title>
@@ -73,7 +84,7 @@
           <category>#Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11032022-inc1304" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 3, 2022 - 16:55</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-collision-fire-11012022-inc1625" hreflang="en">Update Traffic Collision with Fire 11/01/2022 INC#1625</a></title>
@@ -84,7 +95,7 @@
           <category>#WoodlandHills</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-fire-11012022-inc1625" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 1, 2022 - 21:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-fire-11012022-inc1625" hreflang="en">Traffic Collision with Fire 11/01/2022 INC#1625</a></title>
@@ -95,7 +106,7 @@
           <category>#WoodlandHills</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-fire-11012022-inc1625" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 1, 2022 - 21:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fire-now-out-11012022-inc1354" hreflang="en">Fire - Now Out 11/01/2022 INC#1354</a></title>
@@ -106,18 +117,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/fire-now-out-11012022-inc1354" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 1, 2022 - 18:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/pedestrian-struck-10312022-inc1698" hreflang="en">Pedestrian Struck 10/31/2022 INC#1698</a></title>
-  <link><a href="/alert/pedestrian-struck-10312022-inc1698" hreflang="en">view</a></link>
-  <description>Pedestrian Struck; INC#1698; 09:09PM; 1234 E Washington Bl; MAP: &lt;a href="https://bit.ly/3TMgVpv" target="_blank" rel="noopener"&gt;https://bit.ly/3TMgVpv&lt;/a&gt;; #CentralAlameda; PRELIM: Approximately 35 year-old male pedestrian found with life-threatening injuries adjacent to the Metro 'A' (Blue) Line light rail tracks, after apparently being struck by an (unknown direction) light rail passenger train that remained at scene. The patient has been transported by LAFD Paramedics to a regional trauma center in Critical condition. No other injuries reported. Metro 'A' Line Riders: Follow @MetroLAAlerts https://twitter.com/MetroLAAlerts on Twitter for any related service issues. Media Inquiries: LAPD Central Traffic Division (Incident #3890) and Metro.; FS 14; Batt 1; Central Bureau; Council District 9; BC1  BC11  E10  E209  E210  E9  EM1  HR3  RA17  RA209  T10  T9; CH7; 14; - Brian Humphrey</description>
-  <category>Pedestrian Struck</category>
-          <category>Central</category>
-          <category>#CentralAlameda</category>
-          <guid isPermaLink="false"><a href="/alert/pedestrian-struck-10312022-inc1698" hreflang="en">view</a></guid>
-          <pubDate>Monday, October 31, 2022 - 21:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0bcf8d20-5caf-11ed-b865-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
