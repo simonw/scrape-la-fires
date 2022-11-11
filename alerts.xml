@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5"/>
-<lastBuildDate>Thu, 10 Nov 2022 13:32:42 -0800</lastBuildDate>
-<pubDate>Thursday, November 10, 2022 - 07:25</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 11 Nov 2022 04:52:49 -0800</lastBuildDate>
+<pubDate>Friday, November 11, 2022 - 04:52</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-11112022-inc0202" hreflang="en">KNOCKDOWN Structure Fire 11/11/2022 INC#0202</a></title>
+  <link><a href="/alert/knockdown-structure-fire-11112022-inc0202" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0202; 04:38AM; 7820 N Ampere Av; MAP: &lt;a href="https://bit.ly/3UQPf34" target="_blank" rel="noopener"&gt;https://bit.ly/3UQPf34&lt;/a&gt;; #SunValley; It took 28 firefighters 34 minutes to extinguish the flames consuming a one-story home. No reported injuries. Cause under investigation.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E239  E290  E7  E81  RA89  T39  T90; CH8; 18; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>Valley</category>
+          <category>#SunValley</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11112022-inc0202" hreflang="en">view</a></guid>
+          <pubDate>Friday, November 11, 2022 - 04:52</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-11112022-inc0202" hreflang="en">Structure Fire 11/11/2022 INC#0202</a></title>
+  <link><a href="/alert/structure-fire-11112022-inc0202" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0202; 04:04AM; 7820 N Ampere Av; MAP: &lt;a href="https://bit.ly/3UQPf34" target="_blank" rel="noopener"&gt;https://bit.ly/3UQPf34&lt;/a&gt;; #SunValley; One-story single-family home with heavy fire showing. Offensive mode.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E239  E290  E7  E81  RA89  T39  T90; CH9; 18; Nicholas Prange</description>
+  <category>Structure Fire</category>
+          <category>Valley</category>
+          <category>#SunValley</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-11112022-inc0202" hreflang="en">view</a></guid>
+          <pubDate>Friday, November 11, 2022 - 04:35</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-11102022-inc0323" hreflang="en">KNOCKDOWN Structure Fire 11/10/2022 INC#0323</a></title>
   <link><a href="/alert/knockdown-structure-fire-11102022-inc0323" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0323; 07:02AM; 728 S Hartford Av; MAP: &lt;a href="https://bit.ly/3cn0c8T" target="_blank" rel="noopener"&gt;https://bit.ly/3cn0c8T&lt;/a&gt;; #Westlake; It took 36 firefighters to access, confine, and extinguish fire that involved contents on the second floor, and spread to the walls and attic of a boarded-up two-story home, in 18 minutes. Firefighters pushed flames back away from an adjacent apartment building, containing the damage to the unit of origin. Four occupants were found inside the home and evacuated, but declined on-scene medical evaluation. No reported injuries. The cause of the fire is under investigation.; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  CM20  CM22  E10  E11  E13  E203  E209  E210  E211  EM11  RA10  RA11  RA811  RA9  SQ21  T10  T11  T3; CH7; 13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11102022-inc0323" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 10, 2022 - 07:25</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11102022-inc0323" hreflang="en">Structure Fire 11/10/2022 INC#0323</a></title>
@@ -29,7 +51,7 @@
           <category>#Westlake</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11102022-inc0323" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 10, 2022 - 07:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/complete-physical-rescue-11092022-inc0440" hreflang="en">Complete Physical Rescue 11/09/2022 INC#0440</a></title>
@@ -40,7 +62,7 @@
           <category>#Northridge</category>
           <guid isPermaLink="false"><a href="/alert/complete-physical-rescue-11092022-inc0440" hreflang="en">view</a></guid>
           <pubDate>Wednesday, November 9, 2022 - 09:20</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/physical-rescue-11092022-inc0440" hreflang="en">Physical Rescue 11/09/2022 INC#0440</a></title>
@@ -51,7 +73,7 @@
           <category>#Northridge</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-11092022-inc0440" hreflang="en">view</a></guid>
           <pubDate>Wednesday, November 9, 2022 - 08:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/auto-vs-pedestrian-fatality-11092022-inc0254" hreflang="en">Auto vs. Pedestrian - Fatality 11/09/2022 INC#0254</a></title>
@@ -62,7 +84,7 @@
           <category>#MidCity</category>
           <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrian-fatality-11092022-inc0254" hreflang="en">view</a></guid>
           <pubDate>Wednesday, November 9, 2022 - 07:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-full-river-rescue-11082022-inc1553" hreflang="en">Update Full River Rescue 11/08/2022 INC#1553</a></title>
@@ -73,7 +95,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/update-full-river-rescue-11082022-inc1553" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 8, 2022 - 17:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/full-river-rescue-11082022-inc1553-0" hreflang="en">Full River Rescue 11/08/2022 INC#1553</a></title>
@@ -84,7 +106,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/full-river-rescue-11082022-inc1553-0" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 8, 2022 - 17:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/full-river-rescue-11082022-inc1553" hreflang="en">Full River Rescue 11/08/2022 INC#1553</a></title>
@@ -95,29 +117,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/full-river-rescue-11082022-inc1553" hreflang="en">view</a></guid>
           <pubDate>Tuesday, November 8, 2022 - 17:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/concluded-river-rescue-11082022-inc0431" hreflang="en">CONCLUDED River Rescue 11/08/2022 INC#0431</a></title>
-  <link><a href="/alert/concluded-river-rescue-11082022-inc0431" hreflang="en">view</a></link>
-  <description>CONCLUDED River Rescue; INC#0431; 08:46AM; Nb 110 Fy; MAP: &lt;a href="https://bit.ly/3EgdWQO" target="_blank" rel="noopener"&gt;https://bit.ly/3EgdWQO&lt;/a&gt;; Cypress Park; After a thorough search from both air and ground, LAFD confirmed there are no victims in the water. All LAFD resources are being released and this incident is being transitioned to LA County Fire Department @lacofdpio (as it is deep into the City of Vernon) for any additional needs. No further details.; FS 1; Batt 2; Central Bureau; Council District 1; AO1  BC1  BC11  CM20  CM22  E1  E10  E13  E14  E201  E209  E21  E220  E226  EM11  H1  H2  H4  HA1  HA2  HA4  HR3  RA17  RA814  SC1  SW44  SW88  T1  T20  T26  UA1  UA6  UR88; CH5; 14  15; Margaret Stewart</description>
-  <category>River Rescue</category>
-          <category>Central</category>
-          <category>Cypress Park</category>
-          <guid isPermaLink="false"><a href="/alert/concluded-river-rescue-11082022-inc0431" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, November 8, 2022 - 08:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-river-rescue-11082022-inc0431" hreflang="en">Update River Rescue 11/08/2022 INC#0431</a></title>
-  <link><a href="/alert/update-river-rescue-11082022-inc0431" hreflang="en">view</a></link>
-  <description>Update River Rescue; INC#0431; 08:12AM; Nb 110 Fy; MAP: &lt;a href="https://bit.ly/3EgdWQO" target="_blank" rel="noopener"&gt;https://bit.ly/3EgdWQO&lt;/a&gt;; Cypress Park; Both vehicles (white minivan and black sedan) appear to be unoccupied. Firefighters on the ground and helicopters now on scene are scouring the river to determine if there are any victims in the water. ; FS 1; Batt 2; Central Bureau; Council District 1; AO1  BC1  BC11  CM20  CM22  E1  E10  E13  E14  E201  E209  E220  E226  EM11  H1  H2  H4  HA1  HA2  HA4  HR3  RA17  RA814  SC1  SW44  SW88  T1  T20  T26  UA1  UA6  UR88; CH5; 14  15; Margaret Stewart</description>
-  <category>River Rescue</category>
-          <category>Central</category>
-          <category>Cypress Park</category>
-          <guid isPermaLink="false"><a href="/alert/update-river-rescue-11082022-inc0431" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, November 8, 2022 - 08:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=345a8cc9-613f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
