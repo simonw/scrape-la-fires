@@ -6,10 +6,21 @@
     <description/>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 11 Nov 2022 20:51:24 -0800</lastBuildDate>
-<pubDate>Friday, November 11, 2022 - 20:51</pubDate>
+<lastBuildDate>Sat, 12 Nov 2022 08:44:02 -0800</lastBuildDate>
+<pubDate>Saturday, November 12, 2022 - 08:43</pubDate>
 
     <item>
+  <title><a href="/alert/multipatient-medical-11122022-inc0430" hreflang="en">Multi-Patient Medical 11/12/2022 INC#0430</a></title>
+  <link><a href="/alert/multipatient-medical-11122022-inc0430" hreflang="en">view</a></link>
+  <description>Multi-Patient Medical; INC#0430; 08:01AM; 16950 W Blackhawk St; MAP: &lt;a href="https://bit.ly/3EoBqmW" target="_blank" rel="noopener"&gt;https://bit.ly/3EoBqmW&lt;/a&gt;; #GranadaHills; LAFD crews arrived to find 5 patients in need of medical assistance (possible overdose). One firefighter-paramedic was deemed the designated point of contact with the Medical Alert Center to coordinate care and transport of patients. A total of 5 patients were treated and transported to the hospital. (*Approximate* Ages/Genders: 26F, 30F, 30F, 30M, 40M; Unknown conditions) LAPD Inc #985.; FS 87; Batt 15; Valley Bureau; Council District 12; BC12  BC15  CM40  CM42  E18  E275  E287  E70  E87  EM14  EM15  EM17  RA107  RA18  RA7  RA70  RA75  RA87  T75  T87; CH8; 17; Nicholas Prange</description>
+  <category>Multi-Patient Medical</category>
+          <category>Valley</category>
+          <category>#GranadaHills</category>
+          <guid isPermaLink="false"><a href="/alert/multipatient-medical-11122022-inc0430" hreflang="en">view</a></guid>
+          <pubDate>Saturday, November 12, 2022 - 08:43</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-11112022-inc1559" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 11/11/2022 INC#1559</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-11112022-inc1559" hreflang="en">view</a></link>
   <description>KNOCKDOWN Greater Alarm Structure Fire; INC#1559; 08:39PM; 989 S St Andrews Pl; MAP: &lt;a href="https://bit.ly/3ynREs4" target="_blank" rel="noopener"&gt;https://bit.ly/3ynREs4&lt;/a&gt;; #Koreatown; Firefighters arrived to find a previously burned home with heavy fire showing. Crews employed defensive tactics (from the exterior) to pour copious amounts of water onto the flames. It took over 70 firefighters one hour and five minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 29; Batt 11; Central Bureau; Council District 5; BC11  BC18  BC5  BC705  CM20  CM22  E11  E211  E227  E229  E235  E26  E261  E27  E29  E6  E61  EM11  HR3  RA35  RA61  T11  T27  T29  T35  T61  UR27  UR88; CH7; 14  16; Nicholas Prange</description>
@@ -106,17 +117,6 @@
           <category>#MidCity</category>
           <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrian-fatality-11092022-inc0254" hreflang="en">view</a></guid>
           <pubDate>Wednesday, November 9, 2022 - 07:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/update-full-river-rescue-11082022-inc1553" hreflang="en">Update Full River Rescue 11/08/2022 INC#1553</a></title>
-  <link><a href="/alert/update-full-river-rescue-11082022-inc1553" hreflang="en">view</a></link>
-  <description>Update Full River Rescue; INC#1553; 05:22PM; 2750 E Washington Bl; MAP: &lt;a href="https://bit.ly/3zZvQoB" target="_blank" rel="noopener"&gt;https://bit.ly/3zZvQoB&lt;/a&gt;; Boyle Heights; This incident has moved deep into the County of Los Angeles and Incident Command is transitioning to LA County Fire Department with LAFD Air Ops remaining on scene to assist. All LAFD ground resources are being released. For further updates, follow @lacofdpio . No further details.; FS 17; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC5  BC705  CM20  CM22  E209  E21  E221  E25  E3  E9  EM1  EM11  H1  H3  H4  HA1  HA3  HA4  HR3  RA17  RA2  SC1  SW44  SW89  T21  T9  UR88; CH5; 13  14; Margaret Stewart</description>
-  <category>Full River Rescue</category>
-          <category>Central</category>
-          <category>Boyle Heights</category>
-          <guid isPermaLink="false"><a href="/alert/update-full-river-rescue-11082022-inc1553" hreflang="en">view</a></guid>
-          <pubDate>Tuesday, November 8, 2022 - 17:22</pubDate>
           <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
