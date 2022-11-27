@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5"/>
-<lastBuildDate>Fri, 25 Nov 2022 19:17:40 -0800</lastBuildDate>
-<pubDate>Friday, November 25, 2022 - 19:17</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 26 Nov 2022 17:08:02 -0800</lastBuildDate>
+<pubDate>Saturday, November 26, 2022 - 12:29</pubDate>
 
     <item>
+  <title><a href="/alert/stuck-elevator-11262022-inc0760" hreflang="en">Stuck Elevator 11/26/2022 INC#0760</a></title>
+  <link><a href="/alert/stuck-elevator-11262022-inc0760" hreflang="en">view</a></link>
+  <description>Stuck Elevator; INC#0760; 12:14PM; 7s Lax; MAP: &lt;a href="https://bit.ly/3gJxdRD" target="_blank" rel="noopener"&gt;https://bit.ly/3gJxdRD&lt;/a&gt;; Westchester; A power outage at the Los Angeles International Airport has resulted in over a dozen "stuck elevator" calls since approximately 11:30AM.  There are no reported injuries and the exact number of persons trapped is not known. Firefighters are continuing to address any stuck elevators throughout the facility. Any media questions regarding the power outage are referred to LAWA officials. No further details. (This incident number is being used for the command team on site running the incident while the individual 'stuck elevator' calls each carry their own incident number); FS 51; Batt 4; West Bureau; Council District 11; BC4  E264  T64; CH7; Margaret Stewart</description>
+  <category>Stuck Elevator</category>
+          <category>West</category>
+          <category>Westchester</category>
+          <guid isPermaLink="false"><a href="/alert/stuck-elevator-11262022-inc0760" hreflang="en">view</a></guid>
+          <pubDate>Saturday, November 26, 2022 - 12:29</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/update-structure-fire-11252022-inc1312-1" hreflang="en">Update Structure Fire 11/25/2022 INC#1312</a></title>
   <link><a href="/alert/update-structure-fire-11252022-inc1312-1" hreflang="en">view</a></link>
   <description>Update Structure Fire; INC#1312; 07:17PM; 18540 W Collins St; MAP: &lt;a href="https://bit.ly/3F3DOQr" target="_blank" rel="noopener"&gt;https://bit.ly/3F3DOQr&lt;/a&gt;; Tarzana; A total of two patients were transport: One patient (27 yo F) in fair condition with possible smoke inhalation. One patient 45yo F (unknown condition) with unspecified injuries. No further details.; FS 93; Batt 17; Valley Bureau; Council District 3; AR1  BC15  BC17  CM40  CM42  E100  E273  E288  E293  E83  E84  E90  E93  EA1  EM17  RA100  RA84  RA88  RA96  T73  T88  T93; CH8; 17; Margaret Stewart</description>
@@ -18,7 +29,7 @@
           <category>Tarzana</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-11252022-inc1312-1" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 19:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11252022-inc1312" hreflang="en">KNOCKDOWN Structure Fire 11/25/2022 INC#1312</a></title>
@@ -29,7 +40,7 @@
           <category>Tarzana</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11252022-inc1312" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 18:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-11252022-inc1312-0" hreflang="en">Update Structure Fire 11/25/2022 INC#1312</a></title>
@@ -40,7 +51,7 @@
           <category>Tarzana</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-11252022-inc1312-0" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 18:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-11252022-inc1312" hreflang="en">Update Structure Fire 11/25/2022 INC#1312</a></title>
@@ -51,7 +62,7 @@
           <category>Tarzana</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-11252022-inc1312" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 18:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11252022-inc1312" hreflang="en">Structure Fire 11/25/2022 INC#1312</a></title>
@@ -62,7 +73,7 @@
           <category>Tarzana</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11252022-inc1312" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 18:34</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11252022-inc0514" hreflang="en">KNOCKDOWN Structure Fire 11/25/2022 INC#0514</a></title>
@@ -73,7 +84,7 @@
           <category>Highland Park</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11252022-inc0514" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 10:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11252022-inc0514" hreflang="en">Structure Fire 11/25/2022 INC#0514</a></title>
@@ -84,7 +95,7 @@
           <category>Highland Park</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11252022-inc0514" hreflang="en">view</a></guid>
           <pubDate>Friday, November 25, 2022 - 09:51</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11242022-inc1727" hreflang="en">KNOCKDOWN Structure Fire 11/24/2022 INC#1727</a></title>
@@ -95,7 +106,7 @@
           <category>#Fairfax</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11242022-inc1727" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 24, 2022 - 21:57</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11242022-inc1727" hreflang="en">Structure Fire 11/24/2022 INC#1727</a></title>
@@ -106,18 +117,7 @@
           <category>#Fairfax</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11242022-inc1727" hreflang="en">view</a></guid>
           <pubDate>Thursday, November 24, 2022 - 21:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-11232022-inc1629" hreflang="en">KNOCKDOWN Structure Fire 11/23/2022 INC#1629</a></title>
-  <link><a href="/alert/knockdown-structure-fire-11232022-inc1629" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1629; 09:26PM; 7707 N Melita Av; MAP: &lt;a href="https://bit.ly/3Xr6gml" target="_blank" rel="noopener"&gt;https://bit.ly/3Xr6gml&lt;/a&gt;; Sun Valley; KNOCKDOWN: 18 firefighters extinguished the fire in 24 minutes with no injuries reported. Cause and $ loss TBD. No further details.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E239  E289  E81  RA89  T39  T89; CH9; 17; Margaret Stewart</description>
-  <category>Structure Fire</category>
-          <category>Valley</category>
-          <category>Sun Valley</category>
-          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11232022-inc1629" hreflang="en">view</a></guid>
-          <pubDate>Wednesday, November 23, 2022 - 21:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e201a632-6d38-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
