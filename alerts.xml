@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5"/>
-<lastBuildDate>Sun, 27 Nov 2022 20:11:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 28 Nov 2022 09:13:35 -0800</lastBuildDate>
 <pubDate>Sunday, November 27, 2022 - 19:30</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-11272022-inc1390" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 19:30</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-11272022-inc0833" hreflang="en">Brush Fire 11/27/2022 INC#0833</a></title>
@@ -29,7 +29,7 @@
           <category>#Chatsworth</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-11272022-inc0833" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 13:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fatality-traffic-collision-11272022-inc0696" hreflang="en">Fatality Traffic Collision 11/27/2022 INC#0696</a></title>
@@ -40,7 +40,7 @@
           <category>#Sylmar</category>
           <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-11272022-inc0696" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 12:31</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-11272022-inc0384" hreflang="en">Traffic Collision with Entrapment 11/27/2022 INC#0384</a></title>
@@ -51,7 +51,7 @@
           <category>#Pacoima</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-11272022-inc0384" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 07:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11272022-inc0294-0" hreflang="en">Structure Fire 11/27/2022 INC#0294</a></title>
@@ -62,7 +62,7 @@
           <category>Jefferson Park</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11272022-inc0294-0" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 06:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-11272022-inc0294" hreflang="en">Update Structure Fire 11/27/2022 INC#0294</a></title>
@@ -73,7 +73,7 @@
           <category>Jefferson Park</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-11272022-inc0294" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 05:43</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11272022-inc0294" hreflang="en">Structure Fire 11/27/2022 INC#0294</a></title>
@@ -84,7 +84,7 @@
           <category>Jefferson Park</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11272022-inc0294" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 05:36</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-fatality-11272022-inc0242" hreflang="en">Update Structure Fire FATALITY 11/27/2022 INC#0242</a></title>
@@ -95,7 +95,7 @@
           <category>Vermont Square</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-fatality-11272022-inc0242" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 04:58</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11272022-inc0242" hreflang="en">KNOCKDOWN  Structure Fire 11/27/2022 INC#0242</a></title>
@@ -106,7 +106,7 @@
           <category>Vermont Square</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11272022-inc0242" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 04:36</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-11272022-inc0242" hreflang="en">Structure Fire 11/27/2022 INC#0242</a></title>
@@ -117,7 +117,7 @@
           <category>Vermont Square</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-11272022-inc0242" hreflang="en">view</a></guid>
           <pubDate>Sunday, November 27, 2022 - 04:25</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c230d30a-6ed2-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
