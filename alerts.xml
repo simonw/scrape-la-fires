@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:base="https://www.lafd.org/">
+<rss version="2.0" xml:base="https://www.lafd.org/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alerts Feed</title>
     <link>https://www.lafd.org/</link>
-    <description/>
+    <description></description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 03 Dec 2022 20:12:53 -0800</lastBuildDate>
-<pubDate>Saturday, December 3, 2022 - 20:12</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5"></atom:link>
+<lastBuildDate>Sun, 04 Dec 2022 19:43:41 -0800</lastBuildDate>
+<pubDate>Sunday, December 4, 2022 - 13:38</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-12042022-inc0839" hreflang="en">KNOCKDOWN Structure Fire 12/04/2022 INC#0839</a></title>
+  <link><a href="/alert/knockdown-structure-fire-12042022-inc0839" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0839; 01:36PM; 767 W 97th St; MAP: &lt;a href=&quot;https://bit.ly/3EY3DA9&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3EY3DA9&lt;/a&gt;; Vermont Vista; KNOCKDOWN: 28 firefighters extinguished the fire in 39 minutes with no injuries reported. Firefighters conducted a coordinated roof operation and interior fire attack to locate the seat of the fire within building&#039;s common attic. They had to work their way through all four units to locate the stubborn fire while crews conducted salvage operations to protect the interior/belongings in the units. The fire was prevented from extending down into the living space. Cause and $ loss TBD. No further details.; FS 64; Batt 13; South Bureau; Council District 8; BC13  E15  E226  E264  E266  E57  E64  RA266  SQ21  T26  T64  T66; CH9; 14; Margaret Stewart</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>Vermont Vista</category>
+          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12042022-inc0839" hreflang="en">view</a></guid>
+          <pubDate>Sunday, December 4, 2022 - 13:38</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/structure-fire-12042022-inc0839" hreflang="en">Structure Fire 12/04/2022 INC#0839</a></title>
+  <link><a href="/alert/structure-fire-12042022-inc0839" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0839; 12:57PM; 767 W 97th St; MAP: &lt;a href=&quot;https://bit.ly/3EY3DA9&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3EY3DA9&lt;/a&gt;; Vermont Vista; One story building with four bungalows (they have a common attic) with an attic fire. Firefighters are in the offensive mode.; FS 64; Batt 13; South Bureau; Council District 8; BC13  E264  E266  E57  E64  RA266  T64  T66; CH9; 14; Margaret Stewart</description>
+  <category>Structure Fire</category>
+          <category>South</category>
+          <category>Vermont Vista</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-12042022-inc0839" hreflang="en">view</a></guid>
+          <pubDate>Sunday, December 4, 2022 - 13:13</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-12032022-inc1689" hreflang="en">KNOCKDOWN Structure Fire 12/03/2022 INC#1689</a></title>
   <link><a href="/alert/knockdown-structure-fire-12032022-inc1689" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1689; 08:11PM; 8108 S Hoover St; MAP: &lt;a href="https://bit.ly/3VwtwOp" target="_blank" rel="noopener"&gt;https://bit.ly/3VwtwOp&lt;/a&gt;; Vermont Knolls; KNOCKDOWN: 22 firefighters made quick work and extinguished the fire in only 10 minutes with no injuries reported. They contained the fire to the unit of origin, defending both the adjacent units and the attic from fire extension. Cause and $ loss TBD. No further details.; FS 57; Batt 13; South Bureau; Council District 8; BC13  E221  E233  E264  E33  E57  RA257  RA857  SQ21  T21  T33  T64; CH9; 15; Margaret Stewart</description>
+  <description>KNOCKDOWN Structure Fire; INC#1689; 08:11PM; 8108 S Hoover St; MAP: &lt;a href=&quot;https://bit.ly/3VwtwOp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3VwtwOp&lt;/a&gt;; Vermont Knolls; KNOCKDOWN: 22 firefighters made quick work and extinguished the fire in only 10 minutes with no injuries reported. They contained the fire to the unit of origin, defending both the adjacent units and the attic from fire extension. Cause and $ loss TBD. No further details.; FS 57; Batt 13; South Bureau; Council District 8; BC13  E221  E233  E264  E33  E57  RA257  RA857  SQ21  T21  T33  T64; CH9; 15; Margaret Stewart</description>
   <category>Structure Fire</category>
           <category>South</category>
           <category>Vermont Knolls</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12032022-inc1689" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 3, 2022 - 20:12</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12032022-inc1689" hreflang="en">Structure Fire 12/03/2022 INC#1689</a></title>
   <link><a href="/alert/structure-fire-12032022-inc1689" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1689; 08:01PM; 8108 S Hoover St; MAP: &lt;a href="https://bit.ly/3VwtwOp" target="_blank" rel="noopener"&gt;https://bit.ly/3VwtwOp&lt;/a&gt;; Vermont Knolls; Two story, garden style apartment building with fire showing from one unit on the 2nd floor. Firefighters are in the offensive mode. One additional task force requested (not reflected in this alert).; FS 57; Batt 13; South Bureau; Council District 8; BC13  E233  E264  E57  RA257  T33  T64; CH9; 15; Margaret Stewart</description>
+  <description>Structure Fire; INC#1689; 08:01PM; 8108 S Hoover St; MAP: &lt;a href=&quot;https://bit.ly/3VwtwOp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3VwtwOp&lt;/a&gt;; Vermont Knolls; Two story, garden style apartment building with fire showing from one unit on the 2nd floor. Firefighters are in the offensive mode. One additional task force requested (not reflected in this alert).; FS 57; Batt 13; South Bureau; Council District 8; BC13  E233  E264  E57  RA257  T33  T64; CH9; 15; Margaret Stewart</description>
   <category>Structure Fire</category>
           <category>South</category>
           <category>Vermont Knolls</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12032022-inc1689" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 3, 2022 - 20:07</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12032022-inc0657" hreflang="en">KNOCKDOWN Structure Fire 12/03/2022 INC#0657</a></title>
   <link><a href="/alert/knockdown-structure-fire-12032022-inc0657" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0657; 10:43AM; 2135 S Veteran Av; MAP: &lt;a href="https://bit.ly/3UvsUHF" target="_blank" rel="noopener"&gt;https://bit.ly/3UvsUHF&lt;/a&gt;; West Los Angeles; KNOCKDOWN: 18 firefighters located and extinguished the attic fire in 17 minutes with no injuries reported. Cause and $ loss TBD. No further details.; FS 59; Batt 9; West Bureau; Council District 5; BC9  E292  E37  E59  RA59  T92; CH9; 13; Margaret Stewart</description>
+  <description>KNOCKDOWN Structure Fire; INC#0657; 10:43AM; 2135 S Veteran Av; MAP: &lt;a href=&quot;https://bit.ly/3UvsUHF&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3UvsUHF&lt;/a&gt;; West Los Angeles; KNOCKDOWN: 18 firefighters located and extinguished the attic fire in 17 minutes with no injuries reported. Cause and $ loss TBD. No further details.; FS 59; Batt 9; West Bureau; Council District 5; BC9  E292  E37  E59  RA59  T92; CH9; 13; Margaret Stewart</description>
   <category>Structure Fire</category>
           <category>West</category>
           <category>West Los Angeles</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12032022-inc0657" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 3, 2022 - 10:45</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12032022-inc0657" hreflang="en">Structure Fire 12/03/2022 INC#0657</a></title>
   <link><a href="/alert/structure-fire-12032022-inc0657" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0657; 10:26AM; 2135 S Veteran Av; MAP: &lt;a href="https://bit.ly/3UvsUHF" target="_blank" rel="noopener"&gt;https://bit.ly/3UvsUHF&lt;/a&gt;; West Los Angeles; One story, single family dwelling with light smoke showing upon LAFD arrival. Firefighters entered the structure and finding it clear, made access into the attic where they located heavy smoke. Firefighters are continuing in the offensive mode.; FS 59; Batt 9; West Bureau; Council District 5; BC9  E292  E37  E59  RA59  T92; CH9; 13; Margaret Stewart</description>
+  <description>Structure Fire; INC#0657; 10:26AM; 2135 S Veteran Av; MAP: &lt;a href=&quot;https://bit.ly/3UvsUHF&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3UvsUHF&lt;/a&gt;; West Los Angeles; One story, single family dwelling with light smoke showing upon LAFD arrival. Firefighters entered the structure and finding it clear, made access into the attic where they located heavy smoke. Firefighters are continuing in the offensive mode.; FS 59; Batt 9; West Bureau; Council District 5; BC9  E292  E37  E59  RA59  T92; CH9; 13; Margaret Stewart</description>
   <category>Structure Fire</category>
           <category>West</category>
           <category>West Los Angeles</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12032022-inc0657" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 3, 2022 - 10:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12022022-inc1863" hreflang="en">KNOCKDOWN Structure Fire 12/02/2022 INC#1863</a></title>
   <link><a href="/alert/knockdown-structure-fire-12022022-inc1863" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1863; 11:30PM; 10720 W Moorpark St; MAP: &lt;a href="https://bit.ly/3pBG2OR" target="_blank" rel="noopener"&gt;https://bit.ly/3pBG2OR&lt;/a&gt;; #TolucaLake; *Corrected Address* Twenty-six LAFD firefighters, operating in defensive mode, extinguished flames consuming a vacant one-story single-family home in 42 minutes. No reported injuries. The cause of the fire is under investigation.; FS 86; Batt 14; Valley Bureau; Council District 2; BC14  E260  E289  E76  E86  RA60  RA86  T60  T89; CH9; 17; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#1863; 11:30PM; 10720 W Moorpark St; MAP: &lt;a href=&quot;https://bit.ly/3pBG2OR&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3pBG2OR&lt;/a&gt;; #TolucaLake; *Corrected Address* Twenty-six LAFD firefighters, operating in defensive mode, extinguished flames consuming a vacant one-story single-family home in 42 minutes. No reported injuries. The cause of the fire is under investigation.; FS 86; Batt 14; Valley Bureau; Council District 2; BC14  E260  E289  E76  E86  RA60  RA86  T60  T89; CH9; 17; Nicholas Prange</description>
   <category>Structure Fire</category>
           <category>Valley</category>
           <category>#TolucaLake</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12022022-inc1863" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 3, 2022 - 00:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12022022-inc1863" hreflang="en">Structure Fire 12/02/2022 INC#1863</a></title>
   <link><a href="/alert/structure-fire-12022022-inc1863" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1863; 10:48PM; 10800 W Moorpark St; MAP: &lt;a href="https://bit.ly/3XXf18a" target="_blank" rel="noopener"&gt;https://bit.ly/3XXf18a&lt;/a&gt;; #TolucaLake; Vacant single-family home with fire showing.; FS 86; Batt 14; Valley Bureau; Council District 2; BC14  E289  E76  E86  RA86  T89; CH9; Nicholas Prange</description>
+  <description>Structure Fire; INC#1863; 10:48PM; 10800 W Moorpark St; MAP: &lt;a href=&quot;https://bit.ly/3XXf18a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3XXf18a&lt;/a&gt;; #TolucaLake; Vacant single-family home with fire showing.; FS 86; Batt 14; Valley Bureau; Council District 2; BC14  E289  E76  E86  RA86  T89; CH9; Nicholas Prange</description>
   <category>Structure Fire</category>
           <category>Valley</category>
           <category>#TolucaLake</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12022022-inc1863" hreflang="en">view</a></guid>
           <pubDate>Friday, December 2, 2022 - 22:57</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12022022-inc0718" hreflang="en">KNOCKDOWN Structure Fire 12/02/2022 INC#0718</a></title>
   <link><a href="/alert/knockdown-structure-fire-12022022-inc0718" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0718; 11:38AM; 876 S Norton Av; MAP: &lt;a href="https://bit.ly/3B52VQd" target="_blank" rel="noopener"&gt;https://bit.ly/3B52VQd&lt;/a&gt;; #Koreatown; Twenty-four firefighters located fire in the wall of the kitchen on the first floor of a two-story home and extinguished the flames in 18 minutes. Smoke filled the first floor, as the occupants escaped with their pets. Two residents and their family canines were evaluated for smoke inhalation *as a precaution*, but were found to be in good health and further care was not needed. No reported injuries. Cause yet to be determined.; FS 29; Batt 11; Central Bureau; Council District 5; BC18  E226  E229  E26  E29  EM5  RA26  RA52  RA6  T29; CH7; 13; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#0718; 11:38AM; 876 S Norton Av; MAP: &lt;a href=&quot;https://bit.ly/3B52VQd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3B52VQd&lt;/a&gt;; #Koreatown; Twenty-four firefighters located fire in the wall of the kitchen on the first floor of a two-story home and extinguished the flames in 18 minutes. Smoke filled the first floor, as the occupants escaped with their pets. Two residents and their family canines were evaluated for smoke inhalation *as a precaution*, but were found to be in good health and further care was not needed. No reported injuries. Cause yet to be determined.; FS 29; Batt 11; Central Bureau; Council District 5; BC18  E226  E229  E26  E29  EM5  RA26  RA52  RA6  T29; CH7; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
           <category>Central</category>
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12022022-inc0718" hreflang="en">view</a></guid>
           <pubDate>Friday, December 2, 2022 - 11:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12022022-inc0718" hreflang="en">Structure Fire 12/02/2022 INC#0718</a></title>
   <link><a href="/alert/structure-fire-12022022-inc0718" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0718; 11:20AM; 876 S Norton Av; MAP: &lt;a href="https://bit.ly/3B52VQd" target="_blank" rel="noopener"&gt;https://bit.ly/3B52VQd&lt;/a&gt;; #Koreatown; Two-story single-family home with fire in the wall. Offensive mode. Two patients are being treated for smoke inhalation.; FS 29; Batt 11; Central Bureau; Council District 5; BC18  E226  E229  E26  E29  E52  EM5  RA26  RA52  RA6  T29; CH9; 13; Nicholas Prange</description>
+  <description>Structure Fire; INC#0718; 11:20AM; 876 S Norton Av; MAP: &lt;a href=&quot;https://bit.ly/3B52VQd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3B52VQd&lt;/a&gt;; #Koreatown; Two-story single-family home with fire in the wall. Offensive mode. Two patients are being treated for smoke inhalation.; FS 29; Batt 11; Central Bureau; Council District 5; BC18  E226  E229  E26  E29  E52  EM5  RA26  RA52  RA6  T29; CH9; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
           <category>Central</category>
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12022022-inc0718" hreflang="en">view</a></guid>
           <pubDate>Friday, December 2, 2022 - 11:32</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-fatality-12022022-inc0393" hreflang="en">KNOCKDOWN Structure Fire - Fatality 12/02/2022 INC#0393</a></title>
-  <link><a href="/alert/knockdown-structure-fire-fatality-12022022-inc0393" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire - Fatality; INC#0393; 08:34AM; 1456 W Hepner Av; MAP: &lt;a href="https://bit.ly/3FvHJWx" target="_blank" rel="noopener"&gt;https://bit.ly/3FvHJWx&lt;/a&gt;; #EagleRock; Firefighters arrived to find a single-family home, well-involved with fire, and reports of four occupants inside and three nearby structures being exposed to heat. It took 32 firefighters 29 minutes to extinguish the flames, while protecting all neighboring structures. Three occupants escaped, but sadly, one person was found deceased inside the structure. No other residents or firefighters were injured. The fire's cause is under active investigation. PIO Firefighter David Ortiz is en route to the scene, ETA 9:30am.; FS 42; Batt 2; Central Bureau; Council District 14; AR1  AR22  AR7  BC1  BC2  CM20  CM22  E12  E201  E212  E44  E55  RA12  RA55  T1  T12; CH7; 13; Nicholas Prange</description>
-  <category>Structure Fire - Fatality</category>
-          <category>Central</category>
-          <category>#EagleRock</category>
-          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-fatality-12022022-inc0393" hreflang="en">view</a></guid>
-          <pubDate>Friday, December 2, 2022 - 09:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/structure-fire-12022022-inc0393" hreflang="en">Structure Fire 12/02/2022 INC#0393</a></title>
-  <link><a href="/alert/structure-fire-12022022-inc0393" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0393; 08:05AM; 1456 W Hepner Av; MAP: &lt;a href="https://bit.ly/3FvHJWx" target="_blank" rel="noopener"&gt;https://bit.ly/3FvHJWx&lt;/a&gt;; #EagleRock; One-story single-family home with heavy fire showing.; FS 42; Batt 2; Central Bureau; Council District 14; BC1  BC2  E12  E201  E212  E44  E55  RA12  RA55  T1  T12; CH9; 13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-          <category>Central</category>
-          <category>#EagleRock</category>
-          <guid isPermaLink="false"><a href="/alert/structure-fire-12022022-inc0393" hreflang="en">view</a></guid>
-          <pubDate>Friday, December 2, 2022 - 08:19</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=01c8158f-744f-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
