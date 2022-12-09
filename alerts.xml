@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5"/>
-<lastBuildDate>Thu, 08 Dec 2022 21:52:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 09 Dec 2022 02:25:36 -0800</lastBuildDate>
 <pubDate>Thursday, December 8, 2022 - 04:41</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#HollywoodHills</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-12082022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 04:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-12082022-inc0130" hreflang="en">Brush Fire 12/08/2022 INC#0130</a></title>
@@ -29,7 +29,7 @@
           <category>#HollywoodHills</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-12082022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 04:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-fatality-structure-fire-12082022-inc0032" hreflang="en">Update Fatality Structure Fire 12/08/2022 INC#0032</a></title>
@@ -40,7 +40,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/update-fatality-structure-fire-12082022-inc0032" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 02:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fatality-structure-fire-now-out-12082022-inc0032" hreflang="en">Fatality Structure Fire - Now Out 12/08/2022 INC#0032</a></title>
@@ -51,7 +51,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/fatality-structure-fire-now-out-12082022-inc0032" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 01:44</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-12072022-inc0612" hreflang="en">Hiker Rescue 12/07/2022 INC#0612</a></title>
@@ -62,7 +62,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-12072022-inc0612" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 7, 2022 - 10:51</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-now-out-12072022-inc0004" hreflang="en">Greater Alarm Structure Fire - Now Out 12/07/2022 INC#0004</a></title>
@@ -73,7 +73,7 @@
           <category>#Wilmington</category>
           <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-now-out-12072022-inc0004" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 7, 2022 - 03:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-fatality-12052022-inc1769" hreflang="en">Structure Fire - FATALITY 12/05/2022 INC#1769</a></title>
@@ -84,7 +84,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-fatality-12052022-inc1769" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 22:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12052022-inc0553" hreflang="en">KNOCKDOWN Structure Fire 12/05/2022 INC#0553</a></title>
@@ -95,7 +95,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12052022-inc0553" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 10:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12052022-inc0553-0" hreflang="en">Structure Fire 12/05/2022 INC#0553</a></title>
@@ -106,7 +106,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12052022-inc0553-0" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 10:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12052022-inc0553" hreflang="en">Structure Fire 12/05/2022 INC#0553</a></title>
@@ -117,7 +117,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12052022-inc0553" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 09:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b0d6cb39-7785-11ed-b866-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
