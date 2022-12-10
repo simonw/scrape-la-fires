@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 09 Dec 2022 02:25:36 -0800</lastBuildDate>
-<pubDate>Thursday, December 8, 2022 - 04:41</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5"/>
+<lastBuildDate>Fri, 09 Dec 2022 18:25:41 -0800</lastBuildDate>
+<pubDate>Friday, December 9, 2022 - 18:25</pubDate>
 
     <item>
+  <title><a href="/alert/auto-vs-pedestrian-12092022-inc1414" hreflang="en">Auto vs Pedestrian 12/09/2022 INC#1414</a></title>
+  <link><a href="/alert/auto-vs-pedestrian-12092022-inc1414" hreflang="en">view</a></link>
+  <description>Auto vs Pedestrian; INC#1414; 05:50PM; 10900 W Oxnard St; MAP: &lt;a href="https://bit.ly/3BnXYST" target="_blank" rel="noopener"&gt;https://bit.ly/3BnXYST&lt;/a&gt;; #NorthHollywood; LAFD responded to reports of one vehicle that struck four pedestrians (one adult female, and three children under the age of approximately 8 years old). One 5-year-old male was transported in critical condition. The adult female and other two children (unknown age/gender) were transported in moderate condition. LAPD Inc #3146. Nothing further.; FS 60; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E289  E77  EM11  RA39  RA76  RA78  RA86  RA89  T60  T89; CH8; 17; Nicholas Prange</description>
+  <category>Auto vs Pedestrian</category>
+          <category>Valley</category>
+          <category>#NorthHollywood</category>
+          <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrian-12092022-inc1414" hreflang="en">view</a></guid>
+          <pubDate>Friday, December 9, 2022 - 18:25</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/auto-rollover-12092022-inc0611" hreflang="en">Auto Rollover 12/09/2022 INC#0611</a></title>
+  <link><a href="/alert/auto-rollover-12092022-inc0611" hreflang="en">view</a></link>
+  <description>Auto Rollover; INC#0611; 10:22AM; 100 E Swinford St; MAP: &lt;a href="https://bit.ly/3hegZQW" target="_blank" rel="noopener"&gt;https://bit.ly/3hegZQW&lt;/a&gt;; #SanPedro; A two-vehicle collision (one overturned) resulted in 5 patients being transported to the hospital by LAFD ambulance in mild-to-moderate condition (no life-threatening injuries). No extrication required. LAPD Inc #1414. Nothing further.; FS 112; Batt 6; South Bureau; Council District 15; BC6  E112  E248  E36  E40  EM13  HR3  RA101  RA112  RA36  RA79  RA848  T48; CH7; 13; Nicholas Prange</description>
+  <category>Auto Rollover</category>
+          <category>South</category>
+          <category>#SanPedro</category>
+          <guid isPermaLink="false"><a href="/alert/auto-rollover-12092022-inc0611" hreflang="en">view</a></guid>
+          <pubDate>Friday, December 9, 2022 - 11:07</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-brush-fire-12082022-inc0130" hreflang="en">Knockdown -  Brush Fire 12/08/2022 INC#0130</a></title>
   <link><a href="/alert/knockdown-brush-fire-12082022-inc0130" hreflang="en">view</a></link>
   <description>Knockdown -  Brush Fire; INC#0130; 04:28AM;  2580 Cahuenga Bl East; MAP: &lt;a href="https://bit.ly/3VIRJ44" target="_blank" rel="noopener"&gt;https://bit.ly/3VIRJ44&lt;/a&gt;; #HollywoodHills; Despite light wind and embercast, precise LAFD helicopter water drops held the one-eighth (0.125) acre of burning medium-to-heavy brush in check, as ground crews hiked to the east side of the Cahuenga Pass south of the Hollywood Cross to fully contain and extinguish flames in less than an hour. No injury. No structure threat or damage. No evacuation. LAFD ground crews will remain at scene this morning to overhaul and fully extinguish smoldering debris. An adult male will be questioned by LAFD Investigators and LAPD Hollywood Officers (Incident #499) to determine his role, if any, in causing the fire.; FS 27; Batt 5; West Bureau; Council District 4; AO1  AO2  AR1  BC14  BC5  E227  E235  E27  E290  E35  E41  E52  E76  E82  E90  EM11  H2  H3  H5  HA2  HA3  HA5  RA27  T27  T35  T90; CH5; 13; Brian Humphrey</description>
@@ -18,7 +40,7 @@
           <category>#HollywoodHills</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-12082022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 04:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/brush-fire-12082022-inc0130" hreflang="en">Brush Fire 12/08/2022 INC#0130</a></title>
@@ -29,7 +51,7 @@
           <category>#HollywoodHills</category>
           <guid isPermaLink="false"><a href="/alert/brush-fire-12082022-inc0130" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 04:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-fatality-structure-fire-12082022-inc0032" hreflang="en">Update Fatality Structure Fire 12/08/2022 INC#0032</a></title>
@@ -40,7 +62,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/update-fatality-structure-fire-12082022-inc0032" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 02:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fatality-structure-fire-now-out-12082022-inc0032" hreflang="en">Fatality Structure Fire - Now Out 12/08/2022 INC#0032</a></title>
@@ -51,7 +73,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/fatality-structure-fire-now-out-12082022-inc0032" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 8, 2022 - 01:44</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-12072022-inc0612" hreflang="en">Hiker Rescue 12/07/2022 INC#0612</a></title>
@@ -62,7 +84,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-12072022-inc0612" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 7, 2022 - 10:51</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-now-out-12072022-inc0004" hreflang="en">Greater Alarm Structure Fire - Now Out 12/07/2022 INC#0004</a></title>
@@ -73,7 +95,7 @@
           <category>#Wilmington</category>
           <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-now-out-12072022-inc0004" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 7, 2022 - 03:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-fatality-12052022-inc1769" hreflang="en">Structure Fire - FATALITY 12/05/2022 INC#1769</a></title>
@@ -84,7 +106,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-fatality-12052022-inc1769" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 22:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12052022-inc0553" hreflang="en">KNOCKDOWN Structure Fire 12/05/2022 INC#0553</a></title>
@@ -95,29 +117,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12052022-inc0553" hreflang="en">view</a></guid>
           <pubDate>Monday, December 5, 2022 - 10:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/structure-fire-12052022-inc0553-0" hreflang="en">Structure Fire 12/05/2022 INC#0553</a></title>
-  <link><a href="/alert/structure-fire-12052022-inc0553-0" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0553; 09:37AM; 1354 N Highland Av; MAP: &lt;a href="https://bit.ly/3P03ReH" target="_blank" rel="noopener"&gt;https://bit.ly/3P03ReH&lt;/a&gt;; Hollywood; Building type updated to a single story (exposing a two story attached commercial building). Firefighters are making good progress with the interior fire extinguished and are working to make access and extinguish the fire which extended to the attic.; FS 27; Batt 5; West Bureau; Council District 13; BC5  E227  E235  E261  E35  E41  E76  RA27  RA6  T27  T35  T61; CH9; 13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-          <category>West</category>
-          <category>Hollywood</category>
-          <guid isPermaLink="false"><a href="/alert/structure-fire-12052022-inc0553-0" hreflang="en">view</a></guid>
-          <pubDate>Monday, December 5, 2022 - 10:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/structure-fire-12052022-inc0553" hreflang="en">Structure Fire 12/05/2022 INC#0553</a></title>
-  <link><a href="/alert/structure-fire-12052022-inc0553" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0553; 09:37AM; 1354 N Highland Av; MAP: &lt;a href="https://bit.ly/3P03ReH" target="_blank" rel="noopener"&gt;https://bit.ly/3P03ReH&lt;/a&gt;; Hollywood; Two story, commercial building with moderate smoke showing. Firefighters are in the offensive mode. This incident was initially reported as "bells ringing" automatic alarm and the first arriving company upgraded it to a structure fire incident. ; FS 27; Batt 5; West Bureau; Council District 13; BC5  E227  E235  E261  E35  E41  RA6  T27  T35  T61; CH9; 13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-          <category>West</category>
-          <category>Hollywood</category>
-          <guid isPermaLink="false"><a href="/alert/structure-fire-12052022-inc0553" hreflang="en">view</a></guid>
-          <pubDate>Monday, December 5, 2022 - 09:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f05e4f60-7831-11ed-b866-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
