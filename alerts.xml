@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 18 Dec 2022 21:22:01 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5"/>
+<lastBuildDate>Mon, 19 Dec 2022 06:09:42 -0800</lastBuildDate>
 <pubDate>Sunday, December 18, 2022 - 18:09</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#SanPedro</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-12182022-inc1151" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 18:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-12182022-inc1174" hreflang="en">Traffic Collision 12/18/2022 INC#1174</a></title>
@@ -29,7 +29,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-12182022-inc1174" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 17:56</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-12182022-inc1193" hreflang="en">Update Structure Fire KNOCKDOWN 12/18/2022 INC#1193</a></title>
@@ -40,7 +40,7 @@
           <category>#HollywoodHillsWest</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-12182022-inc1193" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 17:40</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12182022-inc1193" hreflang="en">Structure Fire 12/18/2022 INC#1193</a></title>
@@ -51,7 +51,7 @@
           <category>#HollywoodHillsWest</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12182022-inc1193" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 17:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12182022-inc0335" hreflang="en">Knockdown -  Structure Fire 12/18/2022 INC#0335</a></title>
@@ -62,7 +62,7 @@
           <category>#VanNuys</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12182022-inc0335" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 06:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12182022-inc0335" hreflang="en">Structure Fire 12/18/2022 INC#0335</a></title>
@@ -73,7 +73,7 @@
           <category>#VanNuys</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12182022-inc0335" hreflang="en">view</a></guid>
           <pubDate>Sunday, December 18, 2022 - 06:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-12162022-inc1952" hreflang="en">Structure Fire - Now Out 12/16/2022 INC#1952</a></title>
@@ -84,7 +84,7 @@
           <category>#StudioCity</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-12162022-inc1952" hreflang="en">view</a></guid>
           <pubDate>Saturday, December 17, 2022 - 01:30</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-12162022-inc0669" hreflang="en">Knockdown -  Greater Alarm Structure Fire 12/16/2022 INC#0669</a></title>
@@ -95,7 +95,7 @@
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-12162022-inc0669" hreflang="en">view</a></guid>
           <pubDate>Friday, December 16, 2022 - 11:05</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-12162022-inc0669" hreflang="en">Greater Alarm Structure Fire 12/16/2022 INC#0669</a></title>
@@ -106,7 +106,7 @@
           <category>#Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-12162022-inc0669" hreflang="en">view</a></guid>
           <pubDate>Friday, December 16, 2022 - 10:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-12162022-inc0591" hreflang="en">Update Structure Fire 12/16/2022 INC#0591</a></title>
@@ -117,7 +117,7 @@
           <category>#NorthHollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-12162022-inc0591" hreflang="en">view</a></guid>
           <pubDate>Friday, December 16, 2022 - 10:31</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c78d8257-7fa6-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
