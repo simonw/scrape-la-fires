@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 22 Dec 2022 16:14:29 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5"/>
+<lastBuildDate>Fri, 23 Dec 2022 10:04:41 -0800</lastBuildDate>
 <pubDate>Thursday, December 22, 2022 - 16:13</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>Central-Alameda</category>
           <guid isPermaLink="false"><a href="/alert/update-blueline-train-vs-vehicle-12222022-inc1056" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 16:13</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/train-vs-vehicle-blueline-12222022-inc1056" hreflang="en">Train vs Vehicle  (Blueline) 12/22/2022 INC#1056</a></title>
@@ -29,7 +29,7 @@
           <category>Central-Alameda</category>
           <guid isPermaLink="false"><a href="/alert/train-vs-vehicle-blueline-12222022-inc1056" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 15:57</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/deceased-person-12222022-inc0983" hreflang="en">Deceased Person 12/22/2022 INC#0983</a></title>
@@ -40,7 +40,7 @@
           <category>Pacific Palisades</category>
           <guid isPermaLink="false"><a href="/alert/deceased-person-12222022-inc0983" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 15:36</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-fatality-12222022-inc0760" hreflang="en">Update Traffic - FATALITY 12/22/2022 INC#0760</a></title>
@@ -51,7 +51,7 @@
           <category>Griffith Park</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-fatality-12222022-inc0760" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 13:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-physical-rescue-12222022-inc0760" hreflang="en">Traffic - Physical Rescue 12/22/2022 INC#0760</a></title>
@@ -62,7 +62,7 @@
           <category>Griffith Park</category>
           <guid isPermaLink="false"><a href="/alert/traffic-physical-rescue-12222022-inc0760" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 12:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/test-only-12222022-inctest" hreflang="en">TEST ONLY 12/22/2022 INC#TEST</a></title>
@@ -71,7 +71,7 @@
   <category>TEST ONLY</category>
           <guid isPermaLink="false"><a href="/alert/test-only-12222022-inctest" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 09:32</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12222022-inc0346" hreflang="en">KNOCKDOWN Structure Fire 12/22/2022 INC#0346</a></title>
@@ -82,7 +82,7 @@
           <category>Arleta</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12222022-inc0346" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 09:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-12222022-inc0346" hreflang="en">Update Structure Fire 12/22/2022 INC#0346</a></title>
@@ -93,7 +93,7 @@
           <category>Arleta</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-12222022-inc0346" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 09:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12222022-inc0346" hreflang="en">Structure Fire 12/22/2022 INC#0346</a></title>
@@ -104,7 +104,7 @@
           <category>Arleta</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12222022-inc0346" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 22, 2022 - 08:44</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-12212022-inc0836" hreflang="en">Hiker Rescue - Hoist Op 12/21/2022 INC#0836</a></title>
@@ -115,7 +115,7 @@
           <category>Tujunga</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-12212022-inc0836" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 21, 2022 - 13:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=457f2a3a-82ec-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
