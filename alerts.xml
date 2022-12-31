@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 30 Dec 2022 08:32:01 -0800</lastBuildDate>
-<pubDate>Friday, December 30, 2022 - 08:31</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5"/>
+<lastBuildDate>Sat, 31 Dec 2022 10:12:41 -0800</lastBuildDate>
+<pubDate>Saturday, December 31, 2022 - 10:12</pubDate>
 
     <item>
+  <title><a href="/alert/trapped-vehicle-12312022-inc0565" hreflang="en">Trapped Vehicle 12/31/2022 INC#0565</a></title>
+  <link><a href="/alert/trapped-vehicle-12312022-inc0565" hreflang="en">view</a></link>
+  <description>Trapped Vehicle; INC#0565; 09:49AM; Sb 5 Fy; MAP: &lt;a href="https://bit.ly/3GaLyzg" target="_blank" rel="noopener"&gt;https://bit.ly/3GaLyzg&lt;/a&gt;; Granada Hills; One car roll-over with two patients. One patient is trapped and requires extrication (in at least serious condition) and one patient with non-life threatening injuries. CHP Log# 1003; FS 91; Batt 12; Valley Bureau; Council District 12; BC12  E18  E275  E91  E98  EM15  HR3  RA75  RA91  T75  UR88; CH8; 17; Margaret Stewart</description>
+  <category>Trapped Vehicle</category>
+          <category>Valley</category>
+          <category>Granada Hills</category>
+          <guid isPermaLink="false"><a href="/alert/trapped-vehicle-12312022-inc0565" hreflang="en">view</a></guid>
+          <pubDate>Saturday, December 31, 2022 - 10:12</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/structure-fire-auto-aid-injuries-12302022-inc0325" hreflang="en">Structure Fire, Auto Aid - With Injuries 12/30/2022 INC#0325</a></title>
   <link><a href="/alert/structure-fire-auto-aid-injuries-12302022-inc0325" hreflang="en">view</a></link>
   <description>Structure Fire, Auto Aid - With Injuries; INC#0325; 08:31AM; 378 N Electric Ave; MAP: &lt;a href="https://bit.ly/3IbEjd2" target="_blank" rel="noopener"&gt;https://bit.ly/3IbEjd2&lt;/a&gt;; outside city; LAFD has two paramedic ambulances and one battalion command team assisting at a structure fire in the City of Alhambra.  LAFD has been assigned care of two critical patients.  Reports on scene of at least three critical patients including one pediatric. The total number of patients is not known (by LAFD).  This is a Alhambra Fire Department incident and any questions are referred to that agency. No further details.; FS 50; Batt 2; Central Bureau; Council District outside city; BC2  RA1  RA47; CH7; 13; Margaret Stewart</description>
@@ -18,7 +29,7 @@
           <category>outside city</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-auto-aid-injuries-12302022-inc0325" hreflang="en">view</a></guid>
           <pubDate>Friday, December 30, 2022 - 08:31</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-12302022-inc0241" hreflang="en">Structure Fire - NOW OUT 12/30/2022 INC#0241</a></title>
@@ -29,7 +40,7 @@
           <category>Koreatown</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-12302022-inc0241" hreflang="en">view</a></guid>
           <pubDate>Friday, December 30, 2022 - 06:43</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-fire-now-out-12302022-inc0135" hreflang="en">Structure Fire - FIRE NOW OUT 12/30/2022 INC#0135</a></title>
@@ -40,7 +51,7 @@
           <category>Valley Glen</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-12302022-inc0135" hreflang="en">view</a></guid>
           <pubDate>Friday, December 30, 2022 - 03:31</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/engine-response-12292022-inc0968" hreflang="en">Engine Response 12/29/2022 INC#0968</a></title>
@@ -51,7 +62,7 @@
           <category>Echo Park</category>
           <guid isPermaLink="false"><a href="/alert/engine-response-12292022-inc0968" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 29, 2022 - 15:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-cliff-vehicle-12292022-inc0868" hreflang="en">Update Cliff, Vehicle 12/29/2022 INC#0868</a></title>
@@ -62,7 +73,7 @@
           <category>outside city</category>
           <guid isPermaLink="false"><a href="/alert/update-cliff-vehicle-12292022-inc0868" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 29, 2022 - 15:29</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/cliff-vehicle-12292022-inc0868" hreflang="en">Cliff, Vehicle 12/29/2022 INC#0868</a></title>
@@ -73,7 +84,7 @@
           <category>outside city</category>
           <guid isPermaLink="false"><a href="/alert/cliff-vehicle-12292022-inc0868" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 29, 2022 - 14:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12292022-inc0551" hreflang="en">KNOCKDOWN Structure Fire 12/29/2022 INC#0551</a></title>
@@ -84,7 +95,7 @@
           <category>Westlake</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12292022-inc0551" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 29, 2022 - 10:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-12292022-inc0551" hreflang="en">Structure Fire 12/29/2022 INC#0551</a></title>
@@ -95,7 +106,7 @@
           <category>Westlake</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-12292022-inc0551" hreflang="en">view</a></guid>
           <pubDate>Thursday, December 29, 2022 - 10:35</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/train-vs-pedestrian-fatality-12282022-inc1164" hreflang="en">Train vs Pedestrian - FATALITY  12/28/2022 INC#1164</a></title>
@@ -106,18 +117,7 @@
           <category>North Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-fatality-12282022-inc1164" hreflang="en">view</a></guid>
           <pubDate>Wednesday, December 28, 2022 - 17:25</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/hiker-rescue-12282022-inc0968" hreflang="en">Hiker Rescue 12/28/2022 INC#0968</a></title>
-  <link><a href="/alert/hiker-rescue-12282022-inc0968" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0968; 03:22PM; 2000 N Fuller Av; MAP: &lt;a href="https://bit.ly/3jCRSbr" target="_blank" rel="noopener"&gt;https://bit.ly/3jCRSbr&lt;/a&gt;; Hollywood Hills West; Firefighters located a male hiker (age unknown) and LAFD Air Ops did a hoist operation to safely bring the patient to ground (he was approximately 200' down an embankment). He is declining transport to the hospital. The helicopter will land and transfer care to the firefighter/paramedics. The 9-1-1 call was received at 2:30PM. No further details. ; FS 41; Batt 5; West Bureau; Council District 4; BC5  E227  E27  E41  H1  H2  HA1  HA2  RA41  RA827  RH114  T27  UR27; CH7; 14; Margaret Stewart</description>
-  <category>Hiker Rescue</category>
-          <category>West</category>
-          <category>Hollywood Hills West</category>
-          <guid isPermaLink="false"><a href="/alert/hiker-rescue-12282022-inc0968" hreflang="en">view</a></guid>
-          <pubDate>Wednesday, December 28, 2022 - 15:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b655e8ca-8936-11ed-b867-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
