@@ -5,20 +5,31 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5"/>
-<lastBuildDate>Wed, 04 Jan 2023 09:49:41 -0800</lastBuildDate>
-<pubDate>Wednesday, January 4, 2023 - 09:49</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 04 Jan 2023 20:56:23 -0800</lastBuildDate>
+<pubDate>Wednesday, January 4, 2023 - 11:58</pubDate>
 
     <item>
+  <title><a href="/alert/agency-assist-01042023-inc0724" hreflang="en">Agency Assist 01/04/2023 INC#0724</a></title>
+  <link><a href="/alert/agency-assist-01042023-inc0724" hreflang="en">view</a></link>
+  <description>Agency Assist; INC#0724; 11:40AM; 820 S Broadway St; MAP: &lt;a href="https://bit.ly/3WNoeij" target="_blank" rel="noopener"&gt;https://bit.ly/3WNoeij&lt;/a&gt;; #Downtown; PRELIM: Male (unknown age / site affiliation / time factor / circumstances) discovered deceased, trapped at 2nd floor level freight elevator doorway at the rear of a 6 story commercial building. LAFD responders will assist the Coroner's Office with the safe, discreet and dignified recovery of his remains. No further details. Media Inquiries: LAPD Central Division (Incident #1725) and Coroner.; FS 9; Batt 1; Central Bureau; Council District 14; BC1  BC11  E205  E227  E9  EM11  HR3  RA15  RA3  RA803  T27  T5  T9  UR88; CH7; 13; Brian Humphrey</description>
+  <category>Agency Assist</category>
+          <category>Central</category>
+          <category>#Downtown</category>
+          <guid isPermaLink="false"><a href="/alert/agency-assist-01042023-inc0724" hreflang="en">view</a></guid>
+          <pubDate>Wednesday, January 4, 2023 - 11:58</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/rescue-01042023-inc0474" hreflang="en">Rescue 01/04/2023 INC#0474</a></title>
   <link><a href="/alert/rescue-01042023-inc0474" hreflang="en">view</a></link>
-  <description>Rescue; INC#0474; 09:26AM; 5460 W Hollywood Bl; MAP: &lt;a href="https://bit.ly/3i9pM7h" target="_blank" rel="noopener"&gt;https://bit.ly/3i9pM7h&lt;/a&gt;; #EastHollywood; PRELIM: One adult male, conscious and alert with undetermined injury, was found wedged beneath subway station platform at Hollywood/Western Metro Station, after possibly being struck by (unknown direction) B (Red) line subway train, which remained at scene. The man was not physically trapped by the train. He has been safely extricated and is being medically evaluated by LAFD responders. His site affiliation and the circumstances of his being at track level have yet to be determined. No other injuries reported. Metro B Line Riders: Follow @MetroLAAlerts on Twitter (https://twitter.com/MetroLAAlerts) for any service related information. Media Inquiries: Metro and LAPD Transit Services Bureau (Incident #1184).; FS 82; Batt 5; West Bureau; Council District 13; BC11  BC13  BC5  E215  E227  E26  E287  E41  E56  E82  EM11  HR3  RA52  SQ87  T15  T27  T87  UR27  UR88; CH7; 15; Brian Humphrey</description>
+  <description>Rescue; INC#0474; 09:26AM; 5460 W Hollywood Bl; MAP: &lt;a href="https://bit.ly/3i9pM7h" target="_blank" rel="noopener"&gt;https://bit.ly/3i9pM7h&lt;/a&gt;; #EastHollywood; PRELIM: One adult male, conscious and alert with undetermined injury, was found wedged beneath subway station platform at Hollywood/Western Metro Station, after possibly being struck by (unknown direction) B (Red) Line subway train, which remained at scene. The man was not physically trapped by the train. He has been safely extricated and is being medically evaluated by LAFD responders. His site affiliation and the circumstances of his being at track level have yet to be determined. No other injuries reported. Metro B Line Riders: Follow @MetroLAAlerts on Twitter (https://twitter.com/MetroLAAlerts) for any service related information. Media Inquiries: Metro and LAPD Transit Services Bureau (Incident #1184).; FS 82; Batt 5; West Bureau; Council District 13; BC11  BC13  BC5  E215  E227  E26  E287  E41  E56  E82  EM11  HR3  RA52  SQ87  T15  T27  T87  UR27  UR88; CH7; 15; Brian Humphrey</description>
   <category>Rescue</category>
           <category>West</category>
           <category>#EastHollywood</category>
           <guid isPermaLink="false"><a href="/alert/rescue-01042023-inc0474" hreflang="en">view</a></guid>
           <pubDate>Wednesday, January 4, 2023 - 09:49</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01022023-inc1222-0" hreflang="en">Update Hazardous Materials 01/02/2023 INC#1222</a></title>
@@ -29,7 +40,7 @@
           <category>Westwood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01022023-inc1222-0" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 20:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01022023-inc1222" hreflang="en">Update Hazardous Materials 01/02/2023 INC#1222</a></title>
@@ -40,7 +51,7 @@
           <category>Westwood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01022023-inc1222" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 18:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazardous-materials-01022023-inc1222" hreflang="en">Hazardous Materials 01/02/2023 INC#1222</a></title>
@@ -51,7 +62,7 @@
           <category>Westwood</category>
           <guid isPermaLink="false"><a href="/alert/hazardous-materials-01022023-inc1222" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 17:56</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01022023-inc1021" hreflang="en">KNOCKDOWN Structure Fire 01/02/2023 INC#1021</a></title>
@@ -62,7 +73,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01022023-inc1021" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 15:39</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-01022023-inc1021" hreflang="en">Structure Fire 01/02/2023 INC#1021</a></title>
@@ -73,7 +84,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01022023-inc1021" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 15:31</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01022023-inc0681" hreflang="en">Update Hazardous Materials 01/02/2023 INC#0681</a></title>
@@ -84,7 +95,7 @@
           <category>Downtown</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01022023-inc0681" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 12:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazardous-materials-01022023-inc0681" hreflang="en">Hazardous Materials 01/02/2023 INC#0681</a></title>
@@ -95,7 +106,7 @@
           <category>Downtown</category>
           <guid isPermaLink="false"><a href="/alert/hazardous-materials-01022023-inc0681" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 12:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazmat-01022023-inc0681" hreflang="en">HAZMAT 01/02/2023 INC#0681</a></title>
@@ -106,18 +117,7 @@
           <category>Downtown</category>
           <guid isPermaLink="false"><a href="/alert/hazmat-01022023-inc0681" hreflang="en">view</a></guid>
           <pubDate>Monday, January 2, 2023 - 11:59</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-01012023-inc1597" hreflang="en">KNOCKDOWN Structure Fire 01/01/2023 INC#1597</a></title>
-  <link><a href="/alert/knockdown-structure-fire-01012023-inc1597" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1597; 08:20PM; 744 S Catalina St; MAP: &lt;a href="https://bit.ly/3Z2Jjqi" target="_blank" rel="noopener"&gt;https://bit.ly/3Z2Jjqi&lt;/a&gt;; Koreatown; KNOCKDOWN: The first arriving assignment of 32 firefighters extinguished the fire in 18 minutes with no injuries reported. They held the fire to one unit, preventing it from extending into the attic. Firefighters will be on scene conducting overhaul operations to address any water issues on the floor below. Cause and $ loss TBD. No further details.; FS 13; Batt 11; Central Bureau; Council District 10; BC1  BC11  BC18  BC5  CM20  CM22  E10  E20  E203  E210  E211  E220  E229  E29  E3  E6  EM11  HR3  RA13  RA3  SQ21  T10  T11  T20  T29  T3  UR3  UR88; CH9; 13  14; Margaret Stewart</description>
-  <category>Structure Fire</category>
-          <category>Central</category>
-          <category>Koreatown</category>
-          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01012023-inc1597" hreflang="en">view</a></guid>
-          <pubDate>Sunday, January 1, 2023 - 20:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2978c5b2-8c58-11ed-b867-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
