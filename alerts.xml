@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5"/>
-<lastBuildDate>Fri, 20 Jan 2023 14:18:41 -0800</lastBuildDate>
-<pubDate>Friday, January 20, 2023 - 14:18</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 21 Jan 2023 06:55:01 -0800</lastBuildDate>
+<pubDate>Saturday, January 21, 2023 - 06:54</pubDate>
 
     <item>
+  <title><a href="/alert/fatality-traffic-collision-01212023-inc0276" hreflang="en">Fatality Traffic Collision 01/21/2023 INC#0276</a></title>
+  <link><a href="/alert/fatality-traffic-collision-01212023-inc0276" hreflang="en">view</a></link>
+  <description>Fatality Traffic Collision; INC#0276; 05:40AM; EB 10 Fwy East of Creshaw Bl; MAP: &lt;a href="https://bit.ly/2OMPorQ" target="_blank" rel="noopener"&gt;https://bit.ly/2OMPorQ&lt;/a&gt;; #MidCity; Multi-Vehicle collision with 2 vehicles overturned. 3 Patients total: 2 in critical condition, 1 fatality at scene. #LATraffic: Closure of one or more lanes until CHP / Caltrans operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio. Media Inquiries; CHP Central LA Log #488 and Coroner.; FS 68; Batt 18; South Bureau; Council District 10; BC18  E294  E34  E68  EM11  RA34  RA68  RA94  T94; CH4; 13; Brian Humphrey</description>
+  <category>Fatality Traffic Collision</category>
+          <category>South</category>
+          <category>#MidCity</category>
+          <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-01212023-inc0276" hreflang="en">view</a></guid>
+          <pubDate>Saturday, January 21, 2023 - 06:54</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/update-structure-fire-01202023-inc0675-0" hreflang="en">Update Structure Fire 01/20/2023 INC#0675</a></title>
   <link><a href="/alert/update-structure-fire-01202023-inc0675-0" hreflang="en">view</a></link>
   <description>Update Structure Fire; INC#0675; 02:15PM; 235 E 29th St; MAP: &lt;a href="https://bit.ly/3HkYpAT" target="_blank" rel="noopener"&gt;https://bit.ly/3HkYpAT&lt;/a&gt;; #HistoricSouthCentral; Due to the structure's significant instability and collapse, which thankfully caused no injury, dozens of LAFD firefighters will remain at the scene through this evening to comb through tons of smoldering debris, salvage personal belongings and fully extinguish compartmentalized flames. Displaced by the blaze and now being assisted by the American Red Cross are five members of one family (4 adults and 1 child).  The fire's cause has been determined to be electrical in nature.; FS 10; Batt 1; Central Bureau; Council District 9; BC1  BC11  E10  E14  E20  E210  E215  E226  EA1  EM11  RA46  RA810  RA9  SQ21  T10  T15  T26  T9; CH7; 13; Brian Humphrey</description>
@@ -18,7 +29,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-01202023-inc0675-0" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 14:18</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202023-inc0675" hreflang="en">Knockdown Structure Fire 01/20/2023 INC#0675</a></title>
@@ -29,7 +40,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 13:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-01202023-inc0675" hreflang="en">Update Structure Fire 01/20/2023 INC#0675</a></title>
@@ -40,7 +51,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 11:33</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-01202023-inc0675" hreflang="en">Structure Fire 01/20/2023 INC#0675</a></title>
@@ -51,7 +62,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 11:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202023-inc0443" hreflang="en">Knockdown Structure Fire 01/20/2023 INC#0443</a></title>
@@ -62,7 +73,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202023-inc0443" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 09:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-01202023-inc0443" hreflang="en">Structure Fire 01/20/2023 INC#0443</a></title>
@@ -73,7 +84,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01202023-inc0443" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 09:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01192023-inc1556-0" hreflang="en">Update Hazardous Materials 01/19/2023 INC#1556</a></title>
@@ -84,7 +95,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01192023-inc1556-0" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 22:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01192023-inc1556" hreflang="en">Update Hazardous Materials 01/19/2023 INC#1556</a></title>
@@ -95,7 +106,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01192023-inc1556" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 21:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/toxic-exposure-01192023-inc1556" hreflang="en">Toxic Exposure 01/19/2023 INC#1556</a></title>
@@ -106,18 +117,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/toxic-exposure-01192023-inc1556" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 20:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-01192023-inc0967" hreflang="en">KNOCKDOWN Structure Fire 01/19/2023 INC#0967</a></title>
-  <link><a href="/alert/knockdown-structure-fire-01192023-inc0967" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0967; 02:30PM; 3217 W Adams Bl; MAP: &lt;a href="https://bit.ly/3kst8CW" target="_blank" rel="noopener"&gt;https://bit.ly/3kst8CW&lt;/a&gt;; Jefferson Park; KNOCKDOWN: 32 firefighters extinguished the fire in 24 minutes.  Fire was located in a wall on the 1st floor and the smoke traveled up the wall to the attic vents. Crews isolated and were able to prevent the fire from extending up into the 2nd floor/attic of the unit. There were no injuries reported. Cause and $ loss TBD. No further details.; FS 26; Batt 11; Central Bureau; Council District 10; BC11  E226  E229  E29  E34  RA68  RA826  SQ21  T26  T29; CH7; 13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-          <category>Central</category>
-          <category>Jefferson Park</category>
-          <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01192023-inc0967" hreflang="en">view</a></guid>
-          <pubDate>Thursday, January 19, 2023 - 14:41</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=649c842e-9910-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
