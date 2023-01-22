@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 21 Jan 2023 06:55:01 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5"/>
+<lastBuildDate>Sat, 21 Jan 2023 18:00:49 -0800</lastBuildDate>
 <pubDate>Saturday, January 21, 2023 - 06:54</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#MidCity</category>
           <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-01212023-inc0276" hreflang="en">view</a></guid>
           <pubDate>Saturday, January 21, 2023 - 06:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-01202023-inc0675-0" hreflang="en">Update Structure Fire 01/20/2023 INC#0675</a></title>
@@ -29,7 +29,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-01202023-inc0675-0" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 14:18</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202023-inc0675" hreflang="en">Knockdown Structure Fire 01/20/2023 INC#0675</a></title>
@@ -40,7 +40,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 13:11</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-structure-fire-01202023-inc0675" hreflang="en">Update Structure Fire 01/20/2023 INC#0675</a></title>
@@ -51,7 +51,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/update-structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 11:33</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-01202023-inc0675" hreflang="en">Structure Fire 01/20/2023 INC#0675</a></title>
@@ -62,7 +62,7 @@
           <category>#HistoricSouthCentral</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01202023-inc0675" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 11:24</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202023-inc0443" hreflang="en">Knockdown Structure Fire 01/20/2023 INC#0443</a></title>
@@ -73,7 +73,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202023-inc0443" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 09:14</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-01202023-inc0443" hreflang="en">Structure Fire 01/20/2023 INC#0443</a></title>
@@ -84,7 +84,7 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01202023-inc0443" hreflang="en">view</a></guid>
           <pubDate>Friday, January 20, 2023 - 09:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01192023-inc1556-0" hreflang="en">Update Hazardous Materials 01/19/2023 INC#1556</a></title>
@@ -95,7 +95,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01192023-inc1556-0" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 22:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-01192023-inc1556" hreflang="en">Update Hazardous Materials 01/19/2023 INC#1556</a></title>
@@ -106,7 +106,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-01192023-inc1556" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 21:38</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/toxic-exposure-01192023-inc1556" hreflang="en">Toxic Exposure 01/19/2023 INC#1556</a></title>
@@ -117,7 +117,7 @@
           <category>Hollywood</category>
           <guid isPermaLink="false"><a href="/alert/toxic-exposure-01192023-inc1556" hreflang="en">view</a></guid>
           <pubDate>Thursday, January 19, 2023 - 20:47</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=97009432-99f8-11ed-b868-002590f4cea5">Alerts Feed</source>
           </item>
 
   </channel>
