@@ -6,10 +6,21 @@
     <description/>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 23 Jan 2023 14:00:20 -0800</lastBuildDate>
-<pubDate>Monday, January 23, 2023 - 14:00</pubDate>
+<lastBuildDate>Tue, 24 Jan 2023 06:13:27 -0800</lastBuildDate>
+<pubDate>Tuesday, January 24, 2023 - 05:05</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-01242023-inc0138" hreflang="en">Structure Fire - Now Out 01/24/2023 INC#0138</a></title>
+  <link><a href="/alert/structure-fire-now-out-01242023-inc0138" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0138; 03:01AM; 5341 W Romaine St; MAP: &lt;a href="https://bit.ly/3Xwn3UE" target="_blank" rel="noopener"&gt;https://bit.ly/3Xwn3UE&lt;/a&gt;; #EastHollywood; Thirty firefighters responded to the site of a two-story duplex with fire in the lower unit. It took 16 minutes to extinguish the flames (3:17am), confining the damage to the unit-of-origin. The upstairs unit was able to remain occupied after the fire, but three adults will be displaced from the ground-floor unit (fire unit), and American Red Cross was notified to support them. No reported injuries. Cause under investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC5  E227  E235  E27  E52  E82  RA52  RA82  T27  T35; CH7; 13; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+          <category>West</category>
+          <category>#EastHollywood</category>
+          <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01242023-inc0138" hreflang="en">view</a></guid>
+          <pubDate>Tuesday, January 24, 2023 - 05:05</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-01232023-inc0895" hreflang="en">KNOCKDOWN Structure Fire 01/23/2023 INC#0895</a></title>
   <link><a href="/alert/knockdown-structure-fire-01232023-inc0895" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0895; 01:40PM; 11301 N Woodcock Av; MAP: &lt;a href="https://bit.ly/3H47QmU" target="_blank" rel="noopener"&gt;https://bit.ly/3H47QmU&lt;/a&gt;; #Pacoima; It took 18 firefighters 14 minutes to extinguish the fire inside an attached garage converted to a living space. Firefighters were in contact with the residents and confirmed everyone made it out safely prior to LAFD arrival. No reported injuries. The cause is under investigation.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  E287  E298  E7  E75  E91  RA81  RA98  T87  T98; CH8; 17; Nicholas Prange</description>
@@ -106,17 +117,6 @@
           <category>#BoyleHeights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-01222023-inc0313" hreflang="en">view</a></guid>
           <pubDate>Sunday, January 22, 2023 - 06:21</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/fatality-traffic-collision-01222023-inc0262" hreflang="en">Fatality Traffic Collision 01/22/2023 INC#0262</a></title>
-  <link><a href="/alert/fatality-traffic-collision-01222023-inc0262" hreflang="en">view</a></link>
-  <description>Fatality Traffic Collision; INC#0262; 05:06AM; 11400 S Main St; MAP: &lt;a href="https://bit.ly/3ZRaEMK" target="_blank" rel="noopener"&gt;https://bit.ly/3ZRaEMK&lt;/a&gt;; #BroadwayManchester; PRELIM: Two vehicle traffic collision with entrapment, with one car into building. Two patients total (unknown age / gender / affiliation): 1 taken to the hospital by LAFD Paramedics in Critical condition, the other was determined deceased and remains at scene. L.A. Dept of Building &amp; Safety enroute to assess structure. No other injuries reported. No further details. Media Inquiries: LAPD South Traffic Division (Incident #688) and Coroner.; FS 64; Batt 13; South Bureau; Council District 15; BC13  E233  E264  E33  E64  EM13  HR3  RA33  RA64  T33  T64; CH7; 13; Brian Humphrey</description>
-  <category>Fatality Traffic Collision</category>
-          <category>South</category>
-          <category>#BroadwayManchester</category>
-          <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-01222023-inc0262" hreflang="en">view</a></guid>
-          <pubDate>Sunday, January 22, 2023 - 06:03</pubDate>
           <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
