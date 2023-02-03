@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5"/>
-<lastBuildDate>Thu, 02 Feb 2023 10:01:41 -0800</lastBuildDate>
-<pubDate>Thursday, February 2, 2023 - 10:01</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 02 Feb 2023 22:11:19 -0800</lastBuildDate>
+<pubDate>Thursday, February 2, 2023 - 22:11</pubDate>
 
     <item>
+  <title><a href="/alert/flooding-02022023-inc1618" hreflang="en">Flooding 02/02/2023 INC#1618</a></title>
+  <link><a href="/alert/flooding-02022023-inc1618" hreflang="en">view</a></link>
+  <description>Flooding; INC#1618; 09:31PM; 6050 W Fountain Av; MAP: &lt;a href="https://bit.ly/3XYQxLl" target="_blank" rel="noopener"&gt;https://bit.ly/3XYQxLl&lt;/a&gt;; #Hollywood; Firefighters are on scene of a broken water main in the middle of the street, which is shooting water approximately 30 feet into the air. A sink hole appears to be forming (unknown if the hole in the street is growing?) and several homes in the area are being evacuated as a precaution. DWP, DOT, Building and Safety, and LAPD (Inc 4997) notified. ; FS 82; Batt 5; West Bureau; Council District 13; E227  E82  T27; CH7; Nicholas Prange</description>
+  <category>Flooding</category>
+          <category>West</category>
+          <category>#Hollywood</category>
+          <guid isPermaLink="false"><a href="/alert/flooding-02022023-inc1618" hreflang="en">view</a></guid>
+          <pubDate>Thursday, February 2, 2023 - 22:11</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
+  <title><a href="/alert/physical-rescue-02022023-inc0491-0" hreflang="en">Physical Rescue 02/02/2023 INC#0491</a></title>
+  <link><a href="/alert/physical-rescue-02022023-inc0491-0" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#0491; 10:20AM; 8600 W Foothill Bl; MAP: &lt;a href="https://bit.ly/3YhtKtD" target="_blank" rel="noopener"&gt;https://bit.ly/3YhtKtD&lt;/a&gt;; #Sunland; Firefighters successfully extricated an approximately 45-year-old male and transported him in critical condition. The second patient was an approximately 75-year-old female who was treated and transported in serious condition.; FS 24; Batt 12; Valley Bureau; Council District 7; BC12  E24  E274  E289  E298  E77  E98  EM12  H0E  HR3  RA60  RA7  RA98  RH114  T74  T89  T98  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+          <category>Valley</category>
+          <category>#Sunland</category>
+          <guid isPermaLink="false"><a href="/alert/physical-rescue-02022023-inc0491-0" hreflang="en">view</a></guid>
+          <pubDate>Thursday, February 2, 2023 - 10:35</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/physical-rescue-02022023-inc0491" hreflang="en">Physical Rescue 02/02/2023 INC#0491</a></title>
   <link><a href="/alert/physical-rescue-02022023-inc0491" hreflang="en">view</a></link>
   <description>Physical Rescue; INC#0491; 09:51AM; 8600 W Foothill Bl; MAP: &lt;a href="https://bit.ly/3YhtKtD" target="_blank" rel="noopener"&gt;https://bit.ly/3YhtKtD&lt;/a&gt;; #Sunland; Two-vehicle collision with two patients (one trapped). Firefighters are working to extricate the trapped victim.; FS 24; Batt 12; Valley Bureau; Council District 7; BC12  E24  E274  E298  E98  EM12  HR3  RA7  RA98  T74  T98  UR88; CH8; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
           <category>#Sunland</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-02022023-inc0491" hreflang="en">view</a></guid>
           <pubDate>Thursday, February 2, 2023 - 10:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02012023-inc1709" hreflang="en">KNOCKDOWN Structure Fire 02/01/2023 INC#1709</a></title>
@@ -29,7 +51,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02012023-inc1709" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 23:16</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-02012023-inc1709" hreflang="en">Structure Fire 02/01/2023 INC#1709</a></title>
@@ -40,7 +62,7 @@
           <category>#Reseda</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-02012023-inc1709" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 23:06</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02012023-inc1685" hreflang="en">KNOCKDOWN Structure Fire 02/01/2023 INC#1685</a></title>
@@ -51,7 +73,7 @@
           <category>#HydePark</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02012023-inc1685" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 23:05</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-02012023-inc1685" hreflang="en">Structure Fire 02/01/2023 INC#1685</a></title>
@@ -62,7 +84,7 @@
           <category>#HydePark</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-02012023-inc1685" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 22:46</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-02012023-inc1548" hreflang="en">Update Hazardous Materials 02/01/2023 INC#1548</a></title>
@@ -73,7 +95,7 @@
           <category>#Venice</category>
           <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-02012023-inc1548" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 22:10</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hazardous-materials-02012023-inc1548" hreflang="en">Hazardous Materials 02/01/2023 INC#1548</a></title>
@@ -84,7 +106,7 @@
           <category>#Venice</category>
           <guid isPermaLink="false"><a href="/alert/hazardous-materials-02012023-inc1548" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 21:09</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/fall-02012023-inc1097" hreflang="en">Fall 02/01/2023 INC#1097</a></title>
@@ -95,29 +117,7 @@
           <category>#VermontVista</category>
           <guid isPermaLink="false"><a href="/alert/fall-02012023-inc1097" hreflang="en">view</a></guid>
           <pubDate>Wednesday, February 1, 2023 - 16:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/advisory-roadway-closure-01302023-inc1283" hreflang="en">Advisory - Roadway Closure 01/30/2023 INC#1283</a></title>
-  <link><a href="/alert/advisory-roadway-closure-01302023-inc1283" hreflang="en">view</a></link>
-  <description>Advisory - Roadway Closure; INC#1283; 05:14PM; 13215 W Branford St; MAP: &lt;a href="https://bit.ly/3HILnNB" target="_blank" rel="noopener"&gt;https://bit.ly/3HILnNB&lt;/a&gt;; #Arleta; Natural gas utility workers at scene of an excavation project near the Pacoima Diversion flood control channel, requested LAFD to investigate sudden soil erosion and pavement disruption below the roadway in the 13200 block of Branford Street. Though the minimal appearing damage seems static and has caused no injury or structure damage in the residential neighborhood, LAFD closed a quarter-mile stretch of Branford Street between Arleta Avenue and Beachy Avenue to all traffic until personnel from the City's Department of Public Works can work with utility officials to determine a cause and resolution for the issue. LAFD has departed. Reopening of the roadway will be determined by L.A. Department of Transportation officials.; FS 7; Batt 12; Valley Bureau; Council District 6; E7; CH8; Brian Humphrey</description>
-  <category>Advisory - Roadway Closure</category>
-          <category>Valley</category>
-          <category>#Arleta</category>
-          <guid isPermaLink="false"><a href="/alert/advisory-roadway-closure-01302023-inc1283" hreflang="en">view</a></guid>
-          <pubDate>Monday, January 30, 2023 - 19:01</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/fatality-fire-01302023-inc0233" hreflang="en">Fatality Fire 01/30/2023 INC#0233</a></title>
-  <link><a href="/alert/fatality-fire-01302023-inc0233" hreflang="en">view</a></link>
-  <description>Fatality Fire; INC#0233; 04:58AM; 613 N Hagar St; MAP: &lt;a href="https://bit.ly/3wHCSvS" target="_blank" rel="noopener"&gt;https://bit.ly/3wHCSvS&lt;/a&gt;; City of San Fernando; PRELIM: LAFD Firefighters arrived quickly to find a recreational vehicle parked in the rear yard of a single family home well involved with fire, the intense flames threatening an adjacent garage converted to living quarters, and a 15' x 15' tool shed. Three persons in the converted garage were able to escape unharmed. Firefighters also prevented flames from damaging the primary occupied home on the property. In fully extinguishing the burning RV (5:23 AM), firefighters discovered the remains of an adult male within the vehicle. No other injuries were reported. LAFD Investigators have been joined by San Fernando Police Department detectives in a methodical fire cause investigation. A positive identification of the deceased man, as well as the specific cause, time and manner of his death, will be determined by the Los Angeles County Department of Medical Examiner - Coroner.; FS 98; Batt 12; Valley Bureau; Council District None || Incident in City of San Fernando (served under contract since 1979 by LAFD); AR22  AR25  AR33  BC12  E298  E91  E98  RA98  T98; CH8; 17; Brian Humphrey</description>
-  <category>Fatality Fire</category>
-          <category>Valley</category>
-          <category>City of San Fernando</category>
-          <guid isPermaLink="false"><a href="/alert/fatality-fire-01302023-inc0233" hreflang="en">view</a></guid>
-          <pubDate>Monday, January 30, 2023 - 08:15</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a501be7d-a323-11ed-b868-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
