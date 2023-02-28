@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5"/>
-<lastBuildDate>Sun, 26 Feb 2023 20:27:41 -0800</lastBuildDate>
-<pubDate>Sunday, February 26, 2023 - 20:27</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 27 Feb 2023 22:13:57 -0800</lastBuildDate>
+<pubDate>Monday, February 27, 2023 - 16:54</pubDate>
 
     <item>
+  <title><a href="/alert/agency-assist-02272023-inc1430" hreflang="en">Agency Assist 02/27/2023 INC#1430</a></title>
+  <link><a href="/alert/agency-assist-02272023-inc1430" hreflang="en">view</a></link>
+  <description>Agency Assist; INC#1430; 04:42PM; Angels Gate; MAP: &lt;a href="https://bit.ly/37sUSxv" target="_blank" rel="noopener"&gt;https://bit.ly/37sUSxv&lt;/a&gt;; #PortOfLosAngeles; PRELIM: LAFD maritime response to assist L.A. Port Police and Coroner in the recovery of human remains. Unknown age, gender, body condition, attire, port or vessel affiliation, or circumstances. Media Inquiries: L.A. Port Police and Coroner.; FS 111; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT5  E112; CH7; 14; Brian Humphrey</description>
+  <category>Agency Assist</category>
+          <category>South</category>
+          <category>#PortOfLosAngeles</category>
+          <guid isPermaLink="false"><a href="/alert/agency-assist-02272023-inc1430" hreflang="en">view</a></guid>
+          <pubDate>Monday, February 27, 2023 - 16:54</pubDate>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+          </item>
+<item>
   <title><a href="/alert/update-traffic-collision-entrapment-02262023-inc1453" hreflang="en">Update Traffic Collision with Entrapment 02/26/2023 INC#1453</a></title>
   <link><a href="/alert/update-traffic-collision-entrapment-02262023-inc1453" hreflang="en">view</a></link>
   <description>Update Traffic Collision with Entrapment; INC#1453; 08:27PM; 11482 W Magnolia Bl; MAP: &lt;a href="https://bit.ly/3uAKFIu" target="_blank" rel="noopener"&gt;https://bit.ly/3uAKFIu&lt;/a&gt;; #NorthHollywood; Two vehicle collision with one vehicle overturned on surface streets, at the bottom of the Magnolia Boulevard offramp of the northbound Hollywood (SR170) Freeway. 4 patients total (3 adults and 1 infant), including a 40 year-old male and a 35 year-old female, both badly trapped in the wreckage of the same vehicle, before being freed and transported by LAFD Paramedics to a regional Trauma Center, both in critical condition. From that same vehicle came a 10 month old infant (undetermined gender), who was not trapped. That infant was taken by LAFD Paramedics to a Pediatric Trauma Center in undetermined condition. The fourth patient was an adult female from the other vehicle, taken by LAFD Paramedics to an area hospital in fair condition. Media Inquiries (Investigatory Jurisdiction To Be Determined) CHP West Valley (Log #2529) and/or LAPD Valley Traffic Division (Incident #3194).; FS 60; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E60  E86  EM11  EM14  EM17  HR3  RA60  RA76  RA78  RA86  RA860  RA97  T60  UR88; CH8; 18; Brian Humphrey</description>
@@ -18,7 +29,7 @@
           <category>#NorthHollywood</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-02262023-inc1453" hreflang="en">view</a></guid>
           <pubDate>Sunday, February 26, 2023 - 20:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-02262023-inc1453" hreflang="en">Traffic Collision with Entrapment 02/26/2023 INC#1453</a></title>
@@ -29,7 +40,7 @@
           <category>#NorthHollywood</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-02262023-inc1453" hreflang="en">view</a></guid>
           <pubDate>Sunday, February 26, 2023 - 19:17</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/river-rescue-02262023-inc0557" hreflang="en">River Rescue 02/26/2023 INC#0557</a></title>
@@ -40,7 +51,7 @@
           <category>#Sunland</category>
           <guid isPermaLink="false"><a href="/alert/river-rescue-02262023-inc0557" hreflang="en">view</a></guid>
           <pubDate>Sunday, February 26, 2023 - 10:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/update-traffic-collision-02252023-inc2033" hreflang="en">Update Traffic Collision 02/25/2023 INC#2033</a></title>
@@ -51,7 +62,7 @@
           <category>#VanNuys</category>
           <guid isPermaLink="false"><a href="/alert/update-traffic-collision-02252023-inc2033" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 20:58</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/traffic-collision-02252023-inc2033" hreflang="en">Traffic Collision 02/25/2023 INC#2033</a></title>
@@ -62,7 +73,7 @@
           <category>#VanNuys</category>
           <guid isPermaLink="false"><a href="/alert/traffic-collision-02252023-inc2033" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 20:04</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/advisory-la-city-alert-02252023" hreflang="en">ADVISORY - LA CITY ALERT 02/25/2023</a></title>
@@ -73,7 +84,7 @@
           <category>#Sunland #RiverwoodRanch</category>
           <guid isPermaLink="false"><a href="/alert/advisory-la-city-alert-02252023" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 19:23</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-02252023-inc1310" hreflang="en">Structure Fire - Now Out 02/25/2023 INC#1310</a></title>
@@ -84,7 +95,7 @@
           <category>#GranadaHills</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-02252023-inc1310" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 13:52</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/water-rescues-02252023-inc1064" hreflang="en">Water Rescues 02/25/2023 INC#1064</a></title>
@@ -95,7 +106,7 @@
           <category>#HansenDam</category>
           <guid isPermaLink="false"><a href="/alert/water-rescues-02252023-inc1064" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 13:37</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/complete-river-rescue-02252023-inc0520" hreflang="en">Complete - River Rescue 02/25/2023 INC#0520</a></title>
@@ -106,18 +117,7 @@
           <category>#Sunland</category>
           <guid isPermaLink="false"><a href="/alert/complete-river-rescue-02252023-inc0520" hreflang="en">view</a></guid>
           <pubDate>Saturday, February 25, 2023 - 07:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
-          </item>
-<item>
-  <title><a href="/alert/river-rescue-02252023-inc0520" hreflang="en">River Rescue 02/25/2023 INC#0520</a></title>
-  <link><a href="/alert/river-rescue-02252023-inc0520" hreflang="en">view</a></link>
-  <description>River Rescue; INC#0520; 06:38AM; 11201 N Oro Vista Av; MAP: &lt;a href="https://bit.ly/3EGxldt" target="_blank" rel="noopener"&gt;https://bit.ly/3EGxldt&lt;/a&gt;; #Sunland; PRELIM: LAFD ground and air response to an adult male stranded on dirt island within the Tujunga Wash. A hovering LAFD helicopter will soon hoist the man to safety.; FS 74; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC10  BC12  BC15  CM40  CM42  E24  E274  E275  E298  E75  E77  E88  E89  E91  E98  EM15  H2  H3  H5  HA2  HA3  HA5  HR3  RA74  RA898  RA90  RA91  SC1  SW88  SW89  T74  T75  T98  UR88; CH5; 17; Brian Humphrey</description>
-  <category>River Rescue</category>
-          <category>Valley</category>
-          <category>#Sunland</category>
-          <guid isPermaLink="false"><a href="/alert/river-rescue-02252023-inc0520" hreflang="en">view</a></guid>
-          <pubDate>Saturday, February 25, 2023 - 07:02</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=126fb29c-b657-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
