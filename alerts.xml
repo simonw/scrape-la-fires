@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description/>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5"/>
-<lastBuildDate>Mon, 06 Mar 2023 08:43:42 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 06 Mar 2023 15:05:37 -0800</lastBuildDate>
 <pubDate>Sunday, March 5, 2023 - 12:22</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03052023-inc0731" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 5, 2023 - 12:22</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-03052023-inc0731" hreflang="en">Structure Fire 03/05/2023 INC#0731</a></title>
@@ -29,7 +29,7 @@
           <category>#ValleyGlen</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-03052023-inc0731" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 5, 2023 - 12:15</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/structure-fire-03052023-inc0089" hreflang="en">Structure Fire 03/05/2023 INC#0089</a></title>
@@ -40,7 +40,7 @@
           <category>Boyle Heights</category>
           <guid isPermaLink="false"><a href="/alert/structure-fire-03052023-inc0089" hreflang="en">view</a></guid>
           <pubDate>Sunday, March 5, 2023 - 02:08</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/multipatient-shooting-03042023-inc1638" hreflang="en">Multi-Patient Shooting 03/04/2023 INC#1638</a></title>
@@ -51,7 +51,7 @@
           <category>#Florence</category>
           <guid isPermaLink="false"><a href="/alert/multipatient-shooting-03042023-inc1638" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 22:54</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-03042023-inc1303" hreflang="en">Hiker Rescue 03/04/2023 INC#1303</a></title>
@@ -62,7 +62,7 @@
           <category>#WestHills</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-03042023-inc1303" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 19:53</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-03042023-inc0776" hreflang="en">Hiker Rescue 03/04/2023 INC#0776</a></title>
@@ -73,7 +73,7 @@
           <category>#PacificPalisades</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-03042023-inc0776" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 16:27</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-03042023-inc0645" hreflang="en">Hiker Rescue 03/04/2023 INC#0645</a></title>
@@ -84,7 +84,7 @@
           <category>#MontecitoHeights</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-03042023-inc0645" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 12:26</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/hiker-rescue-03042023-inc0573" hreflang="en">Hiker Rescue 03/04/2023 INC#0573</a></title>
@@ -95,7 +95,7 @@
           <category>#PacificPalisades</category>
           <guid isPermaLink="false"><a href="/alert/hiker-rescue-03042023-inc0573" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 11:34</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/physical-rescue-03042023-inc0487" hreflang="en">Physical Rescue 03/04/2023 INC#0487</a></title>
@@ -106,7 +106,7 @@
           <category>#WindsorSquare</category>
           <guid isPermaLink="false"><a href="/alert/physical-rescue-03042023-inc0487" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 10:15</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03042023-inc0386" hreflang="en">KNOCKDOWN Structure Fire 03/04/2023 INC#0386</a></title>
@@ -117,7 +117,7 @@
           <category>#PicoUnion</category>
           <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03042023-inc0386" hreflang="en">view</a></guid>
           <pubDate>Saturday, March 4, 2023 - 08:28</pubDate>
-          <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0cd3aaef-bc3e-11ed-b869-002590f4cea5">Alerts Feed</source>
+          <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
           </item>
 
   </channel>
