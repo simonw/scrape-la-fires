@@ -6,116 +6,116 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 11 Mar 2023 14:54:30 -0800</lastBuildDate>
+<lastBuildDate>Sun, 12 Mar 2023 10:25:22 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
-  <title><a href="/alert/knockdown-structure-fire-03102023-inc1736" hreflang="en">KNOCKDOWN Structure Fire 03/10/2023 INC#1736</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03102023-inc1736" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1736; 11:15PM; 12630 W Raymer St; MAP: &lt;a href="https://bit.ly/3FepxA1" target="_blank" rel="noopener"&gt;https://bit.ly/3FepxA1&lt;/a&gt;; #ValleyGlen; Firefighters located fire in one unit (bakery?) in a strip mall. Thankfully the fire sprinklers prevented the flames from growing rapidly. It took 36 firefighters 27 minutes to fully extinguish the flames, confining the fire to the unit of origin. No reported injuries. The cause of the fire is under investigation.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E288  E289  E88  E89  RA102  RA889  T60  T88  T89; CH8; 17; Nicholas Prange</description>
+  <title><a href="/alert/update-structure-fire-03122023-inc0305" hreflang="en">Update Structure Fire 03/12/2023 INC#0305</a></title>
+  <link><a href="/alert/update-structure-fire-03122023-inc0305" hreflang="en">view</a></link>
+  <description>Update Structure Fire; INC#0305; 09:34AM; 1825 Ocean Front Walk; MAP: &lt;a href="https://bit.ly/3YHunwr" target="_blank" rel="noopener"&gt;https://bit.ly/3YHunwr&lt;/a&gt;; Venice; The business owner was in the building and heard a popping sound prior to the fire igniting. Cause of the fire is attributed to lithium-ion battery overheating. The pet dog of the business owner was sadly found deceased in the structure after fire extinguishment. Address updated from the initial alert (1 E 19th Av) No further details or updates anticipated. ; Margaret Stewart</description>
   <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#ValleyGlen</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03102023-inc1736" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 10, 2023 - 23:31</pubDate>
+                            <category>Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-03122023-inc0305" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 09:38</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/structure-fire-03102023-inc1736" hreflang="en">Structure Fire 03/10/2023 INC#1736</a></title>
-  <link><a href="/alert/structure-fire-03102023-inc1736" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1736; 10:47PM; 12630 W Raymer St; MAP: &lt;a href="https://bit.ly/3FepxA1" target="_blank" rel="noopener"&gt;https://bit.ly/3FepxA1&lt;/a&gt;; #ValleyGlen; One-story strip mall with fire in one unit, being held in check by fire sprinklers. Offensive mode.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E289  E89  RA102  T60  T89; CH9; 17; Nicholas Prange</description>
+  <title><a href="/alert/knockdown-structure-fire-03122023-inc0391" hreflang="en">KNOCKDOWN Structure Fire 03/12/2023 INC#0391</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03122023-inc0391" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0391; 08:52AM; 1831 E 111th St; MAP: &lt;a href="https://bit.ly/3yyqlMs" target="_blank" rel="noopener"&gt;https://bit.ly/3yyqlMs&lt;/a&gt;; Watts; KNOCKDOWN: 28 firefighters extinguished the fire in 12 minutes with no injuries reported. The fire was prevented from extending to any other structures. Cause and $ loss TBD. No further details.; FS 65; Batt 13; South Bureau; Council District 15; BC13  E21  E233  E264  E64  RA64  RA65  SQ21  T33  T64; CH9; 16; Margaret Stewart</description>
   <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#ValleyGlen</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03102023-inc1736" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 10, 2023 - 22:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-railroad-car-fire-03102023-inc1646" hreflang="en">KNOCKDOWN Railroad Car Fire 03/10/2023 INC#1646</a></title>
-  <link><a href="/alert/knockdown-railroad-car-fire-03102023-inc1646" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Railroad Car Fire; INC#1646; 10:46PM; 920 E Pacific Coast Hwy; MAP: &lt;a href="https://bit.ly/3ZWCLsV" target="_blank" rel="noopener"&gt;https://bit.ly/3ZWCLsV&lt;/a&gt;; #Wilmington; It took 18 firefighters 75 minutes to extinguish a fully-involved locomotive (reported to be approximately 100 feet long) boarded up in a freight railway yard. Firefighters kept the flames back from nearby commercial buildings, which did not sustain any damage. No reported injuries. The cause of the fire is under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E38  E49  RA38  T38; CH7; 13; Nicholas Prange</description>
-  <category>Railroad Car Fire</category>
                             <category>South</category>
-                            <category>#Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-railroad-car-fire-03102023-inc1646" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 10, 2023 - 22:50</pubDate>
+                            <category>Watts</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03122023-inc0391" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 08:53</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/fire-03102023-inc1646" hreflang="en">Fire 03/10/2023 INC#1646</a></title>
-  <link><a href="/alert/fire-03102023-inc1646" hreflang="en">view</a></link>
-  <description>Fire; INC#1646; 09:31PM; 920 E Pacific Coast Hwy; MAP: &lt;a href="https://bit.ly/3ZWCLsV" target="_blank" rel="noopener"&gt;https://bit.ly/3ZWCLsV&lt;/a&gt;; #Wilmington; Train on fire (locomotive?), with a commercial building nearby, but not immediately threatened.; FS 38; Batt 6; South Bureau; Council District 15; E238  E38  E49  T38; CH7; 13; Nicholas Prange</description>
-  <category>Fire</category>
+  <title><a href="/alert/structure-fire-03122023-inc0391" hreflang="en">Structure Fire 03/12/2023 INC#0391</a></title>
+  <link><a href="/alert/structure-fire-03122023-inc0391" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0391; 08:40AM; 1831 E 111th St; MAP: &lt;a href="https://bit.ly/3yyqlMs" target="_blank" rel="noopener"&gt;https://bit.ly/3yyqlMs&lt;/a&gt;; Watts; One story, single family dwelling with heavy smoke showing. LA Co FD also has at least one engine on scene.  Firefighters are in the offensive mode.; FS 65; Batt 13; South Bureau; Council District 15; BC13  E21  E233  E264  E64  RA64  RA65  SQ21  T33  T64; CH9; 16; Margaret Stewart</description>
+  <category>Structure Fire</category>
                             <category>South</category>
-                            <category>#Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/fire-03102023-inc1646" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 10, 2023 - 22:00</pubDate>
+                            <category>Watts</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03122023-inc0391" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 08:50</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/test-only-03102023-inc0001" hreflang="en">Test Only 03/10/2023 INC#0001</a></title>
-  <link><a href="/alert/test-only-03102023-inc0001" hreflang="en">view</a></link>
-  <description>Test Only; INC#0001; 11:00AM; 23401 W Canzonet St; MAP: &lt;a href="https://bit.ly/3Ja5zHS" target="_blank" rel="noopener"&gt;https://bit.ly/3Ja5zHS&lt;/a&gt;; Woodland Hills; This is a test of LAFD's alerting system. There is no action required. Nothing further.; Nicholas Prange</description>
-  <category>Test Only</category>
-                            <category>Woodland Hills</category>
-                            <guid isPermaLink="false"><a href="/alert/test-only-03102023-inc0001" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 10, 2023 - 11:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/aircraft-emergency-03092023-inc1228" hreflang="en">Aircraft Emergency 03/09/2023 INC#1228</a></title>
-  <link><a href="/alert/aircraft-emergency-03092023-inc1228" hreflang="en">view</a></link>
-  <description>Aircraft Emergency; INC#1228; 04:15PM; 0 Van Nuys Airport; #VanNuys; A small aircraft overturned into a safety area near a Van Nuys Airport runway, with the pilot being the only occupant on board. LAFD Firefighter-Paramedics evaluated the 28-year-old female with minor injuries and transported her in fair condition to a local hospital. Nothing further. Refer additional questions to LAWA PIO.; FS 90; Batt 10; Valley Bureau; Council District 6; BC10  CM40  CM42  CR114  E290  E90  F114  RA81  T90; CH8; 18; Nicholas Prange</description>
-  <category>Aircraft Emergency</category>
-                            <category>Valley</category>
-                            <category>#VanNuys</category>
-                            <guid isPermaLink="false"><a href="/alert/aircraft-emergency-03092023-inc1228" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 9, 2023 - 17:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-03092023-inc0910" hreflang="en">Hiker Rescue 03/09/2023 INC#0910</a></title>
-  <link><a href="/alert/hiker-rescue-03092023-inc0910" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0910; 01:18PM; 575 N Los Liones Dr; MAP: &lt;a href="https://bit.ly/3ZBDlwG" target="_blank" rel="noopener"&gt;https://bit.ly/3ZBDlwG&lt;/a&gt;; #PacificPalisades; LAFD located an injured hiker on or near a hiking trail in a remote location. LAFD Air Operations located an approximately 67-year-old female in fair condition, lowered a rescuer to her, and hoisted her into the airship. LAFD transported her by air to a local hospital. Nothing further.; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  E69  H2  H4  HA2  HA4  RA69  RH114  T69; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#PacificPalisades</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-03092023-inc0910" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 9, 2023 - 14:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-03092023-inc0614" hreflang="en">KNOCKDOWN Structure Fire 03/09/2023 INC#0614</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03092023-inc0614" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0614; 11:03AM; 14120 W Dickens St; MAP: &lt;a href="https://bit.ly/3ZRtB0X" target="_blank" rel="noopener"&gt;https://bit.ly/3ZRtB0X&lt;/a&gt;; #ShermanOaks; The fire appeared to have been caused by a roofing operation atop a two-story residential building. The fire burned down through the roof and into the walls. It took 20 firefighters 34 minutes to expose and extinguish the flames burning within the enclosed wall spaces of the building. Firefighters simultaneously performed salvage operations, which gathers and covers belongings to protect from smoke and water that come from opening the walls and putting out the fire. There were no reported injuries.; FS 78; Batt 14; Valley Bureau; Council District 4; BC14  E278  E288  E88  RA78  T78  T88; CH8; 17; Nicholas Prange</description>
+  <title><a href="/alert/knockdown-structure-fire-03122023-inc0385" hreflang="en">KNOCKDOWN Structure Fire 03/12/2023 INC#0385</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03122023-inc0385" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0385; 08:47AM; 510 S Kenmore Av; MAP: &lt;a href="https://bit.ly/3JyVrK4" target="_blank" rel="noopener"&gt;https://bit.ly/3JyVrK4&lt;/a&gt;; Koreatown; KNOCKDOWN: 30 firefighters extinguished the fire in 13 minutes with no injuries reported. Firefighters contained the fire to the unit of origin. Cause and $ loss TBD. No further details.; FS 6; Batt 11; Central Bureau; Council District 10; BC11  E13  E211  E229  E29  E52  RA6  RA806  T11  T29; CH9; 15; Margaret Stewart</description>
   <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#ShermanOaks</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03092023-inc0614" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 9, 2023 - 11:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03092023-inc0614" hreflang="en">Structure Fire 03/09/2023 INC#0614</a></title>
-  <link><a href="/alert/structure-fire-03092023-inc0614" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0614; 10:29AM; 14120 W Dickens St; MAP: &lt;a href="https://bit.ly/3ZRtB0X" target="_blank" rel="noopener"&gt;https://bit.ly/3ZRtB0X&lt;/a&gt;; #ShermanOaks; Two-story home with smoke showing. Offensive mode.; FS 78; Batt 14; Valley Bureau; Council District 4; BC14  E278  E288  E88  RA78  T78  T88; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#ShermanOaks</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03092023-inc0614" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 9, 2023 - 10:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-major-emergency-structure-fire-adamsfire-03082023-inc0148-1" hreflang="en">Update Major Emergency Structure Fire #AdamsFire 03/08/2023 INC#0148</a></title>
-  <link><a href="/alert/update-major-emergency-structure-fire-adamsfire-03082023-inc0148-1" hreflang="en">view</a></link>
-  <description>Update #AdamsFire Major Emergency Structure Fire; INC#0148; 06:30AM; 2615 S Grand Av; MAP: &lt;a href="https://bit.ly/3ITRWMK" target="_blank" rel="noopener"&gt;https://bit.ly/3ITRWMK&lt;/a&gt;; #HistoricSouthCentral; Two LAFD Firefighters have been *treated at the scene* for respiratory complaints following smoke inhalation during the fierce firefight. No civilian injuries have been reported. LAFD Firefighters will remain at the location this morning to further salvage building contents, assist County of Los Angeles officials and support the still active LAFD investigation into the cause of the fire. LAFD Public Information Officer Captain Jacob Raabe remains at scene to assist the media.; FS 10; Batt 1; Central Bureau; Council District 9; AR1  BC1  BC11  BC13  BC18  BC5  CM20  CM21  CM22  E10  E13  E14  E15  E201  E203  E205  E209  E210  E211  E215  E220  E221  E226  E227  E229  E248  E3  E4  E46  E85  E9  EA1  EA2  EM1  EM11  EM13  EM18  HR3  PI5  RA10  RA14  RA15  RA3  RA46  RA803  RM1  RM3  SQ21  T1  T10  T11  T15  T20  T21  T26  T27  T29  T3  T48  T5  T9  UR3  UR88; CH7; 13; Brian Humphrey</description>
-  <category>Major Emergency Structure Fire</category>
                             <category>Central</category>
-                            <category>#HistoricSouthCentral</category>
-                            <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-adamsfire-03082023-inc0148-1" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 8, 2023 - 06:49</pubDate>
+                            <category>Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03122023-inc0385" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 08:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-03122023-inc0385" hreflang="en">Structure Fire 03/12/2023 INC#0385</a></title>
+  <link><a href="/alert/structure-fire-03122023-inc0385" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0385; 08:34AM; 510 S Kenmore Av; MAP: &lt;a href="https://bit.ly/3JyVrK4" target="_blank" rel="noopener"&gt;https://bit.ly/3JyVrK4&lt;/a&gt;; Koreatown; Six story (pre-1933) apartment building with fire showing from one unit on the 3rd floor. One additional task forced requested. Firefighters are in the offensive mode.; FS 6; Batt 11; Central Bureau; Council District 10; BC11  E13  E229  E29  RA6  RA806  T29; CH9; 15; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03122023-inc0385" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 08:42</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">KNOCKDOWN Structure Fire 03/12/2023 INC#0305</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0305; 07:41AM; 1 E 19th Av; MAP: &lt;a href="https://bit.ly/3YHunwr" target="_blank" rel="noopener"&gt;https://bit.ly/3YHunwr&lt;/a&gt;; Venice; KNOCKDOWN: 32 firefighters extinguished the fire in 35 minutes with no injuries reported. The fire extended (to what degree is being evaluated at this time) to the two adjacent businesses.  LAFD resources will be on scene through the morning conducting overhaul operations. Due to the narrow streets and limited access, residents are requested to avoid the area while LAFD apparatus are still on scene. No further details.; FS 63; Batt 4; West Bureau; Council District 11; BC4  BC9  CM40  CM42  E263  E269  E62  E63  E67  RA63  T63  T69; CH9; 13; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 07:48</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-structure-fire-updated-address-03122023-inc0305" hreflang="en">Update Structure Fire Updated Address 03/12/2023 INC#0305</a></title>
+  <link><a href="/alert/update-structure-fire-updated-address-03122023-inc0305" hreflang="en">view</a></link>
+  <description>Update Updated Address Structure Fire; INC#0305; 07:20AM; 1825 Ocean Front Walk; MAP: &lt;a href="https://bit.ly/3YHunwr" target="_blank" rel="noopener"&gt;https://bit.ly/3YHunwr&lt;/a&gt;; Venice; Structure type updated to a one story, row of commercial businesses (approx 50' x 50') with heavy fire in one unit (an electric scooter store hence large number of lithium-ion batteries).  Additional resources requested and are reflected in this alert.; FS 63; Batt 4; West Bureau; Council District 11; BC4  E263  E63  E67  RA63  T63; CH9; 13; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-updated-address-03122023-inc0305" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 07:21</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/rubbish-fire-03122023-inc0305" hreflang="en">Rubbish Fire 03/12/2023 INC#0305</a></title>
+  <link><a href="/alert/rubbish-fire-03122023-inc0305" hreflang="en">view</a></link>
+  <description>Rubbish Fire; INC#0305; 07:06AM; 1 E 19th Av; MAP: &lt;a href="https://bit.ly/3YHunwr" target="_blank" rel="noopener"&gt;https://bit.ly/3YHunwr&lt;/a&gt;; Venice; One story, commercial building (initial reports of DBA a gym) with heavy fire showing through the roof. Firefighters are in the offensive mode.; FS 63; Batt 4; West Bureau; Council District 11; E63; CH7; Margaret Stewart</description>
+  <category>Rubbish Fire</category>
+                            <category>West</category>
+                            <category>Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/rubbish-fire-03122023-inc0305" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 12, 2023 - 07:13</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 03/11/2023 INC#1767</a></title>
+  <link><a href="/alert/knockdown-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Greater Alarm Structure Fire; INC#1767; 11:03PM; 826 S Santa Fe Av; MAP: &lt;a href="https://bit.ly/3Fcy4DB" target="_blank" rel="noopener"&gt;https://bit.ly/3Fcy4DB&lt;/a&gt;; #DowntownLA; Firefighters forced entry into the metalclad building. After withdrawing to defensive operations and knocking back the flames, firefighters re-entered the building to finish the job. Ultimately, it took 96 firefighters 46 minutes to extinguish the flames. Thankfully, this particular metal-working business did not contain some of the flammable metals (like magnesium) that can be a concern, but only aluminum was the main metal found inside. There were no reported injuries. The cause of the fire is under investigation.; FS 17; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC5  CM20  CM22  E10  E11  E17  E202  E203  E209  E210  E211  E220  E221  E25  E27  E4  E9  EA1  EM1  HR3  RA17  RA209  RA25  SQ21  T10  T11  T2  T20  T21  T3  T9  UR3  UR88; CH7; 13  14; Nicholas Prange</description>
+  <category>Greater Alarm Structure Fire</category>
+                            <category>Central</category>
+                            <category>#DowntownLA</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, March 11, 2023 - 23:18</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">Update Greater Alarm Structure Fire 03/11/2023 INC#1767</a></title>
+  <link><a href="/alert/update-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">view</a></link>
+  <description>Update Greater Alarm Structure Fire; INC#1767; 10:40PM; 826 S Santa Fe Av; MAP: &lt;a href="https://bit.ly/3Fcy4DB" target="_blank" rel="noopener"&gt;https://bit.ly/3Fcy4DB&lt;/a&gt;; #DowntownLA; Approximately 50 x 140 foot metal processing business with heavy fire in the rear (two-story) portion of the structure. There is a potential for hazardous chemicals and metals that may react with water inside this type of business. Firefighters are now in defensive mode.; FS 17; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC5  CM20  CM22  E10  E11  E17  E202  E203  E209  E210  E211  E220  E221  E25  E27  E4  E9  EA1  EM1  HR3  RA17  RA209  SQ21  T10  T11  T2  T20  T21  T3  T9  UR3  UR88; CH9; 13  14; Nicholas Prange</description>
+  <category>Greater Alarm Structure Fire</category>
+                            <category>Central</category>
+                            <category>#DowntownLA</category>
+                            <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-03112023-inc1767" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, March 11, 2023 - 22:43</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
