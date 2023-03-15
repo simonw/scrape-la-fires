@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 14 Mar 2023 10:21:36 -0700</lastBuildDate>
+<lastBuildDate>Wed, 15 Mar 2023 10:05:03 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/trapped-vehicle-03142023-inc0776" hreflang="en">Trapped Vehicle 03/14/2023 INC#0776</a></title>
+  <link><a href="/alert/trapped-vehicle-03142023-inc0776" hreflang="en">view</a></link>
+  <description>Trapped Vehicle; INC#0776; 12:59PM; Wb 10 Fy; MAP: &lt;a href="https://bit.ly/3yERzku" target="_blank" rel="noopener"&gt;https://bit.ly/3yERzku&lt;/a&gt;; Sawtelle; One vehicle on its side, down the embankment with one patient trapped. Firefighters stabilized the car with the two-line rope system and safely removed the patient from the vehicle. The 33yo male patient will be transported with non-life threatening injuries.  LAFD Heavy Rescue will continue through to the incident to evaluate the vehicle whether it needs to be towed up or is at risk of falling further down the embankment.  The 9-1-1 call was received at 12:37PM. No further details.; FS 92; Batt 18; South Bureau; Council District 11; BC18  E292  E58  E67  E71  EM18  HR3  RA59  RA92  T92; CH7; 12; Margaret Stewart</description>
+  <category>Trapped Vehicle</category>
+                            <category>South</category>
+                            <category>Sawtelle</category>
+                            <guid isPermaLink="false"><a href="/alert/trapped-vehicle-03142023-inc0776" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, March 14, 2023 - 12:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-03132023-inc1546" hreflang="en">Structure Fire - NOW OUT 03/13/2023 INC#1546</a></title>
   <link><a href="/alert/structure-fire-now-out-03132023-inc1546" hreflang="en">view</a></link>
   <description>Structure Fire - NOW OUT; INC#1546; 08:05PM; 556 N Oxford Av; MAP: &lt;a href="https://bit.ly/3JeAIdg" target="_blank" rel="noopener"&gt;https://bit.ly/3JeAIdg&lt;/a&gt;; East Hollywood; Two story, center hall apartment building had smoke showing from one unit on the first floor. Firefighters initiated an offensive operation and located fire in one unit. 28 firefighters extinguished the fire in 15 minutes with no injuries reported. They are clearing the residual smoke from the hallway but the fire was prevented from extending beyond the unit of origin. Cause and $ loss TBD. The 9-1-1 call was received at 7:50PM. No further details. ; FS 52; Batt 5; West Bureau; Council District 13; BC5  E227  E229  E27  E52  E6  RA29  T27  T29; CH9; 13; Margaret Stewart</description>
@@ -105,17 +116,6 @@
                             <category>Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03122023-inc0385" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 12, 2023 - 08:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">KNOCKDOWN Structure Fire 03/12/2023 INC#0305</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0305; 07:41AM; 1 E 19th Av; MAP: &lt;a href="https://bit.ly/3YHunwr" target="_blank" rel="noopener"&gt;https://bit.ly/3YHunwr&lt;/a&gt;; Venice; KNOCKDOWN: 32 firefighters extinguished the fire in 35 minutes with no injuries reported. The fire extended (to what degree is being evaluated at this time) to the two adjacent businesses.  LAFD resources will be on scene through the morning conducting overhaul operations. Due to the narrow streets and limited access, residents are requested to avoid the area while LAFD apparatus are still on scene. No further details.; FS 63; Batt 4; West Bureau; Council District 11; BC4  BC9  CM40  CM42  E263  E269  E62  E63  E67  RA63  T63  T69; CH9; 13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>Venice</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03122023-inc0305" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 12, 2023 - 07:48</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
