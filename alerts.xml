@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5"/>
-<lastBuildDate>Fri, 17 Mar 2023 17:59:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 18 Mar 2023 07:21:14 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Playa del Rey</category>
                             <guid isPermaLink="false"><a href="/alert/complete-confined-space-rescue-03162023-inc1662" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 16, 2023 - 21:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rescue-03162023-inc1662" hreflang="en">Rescue 03/16/2023 INC#1662</a></title>
@@ -29,7 +29,7 @@
                             <category>#PlayaDelRey</category>
                             <guid isPermaLink="false"><a href="/alert/rescue-03162023-inc1662" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 16, 2023 - 21:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/complete-animal-rescue-03162023-inc1274" hreflang="en">Complete - Animal Rescue 03/16/2023 INC#1274</a></title>
@@ -40,7 +40,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/complete-animal-rescue-03162023-inc1274" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 16, 2023 - 18:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/animal-rescue-03162023-inc1274" hreflang="en">Animal Rescue 03/16/2023 INC#1274</a></title>
@@ -51,7 +51,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/animal-rescue-03162023-inc1274" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 16, 2023 - 17:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/complete-river-rescue-03152023-inc1406" hreflang="en">Complete -  River Rescue 03/15/2023 INC#1406</a></title>
@@ -62,7 +62,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/complete-river-rescue-03152023-inc1406" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 15, 2023 - 17:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/river-rescue-03152023-inc1406" hreflang="en">River Rescue 03/15/2023 INC#1406</a></title>
@@ -73,7 +73,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/river-rescue-03152023-inc1406" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 15, 2023 - 17:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-multipatient-medical-03152023-inc1030" hreflang="en">Update Multi-Patient Medical 03/15/2023 INC#1030</a></title>
@@ -84,7 +84,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/update-multipatient-medical-03152023-inc1030" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 15, 2023 - 14:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-medical-03152023-inc1030" hreflang="en">Multi-Patient Medical 03/15/2023 INC#1030</a></title>
@@ -95,7 +95,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-medical-03152023-inc1030" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 15, 2023 - 14:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/trapped-vehicle-03142023-inc0776" hreflang="en">Trapped Vehicle 03/14/2023 INC#0776</a></title>
@@ -106,7 +106,7 @@
                             <category>Sawtelle</category>
                             <guid isPermaLink="false"><a href="/alert/trapped-vehicle-03142023-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 14, 2023 - 12:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-03132023-inc1546" hreflang="en">Structure Fire - NOW OUT 03/13/2023 INC#1546</a></title>
@@ -117,7 +117,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03132023-inc1546" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 13, 2023 - 20:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=29b3b81e-c528-11ed-b86b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
