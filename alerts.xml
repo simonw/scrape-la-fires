@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5"/>
-<lastBuildDate>Fri, 24 Mar 2023 22:07:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 25 Mar 2023 08:17:09 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/update-traffic-collision-entrapment-03252023-inc0297" hreflang="en">Update Traffic Collision with Entrapment 03/25/2023 INC#0297</a></title>
+  <link><a href="/alert/update-traffic-collision-entrapment-03252023-inc0297" hreflang="en">view</a></link>
+  <description>Update Traffic Collision with Entrapment; INC#0297; 06:55AM; WB 10 Fwy east of Crenshaw Blvd; MAP: &lt;a href="https://bit.ly/2OMPorQ" target="_blank" rel="noopener"&gt;https://bit.ly/2OMPorQ&lt;/a&gt;; #MidCity; Two vehicle apparent head-on collision between a work truck with three adult male occupants, and a sedan with one adult female occupant, the work truck found overturned with the driver trapped. All *four* patients (no further details) transported to a regional trauma center by LAFD Paramedics. #LATtraffic: Closure of one or more lanes until CHP operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Monitor @CHP_LA_TRAFFIC on Twitter ( https://twitter.com/CHP_LA_TRAFFIC ) and traffic reports on news radio. Media Inquiries: CHP Log#0592; FS 26; Batt 11; Central Bureau; Council District 10; BC11  E226  E229  E26  E29  EM11  HR3  RA26  RA29  RA34  RA826  T26  T29; CH7; 13; Brian Humphrey</description>
+  <category>Traffic Collision with Entrapment</category>
+                            <category>Central</category>
+                            <category>#MidCity</category>
+                            <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-03252023-inc0297" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, March 25, 2023 - 07:04</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/traffic-collision-entrapment-03252023-inc0297" hreflang="en">Traffic Collision with Entrapment 03/25/2023 INC#0297</a></title>
+  <link><a href="/alert/traffic-collision-entrapment-03252023-inc0297" hreflang="en">view</a></link>
+  <description>Traffic Collision with Entrapment; INC#0297; 06:08AM; WB 10 Fwy east of Crenshaw Blvd; MAP: &lt;a href="https://bit.ly/2OMPorQ" target="_blank" rel="noopener"&gt;https://bit.ly/2OMPorQ&lt;/a&gt;; #MidCity; PRELIM: Multi-vehicle collision with one vehicle overturned and one patient trapped, now freed. Three patients (no details) transported to a regional trauma center. #LATtraffic: Closure of one or more lanes until CHP operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Monitor @CHP_LA_TRAFFIC on Twitter ( https://twitter.com/CHP_LA_TRAFFIC ) and traffic reports on news radio. Media Inquiries: CHP Central LA Log #0592; FS 26; Batt 11; Central Bureau; Council District 10; BC11  E226  E229  E26  E29  EM11  HR3  RA26  RA29  RA34  RA826  T26  T29; CH7; 13; Brian Humphrey</description>
+  <category>Traffic Collision with Entrapment</category>
+                            <category>Central</category>
+                            <category>#MidCity</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-03252023-inc0297" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, March 25, 2023 - 06:52</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03242023-inc1647" hreflang="en">Knockdown -  Structure Fire 03/24/2023 INC#1647</a></title>
   <link><a href="/alert/knockdown-structure-fire-03242023-inc1647" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#1647; 09:51PM; 8165 W Tianna Rd; MAP: &lt;a href="https://bit.ly/3TKGB6T" target="_blank" rel="noopener"&gt;https://bit.ly/3TKGB6T&lt;/a&gt;; #HollywoodHills West; 44 LAFD Firefighters took just 32 minutes to access, confine and fully extinguish heavy fire that extended from a well involved garage into the attic of an attached 2,362 square foot one-story home. No injuries reported. Fire cause under investigation.; FS 97; Batt 14; Valley Bureau; Council District 4; BC14  E108  E260  E278  E288  E41  E97  RA41  RA97  T60  T78  T88; CH9; 18; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#HollywoodHills West</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03242023-inc1647" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 24, 2023 - 21:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-correction-firefight-continues-no-knockdown-03242023-inc1647" hreflang="en">Update Structure Fire Correction - Firefight Continues (No Knockdown) 03/24/2023 INC#1647</a></title>
@@ -29,7 +51,7 @@
                             <category>#HollywoodHills West</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-correction-firefight-continues-no-knockdown-03242023-inc1647" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 24, 2023 - 21:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03242023-inc1647" hreflang="en">Structure Fire 03/24/2023 INC#1647</a></title>
@@ -40,7 +62,7 @@
                             <category>#HollywoodHills West</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03242023-inc1647" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 24, 2023 - 21:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-fire-now-out-03232023-inc1597" hreflang="en">Structure Fire - FIRE NOW OUT 03/23/2023 INC#1597</a></title>
@@ -51,7 +73,7 @@
                             <category>Los Feliz</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-03232023-inc1597" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 23, 2023 - 23:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03232023-inc0662" hreflang="en">KNOCKDOWN Structure Fire 03/23/2023 INC#0662</a></title>
@@ -62,7 +84,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03232023-inc0662" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 23, 2023 - 12:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03232023-inc0662" hreflang="en">Structure Fire 03/23/2023 INC#0662</a></title>
@@ -73,7 +95,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03232023-inc0662" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 23, 2023 - 11:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03232023-inc0578" hreflang="en">KNOCKDOWN Structure Fire 03/23/2023 INC#0578</a></title>
@@ -84,7 +106,7 @@
                             <category>Eagle Rock</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03232023-inc0578" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 23, 2023 - 11:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03232023-inc0578" hreflang="en">Structure Fire 03/23/2023 INC#0578</a></title>
@@ -95,29 +117,7 @@
                             <category>Eagle Rock</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03232023-inc0578" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 23, 2023 - 11:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/jumper-03232023-inc0507" hreflang="en">Jumper 03/23/2023 INC#0507</a></title>
-  <link><a href="/alert/jumper-03232023-inc0507" hreflang="en">view</a></link>
-  <description>Jumper; INC#0507; 10:34AM; 501 W Chavez Av; MAP: &lt;a href="https://bit.ly/39wf83i" target="_blank" rel="noopener"&gt;https://bit.ly/39wf83i&lt;/a&gt;; Downtown; Firefighters have inflated the air rescue cushions while LAPD is speaking with the patient threatening to jump.  Commuters are advised to avoid the area. #trafficalert; FS 3; Batt 1; Central Bureau; Council District 1; BC1  E1  E203  E209  E227  E250  E4  E9  EM11  RA17  RA3  RA4  T27  T3  T50; CH7; 13; Margaret Stewart</description>
-  <category>Jumper</category>
-                            <category>Central</category>
-                            <category>Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/jumper-03232023-inc0507" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 23, 2023 - 10:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-03222023-inc1518" hreflang="en">KNOCKDOWN Structure Fire 03/22/2023 INC#1518</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03222023-inc1518" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1518; 09:05PM; 1755 N Main St; MAP: &lt;a href="https://bit.ly/3neiH7u" target="_blank" rel="noopener"&gt;https://bit.ly/3neiH7u&lt;/a&gt;; Lincoln Heights; KNOCKDOWN: Firefighters making an interior attack from the rear of the building were able to quickly reach and extinguish the bulk of the fire which was primarily on a mezzanine. While there were reports of occupants possibly still in the building, firefighters conducted a primary and secondary search, finding the structure empty.  One 51yo male patient was transported in critical condition (the patient was already outside of the building upon LAFD arrival). Per protocol for a significant fire related injury, LAFD Arson is responding for the investigation. A total of over 100 firefighters on scene with knockdown achieved in 35 minutes.; FS 1; Batt 2; Central Bureau; Council District 1; BC1  BC11  BC2  BC5  CM20  CM22  E1  E15  E2  E201  E203  E210  E227  E235  E27  E4  E44  E55  EA1  EM1  EM11  HR3  RA1  RA27  RA3  RA47  RA55  RA801  RA827  RA844  SQ21  T1  T10  T27  T3  T35  T9  UR27  UR88; CH9; 13  14; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>Lincoln Heights</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03222023-inc1518" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 22, 2023 - 21:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f7504e87-caca-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
