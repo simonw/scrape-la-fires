@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5"/>
-<lastBuildDate>Sun, 02 Apr 2023 22:46:40 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 03 Apr 2023 17:27:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/fallen-tree-04032023-inc1156" hreflang="en">Fallen Tree 04/03/2023 INC#1156</a></title>
+  <link><a href="/alert/fallen-tree-04032023-inc1156" hreflang="en">view</a></link>
+  <description>Fallen Tree; INC#1156; 04:50PM; 4838 N Sunnyslope Av; MAP: &lt;a href="https://bit.ly/40ZIiPV" target="_blank" rel="noopener"&gt;https://bit.ly/40ZIiPV&lt;/a&gt;; #ShermanOaks; PRELIM: A tree has fallen onto an apartment building, causing damage significant enough to temporarily evacuate an unknown number of occupants from the structure until an L.A. City Department of Building &amp; Safety (LADBS) Inspector (ETA 6:45 PM) can assess the damage. No injuries reported. Though our region has been experiencing strong wind, LAFD does not determine the specific cause of a tree falling. No further details. Media Inquires: LADBS and Property Owner (at scene).; FS 102; Batt 14; Valley Bureau; Council District 4; E278  T78; CH8; Brian Humphrey</description>
+  <category>Fallen Tree</category>
+                            <category>Valley</category>
+                            <category>#ShermanOaks</category>
+                            <guid isPermaLink="false"><a href="/alert/fallen-tree-04032023-inc1156" hreflang="en">view</a></guid>
+                            <pubDate>Monday, April 3, 2023 - 17:19</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/complete-cliff-rescue-04022023-inc1239" hreflang="en">COMPLETE -  Cliff Rescue 04/02/2023 INC#1239</a></title>
   <link><a href="/alert/complete-cliff-rescue-04022023-inc1239" hreflang="en">view</a></link>
   <description>COMPLETE -  Cliff Rescue; INC#1239; 08:34PM; 2201 W Warmouth St; MAP: &lt;a href="https://bit.ly/433gJY7" target="_blank" rel="noopener"&gt;https://bit.ly/433gJY7&lt;/a&gt;; #SanPedro; Ground-based LAFD firefighters, including those specially trained and equipped for Urban Search and Rescue, were able to safely utilize a harness and rope system to safely access and lower the stranded though uninjured 52 year-old male - and his (unknown age/breed) pet dog, from the steep cliff behind his home, to the beach 30+ feet below. They will be assisted to walking to the cliff top and their home via a nearby trail.; FS 101; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT5  E101  E248  E285  E48  E85  EM13  H4  H5  HA4  HA5  RA36  RA85  RH114  T48  T85  UR85  UR88 + LACoFD Baywatch Lifeguards; CH7; 13; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/complete-cliff-rescue-04022023-inc1239" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 2, 2023 - 20:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-cliff-rescue-04022023-inc1239" hreflang="en">Update Cliff Rescue 04/02/2023 INC#1239</a></title>
@@ -29,7 +40,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/update-cliff-rescue-04022023-inc1239" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 2, 2023 - 19:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/cliff-rescue-04022023-inc1239" hreflang="en">Cliff Rescue 04/02/2023 INC#1239</a></title>
@@ -40,7 +51,7 @@
                             <category>San Pedro</category>
                             <guid isPermaLink="false"><a href="/alert/cliff-rescue-04022023-inc1239" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 2, 2023 - 19:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-04012023-inc1371" hreflang="en">Update Structure Fire 04/01/2023 INC#1371</a></title>
@@ -51,7 +62,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-04012023-inc1371" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 20:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-high-rise-04012023-inc1371" hreflang="en">Structure Fire - High Rise 04/01/2023 INC#1371</a></title>
@@ -62,7 +73,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-high-rise-04012023-inc1371" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 19:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-04012023-inc0675" hreflang="en">Hiker Rescue - Hoist Op 04/01/2023 INC#0675</a></title>
@@ -73,7 +84,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-04012023-inc0675" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 12:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04012023-inc0674" hreflang="en">KNOCKDOWN Structure Fire 04/01/2023 INC#0674</a></title>
@@ -84,7 +95,7 @@
                             <category>Mar Vista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04012023-inc0674" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 11:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04012023-inc0674" hreflang="en">Structure Fire 04/01/2023 INC#0674</a></title>
@@ -95,7 +106,7 @@
                             <category>Mar Vista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04012023-inc0674" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 11:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04012023-inc0578-0" hreflang="en">Structure Fire 04/01/2023 INC#0578</a></title>
@@ -106,18 +117,7 @@
                             <category>Panorama City</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04012023-inc0578-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 1, 2023 - 10:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-04012023-inc0578" hreflang="en">Structure Fire 04/01/2023 INC#0578</a></title>
-  <link><a href="/alert/structure-fire-04012023-inc0578" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0578; 10:34AM; 8930 N Van Nuys Bl; MAP: &lt;a href="https://bit.ly/3KrKjPN" target="_blank" rel="noopener"&gt;https://bit.ly/3KrKjPN&lt;/a&gt;; Panorama City; Two and (part) three story garden style apartment building with fire in one unit on the 2nd floor. One additional task force was requested while resources were enroute due to a visible loom up (meaning the smoke was visible above the structure from a distance). Firefighters are in the offensive mode.; FS 7; Batt 12; Valley Bureau; Council District 6; BC12  E105  E290  E298  E88  RA7  RA81  T90  T98; CH9; 17; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>Panorama City</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-04012023-inc0578" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, April 1, 2023 - 10:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e7d408cd-d1e2-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
