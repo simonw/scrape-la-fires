@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 07 Apr 2023 20:43:02 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5"/>
+<lastBuildDate>Sat, 08 Apr 2023 03:30:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/auto-vs-pedestrian-04082023-inc0052" hreflang="en">Auto vs Pedestrian 04/08/2023 INC#0052</a></title>
+  <link><a href="/alert/auto-vs-pedestrian-04082023-inc0052" hreflang="en">view</a></link>
+  <description>Auto vs Pedestrian; INC#0052; 12:45AM; 17400 W Sunset Bl; MAP: &lt;a href="https://bit.ly/3zuYMBP" target="_blank" rel="noopener"&gt;https://bit.ly/3zuYMBP&lt;/a&gt;; #PacificPalisades; One vehicle travelling east on Pacific coast highway collided with several pedestrians and vehicles parked on the shoulder, overlooking the beach. One person was fatally struck and was found down on the beach, along with two of the vehicles involved (none in the water). Six patients were transported to the hospital (1 in serious condition, 5 in fair-to-moderate condition). LAPD Inc #0183. Nothing further.; FS 23; Batt 9; West Bureau; Council District 11; BC18  BC4  BC9  CM40  CM42  E19  E23  E263  E269  E288  E37  E63  E88  E90  EM14  EM17  EM9  H4  H5  HA4  HA5  HR3  RA19  RA23  RA37  RA59  RA63  RA69  RA803  RA88  T63  T69  T88  UR88; CH7; 13  15; Nicholas Prange</description>
+  <category>Auto vs Pedestrian</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrian-04082023-inc0052" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 8, 2023 - 02:11</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04072023-inc1462" hreflang="en">KNOCKDOWN Structure Fire 04/07/2023 INC#1462</a></title>
   <link><a href="/alert/knockdown-structure-fire-04072023-inc1462" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1462; 08:15PM; 10320 N Oakdale Av; MAP: &lt;a href="https://bit.ly/3Mn98xy" target="_blank" rel="noopener"&gt;https://bit.ly/3Mn98xy&lt;/a&gt;; #Chatsworth; An outside fire partially damaged a two-story home. Firefighters arrived to quickly extinguish the structure and outside fires, protecting the interior of the home. Firefighters are setting up ventilation measures to clear some light smoke that made its way inside. Ultimately, it took 18 firefighters 15 minutes to respond and extinguish the flames. No reported injuries. Cause under investigation.; FS 107; Batt 15; Valley Bureau; Council District 12; BC15  E107  E28  E287  E296  E73  RA96  T87  T96; CH9; 17; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072023-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 20:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072023-inc1462" hreflang="en">Structure Fire 04/07/2023 INC#1462</a></title>
@@ -29,7 +40,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072023-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 20:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-04072023-inc1051" hreflang="en">Traffic Collision with Entrapment 04/07/2023 INC#1051</a></title>
@@ -40,7 +51,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-04072023-inc1051" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 15:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/physical-rescue-04072023-inc0461" hreflang="en">Physical Rescue 04/07/2023 INC#0461</a></title>
@@ -51,7 +62,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-04072023-inc0461" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 10:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-04072023-inc1469" hreflang="en">Update Structure Fire 04/07/2023 INC#1469</a></title>
@@ -61,7 +72,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-04072023-inc1469" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 09:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04062023-inc1743" hreflang="en">KNOCKDOWN Structure Fire 04/06/2023 INC#1743</a></title>
@@ -72,7 +83,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04062023-inc1743" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 01:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04062023-inc1743" hreflang="en">Structure Fire 04/06/2023 INC#1743</a></title>
@@ -83,7 +94,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04062023-inc1743" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 7, 2023 - 00:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-04062023-inc1469" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 04/06/2023 INC#1469</a></title>
@@ -94,7 +105,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-04062023-inc1469" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 6, 2023 - 21:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04062023-inc1469" hreflang="en">Structure Fire 04/06/2023 INC#1469</a></title>
@@ -105,18 +116,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04062023-inc1469" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 6, 2023 - 20:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04052023-inc1235" hreflang="en">KNOCKDOWN Structure Fire 04/05/2023 INC#1235</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04052023-inc1235" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1235; 05:29PM; 4815 S Roma Ct; MAP: &lt;a href="https://bit.ly/3ZSTYmY" target="_blank" rel="noopener"&gt;https://bit.ly/3ZSTYmY&lt;/a&gt;; #Venice; It took 26 firefighters 24 minutes to extinguish a fire, which was contained mostly to the attic of a 4,601 sq-ft, three-story (portions had a 4th story) home in the "Silver Strand" tract, built in 1985. Firefighters took care to protect belongings below before applying water to the flames above. There were no injuries, and the cause is under investigation.; FS 63; Batt 4; West Bureau; Council District 11; BC4  E205  E263  E62  E63  E67  RA62  T5  T63; CH7; 13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#Venice</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04052023-inc1235" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, April 5, 2023 - 17:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6886d278-d5f8-11ed-b86d-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
