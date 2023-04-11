@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5"/>
-<lastBuildDate>Mon, 10 Apr 2023 17:23:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 11 Apr 2023 10:15:08 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04102023-inc1254" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102023-inc1254" hreflang="en">Structure Fire 04/10/2023 INC#1254</a></title>
@@ -29,7 +29,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102023-inc1254" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 17:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fall-long-fatality-04102023-inc0919" hreflang="en">Fall (Long) - FATALITY 04/10/2023 INC#0919</a></title>
@@ -40,7 +40,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/fall-long-fatality-04102023-inc0919" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 14:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04102023-inc0191" hreflang="en">KNOCKDOWN Structure Fire 04/10/2023 INC#0191</a></title>
@@ -51,7 +51,7 @@
                             <category>Arlington Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04102023-inc0191" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 04:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102023-inc0191" hreflang="en">Structure Fire 04/10/2023 INC#0191</a></title>
@@ -62,7 +62,7 @@
                             <category>Arlington Heights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102023-inc0191" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 04:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04092023-inc1178" hreflang="en">KNOCKDOWN Structure Fire 04/09/2023 INC#1178</a></title>
@@ -73,7 +73,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04092023-inc1178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 9, 2023 - 17:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04092023-inc1178" hreflang="en">Structure Fire 04/09/2023 INC#1178</a></title>
@@ -84,7 +84,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04092023-inc1178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 9, 2023 - 17:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-04092023-inc0593" hreflang="en">Hiker Rescue - Hoist Op 04/09/2023 INC#0593</a></title>
@@ -95,7 +95,7 @@
                             <category>Griffith Park</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-04092023-inc0593" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 9, 2023 - 10:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-fatality-04092023-inc0432" hreflang="en">Update Structure Fire - FATALITY 04/09/2023 INC#0432</a></title>
@@ -106,7 +106,7 @@
                             <category>Westchester</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-fatality-04092023-inc0432" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 9, 2023 - 09:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04092023-inc0432" hreflang="en">KNOCKDOWN Structure Fire 04/09/2023 INC#0432</a></title>
@@ -117,7 +117,7 @@
                             <category>Westchester</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04092023-inc0432" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 9, 2023 - 08:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1bc9fdbf-d7ff-11ed-b86d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
