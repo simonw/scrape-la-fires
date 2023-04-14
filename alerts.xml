@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 12 Apr 2023 21:18:01 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5"/>
+<lastBuildDate>Thu, 13 Apr 2023 22:11:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-correction-04122023-inc0155" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 12, 2023 - 05:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-04122023-inc0155-0" hreflang="en">Update Greater Alarm Structure Fire 04/12/2023 INC#0155</a></title>
@@ -29,7 +29,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-04122023-inc0155-0" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 12, 2023 - 04:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-04122023-inc0155" hreflang="en">Knockdown -  Greater Alarm Structure Fire 04/12/2023 INC#0155</a></title>
@@ -40,7 +40,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-04122023-inc0155" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 12, 2023 - 04:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-04122023-inc0155" hreflang="en">Update Greater Alarm Structure Fire 04/12/2023 INC#0155</a></title>
@@ -51,7 +51,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-04122023-inc0155" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 12, 2023 - 04:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-04122023-inc0155" hreflang="en">Greater Alarm Structure Fire 04/12/2023 INC#0155</a></title>
@@ -62,7 +62,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-04122023-inc0155" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 12, 2023 - 03:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04102023-inc1254" hreflang="en">KNOCKDOWN Structure Fire 04/10/2023 INC#1254</a></title>
@@ -73,7 +73,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04102023-inc1254" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102023-inc1254" hreflang="en">Structure Fire 04/10/2023 INC#1254</a></title>
@@ -84,7 +84,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102023-inc1254" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 17:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fall-long-fatality-04102023-inc0919" hreflang="en">Fall (Long) - FATALITY 04/10/2023 INC#0919</a></title>
@@ -95,7 +95,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/fall-long-fatality-04102023-inc0919" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 14:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04102023-inc0191" hreflang="en">KNOCKDOWN Structure Fire 04/10/2023 INC#0191</a></title>
@@ -106,7 +106,7 @@
                             <category>Arlington Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04102023-inc0191" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 04:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102023-inc0191" hreflang="en">Structure Fire 04/10/2023 INC#0191</a></title>
@@ -117,7 +117,7 @@
                             <category>Arlington Heights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102023-inc0191" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 10, 2023 - 04:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d6e25513-da82-11ed-b86e-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
