@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 27 Apr 2023 08:37:11 -0700</lastBuildDate>
+<lastBuildDate>Thu, 27 Apr 2023 17:25:14 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/jumper-fatality-04272023-inc0891" hreflang="en">Jumper - FATALITY 04/27/2023 INC#0891</a></title>
+  <link><a href="/alert/jumper-fatality-04272023-inc0891" hreflang="en">view</a></link>
+  <description>Jumper - FATALITY; INC#0891; 01:53PM; Sb 405 Fy; MAP: &lt;a href="https://bit.ly/3S956cb" target="_blank" rel="noopener"&gt;https://bit.ly/3S956cb&lt;/a&gt;; Westchester; At 1:29pm LAFD responded to reports of a person who jumped off the 105FY overpass to the 405FY.  Firefighters located one patient (age/gender unknown) determined deceased on scene. Any questions, to include duration and impact to freeway traffic, are directed to CHP Log# 1345  No further details.; FS 95; Batt 4; West Bureau; Council District 11; BC4  E205  E5  E51  E95  EM9  RA51  T5  T95; CH7; 14; Margaret Stewart</description>
+  <category>Jumper - FATALITY</category>
+                            <category>West</category>
+                            <category>Westchester</category>
+                            <guid isPermaLink="false"><a href="/alert/jumper-fatality-04272023-inc0891" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, April 27, 2023 - 13:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/fire-out-structure-fire-04272023-inc0396" hreflang="en">FIRE OUT Structure Fire 04/27/2023 INC#0396</a></title>
   <link><a href="/alert/fire-out-structure-fire-04272023-inc0396" hreflang="en">view</a></link>
   <description>FIRE OUT Structure Fire; INC#0396; 08:37AM; 9901 N Lurline Av; MAP: &lt;a href="https://bit.ly/44k9LP4" target="_blank" rel="noopener"&gt;https://bit.ly/44k9LP4&lt;/a&gt;; Chatsworth; Firefighters located a fire out (food on the stove) and heavy smoke in one unit on the 2nd floor. One female patient (age unknown) is being evaluated for possible smoke inhalation and transportation to the hospital. Fire doors activated and contained the smoke to one section of hallway near the fire unit. Firefighters are working to ventilate and clear the remainder of the smoke. No evacuation required. No further details.; FS 107; Batt 15; Valley Bureau; Council District 12; BC14  BC15  BC17  CM40  CM42  E104  E107  E273  E28  E287  E288  E293  E296  E70  E89  EM15  HR3  RA107  RA889  RA89  T73  T87  T88  T93  T96  UR88  UR89; CH9; 17  18; Margaret Stewart</description>
@@ -106,17 +117,6 @@
                             <category>#RanchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-chemical-investigation-04242023-inc1411-0" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 24, 2023 - 22:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-chemical-investigation-04242023-inc1411" hreflang="en">Update Chemical Investigation 04/24/2023 INC#1411</a></title>
-  <link><a href="/alert/update-chemical-investigation-04242023-inc1411" hreflang="en">view</a></link>
-  <description>Update Chemical Investigation; INC#1411; 08:50PM; 2800 S Sepulveda Bl; MAP: &lt;a href="https://bit.ly/41XrHN9" target="_blank" rel="noopener"&gt;https://bit.ly/41XrHN9&lt;/a&gt;; #RanchoPark; Firefighters used soil from the side of the road to control the spread of the yet-to-be-identified "oil-like" substance that was previously seeping out of the ground. PIO Captain Erik Scott is en route, ETA 9pm.; FS 59; Batt 9; West Bureau; Council District 5; BC9  E59  E95  JT2  JT3  JT4  PI1  SQ95; CH7; 13; Nicholas Prange</description>
-  <category>Chemical Investigation</category>
-                            <category>West</category>
-                            <category>#RanchoPark</category>
-                            <guid isPermaLink="false"><a href="/alert/update-chemical-investigation-04242023-inc1411" hreflang="en">view</a></guid>
-                            <pubDate>Monday, April 24, 2023 - 20:51</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
