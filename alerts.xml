@@ -6,7 +6,7 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 30 Apr 2023 07:24:01 -0700</lastBuildDate>
+<lastBuildDate>Sun, 30 Apr 2023 15:24:35 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -54,13 +54,13 @@
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/aircraft-emergency-04292023-inc1415" hreflang="en">Aircraft Emergency 04/29/2023 INC#1415</a></title>
-  <link><a href="/alert/aircraft-emergency-04292023-inc1415" hreflang="en">view</a></link>
-  <description>Aircraft Emergency; INC#1415; 08:09PM; 3535 Beverly Glen Terrace; MAP: &lt;a href="https://bit.ly/3Lmc8Ix" target="_blank" rel="noopener"&gt;https://bit.ly/3Lmc8Ix&lt;/a&gt;; #ShermanOaks; PRELIM: Air Traffic Control asked LAFD to check a large swath of mountainous territory near Stone Canyon Road and Mulholland Drive (east of the San Diego Freeway) after they reportedly lost radar contact with a small, single engine airplane believed to be traveling between Santa Monica Airport and Van Nuys Airport. There were no 9-1-1 calls reporting any related sights or sounds. LAFD helicopters and ground crews searched the large fog shrouded region for nearly an hour before an LAFD helicopter localized a signal from an aircraft Emergency Position Indicating Radio Beacon (EPIRB) in the vicinity (believed within a quarter-mile) of Beverly Glen Terrace and Beverly Glen Boulevard. LAFD ground crews are continuing a grid search of the rugged terrain north of Mulholland Drive, as a pair of LAFD helicopters seek to provide command support in the foggy skies above. If and when an aircraft is located, we will issue an additional LAFD Alert with updates.; FS 99; Batt 10; Valley Bureau; Council District 5; AO1  AO2  BC10  E108  E109  E288  E88  EM14  H3  H4  HA3  HA4  HR3  RA83  RA88  RA99  RH114  T88  UR88; CH8; 17; Brian Humphrey</description>
+  <title><a href="/alert/aircraft-emergency-04302023-inc1415" hreflang="en">Aircraft Emergency 04/30/2023 INC#1415</a></title>
+  <link><a href="/alert/aircraft-emergency-04302023-inc1415" hreflang="en">view</a></link>
+  <description>Aircraft Emergency; INC#1415; 08:09PM; 3535 Beverly Glen Terrace; MAP: &lt;a href="https://bit.ly/3Lmc8Ix" target="_blank" rel="noopener"&gt;https://bit.ly/3Lmc8Ix&lt;/a&gt;; #ShermanOaks; PRELIM: Air Traffic Control asked LAFD to check a large swath of mountainous territory near Stone Canyon Road and Mulholland Drive (east of the San Diego Freeway) after they reportedly lost radar contact with a small, single engine airplane *believed* to be traveling between Santa Monica and Van Nuys Airport. There were no 9-1-1 calls reporting any related sights or sounds. LAFD helicopters and ground crews searched the large fog shrouded region for nearly an hour before an LAFD helicopter localized a signal from an aircraft Emergency Position Indicating Radio Beacon (EPIRB) in the vicinity (believed within a quarter-mile) of Beverly Glen Terrace and Beverly Glen Boulevard. LAFD ground crews are continuing a grid search of the rugged terrain north of Mulholland Drive, as a pair of LAFD helicopters seek to provide command support in the foggy skies above. If and when an aircraft is located, we will issue an additional LAFD Alert with updates.; FS 99; Batt 10; Valley Bureau; Council District 5; AO1  AO2  BC10  E108  E109  E288  E88  EM14  H3  H4  HA3  HA4  HR3  RA83  RA88  RA99  RH114  T88  UR88; CH8; 17; Brian Humphrey</description>
   <category>Aircraft Emergency</category>
                             <category>Valley</category>
                             <category>#ShermanOaks</category>
-                            <guid isPermaLink="false"><a href="/alert/aircraft-emergency-04292023-inc1415" hreflang="en">view</a></guid>
+                            <guid isPermaLink="false"><a href="/alert/aircraft-emergency-04302023-inc1415" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 29, 2023 - 21:13</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
