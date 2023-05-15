@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xml:base="https://www.lafd.org/">
+<rss version="2.0" xml:base="https://www.lafd.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alerts Feed</title>
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5"/>
-<lastBuildDate>Sat, 13 May 2023 17:22:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Sun, 14 May 2023 22:41:01 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-05142023-inc0416" hreflang="en">Traffic 05/14/2023 INC#0416</a></title>
+  <link><a href="/alert/traffic-05142023-inc0416" hreflang="en">view</a></link>
+  <description>Traffic; INC#0416; 07:23AM; Sb 110 Fy; MAP: &lt;a href=&quot;https://bit.ly/42Wgi0E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/42Wgi0E&lt;/a&gt;; Highland Park; Traffic collision with a total of three patients in *at least* serious condition (ages approximate 50yo F, 50yo M, 40yo M). The SB 110 Freeway is CLOSED at E AV 43 due to a large debris field.  Drivers are advised to seek alternate routes and follow CHP (Log #682) for traffic updates. No further details.; FS 12; Batt 2; Central Bureau; Council District 1; BC2  E1  E212  EM1  RA1  RA12  RA2  T12; CH4; 13; Margaret Stewart</description>
+  <category>Traffic</category>
+                            <category>Central</category>
+                            <category>Highland Park</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-05142023-inc0416" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, May 14, 2023 - 07:36</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-05132023-inc1128" hreflang="en">KNOCKDOWN Structure Fire 05/13/2023 INC#1128</a></title>
   <link><a href="/alert/knockdown-structure-fire-05132023-inc1128" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1128; 05:13PM; 2401 E Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3I7tM1I" target="_blank" rel="noopener"&gt;https://bit.ly/3I7tM1I&lt;/a&gt;; #Wilmington; It took 34 LAFD firefighters, with automatic aid from LA Co FD, 53 minutes to extinguish heavy fire in a one-story commercial building (not the site of a previous burn, but immediately adjacent to a previous burn). Firefighters set up heavy streams, including ladder pipes, to drown this fire from the exterior of the building, which sustained extensive damage. No reported injuries. The cause of the fire is under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E112  E233  E238  E285  E36  RA85  T33  T38  T85; CH7; 13; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#1128; 05:13PM; 2401 E Sepulveda Bl; MAP: &lt;a href=&quot;https://bit.ly/3I7tM1I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3I7tM1I&lt;/a&gt;; #Wilmington; It took 34 LAFD firefighters, with automatic aid from LA Co FD, 53 minutes to extinguish heavy fire in a one-story commercial building (not the site of a previous burn, but immediately adjacent to a previous burn). Firefighters set up heavy streams, including ladder pipes, to drown this fire from the exterior of the building, which sustained extensive damage. No reported injuries. The cause of the fire is under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E112  E233  E238  E285  E36  RA85  T33  T38  T85; CH7; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>South</category>
                             <category>#Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05132023-inc1128" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 13, 2023 - 17:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05132023-inc1128" hreflang="en">Structure Fire 05/13/2023 INC#1128</a></title>
   <link><a href="/alert/structure-fire-05132023-inc1128" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1128; 04:20PM; 2401 E Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3I7tM1I" target="_blank" rel="noopener"&gt;https://bit.ly/3I7tM1I&lt;/a&gt;; #Wilmington; Approx 50 x 100 single-story commercial structure with heavy fire showing (site of a previous burn. Defensive mode.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E285  E36  RA85  T38  T85; CH9; 13; Nicholas Prange</description>
+  <description>Structure Fire; INC#1128; 04:20PM; 2401 E Sepulveda Bl; MAP: &lt;a href=&quot;https://bit.ly/3I7tM1I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3I7tM1I&lt;/a&gt;; #Wilmington; Approx 50 x 100 single-story commercial structure with heavy fire showing (site of a previous burn. Defensive mode.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E285  E36  RA85  T38  T85; CH9; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>South</category>
                             <category>#Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05132023-inc1128" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 13, 2023 - 16:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-05122023-inc1261" hreflang="en">CONTAINED Brush Fire 05/12/2023 INC#1261</a></title>
   <link><a href="/alert/contained-brush-fire-05122023-inc1261" hreflang="en">view</a></link>
-  <description>CONTAINED Brush Fire; INC#1261; 05:34PM; 4390 E Multnomah St; MAP: &lt;a href="https://bit.ly/3pDpZmw" target="_blank" rel="noopener"&gt;https://bit.ly/3pDpZmw&lt;/a&gt;; #ElSereno; The first 18 firefighters to arrive got a quick jump on the advancing fire, and have now stopped forward progress (in 25 minutes) at approximately 1/4-acre total size. No reported injuries. ; FS 16; Batt 2; Central Bureau; Council District 14; AR1  BC1  BC2  E16  E201  E202  E212  E25  E290  E4  E47  EM11  H0D  H2  H3  H7  HA2  HA3  HA7  T1  T12  T2  T90; CH7; 13; Nicholas Prange</description>
+  <description>CONTAINED Brush Fire; INC#1261; 05:34PM; 4390 E Multnomah St; MAP: &lt;a href=&quot;https://bit.ly/3pDpZmw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3pDpZmw&lt;/a&gt;; #ElSereno; The first 18 firefighters to arrive got a quick jump on the advancing fire, and have now stopped forward progress (in 25 minutes) at approximately 1/4-acre total size. No reported injuries. ; FS 16; Batt 2; Central Bureau; Council District 14; AR1  BC1  BC2  E16  E201  E202  E212  E25  E290  E4  E47  EM11  H0D  H2  H3  H7  HA2  HA3  HA7  T1  T12  T2  T90; CH7; 13; Nicholas Prange</description>
   <category>Brush Fire</category>
                             <category>Central</category>
                             <category>#ElSereno</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-05122023-inc1261" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 12, 2023 - 17:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-05122023-inc1261" hreflang="en">Brush Fire 05/12/2023 INC#1261</a></title>
   <link><a href="/alert/brush-fire-05122023-inc1261" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1261; 05:09PM; 4346 E Multnomah St; MAP: &lt;a href="https://bit.ly/42yAea6" target="_blank" rel="noopener"&gt;https://bit.ly/42yAea6&lt;/a&gt;; #ElSereno; LAFD crews are on scene of a brush fire, approximately 1/4 of an acre burning.; FS 16; Batt 2; Central Bureau; Council District 14; BC1  BC2  E16  E201  E202  E212  E25  E290  E4  E47  EM11  H0D  H7  HA7  T1  T12  T2  T90; CH5; 13; Nicholas Prange</description>
+  <description>Brush Fire; INC#1261; 05:09PM; 4346 E Multnomah St; MAP: &lt;a href=&quot;https://bit.ly/42yAea6&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/42yAea6&lt;/a&gt;; #ElSereno; LAFD crews are on scene of a brush fire, approximately 1/4 of an acre burning.; FS 16; Batt 2; Central Bureau; Council District 14; BC1  BC2  E16  E201  E202  E212  E25  E290  E4  E47  EM11  H0D  H7  HA7  T1  T12  T2  T90; CH5; 13; Nicholas Prange</description>
   <category>Brush Fire</category>
                             <category>Central</category>
                             <category>#ElSereno</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-05122023-inc1261" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 12, 2023 - 17:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05122023-inc0920" hreflang="en">KNOCKDOWN Structure Fire 05/12/2023 INC#0920</a></title>
   <link><a href="/alert/knockdown-structure-fire-05122023-inc0920" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0920; 01:46PM; 1460 N Ricardo St; MAP: &lt;a href="https://bit.ly/44YECkz" target="_blank" rel="noopener"&gt;https://bit.ly/44YECkz&lt;/a&gt;; #BoyleHeights; It took 37 firefighters 17 minutes to extinguish flames inside of a one-story home. Two people were home at the time, but no one was found to be injured. The cause of the fire is under investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  AR21  BC2  E1  E16  E2  E201  E202  E4  EM1  PH1  RA1  RA2  RA3  RA801  SQ21  T1  T2; CH7; 14; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#0920; 01:46PM; 1460 N Ricardo St; MAP: &lt;a href=&quot;https://bit.ly/44YECkz&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/44YECkz&lt;/a&gt;; #BoyleHeights; It took 37 firefighters 17 minutes to extinguish flames inside of a one-story home. Two people were home at the time, but no one was found to be injured. The cause of the fire is under investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  AR21  BC2  E1  E16  E2  E201  E202  E4  EM1  PH1  RA1  RA2  RA3  RA801  SQ21  T1  T2; CH7; 14; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05122023-inc0920" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 12, 2023 - 14:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05122023-inc0871" hreflang="en">Hiker Rescue 05/12/2023 INC#0871</a></title>
   <link><a href="/alert/hiker-rescue-05122023-inc0871" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0871; 01:00PM; 3376 Mesa Dr; MAP: &lt;a href="https://bit.ly/3O5GCkH" target="_blank" rel="noopener"&gt;https://bit.ly/3O5GCkH&lt;/a&gt;; #Chatsworth; One elderly female was injured (non-life-threatening) in a remote location near Chatsworth Park South Recreation Area and unable to return on her own. LAFD Air Operations hoisted her and transported to a local hospital via air. Nothing further.; FS 96; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC15  E106  E296  H0A  H5  H7  RA96  RH114  T96; CH8; 17; Nicholas Prange</description>
+  <description>Hiker Rescue; INC#0871; 01:00PM; 3376 Mesa Dr; MAP: &lt;a href=&quot;https://bit.ly/3O5GCkH&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3O5GCkH&lt;/a&gt;; #Chatsworth; One elderly female was injured (non-life-threatening) in a remote location near Chatsworth Park South Recreation Area and unable to return on her own. LAFD Air Operations hoisted her and transported to a local hospital via air. Nothing further.; FS 96; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC15  E106  E296  H0A  H5  H7  RA96  RH114  T96; CH8; 17; Nicholas Prange</description>
   <category>Hiker Rescue</category>
                             <category>Valley</category>
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05122023-inc0871" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 12, 2023 - 14:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05122023-inc0920" hreflang="en">Structure Fire 05/12/2023 INC#0920</a></title>
   <link><a href="/alert/structure-fire-05122023-inc0920" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0920; 01:29PM; 1460 N Ricardo St; MAP: &lt;a href="https://bit.ly/44YECkz" target="_blank" rel="noopener"&gt;https://bit.ly/44YECkz&lt;/a&gt;; #BoyleHeights; One-story single-family home with heavy smoke showing. Offensive mode.; FS 2; Batt 1; Central Bureau; Council District 14; BC2  E1  E16  E2  E201  E202  RA1  RA2  RA801  SQ21  T1  T2; CH9; 14; Nicholas Prange</description>
+  <description>Structure Fire; INC#0920; 01:29PM; 1460 N Ricardo St; MAP: &lt;a href=&quot;https://bit.ly/44YECkz&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/44YECkz&lt;/a&gt;; #BoyleHeights; One-story single-family home with heavy smoke showing. Offensive mode.; FS 2; Batt 1; Central Bureau; Council District 14; BC2  E1  E16  E2  E201  E202  RA1  RA2  RA801  SQ21  T1  T2; CH9; 14; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05122023-inc0920" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 12, 2023 - 13:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05112023-inc0296" hreflang="en">KNOCKDOWN Structure Fire 05/11/2023 INC#0296</a></title>
   <link><a href="/alert/knockdown-structure-fire-05112023-inc0296" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0296; 07:05AM; 2706 W Wilshire Bl; MAP: &lt;a href="https://bit.ly/3I2uddP" target="_blank" rel="noopener"&gt;https://bit.ly/3I2uddP&lt;/a&gt;; #Westlake; The first 30 firefighters located a contents fire in a two-story commercial building and extinguished the flames in 13 minutes, containing the fire to one small room. No reported injuries. Cause under investigation.; FS 11; Batt 11; Central Bureau; Council District 10; BC1  BC11  CM20  CM22  E11  E13  E20  E211  E220  E229  E29  E6  EM11  RA11  RA6  RA811  SQ21  T11  T20  T29; CH9; 13; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#0296; 07:05AM; 2706 W Wilshire Bl; MAP: &lt;a href=&quot;https://bit.ly/3I2uddP&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3I2uddP&lt;/a&gt;; #Westlake; The first 30 firefighters located a contents fire in a two-story commercial building and extinguished the flames in 13 minutes, containing the fire to one small room. No reported injuries. Cause under investigation.; FS 11; Batt 11; Central Bureau; Council District 10; BC1  BC11  CM20  CM22  E11  E13  E20  E211  E220  E229  E29  E6  EM11  RA11  RA6  RA811  SQ21  T11  T20  T29; CH9; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05112023-inc0296" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 11, 2023 - 07:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05112023-inc0296" hreflang="en">Structure Fire 05/11/2023 INC#0296</a></title>
   <link><a href="/alert/structure-fire-05112023-inc0296" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0296; 06:52AM; 637 S La Fayette Park Pl; MAP: &lt;a href="https://bit.ly/42jtTiN" target="_blank" rel="noopener"&gt;https://bit.ly/42jtTiN&lt;/a&gt;; #Westlake; Two-story commercial with moderate smoke showing from the first floor. Offensive mode.; FS 11; Batt 11; Central Bureau; Council District 10; BC1  BC11  CM20  CM22  E11  E13  E20  E211  E229  E29  E6  EM11  RA11  RA6  RA811  SQ21  T11  T20  T29; CH9; 13; Nicholas Prange</description>
+  <description>Structure Fire; INC#0296; 06:52AM; 637 S La Fayette Park Pl; MAP: &lt;a href=&quot;https://bit.ly/42jtTiN&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/42jtTiN&lt;/a&gt;; #Westlake; Two-story commercial with moderate smoke showing from the first floor. Offensive mode.; FS 11; Batt 11; Central Bureau; Council District 10; BC1  BC11  CM20  CM22  E11  E13  E20  E211  E229  E29  E6  EM11  RA11  RA6  RA811  SQ21  T11  T20  T29; CH9; 13; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05112023-inc0296" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 11, 2023 - 07:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-structure-fire-knockdown-05092023-inc0470" hreflang="en">Update Structure Fire Knockdown -  05/09/2023 INC#0470</a></title>
-  <link><a href="/alert/update-structure-fire-knockdown-05092023-inc0470" hreflang="en">view</a></link>
-  <description>Update Knockdown -  Structure Fire; INC#0470; 09:38AM; 1165 N Berendo St; MAP: &lt;a href="https://bit.ly/3LPUZqB" target="_blank" rel="noopener"&gt;https://bit.ly/3LPUZqB&lt;/a&gt;; #EastHollywood; 46 Firefighters took just 19 minutes of offensive firefighting operations to access, confine and fully extinguish heavy fire within a vacant, fenced and boarded 1,306 square foot one-story home (built 1919) filled and surrounded with debris, that was well involved with fire on their arrival. Flames were confined to the structure of fire origin, as well as vegetation to the rear. A comprehensive search of the debris filled structure discovered no injured persons. Fire cause under investigation.; FS 35; Batt 5; West Bureau; Council District 13; BC11  BC5  CM20  CM22  E20  E220  E227  E235  E35  E52  E6  EM5  RA35  RA52  RA835  T20  T27  T35; CH9; 14; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#EastHollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-05092023-inc0470" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, May 9, 2023 - 10:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6f81aaf7-f1ed-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
