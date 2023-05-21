@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 19 May 2023 21:14:38 -0700</lastBuildDate>
+<lastBuildDate>Sun, 21 May 2023 01:15:26 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">Fatality Traffic Collision 05/21/2023 INC#0037</a></title>
+  <link><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">view</a></link>
+  <description>Fatality Traffic Collision; INC#0037; 12:37AM; 3998 S Normandie Av; MAP: &lt;a href="https://bit.ly/45nfc0b" target="_blank" rel="noopener"&gt;https://bit.ly/45nfc0b&lt;/a&gt;; #ExpositionPark; PRELIM: Two vehicle collision with two persons deceased at scene. No other injuries. No further details. Media Inquiries: LAPD South Traffic Division (Incident #167) and Coroner.; FS 46; Batt 13; South Bureau; Council District 8; BC13  E15  E215  E266  E34  E66  EM1  EM11  HR3  RA15  RA246  RA34  RA66  RA834  T15  T66; CH7; 13; Brian Humphrey</description>
+  <category>Fatality Traffic Collision</category>
+                            <category>South</category>
+                            <category>#ExpositionPark</category>
+                            <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, May 21, 2023 - 01:15</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">Knockdown -  Structure Fire 05/19/2023 INC#0713</a></title>
   <link><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#0713; 12:23PM; 11911 W Hartsook St; MAP: &lt;a href="https://bit.ly/41UjWHE" target="_blank" rel="noopener"&gt;https://bit.ly/41UjWHE&lt;/a&gt;; #ValleyVillage; An LAFD Firefighter/Paramedic team clearing a nearby medical emergency was first to report and arrive at the fire, with heavy flames initially involving the first floor of the 2,217 square foot two-story home, and quickly extending to the upper floor and attic of the 87 year-old structure, which was not equipped with residential fire sprinklers. It took 44 LAFD Firefighters just 33 minutes to access, confine and fully extinguish the stubborn flames, which were confined to the structure. No injury reported. Fire cause under investigation.; FS 60; Batt 14; Valley Bureau; Council District 2; BC10  BC14  CM42  E102  EA1  E260  E289  E293  E60  E86  EA1  RA102  RA60  T60  T89  T93; CH9; 17; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-05182023-inc0882" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 13:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/fire-05182023-inc0882" hreflang="en">Fire 05/18/2023 INC#0882</a></title>
-  <link><a href="/alert/fire-05182023-inc0882" hreflang="en">view</a></link>
-  <description>Fire; INC#0882; 01:12PM; 2030 N Edgemont St; MAP: &lt;a href="https://bit.ly/3WoOhNh" target="_blank" rel="noopener"&gt;https://bit.ly/3WoOhNh&lt;/a&gt;; #LosFeliz; PRELIM: Three vehicles on fire to the rear of a two-story residence, threatening two structures.; FS 35; Batt 5; West Bureau; Council District 4; BC5  E220  E227  E235  E35  E52  E56  RA35  RA835  T20  T27  T35; CH9; 13; Brian Humphrey</description>
-  <category>Fire</category>
-                            <category>West</category>
-                            <category>#LosFeliz</category>
-                            <guid isPermaLink="false"><a href="/alert/fire-05182023-inc0882" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, May 18, 2023 - 13:21</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
