@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 21 May 2023 01:15:26 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5"/>
+<lastBuildDate>Sun, 21 May 2023 22:20:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#ExpositionPark</category>
                             <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 21, 2023 - 01:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">Knockdown -  Structure Fire 05/19/2023 INC#0713</a></title>
@@ -29,7 +29,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 12:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05192023-inc0713" hreflang="en">Structure Fire 05/19/2023 INC#0713</a></title>
@@ -40,7 +40,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05192023-inc0713" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 11:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05192023-inc0103" hreflang="en">Knockdown -  Structure Fire 05/19/2023 INC#0103</a></title>
@@ -51,7 +51,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05192023-inc0103" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 02:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05192023-inc0103" hreflang="en">Structure Fire 05/19/2023 INC#0103</a></title>
@@ -62,7 +62,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05192023-inc0103" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 02:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/water-rescue-05182023-inc1085" hreflang="en">Water Rescue 05/18/2023 INC#1085</a></title>
@@ -73,7 +73,7 @@
                             <category>#Encino</category>
                             <guid isPermaLink="false"><a href="/alert/water-rescue-05182023-inc1085" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 15:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05182023-inc0963" hreflang="en">Hiker Rescue 05/18/2023 INC#0963</a></title>
@@ -84,7 +84,7 @@
                             <category>#HansenDam</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05182023-inc0963" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 14:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-civilian-fatality-05182023-inc0882" hreflang="en">Update Greater Alarm Structure Fire Civilian Fatality -  05/18/2023 INC#0882</a></title>
@@ -95,7 +95,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-civilian-fatality-05182023-inc0882" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 14:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-05182023-inc0882" hreflang="en">Knockdown -  Greater Alarm Structure Fire 05/18/2023 INC#0882</a></title>
@@ -106,7 +106,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-05182023-inc0882" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 14:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-05182023-inc0882" hreflang="en">Update Greater Alarm Structure Fire 05/18/2023 INC#0882</a></title>
@@ -117,7 +117,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-05182023-inc0882" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 13:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=64318b5d-f860-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
