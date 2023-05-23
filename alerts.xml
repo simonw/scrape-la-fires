@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5"/>
-<lastBuildDate>Mon, 22 May 2023 14:03:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 23 May 2023 10:03:56 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/greater-alarm-structure-fire-knockdown-05232023-inc0147" hreflang="en">Greater Alarm Structure Fire - Knockdown 05/23/2023 INC#0147</a></title>
+  <link><a href="/alert/greater-alarm-structure-fire-knockdown-05232023-inc0147" hreflang="en">view</a></link>
+  <description>Greater Alarm Structure Fire - Knockdown; INC#0147; 03:34AM; 13717 W Desmond St; MAP: &lt;a href="https://bit.ly/3Mxa94E" target="_blank" rel="noopener"&gt;https://bit.ly/3Mxa94E&lt;/a&gt;; #Pacoima; Firefighters arrived at a 50' x 120' one-story commercial building with fire through the roof at a metal processing shop. The business owner was on site and warned responders of corrosive liquids inside the business. 83 Firefighters remained in defensive mode, used water judiciously, contained the fire to just the building of origin, and extinguished the flames in 45 minutes (the building was equipped with measures to contain hazardous runoff). LAFD Hazardous Materials specialists are on scene now to decon crews if necessary, and LA County Health Hazmat has been notified. No reported injuries. ; FS 98; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  CM40  CM42  E227  E239  E275  E287  E289  E290  E298  E7  E75  E77  E81  E89  EA1  EM15  HE1  HR3  RA7  RA75  RA889  RA898  SQ21  SQ87  T27  T39  T75  T87  T89  T90  T98  UR27  UR88  UR89; CH9; 17  18; Nicholas Prange</description>
+  <category>Greater Alarm Structure Fire - Knockdown</category>
+                            <category>Valley</category>
+                            <category>#Pacoima</category>
+                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-knockdown-05232023-inc0147" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, May 23, 2023 - 04:38</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/physical-rescue-05222023-inc0861" hreflang="en">Physical Rescue 05/22/2023 INC#0861</a></title>
   <link><a href="/alert/physical-rescue-05222023-inc0861" hreflang="en">view</a></link>
   <description>Physical Rescue; INC#0861; 01:35PM; 11820 W Ventura Bl; MAP: &lt;a href="https://bit.ly/43iplJx" target="_blank" rel="noopener"&gt;https://bit.ly/43iplJx&lt;/a&gt;; #StudioCity; One vehicle smashed into a commercial building, coming to a complete stop inside of a sushi restaurant. Thankfully there were no injuries. LAFD Urban Search and Rescue specialists will assist with removing the vehicle from the building. Building and safety has been notified to assess the structural damage. LAPD Inc #2790. Nothing further.; FS 86; Batt 14; Valley Bureau; Council District 4; BC12  BC14  E278  E86  E97  EM14  HR3  RA78  RA86  T60  T78  UR88; CH8; 17; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-05222023-inc0861" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 22, 2023 - 14:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/train-vs-pedestrian-05222023-inc0839" hreflang="en">Train vs Pedestrian 05/22/2023 INC#0839</a></title>
@@ -29,7 +40,7 @@
                             <category>#ValleyGlen</category>
                             <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-05222023-inc0839" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 22, 2023 - 13:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">Fatality Traffic Collision 05/21/2023 INC#0037</a></title>
@@ -40,7 +51,7 @@
                             <category>#ExpositionPark</category>
                             <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-05212023-inc0037" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 21, 2023 - 01:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">Knockdown -  Structure Fire 05/19/2023 INC#0713</a></title>
@@ -51,7 +62,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05192023-inc0713" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 12:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05192023-inc0713" hreflang="en">Structure Fire 05/19/2023 INC#0713</a></title>
@@ -62,7 +73,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05192023-inc0713" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 11:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05192023-inc0103" hreflang="en">Knockdown -  Structure Fire 05/19/2023 INC#0103</a></title>
@@ -73,7 +84,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05192023-inc0103" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 02:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05192023-inc0103" hreflang="en">Structure Fire 05/19/2023 INC#0103</a></title>
@@ -84,7 +95,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05192023-inc0103" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 19, 2023 - 02:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/water-rescue-05182023-inc1085" hreflang="en">Water Rescue 05/18/2023 INC#1085</a></title>
@@ -95,7 +106,7 @@
                             <category>#Encino</category>
                             <guid isPermaLink="false"><a href="/alert/water-rescue-05182023-inc1085" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 15:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05182023-inc0963" hreflang="en">Hiker Rescue 05/18/2023 INC#0963</a></title>
@@ -106,18 +117,7 @@
                             <category>#HansenDam</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05182023-inc0963" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 18, 2023 - 14:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-greater-alarm-structure-fire-civilian-fatality-05182023-inc0882" hreflang="en">Update Greater Alarm Structure Fire Civilian Fatality -  05/18/2023 INC#0882</a></title>
-  <link><a href="/alert/update-greater-alarm-structure-fire-civilian-fatality-05182023-inc0882" hreflang="en">view</a></link>
-  <description>Update Civilian Fatality -  Greater Alarm Structure Fire; INC#0882; 02:15PM; 2030 N Edgemont St; MAP: &lt;a href="https://bit.ly/3WoOhNh" target="_blank" rel="noopener"&gt;https://bit.ly/3WoOhNh&lt;/a&gt;; #LosFeliz; In finalizing extinguishment of the three burning automobiles, firefighters discovered the remains of one adult male inside a vehicle. No other injuries have been reported. The cause of the fire remains the focus of an active LAFD investigation. A positive identification of the deceased, as well as the specific cause, time and manner of his death, will be determined by the Coroner's Office.; FS 35; Batt 5; West Bureau; Council District 4; AR21  BC5  CM20  CM22  CM52  E220  E227  E229  E235  E35  E52  E56  E82  EA1  EA2  RA35  RA835  T20  T27  T29  T35; CH7; 13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#LosFeliz</category>
-                            <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-civilian-fatality-05182023-inc0882" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, May 18, 2023 - 14:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=207e7d45-f8e4-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
