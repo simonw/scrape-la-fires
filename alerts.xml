@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5"/>
-<lastBuildDate>Sat, 27 May 2023 21:12:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5"/>
+<lastBuildDate>Sun, 28 May 2023 19:22:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">Hiker Rescue 05/28/2023 INC#1220</a></title>
+  <link><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#1220; 06:19PM; 1488 Bienveneda Ave; MAP: &lt;a href="https://bit.ly/3oAx338" target="_blank" rel="noopener"&gt;https://bit.ly/3oAx338&lt;/a&gt;; #PacificPalisades; Firefighters located a 53-year-old female hiker in a remote area of Temescal Canyon with a lower extremity injury. LAFD Air Ops hoisted her and brought her to a nearby helispot, where she received a medical assessment by LAFD Firefighter-Paramedics and then assisted with getting back to her vehicle. She declined transport to the hospital. Nothing further.; FS 69; Batt 9; West Bureau; Council District 11; BC9  E269  E443  H5  H7  HA5  HA7  RA23  RH114  T69; CH7; 14; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, May 28, 2023 - 19:22</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">Hiker Rescue 05/26/2023 INC#1135</a></title>
   <link><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">view</a></link>
   <description>Hiker Rescue; INC#1135; 04:47PM; Simi Hills; MAP: &lt;a href="https://bit.ly/43s6MTb" target="_blank" rel="noopener"&gt;https://bit.ly/43s6MTb&lt;/a&gt;; #Chatsworth; PRELIM: LAFD ground and air response to a stranded but uninjured teenage male hiker, who climbed a large boulder in a remote section of Chatsworth Park South, and is unable to descend safely. An LAFD rescue helicopter was able to find the teen, and lowered a rescuer. The pair will soon be hoisted into the hovering LAFD helicopter, and flown to the safety of a nearby helispot.; FS 96; Batt 15; Valley Bureau; Council District 12; BC15  E106  E296  H3  H5  HA3  HA5  RA96  RH114  T96; CH8; 17; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 26, 2023 - 17:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-05262023-inc0553" hreflang="en">Traffic Collision 05/26/2023 INC#0553</a></title>
@@ -29,7 +40,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-05262023-inc0553" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 26, 2023 - 11:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05252023-inc1498" hreflang="en">Knockdown -  Structure Fire 05/25/2023 INC#1498</a></title>
@@ -40,7 +51,7 @@
                             <category>#Sawtelle</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05252023-inc1498" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 25, 2023 - 21:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05252023-inc1498" hreflang="en">Structure Fire 05/25/2023 INC#1498</a></title>
@@ -51,7 +62,7 @@
                             <category>#Sawtelle</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05252023-inc1498" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 25, 2023 - 21:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-fire-05252023-inc0678" hreflang="en">Knockdown -  Greater Alarm Fire 05/25/2023 INC#0678</a></title>
@@ -62,7 +73,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-fire-05252023-inc0678" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 25, 2023 - 12:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-fire-05252023-inc0678" hreflang="en">Greater Alarm Fire 05/25/2023 INC#0678</a></title>
@@ -73,7 +84,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-fire-05252023-inc0678" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 25, 2023 - 12:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05242023-inc1316" hreflang="en">Structure Fire - Now Out 05/24/2023 INC#1316</a></title>
@@ -84,7 +95,7 @@
                             <category>#EastHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05242023-inc1316" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 24, 2023 - 18:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05242023-inc0743" hreflang="en">Hiker Rescue 05/24/2023 INC#0743</a></title>
@@ -95,7 +106,7 @@
                             <category>#BellCanyon</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05242023-inc0743" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 24, 2023 - 13:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05242023-inc1816" hreflang="en">KNOCKDOWN Structure Fire 05/24/2023 INC#1816</a></title>
@@ -106,18 +117,7 @@
                             <category>#WestHills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05242023-inc1816" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 24, 2023 - 00:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-05232023-inc1816" hreflang="en">Structure Fire 05/23/2023 INC#1816</a></title>
-  <link><a href="/alert/structure-fire-05232023-inc1816" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1816; 11:46PM; 23719 W Hartland St; MAP: &lt;a href="https://bit.ly/3oAFXxn" target="_blank" rel="noopener"&gt;https://bit.ly/3oAFXxn&lt;/a&gt;; #WestHills; One-story single-family home with attached garage on fire. Offensive mode.; FS 105; Batt 17; Valley Bureau; Council District 12; BC17  E105  E106  E305  RA105  T105; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#WestHills</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-05232023-inc1816" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, May 23, 2023 - 23:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e2df9729-fd0d-11ed-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=af50a4db-fdc7-11ed-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
