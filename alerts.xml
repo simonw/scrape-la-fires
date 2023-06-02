@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 01 Jun 2023 08:11:01 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5"/>
+<lastBuildDate>Thu, 01 Jun 2023 13:02:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05312023-inc0430" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 09:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05312023-inc0430" hreflang="en">Structure Fire 05/31/2023 INC#0430</a></title>
@@ -29,7 +29,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05312023-inc0430" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 09:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rubbish-fire-05312023-inc0342" hreflang="en">Rubbish Fire 05/31/2023 INC#0342</a></title>
@@ -40,7 +40,7 @@
                             <category>#NorthHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/rubbish-fire-05312023-inc0342" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 08:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05312023-inc0185" hreflang="en">KNOCKDOWN Structure Fire 05/31/2023 INC#0185</a></title>
@@ -51,7 +51,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05312023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 05:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05312023-inc0185" hreflang="en">Structure Fire 05/31/2023 INC#0185</a></title>
@@ -62,7 +62,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05312023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 04:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05292023-inc1135" hreflang="en">KNOCKDOWN Structure Fire 05/29/2023 INC#1135</a></title>
@@ -73,7 +73,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05292023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05292023-inc1135" hreflang="en">Structure Fire 05/29/2023 INC#1135</a></title>
@@ -84,7 +84,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05292023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 18:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05292023-inc0564" hreflang="en">Hiker Rescue 05/29/2023 INC#0564</a></title>
@@ -95,7 +95,7 @@
                             <category>#HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05292023-inc0564" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 13:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">Hiker Rescue 05/28/2023 INC#1220</a></title>
@@ -106,7 +106,7 @@
                             <category>#PacificPalisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 28, 2023 - 19:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">Hiker Rescue 05/26/2023 INC#1135</a></title>
@@ -117,7 +117,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 26, 2023 - 17:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
