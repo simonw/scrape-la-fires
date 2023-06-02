@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5"/>
-<lastBuildDate>Thu, 01 Jun 2023 13:02:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 02 Jun 2023 10:55:12 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/update-hiker-rescue-fatality-06022023-inc0354" hreflang="en">Update Hiker Rescue - FATALITY 06/02/2023 INC#0354</a></title>
+  <link><a href="/alert/update-hiker-rescue-fatality-06022023-inc0354" hreflang="en">view</a></link>
+  <description>Update Hiker Rescue - FATALITY; INC#0354; 08:59AM; 2698 N Commonwealth Ave; MAP: &lt;a href="https://bit.ly/3MJ6YqF" target="_blank" rel="noopener"&gt;https://bit.ly/3MJ6YqF&lt;/a&gt;; Griffith Park; Update: The hiking trail at Vista Del Valle Dr will be closed to the public while LAPD conducts their (per protocol) investigation (unknown duration but likely several hours).  The initial reports of the patient being on a bicycle and revised to reflect he appears to have been on foot - there was no bike by him. Any further questions are referred to LAPD Inc# 1140 ; FS 35; Batt 5; West Bureau; Council District 4; AO1  AO2  BC5  E235  E35  E90  EM11  H3  H7  HA3  HA7  RA35  RA835  RH114  T35; CH7; 13; Margaret Stewart</description>
+  <category>Hiker Rescue - FATALITY</category>
+                            <category>West</category>
+                            <category>Griffith Park</category>
+                            <guid isPermaLink="false"><a href="/alert/update-hiker-rescue-fatality-06022023-inc0354" hreflang="en">view</a></guid>
+                            <pubDate>Friday, June 2, 2023 - 09:01</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-fatality-06022023-inc0354" hreflang="en">Hiker Rescue - FATALITY 06/02/2023 INC#0354</a></title>
+  <link><a href="/alert/hiker-rescue-fatality-06022023-inc0354" hreflang="en">view</a></link>
+  <description>Hiker Rescue - FATALITY; INC#0354; 08:42AM; 2698 N Commonwealth Ave; MAP: &lt;a href="https://bit.ly/3MJ6YqF" target="_blank" rel="noopener"&gt;https://bit.ly/3MJ6YqF&lt;/a&gt;; Griffith Park; Firefighters located an approximately 50 yo male patient who appears to have been riding a bicycle when he went into severe medical distress. Firefighter/Paramedics provided intensive, advanced life-saving care coordinated with the base hospital. Sadly, he was beyond medical help and was pronounced dead on scene. LAPD Inc #1140 is responding for the investigation (per protocol). "Base Hospital" = one of a limited number of hospitals which is responsible for directing the advanced life support system or limited advanced life support system and prehospital care system assigned to it by the local EMS agency.  The 9-1-1 call was received at 8:02AM. No further details; FS 35; Batt 5; West Bureau; Council District 4; AO1  AO2  BC5  E235  E35  H3  H7  HA3  HA7  RA35  RA835  RH114  T35; CH7; 13; Margaret Stewart</description>
+  <category>Hiker Rescue - FATALITY</category>
+                            <category>West</category>
+                            <category>Griffith Park</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-fatality-06022023-inc0354" hreflang="en">view</a></guid>
+                            <pubDate>Friday, June 2, 2023 - 08:42</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-05312023-inc0430" hreflang="en">KNOCKDOWN Structure Fire 05/31/2023 INC#0430</a></title>
   <link><a href="/alert/knockdown-structure-fire-05312023-inc0430" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0430; 09:38AM; 1541 W Cambria St; MAP: &lt;a href="https://bit.ly/3OLsrSe" target="_blank" rel="noopener"&gt;https://bit.ly/3OLsrSe&lt;/a&gt;; #Westlake; It took 52 firefighters 40 minutes to extinguish a vacant two-story duplex on fire (site of a previous burn). No reported injuries. Cause under investigation. ; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  E11  E203  E209  E210  E26  E9  EM11  EM14  RA10  RA11  RA209  RA811  SQ21  T10  T3  T9; CH7; 13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05312023-inc0430" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 09:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05312023-inc0430" hreflang="en">Structure Fire 05/31/2023 INC#0430</a></title>
@@ -29,7 +51,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05312023-inc0430" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 09:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rubbish-fire-05312023-inc0342" hreflang="en">Rubbish Fire 05/31/2023 INC#0342</a></title>
@@ -40,7 +62,7 @@
                             <category>#NorthHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/rubbish-fire-05312023-inc0342" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 08:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05312023-inc0185" hreflang="en">KNOCKDOWN Structure Fire 05/31/2023 INC#0185</a></title>
@@ -51,7 +73,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05312023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 05:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05312023-inc0185" hreflang="en">Structure Fire 05/31/2023 INC#0185</a></title>
@@ -62,7 +84,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05312023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 31, 2023 - 04:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05292023-inc1135" hreflang="en">KNOCKDOWN Structure Fire 05/29/2023 INC#1135</a></title>
@@ -73,7 +95,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05292023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05292023-inc1135" hreflang="en">Structure Fire 05/29/2023 INC#1135</a></title>
@@ -84,7 +106,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05292023-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 18:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05292023-inc0564" hreflang="en">Hiker Rescue 05/29/2023 INC#0564</a></title>
@@ -95,29 +117,7 @@
                             <category>#HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05292023-inc0564" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 29, 2023 - 13:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">Hiker Rescue 05/28/2023 INC#1220</a></title>
-  <link><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#1220; 06:19PM; 1488 Bienveneda Ave; MAP: &lt;a href="https://bit.ly/3oAx338" target="_blank" rel="noopener"&gt;https://bit.ly/3oAx338&lt;/a&gt;; #PacificPalisades; Firefighters located a 53-year-old female hiker in a remote area of Temescal Canyon with a lower extremity injury. LAFD Air Ops hoisted her and brought her to a nearby helispot, where she received a medical assessment by LAFD Firefighter-Paramedics and then assisted with getting back to her vehicle. She declined transport to the hospital. Nothing further.; FS 69; Batt 9; West Bureau; Council District 11; BC9  E269  E443  H5  H7  HA5  HA7  RA23  RH114  T69; CH7; 14; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#PacificPalisades</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-05282023-inc1220" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 28, 2023 - 19:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">Hiker Rescue 05/26/2023 INC#1135</a></title>
-  <link><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#1135; 04:47PM; Simi Hills; MAP: &lt;a href="https://bit.ly/43s6MTb" target="_blank" rel="noopener"&gt;https://bit.ly/43s6MTb&lt;/a&gt;; #Chatsworth; PRELIM: LAFD ground and air response to a stranded but uninjured teenage male hiker, who climbed a large boulder in a remote section of Chatsworth Park South, and is unable to descend safely. An LAFD rescue helicopter was able to find the teen, and lowered a rescuer. The pair will soon be hoisted into the hovering LAFD helicopter, and flown to the safety of a nearby helispot.; FS 96; Batt 15; Valley Bureau; Council District 12; BC15  E106  E296  H3  H5  HA3  HA5  RA96  RH114  T96; CH8; 17; Brian Humphrey</description>
-  <category>Hiker Rescue</category>
-                            <category>Valley</category>
-                            <category>#Chatsworth</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-05262023-inc1135" hreflang="en">view</a></guid>
-                            <pubDate>Friday, May 26, 2023 - 17:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=432506ef-00b7-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
