@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 04 Jun 2023 22:09:24 -0700</lastBuildDate>
+<lastBuildDate>Mon, 05 Jun 2023 05:53:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">Traffic Collision 06/05/2023 INC#0240</a></title>
+  <link><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">view</a></link>
+  <description>Traffic Collision; INC#0240; 05:26AM; 9224 Sunland Bl; MAP: &lt;a href="https://bit.ly/3qvxUCU" target="_blank" rel="noopener"&gt;https://bit.ly/3qvxUCU&lt;/a&gt;; #ShadowHills; PRELIM: Solo vehicle collided into LAFD Fire Station 77. Two civilians with minor injuries decline ambulance transport. The active fire station, occupied by LAFD personnel at the time of the collision, sustained only superficial damage. Media Inquiries: LAPD Valley Traffic Division (Incident #646); FS 77; Batt 12; Valley Bureau; Council District 7; BC12  BC14  E289  RA77  T89  UR88; CH8; 18; Brian Humphrey</description>
+  <category>Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>#ShadowHills</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">view</a></guid>
+                            <pubDate>Monday, June 5, 2023 - 05:52</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/hiker-rescue-06042023-inc1058" hreflang="en">Hiker Rescue 06/04/2023 INC#1058</a></title>
   <link><a href="/alert/hiker-rescue-06042023-inc1058" hreflang="en">view</a></link>
   <description>Hiker Rescue; INC#1058; 03:45PM; Wilson Canyon Loop Trail; MAP: &lt;a href="https://bit.ly/3MTbBOG" target="_blank" rel="noopener"&gt;https://bit.ly/3MTbBOG&lt;/a&gt;; #Sylmar; LAFD ground and air response to a 26 year-old female hiker who sustained an ankle injury in a ground level fall on a remote section of the Wilson Canyon Loop Trail in the San Gabriel Mountain foothills. An LAFD Flight Paramedic has been lowered from a hovering LAFD rescue helicopter to medically assess and stabilize the patient, who will soon be hoisted onto the aircraft with the LAFD Flight Paramedic, for in-flight care during direct transport to an area hospital. No further details.; FS 91; Batt 12; Valley Bureau; Council District 7; BC12  E275  E91  H0D  H3  H7  HA3  HA7  RA898  RA91  RH214  T75; CH8; 17; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>North Hills</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-06032023-inc1451" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 3, 2023 - 21:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-06032023-inc1451" hreflang="en">Structure Fire 06/03/2023 INC#1451</a></title>
-  <link><a href="/alert/structure-fire-06032023-inc1451" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1451; 09:21PM; 8861 N Langdon Av; MAP: &lt;a href="https://bit.ly/3qsohos" target="_blank" rel="noopener"&gt;https://bit.ly/3qsohos&lt;/a&gt;; North Hills; Originally reported as an auto fire, the first engine on scene reported multiple auto fires in a carport exposing a four story apartment building. The incident was upgraded to a structure fire and additional resources are enroute. Firefighters are in the offensive mode.; FS 7; Batt 12; Valley Bureau; Council District 6; BC12  E290  E7  E90  RA7  T90; CH9; 17; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>North Hills</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-06032023-inc1451" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, June 3, 2023 - 21:35</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
