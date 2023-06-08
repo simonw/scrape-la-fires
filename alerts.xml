@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 07 Jun 2023 10:53:01 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5"/>
+<lastBuildDate>Wed, 07 Jun 2023 18:14:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-06072023-inc1258" hreflang="en">Hiker Rescue 06/07/2023 INC#1258</a></title>
+  <link><a href="/alert/hiker-rescue-06072023-inc1258" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#1258; 05:27PM; 636 S Topanga Canyon Blvd; MAP: &lt;a href="https://bit.ly/3Nk3MDs" target="_blank" rel="noopener"&gt;https://bit.ly/3Nk3MDs&lt;/a&gt;; #PacificPalisades; Three uninjured hikers are lost in a remote area south of Trippet Ranch. LAFD Air Ops will be hoisting them, and bringing them back to a landing zone, where LAFD ground crews will assist them in getting back to their vehicle. Nothing further.; FS 23; Batt 9; West Bureau; Council District 11; AO1  AO2  BC9  E23  E269  E90  H4  H7  HA4  HA7  RA23  RH114  T69; CH7; 1; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-06072023-inc1258" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, June 7, 2023 - 18:14</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/auto-vs-pedestrians-06072023-inc1259" hreflang="en">Auto vs Pedestrians 06/07/2023 INC#1259</a></title>
+  <link><a href="/alert/auto-vs-pedestrians-06072023-inc1259" hreflang="en">view</a></link>
+  <description>Auto vs Pedestrians; INC#1259; 05:28PM; 6161 W Pico Bl; MAP: &lt;a href="https://bit.ly/3P1XXvw" target="_blank" rel="noopener"&gt;https://bit.ly/3P1XXvw&lt;/a&gt;; #Carthay; One vehicle struck three pedestrians on the sidewalk (no entrapment) and collided with a building. Firefighter-Paramedics treated four (driver included, who declined transport) and transported three patients. A 48-year-old female and 51-year-old male were treated and transported, both in serious condition, and a 19-year-old male was transported in fair condition. ; FS 58; Batt 18; South Bureau; Council District 5; BC18  E261  E292  E43  E58  E68  EM11  EM14  EM9  HR3  RA43  RA58  RA61  RA68  RA94  T61  T92; CH7; 14; Nicholas Prange</description>
+  <category>Auto vs Pedestrians</category>
+                            <category>South</category>
+                            <category>#Carthay</category>
+                            <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrians-06072023-inc1259" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, June 7, 2023 - 17:53</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-technical-rescue-06072023-inc0447" hreflang="en">Update Technical Rescue 06/07/2023 INC#0447</a></title>
   <link><a href="/alert/update-technical-rescue-06072023-inc0447" hreflang="en">view</a></link>
   <description>Update Technical Rescue; INC#0447; 10:45AM; 10505 N Glenoaks Bl; MAP: &lt;a href="https://bit.ly/43s4JPo" target="_blank" rel="noopener"&gt;https://bit.ly/43s4JPo&lt;/a&gt;; #Pacoima; Firefighters extricated the trapped worker at the construction site, but sadly, the victim had perished under the rubble. Crews are preserving the scene, as LAPD and CAL OSHA have been notified for investigation due to the fatality being at a work site. PIO Captain Erik Scott is responding for media requests, ETA 11:15am.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  CM20  CM22  E289  E290  E293  E60  E89  EM15  PI1  RA807  RA827  RA89  RA90  T89  T90  T93  UR88  UR89; CH8; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-06072023-inc0447" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 10:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-06072023-inc0447" hreflang="en">Technical Rescue 06/07/2023 INC#0447</a></title>
@@ -29,7 +51,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-06072023-inc0447" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 09:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-sichelfire-major-emergency-structure-fire-06072023-inc0075" hreflang="en">Knockdown - #SichelFire Major Emergency Structure Fire 06/07/2023 INC#0075</a></title>
@@ -40,7 +62,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-sichelfire-major-emergency-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 02:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-sichelfire-06072023-inc0075" hreflang="en">Update Major Emergency Structure Fire #SichelFire 06/07/2023 INC#0075</a></title>
@@ -51,7 +73,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-sichelfire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 02:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-06072023-inc0075" hreflang="en">Update Greater Alarm Structure Fire 06/07/2023 INC#0075</a></title>
@@ -62,7 +84,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 01:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-06072023-inc0075" hreflang="en">Greater Alarm Structure Fire 06/07/2023 INC#0075</a></title>
@@ -73,7 +95,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 01:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/agency-assist-06052023-inc1608" hreflang="en">Agency Assist 06/05/2023 INC#1608</a></title>
@@ -84,7 +106,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/agency-assist-06052023-inc1608" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 5, 2023 - 21:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-06052023-inc1052" hreflang="en">Traffic Collision 06/05/2023 INC#1052</a></title>
@@ -95,29 +117,7 @@
                             <category>#SilverLake</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-06052023-inc1052" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 5, 2023 - 15:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">Traffic Collision 06/05/2023 INC#0240</a></title>
-  <link><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">view</a></link>
-  <description>Traffic Collision; INC#0240; 05:26AM; 9224 Sunland Bl; MAP: &lt;a href="https://bit.ly/3qvxUCU" target="_blank" rel="noopener"&gt;https://bit.ly/3qvxUCU&lt;/a&gt;; #ShadowHills; PRELIM: Solo vehicle collided into LAFD Fire Station 77. Two civilians with minor injuries decline ambulance transport. The active fire station, occupied by LAFD personnel at the time of the collision, sustained only superficial damage. Media Inquiries: LAPD Valley Traffic Division (Incident #646); FS 77; Batt 12; Valley Bureau; Council District 7; BC12  BC14  E289  RA77  T89  UR88; CH8; 18; Brian Humphrey</description>
-  <category>Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#ShadowHills</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-06052023-inc0240" hreflang="en">view</a></guid>
-                            <pubDate>Monday, June 5, 2023 - 05:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-06042023-inc1058" hreflang="en">Hiker Rescue 06/04/2023 INC#1058</a></title>
-  <link><a href="/alert/hiker-rescue-06042023-inc1058" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#1058; 03:45PM; Wilson Canyon Loop Trail; MAP: &lt;a href="https://bit.ly/3MTbBOG" target="_blank" rel="noopener"&gt;https://bit.ly/3MTbBOG&lt;/a&gt;; #Sylmar; LAFD ground and air response to a 26 year-old female hiker who sustained an ankle injury in a ground level fall on a remote section of the Wilson Canyon Loop Trail in the San Gabriel Mountain foothills. An LAFD Flight Paramedic has been lowered from a hovering LAFD rescue helicopter to medically assess and stabilize the patient, who will soon be hoisted onto the aircraft with the LAFD Flight Paramedic, for in-flight care during direct transport to an area hospital. No further details.; FS 91; Batt 12; Valley Bureau; Council District 7; BC12  E275  E91  H0D  H3  H7  HA3  HA7  RA898  RA91  RH214  T75; CH8; 17; Brian Humphrey</description>
-  <category>Hiker Rescue</category>
-                            <category>Valley</category>
-                            <category>#Sylmar</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-06042023-inc1058" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 4, 2023 - 16:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d7a49bf2-0599-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
