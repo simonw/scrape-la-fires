@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 08 Jun 2023 23:03:46 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5"/>
+<lastBuildDate>Fri, 09 Jun 2023 14:22:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#PacificPalisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-06072023-inc1258" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 18:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-vs-pedestrians-06072023-inc1259" hreflang="en">Auto vs Pedestrians 06/07/2023 INC#1259</a></title>
@@ -29,7 +29,7 @@
                             <category>#Carthay</category>
                             <guid isPermaLink="false"><a href="/alert/auto-vs-pedestrians-06072023-inc1259" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 17:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-technical-rescue-06072023-inc0447" hreflang="en">Update Technical Rescue 06/07/2023 INC#0447</a></title>
@@ -40,7 +40,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-06072023-inc0447" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 10:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-06072023-inc0447" hreflang="en">Technical Rescue 06/07/2023 INC#0447</a></title>
@@ -51,7 +51,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-06072023-inc0447" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 09:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-sichelfire-major-emergency-structure-fire-06072023-inc0075" hreflang="en">Knockdown - #SichelFire Major Emergency Structure Fire 06/07/2023 INC#0075</a></title>
@@ -62,7 +62,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-sichelfire-major-emergency-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 02:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-sichelfire-06072023-inc0075" hreflang="en">Update Major Emergency Structure Fire #SichelFire 06/07/2023 INC#0075</a></title>
@@ -73,7 +73,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-sichelfire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 02:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-06072023-inc0075" hreflang="en">Update Greater Alarm Structure Fire 06/07/2023 INC#0075</a></title>
@@ -84,7 +84,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 01:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-06072023-inc0075" hreflang="en">Greater Alarm Structure Fire 06/07/2023 INC#0075</a></title>
@@ -95,7 +95,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-06072023-inc0075" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 7, 2023 - 01:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/agency-assist-06052023-inc1608" hreflang="en">Agency Assist 06/05/2023 INC#1608</a></title>
@@ -106,7 +106,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/agency-assist-06052023-inc1608" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 5, 2023 - 21:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-06052023-inc1052" hreflang="en">Traffic Collision 06/05/2023 INC#1052</a></title>
@@ -117,7 +117,7 @@
                             <category>#SilverLake</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-06052023-inc1052" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 5, 2023 - 15:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c387dd03-070b-11ee-b86f-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
