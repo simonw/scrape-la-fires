@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 18 Jun 2023 22:42:52 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5"/>
+<lastBuildDate>Mon, 19 Jun 2023 03:45:41 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06182023-inc1463" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 18, 2023 - 21:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06182023-inc1463" hreflang="en">Structure Fire 06/18/2023 INC#1463</a></title>
@@ -29,7 +29,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06182023-inc1463" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 18, 2023 - 21:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-06172023-inc1142" hreflang="en">Hiker Rescue 06/17/2023 INC#1142</a></title>
@@ -40,7 +40,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-06172023-inc1142" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 17, 2023 - 19:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-06172023-inc1234" hreflang="en">Structure Fire - Now Out 06/17/2023 INC#1234</a></title>
@@ -51,7 +51,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06172023-inc1234" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 17, 2023 - 17:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06172023-inc0847" hreflang="en">KNOCKDOWN Structure Fire 06/17/2023 INC#0847</a></title>
@@ -62,7 +62,7 @@
                             <category>#Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06172023-inc0847" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 17, 2023 - 13:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06172023-inc0847" hreflang="en">Structure Fire 06/17/2023 INC#0847</a></title>
@@ -73,7 +73,7 @@
                             <category>#Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06172023-inc0847" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 17, 2023 - 13:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06162023-inc1478" hreflang="en">KNOCKDOWN Structure Fire 06/16/2023 INC#1478</a></title>
@@ -84,7 +84,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06162023-inc1478" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 16, 2023 - 19:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06162023-inc1478" hreflang="en">Structure Fire 06/16/2023 INC#1478</a></title>
@@ -95,7 +95,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06162023-inc1478" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 16, 2023 - 19:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-06162023-inc1337" hreflang="en">CONTAINED Brush Fire 06/16/2023 INC#1337</a></title>
@@ -106,7 +106,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-06162023-inc1337" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 16, 2023 - 18:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-06162023-inc1337" hreflang="en">Brush Fire 06/16/2023 INC#1337</a></title>
@@ -117,7 +117,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-06162023-inc1337" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 16, 2023 - 18:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=6e9de621-0e8e-11ee-b870-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
