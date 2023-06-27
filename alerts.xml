@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5"/>
-<lastBuildDate>Mon, 26 Jun 2023 11:11:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 26 Jun 2023 12:50:32 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">Hiker Rescue 06/26/2023 INC#0781</a></title>
+  <link><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0781; 11:56AM; 99 Silver Spur Ln; MAP: &lt;a href="https://bit.ly/3pm3bYv" target="_blank" rel="noopener"&gt;https://bit.ly/3pm3bYv&lt;/a&gt;; Bell Canyon; LAFD ground and air crews responded, with Ventura County Fire Department, to an injured hiker just outside of the city limits (Ventura County side of Bell Canyon area). A hiker sustained a long fall, and was hoisted/transported in critical condition to an area trauma center by LAFD Air Ops. Crews were unable to confirm reports of a second patient being taken to a hospital prior to first responders arriving. Nothing further.; FS 104; Batt 17; Valley Bureau; Council District outside city; BC17  E105  E296  E305  H3  H4  HA3  HA4  RA105  RH114  T105  T96; CH8; 17; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>Bell Canyon</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">view</a></guid>
+                            <pubDate>Monday, June 26, 2023 - 12:50</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">KNOCKDOWN Structure Fire 06/26/2023 INC#0586</a></title>
   <link><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0586; 11:00AM; 2232 N Beachwood Dr; MAP: &lt;a href="https://bit.ly/3NOrAj2" target="_blank" rel="noopener"&gt;https://bit.ly/3NOrAj2&lt;/a&gt;; #HollywoodHills; Firefighters responded to find only light smoke, but discovered that fire was well-established in the hidden wall space and attic, and spread throughout the ducting to multiple units. Firefighters ensured all occupants were out, and "chased down" all of the flame and hot structural materials in the building, most of which was not easily accessible. It took 48 firefighters 53 minutes to access, confine, and extinguish all fire within the two-story residential occupancy. No reported injuries. Cause under investigation.; FS 82; Batt 5; West Bureau; Council District 4; BC11  BC5  CM20  CM22  CM52  E227  E229  E235  E29  E35  E52  E76  E82  EM14  RA76  T27  T29  T35  T61; CH7; 13; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 11:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">Structure Fire 06/26/2023 INC#0586</a></title>
@@ -29,7 +40,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 10:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">Chemical Investigation 06/26/2023 INC#0501</a></title>
@@ -40,7 +51,7 @@
                             <category>#ShermanOaks</category>
                             <guid isPermaLink="false"><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 10:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06252023-inc1242" hreflang="en">KNOCKDOWN Structure Fire 06/25/2023 INC#1242</a></title>
@@ -51,7 +62,7 @@
                             <category>Lake Balboa</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06252023-inc1242" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 18:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06252023-inc1242" hreflang="en">Structure Fire 06/25/2023 INC#1242</a></title>
@@ -62,7 +73,7 @@
                             <category>Lake Balboa</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06252023-inc1242" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 18:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-06252023-inc0956" hreflang="en">CONTAINED Brush Fire 06/25/2023 INC#0956</a></title>
@@ -73,7 +84,7 @@
                             <category>Elysian Park</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-06252023-inc0956" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 15:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-06252023-inc0956" hreflang="en">Brush Fire 06/25/2023 INC#0956</a></title>
@@ -84,7 +95,7 @@
                             <category>Elysian Park</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-06252023-inc0956" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 15:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-grass-fire-contained-06252023-inc0859" hreflang="en">Update Grass Fire CONTAINED 06/25/2023 INC#0859</a></title>
@@ -95,7 +106,7 @@
                             <category>Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/update-grass-fire-contained-06252023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 14:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/grass-06252023-inc0859" hreflang="en">Grass 06/25/2023 INC#0859</a></title>
@@ -106,18 +117,7 @@
                             <category>Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/grass-06252023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 14:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-06252023-inc0767" hreflang="en">KNOCKDOWN Structure Fire 06/25/2023 INC#0767</a></title>
-  <link><a href="/alert/knockdown-structure-fire-06252023-inc0767" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0767; 01:04PM; 12031 W Havelock Av; MAP: &lt;a href="https://bit.ly/44mjt2B" target="_blank" rel="noopener"&gt;https://bit.ly/44mjt2B&lt;/a&gt;; Del Rey; KNOCKDOWN: 32 firefighters extinguished the fire in 21 minutes with no injuries reported. The sole occupant of the home was out prior to LAFD arrival and there are no injuries reported. Cause and $ loss TBD. No further details.; FS 62; Batt 4; West Bureau; Council District 11; BC4  E205  E263  E43  E62  E63  E67  E94  EA1  RA59  RA63  T5  T63; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>Del Rey</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06252023-inc0767" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 25, 2023 - 13:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e5bdc875-144c-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
