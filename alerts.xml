@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 26 Jun 2023 12:50:32 -0700</lastBuildDate>
+<lastBuildDate>Tue, 27 Jun 2023 09:57:07 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-06272023-inc0247" hreflang="en">Structure Fire - Now Out 06/27/2023 INC#0247</a></title>
+  <link><a href="/alert/structure-fire-now-out-06272023-inc0247" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0247; 06:06AM; 1510 S Sycamore Av; MAP: &lt;a href="https://bit.ly/430u2qQ" target="_blank" rel="noopener"&gt;https://bit.ly/430u2qQ&lt;/a&gt;; #MidCity; Firefighters responded to a single-family home to find a detached garage with fire showing. It took 35 firefighters  21 minutes to extinguish the flames. One adult male was found outside with burn injuries and Firefighter-Paramedics transported him to a local hospital. No firefighter injuries. Cause under investigation.; FS 68; Batt 18; South Bureau; Council District 10; BC18  E261  E294  E58  E61  E68  EM18  RA58  RA61  RA68  RA861  T61  T94; CH7; 12  13; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#MidCity</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06272023-inc0247" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, June 27, 2023 - 06:38</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">Hiker Rescue 06/26/2023 INC#0781</a></title>
   <link><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">view</a></link>
   <description>Hiker Rescue; INC#0781; 11:56AM; 99 Silver Spur Ln; MAP: &lt;a href="https://bit.ly/3pm3bYv" target="_blank" rel="noopener"&gt;https://bit.ly/3pm3bYv&lt;/a&gt;; Bell Canyon; LAFD ground and air crews responded, with Ventura County Fire Department, to an injured hiker just outside of the city limits (Ventura County side of Bell Canyon area). A hiker sustained a long fall, and was hoisted/transported in critical condition to an area trauma center by LAFD Air Ops. Crews were unable to confirm reports of a second patient being taken to a hospital prior to first responders arriving. Nothing further.; FS 104; Batt 17; Valley Bureau; Council District outside city; BC17  E105  E296  E305  H3  H4  HA3  HA4  RA105  RH114  T105  T96; CH8; 17; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/update-grass-fire-contained-06252023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 14:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/grass-06252023-inc0859" hreflang="en">Grass 06/25/2023 INC#0859</a></title>
-  <link><a href="/alert/grass-06252023-inc0859" hreflang="en">view</a></link>
-  <description>Grass; INC#0859; 01:50PM; 11300 N Bradley Av; MAP: &lt;a href="https://bit.ly/42ZtdhW" target="_blank" rel="noopener"&gt;https://bit.ly/42ZtdhW&lt;/a&gt;; Pacoima; Approximately 1 acre of light grass burning alongside the WB118 Freeway. Traffic along with 118 may be impact by smoke, drivers are advised to take caution. ; FS 98; Batt 12; Valley Bureau; Council District 7; BC12 E298  E7  E75  E98  T98; CH8; 17; Margaret Stewart</description>
-  <category>Grass</category>
-                            <category>Valley</category>
-                            <category>Pacoima</category>
-                            <guid isPermaLink="false"><a href="/alert/grass-06252023-inc0859" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 25, 2023 - 14:08</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
