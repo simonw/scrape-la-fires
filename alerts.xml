@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5"/>
-<lastBuildDate>Wed, 28 Jun 2023 10:42:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 28 Jun 2023 12:57:39 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-multicasualty-incident-06282023-inc0753-0" hreflang="en">Traffic - Multi-Casualty Incident 06/28/2023 INC#0753</a></title>
+  <link><a href="/alert/traffic-multicasualty-incident-06282023-inc0753-0" hreflang="en">view</a></link>
+  <description>Traffic - Multi-Casualty Incident; INC#0753; 12:57PM; 13200 N Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3Nt8A89" target="_blank" rel="noopener"&gt;https://bit.ly/3Nt8A89&lt;/a&gt;; Granada Hills; A total of six patients were evaluated and three were transported. Firefighters extricated one patient (50-60yo male) in critical condition. Two additional patients (ages/genders unknown) were transported in serious condition. Any further media questions are referred to LAPD Inc# 2034. No further details. ; FS 75; Batt 12; Valley Bureau; Council District 12; AP7  BC12  BC15  E18  E275  E287  E98  EM12  EM14  EM15  HR3  RA18  RA39  RA807  RA81  RA87  RA89  RA891  RA898  RA91  T75  T87  UR88; CH8; 18; Margaret Stewart</description>
+  <category>Traffic - Multi-Casualty Incident</category>
+                            <category>Valley</category>
+                            <category>Granada Hills</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-multicasualty-incident-06282023-inc0753-0" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, June 28, 2023 - 12:57</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/traffic-multicasualty-incident-06282023-inc0753" hreflang="en">Traffic - Multi-Casualty Incident 06/28/2023 INC#0753</a></title>
+  <link><a href="/alert/traffic-multicasualty-incident-06282023-inc0753" hreflang="en">view</a></link>
+  <description>Traffic - Multi-Casualty Incident; INC#0753; 12:14PM; 13200 N Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3Nt8A89" target="_blank" rel="noopener"&gt;https://bit.ly/3Nt8A89&lt;/a&gt;; Granada Hills; Traffic collision (unknown number of vehicles) with preliminary report of six patients. One of the patients is trapped, requiring extrication. The condition of the patients is unknown at this time. LAPD Inc# 2034; FS 75; Batt 12; Valley Bureau; Council District 12; BC15  E18  E275  E287  E98  EM15  HR3  RA18  RA898  RA91  T75  T87  UR88; CH8; 18; Margaret Stewart</description>
+  <category>Traffic - Multi-Casualty Incident</category>
+                            <category>Valley</category>
+                            <category>Granada Hills</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-multicasualty-incident-06282023-inc0753" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, June 28, 2023 - 12:27</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/contained-brush-fire-contained-06282023-inc0500" hreflang="en">CONTAINED Brush Fire - CONTAINED 06/28/2023 INC#0500</a></title>
   <link><a href="/alert/contained-brush-fire-contained-06282023-inc0500" hreflang="en">view</a></link>
   <description>CONTAINED Brush Fire - CONTAINED; INC#0500; 10:39AM; 400 W Solano Av; MAP: &lt;a href="https://bit.ly/3r54xYc" target="_blank" rel="noopener"&gt;https://bit.ly/3r54xYc&lt;/a&gt;; Elysian Park; At 9:29AM LAFD responded to a reported brush fire in the area of Radio Hill.  Firefighters located a small grass fire. While on scene, firefighters witnessed a male (age unknown) setting a fire.  LAFD Arson (LAPD also responded) took the person into custody and are conducting a full investigation. There were no injuries reported and no structures damaged/threatened. No further details at this time. ; FS 1; Batt 2; Central Bureau; Council District 1; AR12  AR17  AR25  AR30  BC1  BC2  E1  E2  E201  E202  E203  E4  E44  E9  E90  EM11  H2  H3  H4  HA2  HA3  HA4  PH1  RA1  T1  T2  T3; CH5; 12; Margaret Stewart</description>
@@ -18,7 +40,7 @@
                             <category>Elysian Park</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-contained-06282023-inc0500" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, June 28, 2023 - 10:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-06272023-inc0247" hreflang="en">Structure Fire - Now Out 06/27/2023 INC#0247</a></title>
@@ -29,7 +51,7 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06272023-inc0247" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, June 27, 2023 - 06:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">Hiker Rescue 06/26/2023 INC#0781</a></title>
@@ -40,7 +62,7 @@
                             <category>Bell Canyon</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 12:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">KNOCKDOWN Structure Fire 06/26/2023 INC#0586</a></title>
@@ -51,7 +73,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 11:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">Structure Fire 06/26/2023 INC#0586</a></title>
@@ -62,7 +84,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 10:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">Chemical Investigation 06/26/2023 INC#0501</a></title>
@@ -73,7 +95,7 @@
                             <category>#ShermanOaks</category>
                             <guid isPermaLink="false"><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 10:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-06252023-inc1242" hreflang="en">KNOCKDOWN Structure Fire 06/25/2023 INC#1242</a></title>
@@ -84,7 +106,7 @@
                             <category>Lake Balboa</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06252023-inc1242" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 18:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06252023-inc1242" hreflang="en">Structure Fire 06/25/2023 INC#1242</a></title>
@@ -95,29 +117,7 @@
                             <category>Lake Balboa</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06252023-inc1242" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 25, 2023 - 18:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-06252023-inc0956" hreflang="en">CONTAINED Brush Fire 06/25/2023 INC#0956</a></title>
-  <link><a href="/alert/contained-brush-fire-06252023-inc0956" hreflang="en">view</a></link>
-  <description>CONTAINED Brush Fire; INC#0956; 03:46PM; 1381 N Broadway; MAP: &lt;a href="https://bit.ly/3bKIV96" target="_blank" rel="noopener"&gt;https://bit.ly/3bKIV96&lt;/a&gt;; Elysian Park; 48 firefighters contained the fire (51 mins) and held it to less than 2 acres with no injuries reported. The defended the radio tower (important infrastructure) from any damage. Crews will remain on scene for approximately two more hours for the mop up operations. No further details.; FS 1; Batt 2; Central Bureau; Council District 1; BC1  BC11  BC2  CM20  CM22  E1  E16  E2  E20  E201  E202  E203  E220  E25  E290  E4  E44  E47  E55  E9  E90  EA1  EM11  H2  H3  H7  HA2  HA3  HA7  HT3  RA1  T1  T2  T20  T3  T90; CH5; 12; Margaret Stewart</description>
-  <category>Brush Fire</category>
-                            <category>Central</category>
-                            <category>Elysian Park</category>
-                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-06252023-inc0956" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 25, 2023 - 15:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/brush-fire-06252023-inc0956" hreflang="en">Brush Fire 06/25/2023 INC#0956</a></title>
-  <link><a href="/alert/brush-fire-06252023-inc0956" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#0956; 02:55PM; 1381 N Broadway; MAP: &lt;a href="https://bit.ly/3bKIV96" target="_blank" rel="noopener"&gt;https://bit.ly/3bKIV96&lt;/a&gt;; Elysian Park; Approximately 1/2 light grass burning uphill (Radio Hill Gardens) with no wind.; FS 1; Batt 2; Central Bureau; Council District 1; BC1  BC11  BC2  CM20  CM22  E1  E16  E2  E20  E201  E202  E203  E220  E290  E4  E44  E47  E55  E9  E90  EM11  H2  H3  H7  HA2  HA3  HA7  RA1  T1  T2  T20  T3  T90; CH5; 12; Margaret Stewart</description>
-  <category>Brush Fire</category>
-                            <category>Central</category>
-                            <category>Elysian Park</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-06252023-inc0956" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 25, 2023 - 15:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2d762018-15db-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
