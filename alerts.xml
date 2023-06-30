@@ -6,10 +6,43 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 29 Jun 2023 07:53:01 -0700</lastBuildDate>
+<lastBuildDate>Thu, 29 Jun 2023 22:06:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-fatality-06292023-inc1653" hreflang="en">Traffic - FATALITY 06/29/2023 INC#1653</a></title>
+  <link><a href="/alert/traffic-fatality-06292023-inc1653" hreflang="en">view</a></link>
+  <description>Traffic - FATALITY; INC#1653; 10:03PM; 6400 N Woodley Av; MAP: &lt;a href="https://bit.ly/2SNWUV8" target="_blank" rel="noopener"&gt;https://bit.ly/2SNWUV8&lt;/a&gt;; Van Nuys; Two car collision with a total of six patients (ages estimated):  60yo female determined dead on scene, 3yo male grave condition, 28yo female/21yo female/30yo male/22yo male all transported in *at least* serious condition. Any further media questions are referred to LAPD Inc# 4755; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E290  E39  E83  E90  EM14  EM15  EM17  RA100  RA73  RA88  RA90  RA93  T90; CH8; 17; Margaret Stewart</description>
+  <category>Traffic - FATALITY</category>
+                            <category>Valley</category>
+                            <category>Van Nuys</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-fatality-06292023-inc1653" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, June 29, 2023 - 22:05</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/traffic-multicasualty-incident-06292023-inc1653" hreflang="en">Traffic - Multi-Casualty Incident 06/29/2023 INC#1653</a></title>
+  <link><a href="/alert/traffic-multicasualty-incident-06292023-inc1653" hreflang="en">view</a></link>
+  <description>Traffic - Multi-Casualty Incident; INC#1653; 09:35PM; 6400 N Woodley Av; MAP: &lt;a href="https://bit.ly/2SNWUV8" target="_blank" rel="noopener"&gt;https://bit.ly/2SNWUV8&lt;/a&gt;; Van Nuys; Collision (number of vehicles unknown at this time) with current count of 5 patients. Two patients are in grave condition: 3yo male, elderly (age unknown) female. Additional ambulances are enroute. LAPD Inc# 4755; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E290  E90  EM14  EM15  EM17  RA100  RA73  RA88  RA90  RA93  T90; CH8; 17; Margaret Stewart</description>
+  <category>Traffic - Multi-Casualty Incident</category>
+                            <category>Valley</category>
+                            <category>Van Nuys</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-multicasualty-incident-06292023-inc1653" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, June 29, 2023 - 21:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-hoist-op-06292023-inc1485" hreflang="en">Hiker Rescue - Hoist Op 06/29/2023 INC#1485</a></title>
+  <link><a href="/alert/hiker-rescue-hoist-op-06292023-inc1485" hreflang="en">view</a></link>
+  <description>Hiker Rescue - Hoist Op; INC#1485; 07:23PM; 13100 Alta Vista Way; MAP: &lt;a href="https://bit.ly/3JCJ4fy" target="_blank" rel="noopener"&gt;https://bit.ly/3JCJ4fy&lt;/a&gt;; Sylmar; Firefighters located an adult male mountain biker who sustained a fall and has lower extremity injury. Due to the location and injury, LAFD Air Operations is preparing for a hoist rescue. ; FS 91; Batt 12; Valley Bureau; Council District 7; BC12  E298  E91  H3  H4  HA3  HA4  RA91  RH114  T98; CH8; 17; Margaret Stewart</description>
+  <category>Hiker Rescue - Hoist Op</category>
+                            <category>Valley</category>
+                            <category>Sylmar</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-06292023-inc1485" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, June 29, 2023 - 19:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-06292023-inc0348" hreflang="en">KNOCKDOWN Structure Fire 06/29/2023 INC#0348</a></title>
   <link><a href="/alert/knockdown-structure-fire-06292023-inc0348" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0348; 07:51AM; 3012 S Brighton Av; MAP: &lt;a href="https://bit.ly/437oY45" target="_blank" rel="noopener"&gt;https://bit.ly/437oY45&lt;/a&gt;; Adams-Normandie; KNOCKDOWN: 28 firefighters extinguished the fire in 14 minutes with no injuries reported. The structure type is updated to a detached (not converted) garage. No further details.; FS 15; Batt 13; South Bureau; Council District 8; BC11  BC13  E15  E215  E226  E26  RA15  RA815  T15  T26; CH9; 12; Margaret Stewart</description>
@@ -84,39 +117,6 @@
                             <category>Bell Canyon</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-06262023-inc0781" hreflang="en">view</a></guid>
                             <pubDate>Monday, June 26, 2023 - 12:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">KNOCKDOWN Structure Fire 06/26/2023 INC#0586</a></title>
-  <link><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0586; 11:00AM; 2232 N Beachwood Dr; MAP: &lt;a href="https://bit.ly/3NOrAj2" target="_blank" rel="noopener"&gt;https://bit.ly/3NOrAj2&lt;/a&gt;; #HollywoodHills; Firefighters responded to find only light smoke, but discovered that fire was well-established in the hidden wall space and attic, and spread throughout the ducting to multiple units. Firefighters ensured all occupants were out, and "chased down" all of the flame and hot structural materials in the building, most of which was not easily accessible. It took 48 firefighters 53 minutes to access, confine, and extinguish all fire within the two-story residential occupancy. No reported injuries. Cause under investigation.; FS 82; Batt 5; West Bureau; Council District 4; BC11  BC5  CM20  CM22  CM52  E227  E229  E235  E29  E35  E52  E76  E82  EM14  RA76  T27  T29  T35  T61; CH7; 13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
-                            <pubDate>Monday, June 26, 2023 - 11:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">Structure Fire 06/26/2023 INC#0586</a></title>
-  <link><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0586; 10:07AM; 2232 N Beachwood Dr; MAP: &lt;a href="https://bit.ly/3NOrAj2" target="_blank" rel="noopener"&gt;https://bit.ly/3NOrAj2&lt;/a&gt;; #HollywoodHills; Two-story townhome with fire on the second floor and in the attic. Offensive mode.; FS 82; Batt 5; West Bureau; Council District 4; BC11  BC5  CM20  CM22  E227  E229  E235  E29  E35  E52  E76  E82  EM14  RA76  T27  T29  T35  T61; CH9; 13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-06262023-inc0586" hreflang="en">view</a></guid>
-                            <pubDate>Monday, June 26, 2023 - 10:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">Chemical Investigation 06/26/2023 INC#0501</a></title>
-  <link><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">view</a></link>
-  <description>Chemical Investigation; INC#0501; 09:13AM; 15307 W Ventura Bl; MAP: &lt;a href="https://bit.ly/3PwiVmp" target="_blank" rel="noopener"&gt;https://bit.ly/3PwiVmp&lt;/a&gt;; #ShermanOaks; Firefighters responded to complaints of an odor in a building and multiple patients with minor symptoms. A total of 6 patients had minor medical complaints (such as watery eyes, scratchy throat, etc.). One patient was transported and 5 others declined transport after a medical assessment by Paramedics. LAFD Hazardous Materials specialists are testing the atmosphere inside with air monitoring equipment. Initial readings are not showing any significant hazard, but the irritant has yet to be positively identified.; FS 88; Batt 10; Valley Bureau; Council District 4; AP7  BC10  E287  E288  E83  E88  EM14  EM17  EM9  RA39  RA78  RA83  RA839  RA99  SQ87  T87  T88; CH8; 17; Nicholas Prange</description>
-  <category>Chemical Investigation</category>
-                            <category>Valley</category>
-                            <category>#ShermanOaks</category>
-                            <guid isPermaLink="false"><a href="/alert/chemical-investigation-06262023-inc0501" hreflang="en">view</a></guid>
-                            <pubDate>Monday, June 26, 2023 - 10:03</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
