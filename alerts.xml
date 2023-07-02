@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5"/>
-<lastBuildDate>Sat, 01 Jul 2023 19:46:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 02 Jul 2023 10:23:01 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/update-hiker-rescue-07022023-inc0496" hreflang="en">Update Hiker Rescue 07/02/2023 INC#0496</a></title>
+  <link><a href="/alert/update-hiker-rescue-07022023-inc0496" hreflang="en">view</a></link>
+  <description>Update Hiker Rescue; INC#0496; 10:15AM; Rim of The Valley Trail; MAP: &lt;a href="https://bit.ly/438jPc3" target="_blank" rel="noopener"&gt;https://bit.ly/438jPc3&lt;/a&gt;; #Tujunga; The ill hiker, now described as a 44 year-old female in fair condition, is adamantly refusing hospital transport. Given her remote location near Mount Lukens, the hovering LAFD rescue helicopter will hoist her aboard and transport her to a safe location at the base of the San Gabriel Mountains, where she will again be offered transportation via a ground-based LAFD ambulance, or be required to confirm her refusal of continued care. ; FS 74; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC12  E24  E274  E290  E6  H4  H6  HA4  HA6  RA74  RA90  RH114  T74  T90; CH8; 17; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>#Tujunga</category>
+                            <guid isPermaLink="false"><a href="/alert/update-hiker-rescue-07022023-inc0496" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, July 2, 2023 - 10:22</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-07022023-inc0496" hreflang="en">Hiker Rescue 07/02/2023 INC#0496</a></title>
+  <link><a href="/alert/hiker-rescue-07022023-inc0496" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0496; 09:38AM; Rim of The Valley Trail; MAP: &lt;a href="https://bit.ly/438jPc3" target="_blank" rel="noopener"&gt;https://bit.ly/438jPc3&lt;/a&gt;; #Tujunga; PRELIM: LAFD Ground and Air response to a 30 year-old female hiker in undetermined condition, following a sudden onset of chest pain and altered level of consciousness while traversing a remote section of Rim of The Valley Trail near Mount Lukens in the San Gabriel Mountains. An LAFD rescue helicopter has located the patient, and lowered a Flight Paramedic to complete a primary medical assessment, provide initial care, and prepare her to be hoisted aboard the hovering helicopter for in-flight care during direct air transport to a regional hospital.; FS 74; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC12  E24  E274  E290  E6  H4  H6  HA4  HA6  RA74  RH114  T74  T90; CH8; 17; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>#Tujunga</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-07022023-inc0496" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, July 2, 2023 - 10:11</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/multipatient-illness-07012023-inc1363" hreflang="en">Multi-Patient Illness 07/01/2023 INC#1363</a></title>
   <link><a href="/alert/multipatient-illness-07012023-inc1363" hreflang="en">view</a></link>
   <description>Multi-Patient Illness; INC#1363; 06:57PM; LAX Terminal 2; MAP: &lt;a href="https://bit.ly/44dW97C" target="_blank" rel="noopener"&gt;https://bit.ly/44dW97C&lt;/a&gt;; #Westchester; PRELIM: 6 crew members ( Two Pilots / 4 Flight Attendants ) from an arriving single-aisle commercial passenger jet that had already deplaned passengers, were found standing on a jetway, complaining of headaches after they noted an odor (they surmise to be aircraft exhaust) within the aircraft after landing. The odor had dissipated upon airline ground crew and LAFD arrival. LAFD responders closely examined the aircraft cabin and cockpit with specialized instruments, and found no environmental hazard. One of the crew members has declined transportation, the other five are now being taken to an area hospital by LAFD ambulance in fair condition for further observation. Media Inquiries: LAX Operations.; FS 51; Batt 4; West Bureau; Council District 11; BC4  E205  E263  E62  E67  EM9  RA5  RA62  RA837  RA864  RA867  SQ21  T5  T63; CH7; 14; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#Westchester</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-illness-07012023-inc1363" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 19:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-07012023-inc1275-0" hreflang="en">Update Traffic Collision 07/01/2023 INC#1275</a></title>
@@ -29,7 +51,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-07012023-inc1275-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 19:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-07012023-inc1275" hreflang="en">Update Traffic Collision 07/01/2023 INC#1275</a></title>
@@ -40,7 +62,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-07012023-inc1275" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 18:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-07012023-inc1275" hreflang="en">Traffic Collision 07/01/2023 INC#1275</a></title>
@@ -51,7 +73,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-07012023-inc1275" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 18:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07012023-inc1186" hreflang="en">Knockdown -  Structure Fire 07/01/2023 INC#1186</a></title>
@@ -62,7 +84,7 @@
                             <category>#ManchesterSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07012023-inc1186" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 17:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07012023-inc1186" hreflang="en">Structure Fire 07/01/2023 INC#1186</a></title>
@@ -73,7 +95,7 @@
                             <category>#ManchesterSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07012023-inc1186" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 17:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07012023-inc0727" hreflang="en">Knockdown -  Structure Fire 07/01/2023 INC#0727</a></title>
@@ -84,7 +106,7 @@
                             <category>#WoodlandHills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07012023-inc0727" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 12:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07012023-inc0727" hreflang="en">Structure Fire 07/01/2023 INC#0727</a></title>
@@ -95,29 +117,7 @@
                             <category>#WoodlandHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07012023-inc0727" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 1, 2023 - 12:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-fire-out-07012023-inc0260" hreflang="en">Structure Fire - FIRE OUT 07/01/2023 INC#0260</a></title>
-  <link><a href="/alert/structure-fire-fire-out-07012023-inc0260" hreflang="en">view</a></link>
-  <description>Structure Fire - FIRE OUT; INC#0260; 06:03AM; 1607 N Vista St; MAP: &lt;a href="https://bit.ly/44r21d7" target="_blank" rel="noopener"&gt;https://bit.ly/44r21d7&lt;/a&gt;; Hollywood; FIRE NOW OUT: In 29 minutes, 52 firefighters extinguished a one story single family dwelling, well involved in fire upon LAFD arrival. There are no injuries reported. Cause and $ loss TBD. 9-1-1 call received at 5:34AM. No further details.; FS 41; Batt 5; West Bureau; Council District 13; BC1  BC18  BC5  CM20  CM22  E203  E227  E229  E235  E261  E27  E3  E41  E61  E82  E97  EM14  HR3  RA27  RA3  RA41  RA803  RA827  T27  T29  T3  T35  T61  UR3  UR88; CH7; 13  14  15; Margaret Stewart</description>
-  <category>Structure Fire - FIRE OUT</category>
-                            <category>West</category>
-                            <category>Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-fire-out-07012023-inc0260" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, July 1, 2023 - 06:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-07012023-inc0082" hreflang="en">KNOCKDOWN Structure Fire 07/01/2023 INC#0082</a></title>
-  <link><a href="/alert/knockdown-structure-fire-07012023-inc0082" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0082; 02:57AM; 4163 S Broadway St; MAP: &lt;a href="https://bit.ly/44ldFWQ" target="_blank" rel="noopener"&gt;https://bit.ly/44ldFWQ&lt;/a&gt;; Historic South-Central; Over 80 firefighters extinguished this Greater Alarm fire in one hour and 33 minutes with no injuries reported. There are hot spots and small pockets of fire remaining which will be held in check while the RS3 robotic firefighting vehicle is prepared for deployment and makes entry. The structural instability renders it unsafe for firefighters to complete extinguishment with an interior attack. LAFD Arson is on scene for the investigation, per protocol for a fire of this magnitude. No further details.; FS 46; Batt 13; South Bureau; Council District 9; AR1  BC1  BC11  BC13  BC18  BC5  BC706  CM20  CM22  E14  E15  E203  E210  E215  E221  E233  E3  E33  E46  E66  EA1  EM1  HE1  RA15  RA46  RA803  RA846  RS3  SQ21  T10  T15  T21  T3  T33  T9  UR3  UR88; CH9; 12  13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Historic South-Central</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07012023-inc0082" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, July 1, 2023 - 03:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=abac2404-1882-11ee-b870-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
