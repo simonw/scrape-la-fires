@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5"/>
-<lastBuildDate>Tue, 11 Jul 2023 23:09:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 12 Jul 2023 07:11:59 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-07112023-inc1628" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 21:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-07112023-inc1628" hreflang="en">Knockdown -  Greater Alarm Structure Fire 07/11/2023 INC#1628</a></title>
@@ -29,7 +29,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-07112023-inc1628" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 21:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07112023-inc1628" hreflang="en">Structure Fire 07/11/2023 INC#1628</a></title>
@@ -40,7 +40,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07112023-inc1628" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 20:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-07112023-inc1297" hreflang="en">Knockdown -  Brush Fire 07/11/2023 INC#1297</a></title>
@@ -51,7 +51,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-07112023-inc1297" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 18:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07112023-inc1297" hreflang="en">Brush Fire 07/11/2023 INC#1297</a></title>
@@ -62,7 +62,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07112023-inc1297" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 17:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-07112023-inc1066" hreflang="en">Contained -  Brush Fire 07/11/2023 INC#1066</a></title>
@@ -73,7 +73,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-07112023-inc1066" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 16:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-brush-fire-07112023-inc1066" hreflang="en">Update Brush Fire 07/11/2023 INC#1066</a></title>
@@ -84,7 +84,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-brush-fire-07112023-inc1066" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 15:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07112023-inc1066" hreflang="en">Brush Fire 07/11/2023 INC#1066</a></title>
@@ -95,7 +95,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07112023-inc1066" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 11, 2023 - 15:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-brush-fire-brownsfire-07102023-inc1857" hreflang="en">Update Brush Fire #BrownsFire 07/10/2023 INC#1857</a></title>
@@ -106,7 +106,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/update-brush-fire-brownsfire-07102023-inc1857" hreflang="en">view</a></guid>
                             <pubDate>Monday, July 10, 2023 - 23:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07102023-inc1857" hreflang="en">Brush Fire 07/10/2023 INC#1857</a></title>
@@ -117,7 +117,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07102023-inc1857" hreflang="en">view</a></guid>
                             <pubDate>Monday, July 10, 2023 - 23:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=afcec772-207a-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
