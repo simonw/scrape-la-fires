@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5"/>
-<lastBuildDate>Thu, 20 Jul 2023 15:25:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 21 Jul 2023 10:02:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-building-07202023-inc1110" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 15:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-07202023-inc1039" hreflang="en">Hiker Rescue - Hoist Op 07/20/2023 INC#1039</a></title>
@@ -29,7 +29,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-07202023-inc1039" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 14:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/forward-progress-stopped-brush-fire-07202023-inc0544" hreflang="en">FORWARD PROGRESS STOPPED Brush Fire 07/20/2023 INC#0544</a></title>
@@ -40,7 +40,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/forward-progress-stopped-brush-fire-07202023-inc0544" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 10:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07202023-inc0544" hreflang="en">Brush Fire 07/20/2023 INC#0544</a></title>
@@ -51,7 +51,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07202023-inc0544" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 10:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/autop-fatality-07202023-inc0316" hreflang="en">AUTOP - FATALITY 07/20/2023 INC#0316</a></title>
@@ -62,7 +62,7 @@
                             <category>Sherman Oaks</category>
                             <guid isPermaLink="false"><a href="/alert/autop-fatality-07202023-inc0316" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 08:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07192023-inc1608" hreflang="en">KNOCKDOWN Structure Fire 07/19/2023 INC#1608</a></title>
@@ -73,7 +73,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07192023-inc1608" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 19, 2023 - 21:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07192023-inc1608" hreflang="en">Structure Fire 07/19/2023 INC#1608</a></title>
@@ -84,7 +84,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07192023-inc1608" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 19, 2023 - 21:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/forward-progress-stopped-brush-fire-07192023-inc0784" hreflang="en">FORWARD PROGRESS STOPPED Brush Fire 07/19/2023 INC#0784</a></title>
@@ -95,7 +95,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/forward-progress-stopped-brush-fire-07192023-inc0784" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 19, 2023 - 12:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07192023-inc0784" hreflang="en">Brush Fire 07/19/2023 INC#0784</a></title>
@@ -106,7 +106,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07192023-inc0784" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 19, 2023 - 12:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-07182023-inc1661" hreflang="en">Structure Fire - NOW OUT 07/18/2023 INC#1661</a></title>
@@ -117,7 +117,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-07182023-inc1661" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 18, 2023 - 21:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5bad2769-274c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
