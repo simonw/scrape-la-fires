@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 22 Jul 2023 22:36:39 -0700</lastBuildDate>
+<lastBuildDate>Sun, 23 Jul 2023 06:48:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-07222023-inc1769" hreflang="en">KNOCKDOWN Structure Fire 07/22/2023 INC#1769</a></title>
+  <link><a href="/alert/knockdown-structure-fire-07222023-inc1769" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1769; 10:39PM; 22521 W Styles St; MAP: &lt;a href="https://bit.ly/44NjTzc" target="_blank" rel="noopener"&gt;https://bit.ly/44NjTzc&lt;/a&gt;; #WoodlandHills; Firefighters arrived to find heavy fire showing from an attached garage, and made an aggressive attack, working from the uninvolved to the involved portion of the structure with hose lines, and confined the damage to the garage only. Crews skillfully prevented the flames from entering the living space of the home, or the attic, extinguishing the fire in 22 minutes (30 firefighters). Occupants escaped, but one animal was still frightened inside, but firefighters found the beloved pet and brought it out unharmed. One person was evaluated with a minor medical complaint, but did not need to be transported to the hospital. The cause of the fire is under investigation.; FS 105; Batt 17; Valley Bureau; Council District 3; BC17  E106  E290  E293  E305  E72  E84  RA105  RA72  T105  T90  T93; CH8; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#WoodlandHills</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07222023-inc1769" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, July 22, 2023 - 23:28</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-07222023-inc1769" hreflang="en">Structure Fire 07/22/2023 INC#1769</a></title>
   <link><a href="/alert/structure-fire-07222023-inc1769" hreflang="en">view</a></link>
   <description>Structure Fire; INC#1769; 10:17PM; 22521 W Styles St; MAP: &lt;a href="https://bit.ly/44NjTzc" target="_blank" rel="noopener"&gt;https://bit.ly/44NjTzc&lt;/a&gt;; #WoodlandHills; Heavy fire showing from a two-story single-family home. All occupants (and pet) are reported to be out of the building already. Offensive mode.; FS 105; Batt 17; Valley Bureau; Council District 3; BC17  E293  E305  E72  E84  RA105  RA72  T105  T93; CH9; 17; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07202023-inc0544" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 20, 2023 - 10:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/autop-fatality-07202023-inc0316" hreflang="en">AUTOP - FATALITY 07/20/2023 INC#0316</a></title>
-  <link><a href="/alert/autop-fatality-07202023-inc0316" hreflang="en">view</a></link>
-  <description>AUTOP - FATALITY; INC#0316; 07:14AM; Nb 405 Fy x Ventura BL; MAP: &lt;a href="https://bit.ly/3q4JUeq" target="_blank" rel="noopener"&gt;https://bit.ly/3q4JUeq&lt;/a&gt;; Sherman Oaks; In responding to a reported Auto vs Ped, firefighters located a deceased person on the freeway. The incident transitioned to a law enforcement operation with CHP Log# 576. All media questions are referred to CHP and County of LA Medical Examiner. No further details.; FS 109; Batt 10; Valley Bureau; Council District 4; E109  E288  RA39  T88; CH8; Margaret Stewart</description>
-  <category>AUTOP - FATALITY</category>
-                            <category>Valley</category>
-                            <category>Sherman Oaks</category>
-                            <guid isPermaLink="false"><a href="/alert/autop-fatality-07202023-inc0316" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, July 20, 2023 - 08:35</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
