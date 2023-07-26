@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5"/>
-<lastBuildDate>Tue, 25 Jul 2023 15:40:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 26 Jul 2023 06:02:17 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-07262023-inc0124" hreflang="en">Traffic 07/26/2023 INC#0124</a></title>
+  <link><a href="/alert/traffic-07262023-inc0124" hreflang="en">view</a></link>
+  <description>Traffic; INC#0124; 02:20AM; Wb 10 Fy; MAP: &lt;a href="https://bit.ly/3Khb9JL" target="_blank" rel="noopener"&gt;https://bit.ly/3Khb9JL&lt;/a&gt;; Palms; Vehicle went over embankment and landed in encampment with a total of five patients. Three patients extricated from the vehicle and transported  in *at least* serious condition. Two patients transported in fair condition. Ages/genders unknown. Any media questions are referred to CHP Log # 198 and LAPD Inc# 0336; FS 58; Batt 18; South Bureau; Council District 5; BC11  BC18  CM20  CM22  E226  E261  E292  E294  E43  E58  E61  E94  EM1  EM11  EM9  RA43  RA58  RA61  RA68  RA858  RA894  RA94  T26  T61  T92  T94; CH4; 12; Margaret Stewart</description>
+  <category>Traffic</category>
+                            <category>South</category>
+                            <category>Palms</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-07262023-inc0124" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, July 26, 2023 - 03:28</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/brush-fire-assisting-agency-07252023-inc1130" hreflang="en">Brush Fire - Assisting Agency 07/25/2023 INC#1130</a></title>
   <link><a href="/alert/brush-fire-assisting-agency-07252023-inc1130" hreflang="en">view</a></link>
   <description>Brush Fire - Assisting Agency; INC#1130; 03:24PM; 15320 N Sierra Hw x Golden State Fwy; MAP: &lt;a href="https://bit.ly/43FliHa" target="_blank" rel="noopener"&gt;https://bit.ly/43FliHa&lt;/a&gt;; Sylmar; #VictorIncident Approximately 5 acres of heavy brush burning in 10-15mph winds with no structures currently threatened.  This incident is in LACoFD jurisdiction and LAFD will be an Assisting Agency. All further updates will come from LACoFD.; FS 18; Batt 15; Valley Bureau; Council District 7; BC12  BC15  E275  E28  E290  E298  E75  E8  E91  E98  EM15  H1  H3  H7  HA1  HA3  HA7  RA90  T75  T90  T98; CH5; 17; Margaret Stewart</description>
@@ -18,7 +29,7 @@
                             <category>Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-assisting-agency-07252023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 15:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-brush-fire-07252023-inc0889" hreflang="en">Update Brush Fire 07/25/2023 INC#0889</a></title>
@@ -29,7 +40,7 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/update-brush-fire-07252023-inc0889" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 13:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07252023-inc0706" hreflang="en">KNOCKDOWN Structure Fire 07/25/2023 INC#0706</a></title>
@@ -40,7 +51,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07252023-inc0706" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 13:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07252023-inc0889" hreflang="en">Brush Fire 07/25/2023 INC#0889</a></title>
@@ -51,7 +62,7 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07252023-inc0889" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 13:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-07252023-inc0706-0" hreflang="en">Update Structure Fire 07/25/2023 INC#0706</a></title>
@@ -62,7 +73,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-07252023-inc0706-0" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 12:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07252023-inc0769" hreflang="en">KNOCKDOWN Structure Fire 07/25/2023 INC#0769</a></title>
@@ -73,7 +84,7 @@
                             <category>Historic South-Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07252023-inc0769" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 12:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07252023-inc0769" hreflang="en">Structure Fire 07/25/2023 INC#0769</a></title>
@@ -84,7 +95,7 @@
                             <category>Historic South-Central</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07252023-inc0769" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 12:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-07252023-inc0706" hreflang="en">Update Structure Fire 07/25/2023 INC#0706</a></title>
@@ -95,7 +106,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-07252023-inc0706" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 11:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07252023-inc0706" hreflang="en">Structure Fire 07/25/2023 INC#0706</a></title>
@@ -106,18 +117,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07252023-inc0706" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, July 25, 2023 - 11:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-07252023-inc1865" hreflang="en">CONTAINED Brush Fire 07/25/2023 INC#1865</a></title>
-  <link><a href="/alert/contained-brush-fire-07252023-inc1865" hreflang="en">view</a></link>
-  <description>CONTAINED Brush Fire; INC#1865; 12:28AM; 11400 Poema Pl; MAP: &lt;a href="https://bit.ly/44ZRnKJ" target="_blank" rel="noopener"&gt;https://bit.ly/44ZRnKJ&lt;/a&gt;; Unincorporated Santa Susana Mountains; A collaborative effort between the three Fire Departments resulted in all forward progress being stopped in 37 minutes, with no injuries and no structures damaged. Cause under investigation.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC15  BC17  E103  E105  E106  E107  E28  E290  E296  E70  E8  EM15  H1  H2  H3  H4  HA1  HA2  HA3  HA4  RA90  T90  T96; CH5; 17; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>Unincorporated Santa Susana Mountains</category>
-                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-07252023-inc1865" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, July 25, 2023 - 00:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=48326914-2b3c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
