@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5"/>
-<lastBuildDate>Sat, 29 Jul 2023 17:00:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 30 Jul 2023 10:57:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07292023-inc1217" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 29, 2023 - 17:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07292023-inc1217" hreflang="en">Structure Fire 07/29/2023 INC#1217</a></title>
@@ -29,7 +29,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07292023-inc1217" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 29, 2023 - 16:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rescue-07292023-inc1162" hreflang="en">Rescue 07/29/2023 INC#1162</a></title>
@@ -40,7 +40,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/rescue-07292023-inc1162" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 29, 2023 - 16:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07272023-inc1119" hreflang="en">KNOCKDOWN Structure Fire 07/27/2023 INC#1119</a></title>
@@ -51,7 +51,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07272023-inc1119" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 27, 2023 - 15:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07272023-inc1119" hreflang="en">Structure Fire 07/27/2023 INC#1119</a></title>
@@ -62,7 +62,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07272023-inc1119" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 27, 2023 - 15:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/forward-progress-stopped-brush-fire-07272023-inc1011" hreflang="en">FORWARD PROGRESS STOPPED Brush Fire 07/27/2023 INC#1011</a></title>
@@ -73,7 +73,7 @@
                             <category>Granada Hills</category>
                             <guid isPermaLink="false"><a href="/alert/forward-progress-stopped-brush-fire-07272023-inc1011" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 27, 2023 - 15:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-07272023-inc1011" hreflang="en">Brush Fire 07/27/2023 INC#1011</a></title>
@@ -84,7 +84,7 @@
                             <category>Granada Hills</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-07272023-inc1011" hreflang="en">view</a></guid>
                             <pubDate>Thursday, July 27, 2023 - 14:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-hollywood-07262023-inc0993" hreflang="en">KNOCKDOWN Structure Fire - Hollywood 07/26/2023 INC#0993</a></title>
@@ -95,7 +95,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-hollywood-07262023-inc0993" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 26, 2023 - 15:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-valley-glen-07262023-inc0966" hreflang="en">KNOCKDOWN Structure Fire - Valley Glen 07/26/2023 INC#0966</a></title>
@@ -106,7 +106,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-valley-glen-07262023-inc0966" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 26, 2023 - 15:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-hollywood-07262023-inc0993" hreflang="en">Structure Fire - Hollywood 07/26/2023 INC#0993</a></title>
@@ -117,7 +117,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-hollywood-07262023-inc0993" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, July 26, 2023 - 15:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1ee457bc-2e6c-11ee-b871-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
