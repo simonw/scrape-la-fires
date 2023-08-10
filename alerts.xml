@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 09 Aug 2023 19:09:08 -0700</lastBuildDate>
+<lastBuildDate>Thu, 10 Aug 2023 08:55:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-08102023-inc0149" hreflang="en">Structure Fire - Now Out 08/10/2023 INC#0149</a></title>
+  <link><a href="/alert/structure-fire-now-out-08102023-inc0149" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0149; 03:14AM; 645 N Gardner St; MAP: &lt;a href="https://bit.ly/3KCizHD" target="_blank" rel="noopener"&gt;https://bit.ly/3KCizHD&lt;/a&gt;; #Fairfax; Despite dense exterior storage and heavy fire that consumed the attic of the structure, 35 LAFD Firefighters took just 31 minutes (3:45 AM) to access, confine and fully extinguish fire in a one story residential duplex. No injury. Fire cause under investigation.; FS 41; Batt 5; West Bureau; Council District 5; AR1  BC5  E227  E229  E261  E27  E41  E52  E61  RA61  T27  T29  T61; CH7; 12; Brian Humphrey</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>West</category>
+                            <category>#Fairfax</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-08102023-inc0149" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, August 10, 2023 - 03:57</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/contained-brush-fire-08092023-inc1257" hreflang="en">CONTAINED -  Brush Fire 08/09/2023 INC#1257</a></title>
   <link><a href="/alert/contained-brush-fire-08092023-inc1257" hreflang="en">view</a></link>
   <description>CONTAINED -  Brush Fire; INC#1257; 06:40PM; Cahuenga Peak; MAP: &lt;a href="https://bit.ly/3QxxNRW" target="_blank" rel="noopener"&gt;https://bit.ly/3QxxNRW&lt;/a&gt;; #HollywoodHills; A series of precise LAFD helicopter water drops have stopped forward progress of the fire at approximately one (1) acre of brush in remote, rugged terrain northwest of Mt. Lee. No injury. No structure threat or damage. LAFD ground crews will remain at scene tonight to complete extinguishment at the perimeter of the burn area to assure final extinguishment. The fire's cause is currently "under active investigation". Though a pair of male hikers were seen on trails near the fire, their specific actions and intent have yet to be determined. They are at this time best described as "persons of interest", rather than suspects.; FS 76; Batt 5; West Bureau; Council District 4; AO1  AO2  AR1  BC14  BC5  CE83  E227  E260  E27  E278  E290  E56  E60  E76  E8136  E8138  E82  E82C  E86  E90  EA1  EM14  H0A  H0E  H1  H3  H7  HA1  HA3  HA7  RA86  T27  T60  T78  T90 + Burbank FD + LACoFD + Park Rangers; CH7; 14; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#GriffithPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-brush-fire-08062023-inc1385" hreflang="en">view</a></guid>
                             <pubDate>Sunday, August 6, 2023 - 19:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-08062023-inc1385" hreflang="en">Contained -  Brush Fire 08/06/2023 INC#1385</a></title>
-  <link><a href="/alert/contained-brush-fire-08062023-inc1385" hreflang="en">view</a></link>
-  <description>Contained -  Brush Fire; INC#1385; 06:31PM; 5400 W Zoo Dr; MAP: &lt;a href="https://bit.ly/3OGXTkd" target="_blank" rel="noopener"&gt;https://bit.ly/3OGXTkd&lt;/a&gt;; #GriffithPark; The first arriving 50 LAFD Firefighters - aided by precise LAFD helicopter water drops, took just 32 minutes to access, confine and extinguish flames that consumed *yet to be determined acreage* of light-to-medium brush in steep terrain. No injury. No infra/structure damage. No evacuation. Two LACoFD hand crews are expected to join the extended LAFD mop up and complete extinguishment of this fire, the cause of which has yet to be determined.; FS 56; Batt 5; West Bureau; Council District 4; AO1  BC14  BC2  BC5  CE59  CM20  CM22  E250  E27  E35  E52  E56  E60  E76  E82  E86  EM11  H1  H2  H3  H7  HA1  HA2  HA3  HA7  RA56  T50 + LACoFD CREWS 16-1  16-2  SUP20  BC1; CH5; 13; Brian Humphrey</description>
-  <category>Brush Fire</category>
-                            <category>West</category>
-                            <category>#GriffithPark</category>
-                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-08062023-inc1385" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, August 6, 2023 - 18:47</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
