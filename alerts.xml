@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 11 Aug 2023 12:29:25 -0700</lastBuildDate>
+<lastBuildDate>Sat, 12 Aug 2023 10:43:01 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/trapped-vehicle-08122023-inc0608" hreflang="en">Trapped Vehicle 08/12/2023 INC#0608</a></title>
+  <link><a href="/alert/trapped-vehicle-08122023-inc0608" hreflang="en">view</a></link>
+  <description>Trapped Vehicle; INC#0608; 10:42AM; 16500 W Victory Bl; MAP: &lt;a href="https://bit.ly/45kVbX4" target="_blank" rel="noopener"&gt;https://bit.ly/45kVbX4&lt;/a&gt;; Sepulveda Basin; Multi-vehicle collision with a total of 6 patients including one which required extrication. 1 patient in critical condition, 3 in fair to serious condition and two with minor-non life threatening injuries (two adult males, 2 adult females and 2 children). Five patients from one vehicle and one patient from a 2nd vehicle. 9-1-1 call received at 10:16AM. Questions are referred to LAPD Inc# 1642 West Valley.; FS 100; Batt 10; Valley Bureau; Council District 6; BC15  E100  E273  E290  E73  E83  E88  E90  EM14  EM15  EM17  HR3  RA100  RA81  RA83  RA860  RA87  RA891  RA896  RA898  RA90  T73  T90  UR88; CH8; 17; Margaret Stewart</description>
+  <category>Trapped Vehicle</category>
+                            <category>Valley</category>
+                            <category>Sepulveda Basin</category>
+                            <guid isPermaLink="false"><a href="/alert/trapped-vehicle-08122023-inc0608" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, August 12, 2023 - 10:42</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-08102023-inc1679" hreflang="en">KNOCKDOWN Structure Fire 08/10/2023 INC#1679</a></title>
   <link><a href="/alert/knockdown-structure-fire-08102023-inc1679" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1679; 09:28PM; 6103 W Pickford St; MAP: &lt;a href="https://bit.ly/45ssWGd" target="_blank" rel="noopener"&gt;https://bit.ly/45ssWGd&lt;/a&gt;; Mid-City; KNOCKDOWN: 18 firefighters extinguished the fire in 13 minutes with no injuries reported. The fire was contained to the kitchen of one unit.  No further details.; FS 58; Batt 18; South Bureau; Council District 10; BC18  E294  E58  E68  RA92  T94; CH9; 14; Margaret Stewart</description>
@@ -106,17 +117,6 @@
                             <category>#MissionHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-pedestrians-struck-08092023-inc0468" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 9, 2023 - 10:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/pedestrians-struck-08092023-inc0468" hreflang="en">Pedestrians Struck 08/09/2023 INC#0468</a></title>
-  <link><a href="/alert/pedestrians-struck-08092023-inc0468" hreflang="en">view</a></link>
-  <description>Pedestrians Struck; INC#0468; 09:11AM; 11041 N Sepulveda Bl; MAP: &lt;a href="https://bit.ly/43X19fT" target="_blank" rel="noopener"&gt;https://bit.ly/43X19fT&lt;/a&gt;; #MissionHills; PRELIM: Solo vehicle reportedly struck and injured *four* workers at a car dealership, briefly trapping one beneath the vehicle, who is in grave condition. Another has a head injury, and two others with unspecified 'minor' injuries. ; FS 75; Batt 12; Valley Bureau; Council District 7; BC12  E18  E275  E75  E87  EM15  HR3  RA7  RA75  RA87  T75  UR88; CH8; 18; Brian Humphrey</description>
-  <category>Pedestrians Struck</category>
-                            <category>Valley</category>
-                            <category>#MissionHills</category>
-                            <guid isPermaLink="false"><a href="/alert/pedestrians-struck-08092023-inc0468" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, August 9, 2023 - 09:21</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
