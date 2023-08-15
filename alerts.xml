@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 14 Aug 2023 23:09:54 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5"/>
+<lastBuildDate>Tue, 15 Aug 2023 06:51:42 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Highland Park</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08142023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Monday, August 14, 2023 - 13:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-08142023-inc0859" hreflang="en">Update Structure Fire 08/14/2023 INC#0859</a></title>
@@ -29,7 +29,7 @@
                             <category>Highland Park</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-08142023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Monday, August 14, 2023 - 13:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08142023-inc0859" hreflang="en">Structure Fire 08/14/2023 INC#0859</a></title>
@@ -40,7 +40,7 @@
                             <category>Highland Park</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08142023-inc0859" hreflang="en">view</a></guid>
                             <pubDate>Monday, August 14, 2023 - 13:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08132023-inc0997" hreflang="en">KNOCKDOWN Structure Fire 08/13/2023 INC#0997</a></title>
@@ -51,7 +51,7 @@
                             <category>Granada Hills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08132023-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Sunday, August 13, 2023 - 16:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08132023-inc0997" hreflang="en">Structure Fire 08/13/2023 INC#0997</a></title>
@@ -62,7 +62,7 @@
                             <category>Granada Hills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08132023-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Sunday, August 13, 2023 - 15:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-08122023-inc1545" hreflang="en">Hiker Rescue 08/12/2023 INC#1545</a></title>
@@ -73,7 +73,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-08122023-inc1545" hreflang="en">view</a></guid>
                             <pubDate>Saturday, August 12, 2023 - 23:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-08122023-inc1545" hreflang="en">Hiker Rescue - Hoist Op 08/12/2023 INC#1545</a></title>
@@ -84,7 +84,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-08122023-inc1545" hreflang="en">view</a></guid>
                             <pubDate>Saturday, August 12, 2023 - 22:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/trapped-vehicle-08122023-inc0608" hreflang="en">Trapped Vehicle 08/12/2023 INC#0608</a></title>
@@ -95,7 +95,7 @@
                             <category>Sepulveda Basin</category>
                             <guid isPermaLink="false"><a href="/alert/trapped-vehicle-08122023-inc0608" hreflang="en">view</a></guid>
                             <pubDate>Saturday, August 12, 2023 - 10:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08102023-inc1679" hreflang="en">KNOCKDOWN Structure Fire 08/10/2023 INC#1679</a></title>
@@ -106,7 +106,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08102023-inc1679" hreflang="en">view</a></guid>
                             <pubDate>Thursday, August 10, 2023 - 21:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08102023-inc1679" hreflang="en">Structure Fire 08/10/2023 INC#1679</a></title>
@@ -117,7 +117,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08102023-inc1679" hreflang="en">view</a></guid>
                             <pubDate>Thursday, August 10, 2023 - 21:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dcb0d5e9-3b72-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
