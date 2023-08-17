@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Wed, 16 Aug 2023 22:52:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 17 Aug 2023 09:29:02 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">Vehicle Fire 08/17/2023 INC#0216</a></title>
+  <link><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">view</a></link>
+  <description>Vehicle Fire; INC#0216; 05:13AM; 960 S Grande Vista Av; MAP: &lt;a href="https://bit.ly/3KGT8Vq" target="_blank" rel="noopener"&gt;https://bit.ly/3KGT8Vq&lt;/a&gt;; #BoyleHeights; First arriving LAFD Firefighters quickly extinguished a fire involving a 'box truck' that included an explosion in that vehicle's cargo area prior to their arrival. Though there were no injuries, some nearby vehicles sustained damage, and there are few broken windows in nearby homes. While the specific cause of the fire has yet to be determined, Investigators are pursuing the possibility that one of several propane tanks stored within the vehicle may have been leaking.; FS 25; Batt 1; Central Bureau; Council District 14; AR1  BC1  E25; CH7; Brian Humphrey</description>
+  <category>Vehicle Fire</category>
+                            <category>Central</category>
+                            <category>#BoyleHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, August 17, 2023 - 06:14</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Knockdown Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></link>
   <description>Knockdown Greater Alarm Structure Fire; INC#1668; 08:22PM; 8946 N Winnetka Av; MAP: &lt;a href="https://bit.ly/3E1rRJM" target="_blank" rel="noopener"&gt;https://bit.ly/3E1rRJM&lt;/a&gt;; #Winnetka; 92 LAFD Firefighters took just 51 minutes in a well-coordinated offensive firefighting operation to confine stubborn flames to combustible contents, including packing materials, within the 100' x 100' one-story commercial building of fire origin, doing business as "Dan Luckow Electric". No injury. Fire cause under investigation.; FS 104; Batt 17; Valley Bureau; Council District 12; BC12  BC14  BC15  BC17  BC5  CE83  CM40  CM42  E103  E104  E273  E289  E290  E293  E305  E39  E70  E72  E89  EA1  EM15  HR3  RA107  RA889  RA903  RM1  RM2  RS3  T105  T73  T89  T90  T93  UR88  UR89; CH9; 17  18; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
@@ -29,7 +40,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">Grass Fire - Contained 08/16/2023 INC#1561</a></title>
@@ -40,7 +51,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">Knockdown -  Structure Fire 08/16/2023 INC#1560</a></title>
@@ -51,7 +62,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">Update Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -62,7 +73,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -73,7 +84,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">Structure Fire 08/16/2023 INC#1560</a></title>
@@ -84,7 +95,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 18:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08162023-inc1406" hreflang="en">Knockdown -  Structure Fire 08/16/2023 INC#1406</a></title>
@@ -95,7 +106,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08162023-inc1406" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 17:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08162023-inc1406" hreflang="en">Structure Fire 08/16/2023 INC#1406</a></title>
@@ -106,18 +117,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08162023-inc1406" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-traffic-collision-08162023-inc1251" hreflang="en">Update Traffic Collision 08/16/2023 INC#1251</a></title>
-  <link><a href="/alert/update-traffic-collision-08162023-inc1251" hreflang="en">view</a></link>
-  <description>Update Traffic Collision; INC#1251; 04:35PM; 12001 W Chalon Rd; MAP: &lt;a href="https://bit.ly/44fQ8q1" target="_blank" rel="noopener"&gt;https://bit.ly/44fQ8q1&lt;/a&gt;; #Brentwood; 5 patients (undetermined ages / genders / personal or site affiliation / circumstances) in fair condition with minor injury and/or illness after a golf cart type vehicle overturned. No entrapment. Media Inquiries: LAPD West Traffic Division (Incident #3223) Notified.; FS 19; Batt 9; West Bureau; Council District 11; BC9  E269  E37  E71  EM11  EM17  EM9  RA23  RA37  RA69  RA71  RA858  RA88  T69; CH7; 12; Brian Humphrey</description>
-  <category>Traffic Collision</category>
-                            <category>West</category>
-                            <category>#Brentwood</category>
-                            <guid isPermaLink="false"><a href="/alert/update-traffic-collision-08162023-inc1251" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, August 16, 2023 - 16:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=47293476-3cc2-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
