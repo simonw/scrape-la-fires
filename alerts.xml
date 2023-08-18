@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 17 Aug 2023 09:29:02 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5"/>
+<lastBuildDate>Fri, 18 Aug 2023 07:00:42 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-08182023-inc0309" hreflang="en">KNOCKDOWN Structure Fire 08/18/2023 INC#0309</a></title>
+  <link><a href="/alert/knockdown-structure-fire-08182023-inc0309" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0309; 06:36AM; 10508 S San Pedro St; MAP: &lt;a href="https://bit.ly/3scqfKh" target="_blank" rel="noopener"&gt;https://bit.ly/3scqfKh&lt;/a&gt;; #GreenMeadows; The first 18 LAFD firefighters achieved a swift knockdown of flames in one room of a two-story duplex, in 11 minutes. One family will be displaced, but thankfully there were no injuries. Cause under investigation.; FS 64; Batt 13; South Bureau; Council District 8; BC13  E233  E264  E64  E65  RA64  RA65  T33  T64; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#GreenMeadows</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08182023-inc0309" hreflang="en">view</a></guid>
+                            <pubDate>Friday, August 18, 2023 - 07:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-08182023-inc0309" hreflang="en">Structure Fire 08/18/2023 INC#0309</a></title>
+  <link><a href="/alert/structure-fire-08182023-inc0309" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0309; 06:25AM; 10508 S San Pedro St; MAP: &lt;a href="https://bit.ly/3scqfKh" target="_blank" rel="noopener"&gt;https://bit.ly/3scqfKh&lt;/a&gt;; #GreenMeadows; Two-story duplex, with heavy smoke showing. Offensive mode.; FS 64; Batt 13; South Bureau; Council District 8; BC13  E264  E64  E65  RA64  T64; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#GreenMeadows</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-08182023-inc0309" hreflang="en">view</a></guid>
+                            <pubDate>Friday, August 18, 2023 - 06:31</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">Vehicle Fire 08/17/2023 INC#0216</a></title>
   <link><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">view</a></link>
   <description>Vehicle Fire; INC#0216; 05:13AM; 960 S Grande Vista Av; MAP: &lt;a href="https://bit.ly/3KGT8Vq" target="_blank" rel="noopener"&gt;https://bit.ly/3KGT8Vq&lt;/a&gt;; #BoyleHeights; First arriving LAFD Firefighters quickly extinguished a fire involving a 'box truck' that included an explosion in that vehicle's cargo area prior to their arrival. Though there were no injuries, some nearby vehicles sustained damage, and there are few broken windows in nearby homes. While the specific cause of the fire has yet to be determined, Investigators are pursuing the possibility that one of several propane tanks stored within the vehicle may have been leaking.; FS 25; Batt 1; Central Bureau; Council District 14; AR1  BC1  E25; CH7; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">view</a></guid>
                             <pubDate>Thursday, August 17, 2023 - 06:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Knockdown Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
@@ -29,7 +51,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
@@ -40,7 +62,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">Grass Fire - Contained 08/16/2023 INC#1561</a></title>
@@ -51,7 +73,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">Knockdown -  Structure Fire 08/16/2023 INC#1560</a></title>
@@ -62,7 +84,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">Update Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -73,7 +95,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -84,7 +106,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">Structure Fire 08/16/2023 INC#1560</a></title>
@@ -95,29 +117,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 18:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-08162023-inc1406" hreflang="en">Knockdown -  Structure Fire 08/16/2023 INC#1406</a></title>
-  <link><a href="/alert/knockdown-structure-fire-08162023-inc1406" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1406; 05:40PM; 22052 W Hiawatha St; MAP: &lt;a href="https://bit.ly/3OYnq8B" target="_blank" rel="noopener"&gt;https://bit.ly/3OYnq8B&lt;/a&gt;; #Chatsworth; 26 LAFD Firefighters took just 27 minutes to access, confine and extinguish flames in the attic of a 1,894 square foot one-story home. One female resident is currently being evaluated at scene by LAFD Paramedics for a non-specified medical complaint. Fire cause under investigation.; FS 96; Batt 15; Valley Bureau; Council District 12; BC15  E107  E28  E296  E305  E8  RA104  RA107  T105  T96; CH9; 18; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Chatsworth</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08162023-inc1406" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, August 16, 2023 - 17:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-08162023-inc1406" hreflang="en">Structure Fire 08/16/2023 INC#1406</a></title>
-  <link><a href="/alert/structure-fire-08162023-inc1406" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1406; 05:13PM; 22052 W Hiawatha St; MAP: &lt;a href="https://bit.ly/3OYnq8B" target="_blank" rel="noopener"&gt;https://bit.ly/3OYnq8B&lt;/a&gt;; #Chatsworth; PRELIM: Fire in the attic of a one story home.; FS 96; Batt 15; Valley Bureau; Council District 12; BC15  E107  E28  E296  E305  E8  RA104  RA107  T105  T96; CH9; 18; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Chatsworth</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-08162023-inc1406" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, August 16, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
