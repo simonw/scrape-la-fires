@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Fri, 18 Aug 2023 07:00:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 18 Aug 2023 17:56:26 -0700</lastBuildDate>
 <pubDate>Wed, 31 Dec 1969 16:00:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08182023-inc0309" hreflang="en">view</a></guid>
                             <pubDate>Friday, August 18, 2023 - 07:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08182023-inc0309" hreflang="en">Structure Fire 08/18/2023 INC#0309</a></title>
@@ -29,7 +29,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08182023-inc0309" hreflang="en">view</a></guid>
                             <pubDate>Friday, August 18, 2023 - 06:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">Vehicle Fire 08/17/2023 INC#0216</a></title>
@@ -40,7 +40,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-fire-08172023-inc0216" hreflang="en">view</a></guid>
                             <pubDate>Thursday, August 17, 2023 - 06:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Knockdown Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
@@ -51,7 +51,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">Greater Alarm Structure Fire 08/16/2023 INC#1668</a></title>
@@ -62,7 +62,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-08162023-inc1668" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 20:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">Grass Fire - Contained 08/16/2023 INC#1561</a></title>
@@ -73,7 +73,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/grass-fire-contained-08162023-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">Knockdown -  Structure Fire 08/16/2023 INC#1560</a></title>
@@ -84,7 +84,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">Update Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -95,7 +95,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">Traffic Collision 08/16/2023 INC#1569</a></title>
@@ -106,7 +106,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-08162023-inc1569" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 19:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">Structure Fire 08/16/2023 INC#1560</a></title>
@@ -117,7 +117,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08162023-inc1560" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 16, 2023 - 18:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9dd27945-3dcf-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
