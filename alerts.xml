@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 23 Aug 2023 08:47:01 -0700</lastBuildDate>
-<pubDate>Tue, 22 Aug 2023 11:26:00 -0700</pubDate>
+<lastBuildDate>Wed, 23 Aug 2023 17:40:09 -0700</lastBuildDate>
+<pubDate>Wed, 23 Aug 2023 17:29:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">Update Brush Fire CONTAINED 08/23/2023 INC#1375</a></title>
+  <link><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">view</a></link>
+  <description>Update CONTAINED Brush Fire; INC#1375; 05:14PM; 2400 N Weid Pl; MAP: &lt;a href="https://bit.ly/47N2j0o" target="_blank" rel="noopener"&gt;https://bit.ly/47N2j0o&lt;/a&gt;; Hollywood Hills; 1/4 acre slow moving, no structures threatened.; FS 82; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  E227  E229  E235  E27  E290  E35  E41  E82  E90  EM11  H1  H3  H7  HA1  HA3  HA7  RA27  SO1  T27  T29  T35  T90; CH5; 12; David Ortiz</description>
+  <category>Brush Fire</category>
+                            <category>West</category>
+                            <category>Hollywood Hills</category>
+                            <guid isPermaLink="false"><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, August 23, 2023 - 17:29</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/concluded-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">CONCLUDED Automatic Alarm - Medical Evacuation 08/22/2023 INC#1955</a></title>
   <link><a href="/alert/concluded-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></link>
   <description>CONCLUDED Automatic Alarm - Medical Evacuation; INC#1955; 11:00AM; 1720 E Chavez Av; MAP: &lt;a href="https://bit.ly/3E70ttO" target="_blank" rel="noopener"&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; LAFD has assisted in moving the last non-critical patient (of the 213) and the incident will begin to demobilize. Any further questions are directed to White Memorial. ; Central Bureau; Margaret Stewart</description>
@@ -106,17 +117,6 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 22, 2023 - 01:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-0" hreflang="en">Update Automatic Alarm - Medical Evacuation 08/22/2023 INC#1955</a></title>
-  <link><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-0" hreflang="en">view</a></link>
-  <description>Update Automatic Alarm - Medical Evacuation; INC#1955; 12:54AM; 1720 E Chavez Av; MAP: &lt;a href="https://bit.ly/3E70ttO" target="_blank" rel="noopener"&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; LAFD is working with White Memorial staff and identifying prioritization of patients requiring transport to a new hospital with those on ventilators (assisted breathing) receiving top priority.  Due to the power outage, firefighters must physically transport patients down from upper floors to awaiting ambulances. Initial focus on 11 identified patients. LAFD PIO CII Cody Weireter is enroute to assist with media availability, however questions regarding their standard operating procedures in the case of (what is called an) internal disaster are referred to White Memorial. ; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC2  CM20  CM22  E1  E2  E201  E202  E209  E220  E3  E4  E9  EM1  EM11  EM13  RA1  RA11  RA12  RA15  RA2  RA20  RA209  RA21  RA25  RA3  RA35  RA4  RA46  RA47  RA801  RA803  RA809  RA810  RA9  RA900  T1  T2  T20  T9; CH7; 12; Margaret Stewart</description>
-  <category>Automatic Alarm - Medical Evacuation</category>
-                            <category>Central</category>
-                            <category>Boyle Heights</category>
-                            <guid isPermaLink="false"><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-0" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 22, 2023 - 00:54</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
