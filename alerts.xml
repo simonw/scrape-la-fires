@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 23 Aug 2023 17:40:09 -0700</lastBuildDate>
-<pubDate>Wed, 23 Aug 2023 17:29:00 -0700</pubDate>
+<lastBuildDate>Thu, 24 Aug 2023 09:23:18 -0700</lastBuildDate>
+<pubDate>Thu, 24 Aug 2023 07:08:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/fatality-traffic-collision-08242023-inc0253" hreflang="en">Fatality Traffic Collision 08/24/2023 INC#0253</a></title>
+  <link><a href="/alert/fatality-traffic-collision-08242023-inc0253" hreflang="en">view</a></link>
+  <description>Fatality Traffic Collision; INC#0253; 06:01AM; 13200 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3spubHM" target="_blank" rel="noopener"&gt;https://bit.ly/3spubHM&lt;/a&gt;; #GranadaHills; Two vehicle traffic collision with one adult male deceased and remains at scene. No other injured persons. One or more street lanes will remain closed in the area until the LAPD investigation and Medical Examiner operations are complete, unknown duration. Expect congestion and delay. Please avoid the immediate area and consider an alternate route. Media Inquiries: LAPD Valley Traffic Division (Incident #663) and Medical Examiner.; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  E87  E91  EM15  HR3  RA18  RA87  T87  UR88; CH8; 17; Brian Humphrey</description>
+  <category>Fatality Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>#GranadaHills</category>
+                            <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-08242023-inc0253" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, August 24, 2023 - 07:08</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">Update Brush Fire CONTAINED 08/23/2023 INC#1375</a></title>
   <link><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">view</a></link>
   <description>Update CONTAINED Brush Fire; INC#1375; 05:14PM; 2400 N Weid Pl; MAP: &lt;a href="https://bit.ly/47N2j0o" target="_blank" rel="noopener"&gt;https://bit.ly/47N2j0o&lt;/a&gt;; Hollywood Hills; 1/4 acre slow moving, no structures threatened.; FS 82; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  E227  E229  E235  E27  E290  E35  E41  E82  E90  EM11  H1  H3  H7  HA1  HA3  HA7  RA27  SO1  T27  T29  T35  T90; CH5; 12; David Ortiz</description>
@@ -106,17 +117,6 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-1" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 22, 2023 - 02:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">Update Automatic Alarm - Medical Evacuation 08/22/2023 INC#1955</a></title>
-  <link><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></link>
-  <description>Update Automatic Alarm - Medical Evacuation; INC#1955; 01:48AM; 1720 E Chavez Av; MAP: &lt;a href="https://bit.ly/3E70ttO" target="_blank" rel="noopener"&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; The power outage is only affecting one building (Specialty Care Center) on the White Memorial campus. An estimated 30 patients are identified as critical, requiring transport to one of the designated hospitals. This includes some pediatric and OB/GYN patients. The bulk of the patients in the facility are non critical and can be moved to another building on the campus. Media staging is Michigan Ave x N Boyle Ave  IMPORTANT NOTE: Please ensure all roads are kept CLEAR for ambulance traffic.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  BC2  CM20  CM21  CM22  E1  E10  E11  E14  E15  E16  E17  E2  E201  E202  E203  E209  E210  E220  E235  E25  E3  E4  E44  E47  E9  EA1  EM1  EM11  EM13  HR3  PI3  PI4  RA1  RA11  RA12  RA15  RA2  RA20  RA209  RA21  RA25  RA3  RA35  RA4  RA46  RA47  RA801  RA803  RA809  RA810  RA9  RA900  SO1  T1  T10  T2  T20  T3  T35  T9; CH7; 12; Margaret Stewart</description>
-  <category>Automatic Alarm - Medical Evacuation</category>
-                            <category>Central</category>
-                            <category>Boyle Heights</category>
-                            <guid isPermaLink="false"><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 22, 2023 - 01:54</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
