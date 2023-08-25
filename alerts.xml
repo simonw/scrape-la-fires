@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://www.lafd.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xml:base="https://www.lafd.org/">
   <channel>
     <title>Alerts Feed</title>
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
-<lastBuildDate>Thu, 24 Aug 2023 21:13:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 25 Aug 2023 11:13:01 -0700</lastBuildDate>
 <pubDate>Thu, 24 Aug 2023 17:58:00 -0700</pubDate>
 
     <item>
   <title><a href="/alert/greater-alarm-structure-fire-08242023-inc1258" hreflang="en">Greater Alarm Structure Fire 08/24/2023 INC#1258</a></title>
   <link><a href="/alert/greater-alarm-structure-fire-08242023-inc1258" hreflang="en">view</a></link>
-  <description>Greater Alarm Structure Fire; INC#1258; 05:39PM; 7106 S Avalon Bl; MAP: &lt;a href=&quot;https://bit.ly/3QUiy5J&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3QUiy5J&lt;/a&gt;; #Florence; *Address Tentative*. PRELIM: Fire through the roof of a vacant 100&#039; x 75&#039; one-story metal clad commercial building with two nearby structures threatened. ; FS 33; Batt 13; South Bureau; Council District 9; BC1  BC13  BC5  CM20  CM22  E10  E203  E221  E233  E264  E266  E3  E33  E57  E64  E65  EA1  EM13  HR3  RA33  RA833  SO1  SQ21  T21  T3  T33  T64  T66  UR3  UR88; CH9; 14  15; Brian Humphrey</description>
+  <description>Greater Alarm Structure Fire; INC#1258; 05:39PM; 7106 S Avalon Bl; MAP: &lt;a href="https://bit.ly/3QUiy5J" target="_blank" rel="noopener"&gt;https://bit.ly/3QUiy5J&lt;/a&gt;; #Florence; *Address Tentative*. PRELIM: Fire through the roof of a vacant 100' x 75' one-story metal clad commercial building with two nearby structures threatened. ; FS 33; Batt 13; South Bureau; Council District 9; BC1  BC13  BC5  CM20  CM22  E10  E203  E221  E233  E264  E266  E3  E33  E57  E64  E65  EA1  EM13  HR3  RA33  RA833  SO1  SQ21  T21  T3  T33  T64  T66  UR3  UR88; CH9; 14  15; Brian Humphrey</description>
   <category>Greater Alarm Structure Fire</category>
                             <category>South</category>
                             <category>#Florence</category>
@@ -23,7 +23,7 @@
 <item>
   <title><a href="/alert/knockdown-structure-fire-08242023-inc1227" hreflang="en"> Knockdown -  Structure Fire 08/24/2023 INC#1227</a></title>
   <link><a href="/alert/knockdown-structure-fire-08242023-inc1227" hreflang="en">view</a></link>
-  <description> Knockdown -  Structure Fire; INC#1227; 05:49PM; 9300 W Exposition Bl; MAP: &lt;a href=&quot;https://bit.ly/3ZIf4p2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3ZIf4p2&lt;/a&gt;; #Palms; *Address Remains Tentative*. 37 LAFD Firefighters took just 31 minutes to access, confine and fully extinguish flames within a well involved vacant and boarded one-story home, that had flames through the roof on firefighters arrival. The building is the site of a previous fire. No injuries. Fire cause under investigation.; FS 43; Batt 18; South Bureau; Council District 5; BC18  E263  E292  E294  E43  E59  E94  RA92  RA94  SO1  T63  T92  T94; CH9; 12  13; Brian Humphrey</description>
+  <description> Knockdown -  Structure Fire; INC#1227; 05:49PM; 9300 W Exposition Bl; MAP: &lt;a href="https://bit.ly/3ZIf4p2" target="_blank" rel="noopener"&gt;https://bit.ly/3ZIf4p2&lt;/a&gt;; #Palms; *Address Remains Tentative*. 37 LAFD Firefighters took just 31 minutes to access, confine and fully extinguish flames within a well involved vacant and boarded one-story home, that had flames through the roof on firefighters arrival. The building is the site of a previous fire. No injuries. Fire cause under investigation.; FS 43; Batt 18; South Bureau; Council District 5; BC18  E263  E292  E294  E43  E59  E94  RA92  RA94  SO1  T63  T92  T94; CH9; 12  13; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>South</category>
                             <category>#Palms</category>
@@ -34,7 +34,7 @@
 <item>
   <title><a href="/alert/structure-fire-08242023-inc1227" hreflang="en">Structure Fire 08/24/2023 INC#1227</a></title>
   <link><a href="/alert/structure-fire-08242023-inc1227" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1227; 05:18PM; 9300 W Exposition Bl; MAP: &lt;a href=&quot;https://bit.ly/3ZIf4p2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3ZIf4p2&lt;/a&gt;; #Palms; Address Tentative. #PRELIM: Defensive fire attack on fire through the roof of a vacant and boarded one-story home, the site of a previous fire.; FS 43; Batt 18; South Bureau; Council District 5; BC18  E292  E294  E43  E59  RA92  T92  T94; CH9; 12; Brian Humphrey</description>
+  <description>Structure Fire; INC#1227; 05:18PM; 9300 W Exposition Bl; MAP: &lt;a href="https://bit.ly/3ZIf4p2" target="_blank" rel="noopener"&gt;https://bit.ly/3ZIf4p2&lt;/a&gt;; #Palms; Address Tentative. #PRELIM: Defensive fire attack on fire through the roof of a vacant and boarded one-story home, the site of a previous fire.; FS 43; Batt 18; South Bureau; Council District 5; BC18  E292  E294  E43  E59  RA92  T92  T94; CH9; 12; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>South</category>
                             <category>#Palms</category>
@@ -45,7 +45,7 @@
 <item>
   <title><a href="/alert/fatality-traffic-collision-08242023-inc0253" hreflang="en">Fatality Traffic Collision 08/24/2023 INC#0253</a></title>
   <link><a href="/alert/fatality-traffic-collision-08242023-inc0253" hreflang="en">view</a></link>
-  <description>Fatality Traffic Collision; INC#0253; 06:01AM; 13200 N Balboa Bl; MAP: &lt;a href=&quot;https://bit.ly/3spubHM&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3spubHM&lt;/a&gt;; #GranadaHills; Two vehicle traffic collision with one adult male deceased and remains at scene. No other injured persons. One or more street lanes will remain closed in the area until the LAPD investigation and Medical Examiner operations are complete, unknown duration. Expect congestion and delay. Please avoid the immediate area and consider an alternate route. Media Inquiries: LAPD Valley Traffic Division (Incident #663) and Medical Examiner.; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  E87  E91  EM15  HR3  RA18  RA87  T87  UR88; CH8; 17; Brian Humphrey</description>
+  <description>Fatality Traffic Collision; INC#0253; 06:01AM; 13200 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3spubHM" target="_blank" rel="noopener"&gt;https://bit.ly/3spubHM&lt;/a&gt;; #GranadaHills; Two vehicle traffic collision with one adult male deceased and remains at scene. No other injured persons. One or more street lanes will remain closed in the area until the LAPD investigation and Medical Examiner operations are complete, unknown duration. Expect congestion and delay. Please avoid the immediate area and consider an alternate route. Media Inquiries: LAPD Valley Traffic Division (Incident #663) and Medical Examiner.; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  E87  E91  EM15  HR3  RA18  RA87  T87  UR88; CH8; 17; Brian Humphrey</description>
   <category>Fatality Traffic Collision</category>
                             <category>Valley</category>
                             <category>#GranadaHills</category>
@@ -56,7 +56,7 @@
 <item>
   <title><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">Update Brush Fire CONTAINED 08/23/2023 INC#1375</a></title>
   <link><a href="/alert/update-brush-fire-contained-08232023-inc1375" hreflang="en">view</a></link>
-  <description>Update CONTAINED Brush Fire; INC#1375; 05:14PM; 2400 N Weid Pl; MAP: &lt;a href=&quot;https://bit.ly/47N2j0o&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/47N2j0o&lt;/a&gt;; Hollywood Hills; 1/4 acre slow moving, no structures threatened.; FS 82; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  E227  E229  E235  E27  E290  E35  E41  E82  E90  EM11  H1  H3  H7  HA1  HA3  HA7  RA27  SO1  T27  T29  T35  T90; CH5; 12; David Ortiz</description>
+  <description>Update CONTAINED Brush Fire; INC#1375; 05:14PM; 2400 N Weid Pl; MAP: &lt;a href="https://bit.ly/47N2j0o" target="_blank" rel="noopener"&gt;https://bit.ly/47N2j0o&lt;/a&gt;; Hollywood Hills; 1/4 acre slow moving, no structures threatened.; FS 82; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  E227  E229  E235  E27  E290  E35  E41  E82  E90  EM11  H1  H3  H7  HA1  HA3  HA7  RA27  SO1  T27  T29  T35  T90; CH5; 12; David Ortiz</description>
   <category>Brush Fire</category>
                             <category>West</category>
                             <category>Hollywood Hills</category>
@@ -67,7 +67,7 @@
 <item>
   <title><a href="/alert/concluded-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">CONCLUDED Automatic Alarm - Medical Evacuation 08/22/2023 INC#1955</a></title>
   <link><a href="/alert/concluded-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></link>
-  <description>CONCLUDED Automatic Alarm - Medical Evacuation; INC#1955; 11:00AM; 1720 E Chavez Av; MAP: &lt;a href=&quot;https://bit.ly/3E70ttO&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; LAFD has assisted in moving the last non-critical patient (of the 213) and the incident will begin to demobilize. Any further questions are directed to White Memorial. ; Central Bureau; Margaret Stewart</description>
+  <description>CONCLUDED Automatic Alarm - Medical Evacuation; INC#1955; 11:00AM; 1720 E Chavez Av; MAP: &lt;a href="https://bit.ly/3E70ttO" target="_blank" rel="noopener"&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; LAFD has assisted in moving the last non-critical patient (of the 213) and the incident will begin to demobilize. Any further questions are directed to White Memorial. ; Central Bureau; Margaret Stewart</description>
   <category>Automatic Alarm - Medical Evacuation</category>
                             <category>Central</category>
                             <category>Boyle Heights</category>
@@ -78,7 +78,7 @@
 <item>
   <title><a href="/alert/knockdown-structure-fire-08222023-inc0145" hreflang="en">KNOCKDOWN Structure Fire 08/22/2023 INC#0145</a></title>
   <link><a href="/alert/knockdown-structure-fire-08222023-inc0145" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0145; 05:53AM; 9800 N San Fernando Rd; MAP: &lt;a href=&quot;https://bit.ly/45igQQd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/45igQQd&lt;/a&gt;; Pacoima; KNOCKDOWN: Over 100 firefighters extinguished the fire in two hours and 20 minutes with no injuries reported.  A portion of the LAFD resources will remain on scene through the morning for the extensive overhaul operation utilizing heavy equipment. No further details.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC15  CM40  CM42  E227  E239  E24  E273  E275  E287  E289  E290  E298  E7  E75  E77  E81  E87  E89  E98  EM14  EM15  HE1  HR3  RA77  RA889  RA898  RA98  RS3  SO1  SQ87  T27  T39  T73  T75  T87  T89  T90  T98  UR88  UR89; CH8; 17  18; Margaret Stewart</description>
+  <description>KNOCKDOWN Structure Fire; INC#0145; 05:53AM; 9800 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/45igQQd" target="_blank" rel="noopener"&gt;https://bit.ly/45igQQd&lt;/a&gt;; Pacoima; KNOCKDOWN: Over 100 firefighters extinguished the fire in two hours and 20 minutes with no injuries reported.  A portion of the LAFD resources will remain on scene through the morning for the extensive overhaul operation utilizing heavy equipment. No further details.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC15  CM40  CM42  E227  E239  E24  E273  E275  E287  E289  E290  E298  E7  E75  E77  E81  E87  E89  E98  EM14  EM15  HE1  HR3  RA77  RA889  RA898  RA98  RS3  SO1  SQ87  T27  T39  T73  T75  T87  T89  T90  T98  UR88  UR89; CH8; 17  18; Margaret Stewart</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>Pacoima</category>
@@ -89,7 +89,7 @@
 <item>
   <title><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-3" hreflang="en">Update Automatic Alarm - Medical Evacuation 08/22/2023 INC#1955</a></title>
   <link><a href="/alert/update-automatic-alarm-medical-evacuation-08222023-inc1955-3" hreflang="en">view</a></link>
-  <description>Update Automatic Alarm - Medical Evacuation; INC#1955; 05:27AM; 1720 E Chavez Av; MAP: &lt;a href=&quot;https://bit.ly/3E70ttO&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; A press conference will be held at 7:00AM at 1820 Cesar Chavez Ave. Representatives from White Memorial and LAFD will be speaking. 17 critical patients have been transported with more patients being prepared for transport.  The movement of the non-critical patients to other facilities within White Memorial is continuing. Those with family members at the Specialty Care Center (the only building affected) can contact the main White Memorial number for information 323-268-5000.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC10  BC11  BC2  CM20  CM21  CM22  E1  E10  E11  E12  E14  E15  E16  E17  E2  E201  E202  E203  E209  E210  E220  E235  E25  E260  E3  E4  E44  E47  E9  EA1  EM1  EM11  EM13  HR3  PI3  PI4  RA1  RA11  RA12  RA15  RA2  RA20  RA209  RA21  RA246  RA25  RA266  RA3  RA35  RA4  RA46  RA47  RA57  RA76  RA79  RA801  RA803  RA809  RA810  RA82  RA86  RA9  RA900  SO1  T1  T10  T2  T20  T3  T35  T60  T9; CH7; 12; Margaret Stewart</description>
+  <description>Update Automatic Alarm - Medical Evacuation; INC#1955; 05:27AM; 1720 E Chavez Av; MAP: &lt;a href="https://bit.ly/3E70ttO" target="_blank" rel="noopener"&gt;https://bit.ly/3E70ttO&lt;/a&gt;; Boyle Heights; A press conference will be held at 7:00AM at 1820 Cesar Chavez Ave. Representatives from White Memorial and LAFD will be speaking. 17 critical patients have been transported with more patients being prepared for transport.  The movement of the non-critical patients to other facilities within White Memorial is continuing. Those with family members at the Specialty Care Center (the only building affected) can contact the main White Memorial number for information 323-268-5000.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC10  BC11  BC2  CM20  CM21  CM22  E1  E10  E11  E12  E14  E15  E16  E17  E2  E201  E202  E203  E209  E210  E220  E235  E25  E260  E3  E4  E44  E47  E9  EA1  EM1  EM11  EM13  HR3  PI3  PI4  RA1  RA11  RA12  RA15  RA2  RA20  RA209  RA21  RA246  RA25  RA266  RA3  RA35  RA4  RA46  RA47  RA57  RA76  RA79  RA801  RA803  RA809  RA810  RA82  RA86  RA9  RA900  SO1  T1  T10  T2  T20  T3  T35  T60  T9; CH7; 12; Margaret Stewart</description>
   <category>Automatic Alarm - Medical Evacuation</category>
                             <category>Central</category>
                             <category>Boyle Heights</category>
@@ -100,7 +100,7 @@
 <item>
   <title><a href="/alert/update-structure-fire-08222023-inc0145-0" hreflang="en">Update Structure Fire 08/22/2023 INC#0145</a></title>
   <link><a href="/alert/update-structure-fire-08222023-inc0145-0" hreflang="en">view</a></link>
-  <description>Update Structure Fire; INC#0145; 03:33AM; 9800 N San Fernando Rd; MAP: &lt;a href=&quot;https://bit.ly/45igQQd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/45igQQd&lt;/a&gt;; Pacoima; Firefighters have extinguished the bulk of the auto fires and are shutting down the ladder pipe operations to transition into an offensive attack with handlines because the remaining fire is deep seated in stacks of tires. No injuries reported. No additional resources anticipated. ; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC15  CM40  CM42  E227  E239  E24  E273  E275  E287  E289  E290  E298  E7  E75  E77  E81  E87  E89  E98  EM14  EM15  HE1  HR3  RA77  RA889  RA898  RA98  RS3  SO1  SQ87  T27  T39  T73  T75  T87  T89  T90  T98  UR88  UR89; CH9; 17  18; Margaret Stewart</description>
+  <description>Update Structure Fire; INC#0145; 03:33AM; 9800 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/45igQQd" target="_blank" rel="noopener"&gt;https://bit.ly/45igQQd&lt;/a&gt;; Pacoima; Firefighters have extinguished the bulk of the auto fires and are shutting down the ladder pipe operations to transition into an offensive attack with handlines because the remaining fire is deep seated in stacks of tires. No injuries reported. No additional resources anticipated. ; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC15  CM40  CM42  E227  E239  E24  E273  E275  E287  E289  E290  E298  E7  E75  E77  E81  E87  E89  E98  EM14  EM15  HE1  HR3  RA77  RA889  RA898  RA98  RS3  SO1  SQ87  T27  T39  T73  T75  T87  T89  T90  T98  UR88  UR89; CH9; 17  18; Margaret Stewart</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>Pacoima</category>
@@ -111,7 +111,7 @@
 <item>
   <title><a href="/alert/update-structure-fire-08222023-inc0145" hreflang="en">Update Structure Fire 08/22/2023 INC#0145</a></title>
   <link><a href="/alert/update-structure-fire-08222023-inc0145" hreflang="en">view</a></link>
-  <description>Update Structure Fire; INC#0145; 04:07AM; 12400 W Branford St; MAP: &lt;a href=&quot;https://bit.ly/3ONOuq5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3ONOuq5&lt;/a&gt;; Pacoima; This incident is now at the Greater Alarm status. The fire location is updated to an auto yard (fenced) with multiple autos fully involved (stacked). There have been challenges with water supply at hydrants and firefighters are working to establish alternate supplies. This is a defensive operation with ladder pipe and large diameter hand lines in place. There are no injuries reported. ; FS 98; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC15  CM40  CM42  E227  E275  E287  E289  E290  E298  E7  E75  E77  E81  E89  E98  EM14  EM15  HR3  RA77  RA889  RA898  RA98  SO1  SQ87  T27  T75  T87  T89  T90  T98  UR88  UR89; CH9; 17  18; Margaret Stewart</description>
+  <description>Update Structure Fire; INC#0145; 04:07AM; 12400 W Branford St; MAP: &lt;a href="https://bit.ly/3ONOuq5" target="_blank" rel="noopener"&gt;https://bit.ly/3ONOuq5&lt;/a&gt;; Pacoima; This incident is now at the Greater Alarm status. The fire location is updated to an auto yard (fenced) with multiple autos fully involved (stacked). There have been challenges with water supply at hydrants and firefighters are working to establish alternate supplies. This is a defensive operation with ladder pipe and large diameter hand lines in place. There are no injuries reported. ; FS 98; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC15  CM40  CM42  E227  E275  E287  E289  E290  E298  E7  E75  E77  E81  E89  E98  EM14  EM15  HR3  RA77  RA889  RA898  RA98  SO1  SQ87  T27  T75  T87  T89  T90  T98  UR88  UR89; CH9; 17  18; Margaret Stewart</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>Pacoima</category>
