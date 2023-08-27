@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 26 Aug 2023 11:04:01 -0700</lastBuildDate>
-<pubDate>Fri, 25 Aug 2023 22:25:00 -0700</pubDate>
+<lastBuildDate>Sat, 26 Aug 2023 19:30:27 -0700</lastBuildDate>
+<pubDate>Sat, 26 Aug 2023 18:15:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/agency-assist-08262023-inc1284" hreflang="en">Agency Assist 08/26/2023 INC#1284</a></title>
+  <link><a href="/alert/agency-assist-08262023-inc1284" hreflang="en">view</a></link>
+  <description>Agency Assist; INC#1284; 05:44PM; 5440 W San Fernando Rd; MAP: &lt;a href="https://bit.ly/3sxR3oM" target="_blank" rel="noopener"&gt;https://bit.ly/3sxR3oM&lt;/a&gt;; #AtwaterVillage; PRELIM: Metrolink Antelope Valley Line (outbound) passenger Train #269 reportedly struck one vehicle upon or near the tracks in the vicinity of San Fernando Road and Doran Street - at the City of Los Angeles / Glendale border, with the train continuing a short distance 'northbound' before coming to an emergency stop, upright and on the tracks. The driver and sole occupant of the vehicle that was struck, was found walking nearby and initially appeared uninjured. The train crew (One Engineer and One Conductor), and approximately 95 passengers among the four passenger rail cars, have denied injury. As the incident location was determined to be within Glendale city limits, the Glendale Fire Department is in Command, and LAFD is an assisting agency. Media Inquiries: Glendale FD and Metrolink.; FS 50; Batt 2; Central Bureau; Council District 13;  BC5  E250  E35  E42  E56  EM1  RA1  RA3  RA56  RA6  RA806  RA82  RA835  T50 + Glendale FD; CH7; 13; Brian Humphrey</description>
+  <category>Agency Assist</category>
+                            <category>Central</category>
+                            <category>#AtwaterVillage</category>
+                            <guid isPermaLink="false"><a href="/alert/agency-assist-08262023-inc1284" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, August 26, 2023 - 18:15</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-08252023-inc1695" hreflang="en">Knockdown -  Greater Alarm Structure Fire 08/25/2023 INC#1695</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-08252023-inc1695" hreflang="en">view</a></link>
   <description>Knockdown -  Greater Alarm Structure Fire; INC#1695; 10:16PM; 8022 N Vineland Av; MAP: &lt;a href="https://bit.ly/45JtxTR" target="_blank" rel="noopener"&gt;https://bit.ly/45JtxTR&lt;/a&gt;; #SunValley; The first arriving 36 LAFD Firefighters took just 23 minutes in largely defensive operations to access, confine and fully extinguish heavy fire within a vacant 7.000 square-foot combination one- and two-story former restaurant that had fire through the roof on their arrival. No injury. Fire cause under investigation.  ; FS 77; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC5  CM40  CM42  E227  E239  E24  E27  E274  E289  E298  E60  E77  E88  E89  E98  EA1  EM14  EM15  HR3  RA81  RA860  RA889  RA89  RA98  SO1  T27  T39  T74  T89  T98  UR27  UR88; CH9; 17  18; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/concluded-automatic-alarm-medical-evacuation-08222023-inc1955" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 22, 2023 - 11:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-08222023-inc0145" hreflang="en">KNOCKDOWN Structure Fire 08/22/2023 INC#0145</a></title>
-  <link><a href="/alert/knockdown-structure-fire-08222023-inc0145" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0145; 05:53AM; 9800 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/45igQQd" target="_blank" rel="noopener"&gt;https://bit.ly/45igQQd&lt;/a&gt;; Pacoima; KNOCKDOWN: Over 100 firefighters extinguished the fire in two hours and 20 minutes with no injuries reported.  A portion of the LAFD resources will remain on scene through the morning for the extensive overhaul operation utilizing heavy equipment. No further details.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC15  CM40  CM42  E227  E239  E24  E273  E275  E287  E289  E290  E298  E7  E75  E77  E81  E87  E89  E98  EM14  EM15  HE1  HR3  RA77  RA889  RA898  RA98  RS3  SO1  SQ87  T27  T39  T73  T75  T87  T89  T90  T98  UR88  UR89; CH8; 17  18; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>Pacoima</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08222023-inc0145" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 22, 2023 - 05:54</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
