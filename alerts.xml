@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Wed, 30 Aug 2023 10:03:42 -0700</lastBuildDate>
-<pubDate>Wed, 30 Aug 2023 09:31:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 30 Aug 2023 18:51:02 -0700</lastBuildDate>
+<pubDate>Wed, 30 Aug 2023 15:59:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">KNOCKDOWN Structure Fire 08/30/2023 INC#1121</a></title>
+  <link><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1121; 03:02PM; 2332 N Lincoln Park Av; MAP: &lt;a href="https://bit.ly/3PiDeTL" target="_blank" rel="noopener"&gt;https://bit.ly/3PiDeTL&lt;/a&gt;; #LincolnHeights; It took 36 firefighters 23 minutes to extinguish the attic fire in a residential home. Thankfully, there were no reported injuries. Cause under investigation.; FS 1; Batt 2; Central Bureau; Council District 14; BC2  E1  E16  E201  E203  E212  E47  EA1  RA4  RA47  SO1  SQ21  T1  T12  T3; CH7; 12  14; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#LincolnHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, August 30, 2023 - 15:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">Structure Fire 08/30/2023 INC#1121</a></title>
+  <link><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1121; 02:39PM; 2332 N Lincoln Park Av; MAP: &lt;a href="https://bit.ly/3PiDeTL" target="_blank" rel="noopener"&gt;https://bit.ly/3PiDeTL&lt;/a&gt;; #LincolnHeights; Single-family home with smoke showing. Offensive mode.; FS 1; Batt 2; Central Bureau; Council District 14; BC2  E1  E16  E201  E203  E212  E47  RA4  RA47  SQ21  T1  T12  T3; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#LincolnHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, August 30, 2023 - 14:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-1" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
   <link><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-1" hreflang="en">view</a></link>
   <description>Update Major Emergency Structure Fire; INC#0282; 09:30AM; 1131 S Los Angeles St; MAP: &lt;a href="https://bit.ly/44wQWXL" target="_blank" rel="noopener"&gt;https://bit.ly/44wQWXL&lt;/a&gt;; #DowntownLA; The building shares walls on either side with other businesses in a row of commercials. Firefighters have successfully protected the occupancies on either side, containing the blaze to the unit-of-origin. The heavy load of textiles (clothes/fabrics) still contain deep seated hot spots, which will flare up as the debris is pulled apart within the building, which sustained a roof collapse and walls buckling. This will be an extended operation that will rely heavily on LAFD Heavy Equipment Operators to strategically disassemble the rubble, while hose lines are standing by.; FS 10; Batt 1; Central Bureau; Council District 14; AR1  AR10  AR11  AR21  AR39  AR7  BC1  BC11  BC5  CM20  CM21  CM22  E10  E11  E14  E17  E20  E202  E203  E209  E21  E210  E211  E215  E226  E227  E229  E261  E266  E285  E3  E37  E5  E85  E9  E95  EA1  EM1  HE1  HR3  PI4  RA10  RA27  RA810  RA827  RA85  RA9  RS3  SO1  SQ21  T10  T11  T15  T2  T26  T27  T29  T3  T61  T66  T85  T9  UR27  UR85  UR88; CH7; 13  14; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-1" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 09:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-rollover-08302023-inc0404" hreflang="en">Auto Rollover 08/30/2023 INC#0404</a></title>
@@ -29,7 +51,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/auto-rollover-08302023-inc0404" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 09:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-0" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
@@ -40,7 +62,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-0" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 07:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
@@ -51,7 +73,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 06:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08302023-inc0282" hreflang="en">Structure Fire 08/30/2023 INC#0282</a></title>
@@ -62,7 +84,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08302023-inc0282" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 06:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-08292023-inc1481" hreflang="en">KNOCKDOWN Brush Fire 08/29/2023 INC#1481</a></title>
@@ -73,7 +95,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-08292023-inc1481" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 29, 2023 - 18:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">Brush Fire 08/29/2023 INC#1481</a></title>
@@ -84,7 +106,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 29, 2023 - 18:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-08292023-inc1145" hreflang="en">KNOCKDOWN Brush Fire 08/29/2023 INC#1145</a></title>
@@ -95,29 +117,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-08292023-inc1145" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 29, 2023 - 16:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/brush-fire-08292023-inc1145" hreflang="en">Brush Fire 08/29/2023 INC#1145</a></title>
-  <link><a href="/alert/brush-fire-08292023-inc1145" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1145; 02:53PM; 3050 N Lake Hollywood Dr; MAP: &lt;a href="https://bit.ly/3PrPpy1" target="_blank" rel="noopener"&gt;https://bit.ly/3PrPpy1&lt;/a&gt;; #HollywoodHills; Two-vehicle traffic collision, with no auto fire. Approximately one-quarter acre of brush burning uphill, with a slow rate of spread.; FS 76; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  CW3A  DZ45  E227  E260  E41  E76  E82  E86  E90  E97  EM5  H3  H4  H7  HA3  HA4  HA7  HE1  T27  T60; CH5; 13; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-08292023-inc1145" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 29, 2023 - 15:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-08292023-inc0927" hreflang="en">KNOCKDOWN Structure Fire 08/29/2023 INC#0927</a></title>
-  <link><a href="/alert/knockdown-structure-fire-08292023-inc0927" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0927; 01:31PM; 19041 W Saticoy St; MAP: &lt;a href="https://bit.ly/484tzb4" target="_blank" rel="noopener"&gt;https://bit.ly/484tzb4&lt;/a&gt;; #Reseda; *Corrected Address* Firefighters arrived to find several vehicles and several palm trees on fire. The flames damage a nearby shed and detached garage. Firefighters quickly deployed hose lines and defended nearby homes, keeping them from being damaged. Ultimately, it took 30 firefighters 25 minutes to eliminate the flames. There were no reported injuries. The cause of the fire is under investigation.; FS 73; Batt 17; Valley Bureau; Council District 3; BC17  CE83  CW3A  E104  E273  E293  E296  E72  E73  E93  RA104  RA72  RA872  T73  T93  T96; CH8; 18; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Reseda</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08292023-inc0927" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 29, 2023 - 14:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2b6f866d-4757-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
