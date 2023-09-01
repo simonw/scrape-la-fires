@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 31 Aug 2023 11:03:42 -0700</lastBuildDate>
-<pubDate>Wed, 30 Aug 2023 15:59:00 -0700</pubDate>
+<lastBuildDate>Thu, 31 Aug 2023 12:25:29 -0700</lastBuildDate>
+<pubDate>Thu, 31 Aug 2023 12:12:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">Traffic Collision 08/31/2023 INC#0736</a></title>
+  <link><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">view</a></link>
+  <description>Traffic Collision; INC#0736; 11:05AM; 128 E Pico Bl; MAP: &lt;a href="https://bit.ly/47WWgGH" target="_blank" rel="noopener"&gt;https://bit.ly/47WWgGH&lt;/a&gt;; #DowntownLA; Two-vehicle collision involving a hydrant and the front of a business at the intersection of East Pico Boulevard and South Los Angeles Street. Thankfully, there was nobody trapped, and no one transported to the hospital. Crews notified DWP to assist with fully shutting off the water flow from the damaged hydrant, and notified LA Department of Building and Safety to assess the building damage. Urban Search and Rescue teams remain on scene to assist with bringing the vehicle back onto the street. LAPD Inc # 1888. Nothing further.; FS 10; Batt 1; Central Bureau; Council District 14; BC1  BC5  E10  E203  E210  E227  E27  E3  E450  E9  EM1  HR3  RA10  RA9  T10  T27  T3  UR27  UR3  UR88; CH7; 12  13; Nicholas Prange</description>
+  <category>Traffic Collision</category>
+                            <category>Central</category>
+                            <category>#DowntownLA</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, August 31, 2023 - 12:12</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">KNOCKDOWN Structure Fire 08/30/2023 INC#1121</a></title>
   <link><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1121; 03:02PM; 2332 N Lincoln Park Av; MAP: &lt;a href="https://bit.ly/3PiDeTL" target="_blank" rel="noopener"&gt;https://bit.ly/3PiDeTL&lt;/a&gt;; #LincolnHeights; It took 36 firefighters 23 minutes to extinguish the attic fire in a residential home. Thankfully, there were no reported injuries. Cause under investigation.; FS 1; Batt 2; Central Bureau; Council District 14; BC2  E1  E16  E201  E203  E212  E47  EA1  RA4  RA47  SO1  SQ21  T1  T12  T3; CH7; 12  14; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 29, 2023 - 18:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-brush-fire-08292023-inc1145" hreflang="en">KNOCKDOWN Brush Fire 08/29/2023 INC#1145</a></title>
-  <link><a href="/alert/knockdown-brush-fire-08292023-inc1145" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Brush Fire; INC#1145; 03:46PM; 3050 N Lake Hollywood Dr; MAP: &lt;a href="https://bit.ly/3PrPpy1" target="_blank" rel="noopener"&gt;https://bit.ly/3PrPpy1&lt;/a&gt;; #HollywoodHills; Firefighters responded to a two-vehicle traffic collision, which appears to have caused the initial brush fire. Firefighters extinguished the quarter-acre fire in medium brush, before locating another spot fire (50' x 50') approximately 100 yards away from the original fire. Crews transitioned to the second burn and surrounded that one, achieving extinguishment of both in a total of 53 minutes. One adult female was assessed for minor injuries due to the traffic collision, but did not need hospital transport.; FS 76; Batt 5; West Bureau; Council District 4; AO1  AO2  BC14  BC5  CW3A  DZ45  E227  E260  E41  E76  E82  E86  E90  E97  EM5  H3  H4  H7  HA3  HA4  HA7  HE1  RA827  T27  T60; CH5; 13; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-08292023-inc1145" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 29, 2023 - 16:09</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
