@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 31 Aug 2023 12:25:29 -0700</lastBuildDate>
-<pubDate>Thu, 31 Aug 2023 12:12:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5"/>
+<lastBuildDate>Fri, 01 Sep 2023 22:08:42 -0700</lastBuildDate>
+<pubDate>Fri, 01 Sep 2023 22:08:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/pedestrian-struck-train-09012023-inc1761" hreflang="en">Pedestrian Struck By Train 09/01/2023 INC#1761</a></title>
+  <link><a href="/alert/pedestrian-struck-train-09012023-inc1761" hreflang="en">view</a></link>
+  <description>Pedestrian Struck By Train; INC#1761; 09:38PM; 12099 Sherman Rd; MAP: &lt;a href="https://bit.ly/3L5nHEu" target="_blank" rel="noopener"&gt;https://bit.ly/3L5nHEu&lt;/a&gt;; #NorthHollywood; PRELIM: An approximately 50 year-old female pedestrian is deceased at scene after being struck by 'southbound' Amtrak Pacific Surfliner train #794, just east of Laurel Canyon Boulevard. The San Diego bound passenger train came to an emergency stop and remains just east of the location. The train crew and approximately 116 passengers have denied injury, and will remain on board the train, pending the train's release by LAPD investigators. Media Inquiries: LAPD Valley Traffic Division #4497, Medical Examiner and Amtrak.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E260  E289  E60  E89  EM14  HR3  RA76  RA78  T60  T89  UR88; CH8; 17; Brian Humphrey</description>
+  <category>Pedestrian Struck By Train</category>
+                            <category>Valley</category>
+                            <category>#NorthHollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/pedestrian-struck-train-09012023-inc1761" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 1, 2023 - 22:08</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">Traffic Collision 08/31/2023 INC#0736</a></title>
   <link><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">view</a></link>
   <description>Traffic Collision; INC#0736; 11:05AM; 128 E Pico Bl; MAP: &lt;a href="https://bit.ly/47WWgGH" target="_blank" rel="noopener"&gt;https://bit.ly/47WWgGH&lt;/a&gt;; #DowntownLA; Two-vehicle collision involving a hydrant and the front of a business at the intersection of East Pico Boulevard and South Los Angeles Street. Thankfully, there was nobody trapped, and no one transported to the hospital. Crews notified DWP to assist with fully shutting off the water flow from the damaged hydrant, and notified LA Department of Building and Safety to assess the building damage. Urban Search and Rescue teams remain on scene to assist with bringing the vehicle back onto the street. LAPD Inc # 1888. Nothing further.; FS 10; Batt 1; Central Bureau; Council District 14; BC1  BC5  E10  E203  E210  E227  E27  E3  E450  E9  EM1  HR3  RA10  RA9  T10  T27  T3  UR27  UR3  UR88; CH7; 12  13; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-08312023-inc0736" hreflang="en">view</a></guid>
                             <pubDate>Thursday, August 31, 2023 - 12:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">KNOCKDOWN Structure Fire 08/30/2023 INC#1121</a></title>
@@ -29,7 +40,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 15:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">Structure Fire 08/30/2023 INC#1121</a></title>
@@ -40,7 +51,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 14:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-1" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
@@ -51,7 +62,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-1" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 09:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-rollover-08302023-inc0404" hreflang="en">Auto Rollover 08/30/2023 INC#0404</a></title>
@@ -62,7 +73,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/auto-rollover-08302023-inc0404" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 09:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-0" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
@@ -73,7 +84,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282-0" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 07:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282" hreflang="en">Update Major Emergency Structure Fire 08/30/2023 INC#0282</a></title>
@@ -84,7 +95,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-08302023-inc0282" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 06:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-08302023-inc0282" hreflang="en">Structure Fire 08/30/2023 INC#0282</a></title>
@@ -95,7 +106,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-08302023-inc0282" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 06:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-08292023-inc1481" hreflang="en">KNOCKDOWN Brush Fire 08/29/2023 INC#1481</a></title>
@@ -106,18 +117,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-08292023-inc1481" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, August 29, 2023 - 18:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">Brush Fire 08/29/2023 INC#1481</a></title>
-  <link><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1481; 05:57PM; EB 210 Fwy x Maclay St; MAP: &lt;a href="https://bit.ly/3q8R7rK" target="_blank" rel="noopener"&gt;https://bit.ly/3q8R7rK&lt;/a&gt;; #Sylmar; Half-acre brush fire near the freeway. No structures threatened.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC15  CM40  CM42  E18  E275  E287  E298  E7  E8  E87  E90  E91  EM15  H4  H7  HA4  HA7  RA81  T75  T87  T98; CH5; 17; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>#Sylmar</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-08292023-inc1481" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, August 29, 2023 - 18:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c84a33a4-494e-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
