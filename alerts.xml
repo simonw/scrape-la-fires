@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 02 Sep 2023 23:09:32 -0700</lastBuildDate>
-<pubDate>Sat, 02 Sep 2023 23:09:00 -0700</pubDate>
+<lastBuildDate>Sat, 02 Sep 2023 23:16:36 -0700</lastBuildDate>
+<pubDate>Sat, 02 Sep 2023 23:16:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">Knockdown -  Structure Fire 09/02/2023 INC#1612</a></title>
+  <link><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">view</a></link>
+  <description>Knockdown -  Structure Fire; INC#1612; 11:14PM; 13742 N Gladstone Av; MAP: &lt;a href="https://bit.ly/45S3WrY" target="_blank" rel="noopener"&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; 48 LAFD Firefighters took just 27 minutes to access, confine and extinguish heavy fire in a vacant one-story home, that extended into the attic. No injury. Fire cause under investigation.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Sylmar</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, September 2, 2023 - 23:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">Structure Fire 09/02/2023 INC#1612</a></title>
   <link><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">view</a></link>
   <description>Structure Fire; INC#1612; 10:47PM; 13742 N Gladstone Av; MAP: &lt;a href="https://bit.ly/45S3WrY" target="_blank" rel="noopener"&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; PRELIM: Vacant one-story home and attic well involved.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, August 30, 2023 - 15:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">Structure Fire 08/30/2023 INC#1121</a></title>
-  <link><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1121; 02:39PM; 2332 N Lincoln Park Av; MAP: &lt;a href="https://bit.ly/3PiDeTL" target="_blank" rel="noopener"&gt;https://bit.ly/3PiDeTL&lt;/a&gt;; #LincolnHeights; Single-family home with smoke showing. Offensive mode.; FS 1; Batt 2; Central Bureau; Council District 14; BC2  E1  E16  E201  E203  E212  E47  RA4  RA47  SQ21  T1  T12  T3; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#LincolnHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-08302023-inc1121" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, August 30, 2023 - 14:49</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
