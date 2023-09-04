@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Sun, 03 Sep 2023 19:12:42 -0700</lastBuildDate>
-<pubDate>Sun, 03 Sep 2023 19:12:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 04 Sep 2023 02:09:36 -0700</lastBuildDate>
+<pubDate>Mon, 04 Sep 2023 02:09:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">Knockdown -  Structure Fire 09/04/2023 INC#0097</a></title>
+  <link><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></link>
+  <description>Knockdown -  Structure Fire; INC#0097; 02:04AM; 2241 N Betty Ln; MAP: &lt;a href="https://bit.ly/3Z6ypQP" target="_blank" rel="noopener"&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; Thirty LAFD Firefighters took just 26 minutes to access, confine and fully extinguish heavy fire involving multiple vehicles within a detached two-story garage adjacent to a 2 story 2,400 square-foot hillside home. No injury. Fire cause under investigation.; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
+                            <pubDate>Monday, September 4, 2023 - 02:09</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">Structure Fire 09/04/2023 INC#0097</a></title>
+  <link><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0097; 01:38AM; 2241 N Betty Ln; MAP: &lt;a href="https://bit.ly/3Z6ypQP" target="_blank" rel="noopener"&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; PRELIM: Multiple vehicles ablaze within a two-story detached garage adjacent to a 2 story home. ; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
+                            <pubDate>Monday, September 4, 2023 - 02:01</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
   <link><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></link>
   <description>Update Greater Alarm Structure Fire; INC#1127; 07:12PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; During a post-fire assessment of LAFD responders, one of the first-to-arrive LAFD Firefighters involved in the entirety of the firefight was seen to exhibit clinical signs of dehydration. Pursuant to LAFD protocol, he has been taken to an area hospital in fair condition for a detailed clinical assessment. No additional injuries have been reported. The fire's cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; AR1  BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
@@ -29,7 +51,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire Knockdown -  09/03/2023 INC#1127</a></title>
@@ -40,7 +62,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
@@ -51,7 +73,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 17:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">Knockdown -  Structure Fire 09/02/2023 INC#1612</a></title>
@@ -62,7 +84,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 23:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">Structure Fire 09/02/2023 INC#1612</a></title>
@@ -73,7 +95,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 23:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09022023-inc1378" hreflang="en">Knockdown -  Structure Fire 09/02/2023 INC#1378</a></title>
@@ -84,7 +106,7 @@
                             <category>#HarvardHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09022023-inc1378" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 20:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09022023-inc1378" hreflang="en">Structure Fire 09/02/2023 INC#1378</a></title>
@@ -95,29 +117,7 @@
                             <category>#HarvardHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09022023-inc1378" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 20:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-entrapment-09022023-inc1222" hreflang="en">Traffic Collision with Entrapment 09/02/2023 INC#1222</a></title>
-  <link><a href="/alert/traffic-collision-entrapment-09022023-inc1222" hreflang="en">view</a></link>
-  <description>Traffic Collision with Entrapment; INC#1222; 05:58PM; 1500 S Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3qYYR2i" target="_blank" rel="noopener"&gt;https://bit.ly/3qYYR2i&lt;/a&gt;; #Sawtelle; PRELIM: Two vehicle collision with a total of 5 patients (unknown age / gender / affiliation / circumstances). Two of the patients were badly trapped in the wreckage - one in each passenger vehicle, before being freed by LAFD responders. They were both taken by LAFD Paramedics to a regional trauma center in grave condition. A third patient from one of the vehicles, who was not trapped, was taken to an area hospital in serious condition. Two Good Samaritans (not involved in the collision), who attempted to free the trapped patients prior to LAFD arrival, declined treatment for minor injuries. Road closure: All lanes of northbound and southbound Sepulveda Boulevard will remain closed in the vicinity of Ohio Avenue until LAPD operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio. Media Inquiries: LAPD West Traffic Division (Incident #3380). ; FS 37; Batt 9; West Bureau; Council District 5; BC9  E19  E237  E292  E37  EM9  HR3  RA37  RA71  RA837  RA92  T37  T92; CH7; 12; Brian Humphrey</description>
-  <category>Traffic Collision with Entrapment</category>
-                            <category>West</category>
-                            <category>#Sawtelle</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-09022023-inc1222" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 2, 2023 - 18:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-agency-assist-09022023-inc0597" hreflang="en">Update Agency Assist 09/02/2023 INC#0597</a></title>
-  <link><a href="/alert/update-agency-assist-09022023-inc0597" hreflang="en">view</a></link>
-  <description>Update Agency Assist; INC#0597; 01:30PM; 13551 W Culver Bl; MAP: &lt;a href="https://bit.ly/45CVJbq" target="_blank" rel="noopener"&gt;https://bit.ly/45CVJbq&lt;/a&gt;; #PlayaDelRey; LAFD crews have accessed and systematically searched the shed-like structure in a concealed space below the Culver Boulevard bridge (approximately 20' above slow moving 10-15' deep tidal water in the  Ballona Creek flood control channel) to discover the remains of an approximately 40 year-old male (undetermined body condition / site affiliation / circumstances), who has been determined deceased at the scene. No other persons injured. Upon the joint approval of LAPD Detectives now leading the investigation and the Medical Examiner's Investigator, LAFD personnel will assist in the safe and dignified removal of the body from the still difficult to access shed-like structure, at a yet to be determined time. A positive identification of the decedent, as well as the specific cause, time and manner of their death will be determined by the Medical Examiner's Office. Street Closure: Culver Boulevard (eastbound and westbound) will remain closed to all traffic between Jefferson Boulevard and Lincoln Boulevard until LAPD/Medical Examiner on-site operations are complete. Motorists should avoid the immediate area and consider an alternate route. Detours are available. No time estimate to street reopening. Media Inquiries: LAPD Pacific Division (Incident #1704) and Medical Examiner.; FS 67; Batt 4; West Bureau; Council District 11; BC4  E205  E288  E5  E67  SO1  SW88  T5  T88  UR5  UR88 + LACoFD Lifeguards; CH7; 12; Brian Humphrey</description>
-  <category>Agency Assist</category>
-                            <category>West</category>
-                            <category>#PlayaDelRey</category>
-                            <guid isPermaLink="false"><a href="/alert/update-agency-assist-09022023-inc0597" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 2, 2023 - 13:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=86e4d988-4ac8-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
