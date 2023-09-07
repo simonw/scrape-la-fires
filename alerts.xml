@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xml:base="https://www.lafd.org/">
+<rss version="2.0" xml:base="https://www.lafd.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alerts Feed</title>
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Wed, 06 Sep 2023 19:17:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Thu, 07 Sep 2023 10:28:02 -0700</lastBuildDate>
 <pubDate>Wed, 06 Sep 2023 19:17:00 -0700</pubDate>
 
     <item>
   <title><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">KNOCKDOWN Structure Fire 09/06/2023 INC#1359</a></title>
   <link><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1359; 07:11PM; 1933 N Lemoyne St; MAP: &lt;a href="https://bit.ly/3PuWSfm" target="_blank" rel="noopener"&gt;https://bit.ly/3PuWSfm&lt;/a&gt;; #EchoPark; Firefighters found a three-story descending hillside home with heavy fire on the first floor (middle floor is at grade level). Flames climbed to the second floor, as firefighters made entry with water-charged hose lines. Ultimately, it took 34 firefighters 23 minutes to extinguish the flames. No reported injuries. The cause of the fire is under investigation.; FS 20; Batt 11; Central Bureau; Council District 13; BC11  E20  E220  E235  E3  E56  RA56  RA850  SQ21  T20  T35; CH7; 12; Nicholas Prange</description>
+  <description>KNOCKDOWN Structure Fire; INC#1359; 07:11PM; 1933 N Lemoyne St; MAP: &lt;a href=&quot;https://bit.ly/3PuWSfm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3PuWSfm&lt;/a&gt;; #EchoPark; Firefighters found a three-story descending hillside home with heavy fire on the first floor (middle floor is at grade level). Flames climbed to the second floor, as firefighters made entry with water-charged hose lines. Ultimately, it took 34 firefighters 23 minutes to extinguish the flames. No reported injuries. The cause of the fire is under investigation.; FS 20; Batt 11; Central Bureau; Council District 13; BC11  E20  E220  E235  E3  E56  RA56  RA850  SQ21  T20  T35; CH7; 12; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 19:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">Structure Fire 09/06/2023 INC#1359</a></title>
   <link><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1359; 06:48PM; 1933-1/2 N Lemoyne St; MAP: &lt;a href="https://bit.ly/3ZbkF7p" target="_blank" rel="noopener"&gt;https://bit.ly/3ZbkF7p&lt;/a&gt;; #EchoPark; Three-story descending hillside home with heavy smoke showing.; FS 20; Batt 11; Central Bureau; Council District 13; BC11  E20  E220  E235  E3  E56  RA56  RA850  SQ21  T20  T35; CH9; 12; Nicholas Prange</description>
+  <description>Structure Fire; INC#1359; 06:48PM; 1933-1/2 N Lemoyne St; MAP: &lt;a href=&quot;https://bit.ly/3ZbkF7p&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3ZbkF7p&lt;/a&gt;; #EchoPark; Three-story descending hillside home with heavy smoke showing.; FS 20; Batt 11; Central Bureau; Council District 13; BC11  E20  E220  E235  E3  E56  RA56  RA850  SQ21  T20  T35; CH9; 12; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Central</category>
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 18:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">Knockdown -  Structure Fire 09/04/2023 INC#0097</a></title>
   <link><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#0097; 02:04AM; 2241 N Betty Ln; MAP: &lt;a href="https://bit.ly/3Z6ypQP" target="_blank" rel="noopener"&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; Thirty LAFD Firefighters took just 26 minutes to access, confine and fully extinguish heavy fire involving multiple vehicles within a detached two-story garage adjacent to a 2 story 2,400 square-foot hillside home. No injury. Fire cause under investigation.; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
+  <description>Knockdown -  Structure Fire; INC#0097; 02:04AM; 2241 N Betty Ln; MAP: &lt;a href=&quot;https://bit.ly/3Z6ypQP&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; Thirty LAFD Firefighters took just 26 minutes to access, confine and fully extinguish heavy fire involving multiple vehicles within a detached two-story garage adjacent to a 2 story 2,400 square-foot hillside home. No injury. Fire cause under investigation.; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">Structure Fire 09/04/2023 INC#0097</a></title>
   <link><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0097; 01:38AM; 2241 N Betty Ln; MAP: &lt;a href="https://bit.ly/3Z6ypQP" target="_blank" rel="noopener"&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; PRELIM: Multiple vehicles ablaze within a two-story detached garage adjacent to a 2 story home. ; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
+  <description>Structure Fire; INC#0097; 01:38AM; 2241 N Betty Ln; MAP: &lt;a href=&quot;https://bit.ly/3Z6ypQP&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3Z6ypQP&lt;/a&gt;; #BeverlyCrest; PRELIM: Multiple vehicles ablaze within a two-story detached garage adjacent to a 2 story home. ; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E97  E99  RA78  RA878  T78  T92; CH9; 17; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
   <link><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></link>
-  <description>Update Greater Alarm Structure Fire; INC#1127; 07:12PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; During a post-fire assessment of LAFD responders, one of the first-to-arrive LAFD Firefighters involved in the entirety of the firefight was seen to exhibit clinical signs of dehydration. Pursuant to LAFD protocol, he has been taken to an area hospital in fair condition for a detailed clinical assessment. No additional injuries have been reported. The fire's cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; AR1  BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
+  <description>Update Greater Alarm Structure Fire; INC#1127; 07:12PM; 5603 W Lexington Av; MAP: &lt;a href=&quot;https://bit.ly/3L7TeWd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; During a post-fire assessment of LAFD responders, one of the first-to-arrive LAFD Firefighters involved in the entirety of the firefight was seen to exhibit clinical signs of dehydration. Pursuant to LAFD protocol, he has been taken to an area hospital in fair condition for a detailed clinical assessment. No additional injuries have been reported. The fire&#039;s cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; AR1  BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
   <category>Greater Alarm Structure Fire</category>
                             <category>West</category>
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
   <link><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Update Greater Alarm Structure Fire; INC#1127; 06:20PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; Though LAFD crews actively assisted several occupants in safely exiting the smoke-charged twenty-unit two-story apartment building during the fire, only two civilian adults required LAFD medical assessment for smoke exposure: A 79 year-old female has been taken to an area hospital in fair condition for further medical assessment. The other patient declined offered ambulance transportation. While the fire was confined to the one upstairs apartment, LAFD personnel are systematically assessing the remaining units to assure residents can be safely and comfortably rehoused. The building was not equipped with optional fire sprinklers. The fire's cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
+  <description>Update Greater Alarm Structure Fire; INC#1127; 06:20PM; 5603 W Lexington Av; MAP: &lt;a href=&quot;https://bit.ly/3L7TeWd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; Though LAFD crews actively assisted several occupants in safely exiting the smoke-charged twenty-unit two-story apartment building during the fire, only two civilian adults required LAFD medical assessment for smoke exposure: A 79 year-old female has been taken to an area hospital in fair condition for further medical assessment. The other patient declined offered ambulance transportation. While the fire was confined to the one upstairs apartment, LAFD personnel are systematically assessing the remaining units to assure residents can be safely and comfortably rehoused. The building was not equipped with optional fire sprinklers. The fire&#039;s cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
   <category>Greater Alarm Structure Fire</category>
                             <category>West</category>
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire Knockdown -  09/03/2023 INC#1127</a></title>
   <link><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Update Knockdown -  Greater Alarm Structure Fire; INC#1127; 05:51PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; First arriving 50 LAFD Firefighters took just 27 minutes to access, confine and fully extinguish fire within one 2nd floor unit of an 11,100 square foot two story center hallway apartment building (built 1924). Several occupants of the twenty-unit building were actively evacuating on LAFD arrival, and two are being medically evaluated by LAFD Paramedics. The fire's cause is under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
+  <description>Update Knockdown -  Greater Alarm Structure Fire; INC#1127; 05:51PM; 5603 W Lexington Av; MAP: &lt;a href=&quot;https://bit.ly/3L7TeWd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; First arriving 50 LAFD Firefighters took just 27 minutes to access, confine and fully extinguish fire within one 2nd floor unit of an 11,100 square foot two story center hallway apartment building (built 1924). Several occupants of the twenty-unit building were actively evacuating on LAFD arrival, and two are being medically evaluated by LAFD Paramedics. The fire&#039;s cause is under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
   <category>Greater Alarm Structure Fire</category>
                             <category>West</category>
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
   <link><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Greater Alarm Structure Fire; INC#1127; 05:24PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; PRELIM: Fire and smoke on the second floor of a 11,100 square foot twenty-unit two story center hallway apartment building, with active occupant evacuation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12 13; Brian Humphrey</description>
+  <description>Greater Alarm Structure Fire; INC#1127; 05:24PM; 5603 W Lexington Av; MAP: &lt;a href=&quot;https://bit.ly/3L7TeWd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; PRELIM: Fire and smoke on the second floor of a 11,100 square foot twenty-unit two story center hallway apartment building, with active occupant evacuation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12 13; Brian Humphrey</description>
   <category>Greater Alarm Structure Fire</category>
                             <category>West</category>
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 17:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">Knockdown -  Structure Fire 09/02/2023 INC#1612</a></title>
   <link><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1612; 11:14PM; 13742 N Gladstone Av; MAP: &lt;a href="https://bit.ly/45S3WrY" target="_blank" rel="noopener"&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; 48 LAFD Firefighters took just 27 minutes to access, confine and extinguish heavy fire in a vacant one-story home, that extended into the attic. No injury. Fire cause under investigation.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
+  <description>Knockdown -  Structure Fire; INC#1612; 11:14PM; 13742 N Gladstone Av; MAP: &lt;a href=&quot;https://bit.ly/45S3WrY&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; 48 LAFD Firefighters took just 27 minutes to access, confine and extinguish heavy fire in a vacant one-story home, that extended into the attic. No injury. Fire cause under investigation.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09022023-inc1612" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 23:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">Structure Fire 09/02/2023 INC#1612</a></title>
   <link><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1612; 10:47PM; 13742 N Gladstone Av; MAP: &lt;a href="https://bit.ly/45S3WrY" target="_blank" rel="noopener"&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; PRELIM: Vacant one-story home and attic well involved.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
+  <description>Structure Fire; INC#1612; 10:47PM; 13742 N Gladstone Av; MAP: &lt;a href=&quot;https://bit.ly/45S3WrY&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/45S3WrY&lt;/a&gt;; #Sylmar; PRELIM: Vacant one-story home and attic well involved.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  CM40  CM42  E18  E275  E298  E75  E87  E91  E98  EM15  RA891  RA91  RA98  SO1  T75  T98; CH9; 17; Brian Humphrey</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09022023-inc1612" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 2, 2023 - 23:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b8b423e3-4d24-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
