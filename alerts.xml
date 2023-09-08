@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 07 Sep 2023 21:52:02 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5"/>
+<lastBuildDate>Fri, 08 Sep 2023 10:17:42 -0700</lastBuildDate>
 <pubDate>Thu, 07 Sep 2023 11:37:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#AdamsNormandie</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 7, 2023 - 11:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">Structure Fire 09/07/2023 INC#0683</a></title>
@@ -29,7 +29,7 @@
                             <category>#AdamsNormandie</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 7, 2023 - 11:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">KNOCKDOWN Structure Fire 09/06/2023 INC#1359</a></title>
@@ -40,7 +40,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 19:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">Structure Fire 09/06/2023 INC#1359</a></title>
@@ -51,7 +51,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 18:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">Knockdown -  Structure Fire 09/04/2023 INC#0097</a></title>
@@ -62,7 +62,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">Structure Fire 09/04/2023 INC#0097</a></title>
@@ -73,7 +73,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
@@ -84,7 +84,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
@@ -95,7 +95,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire Knockdown -  09/03/2023 INC#1127</a></title>
@@ -106,7 +106,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 18:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
@@ -117,7 +117,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 3, 2023 - 17:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
