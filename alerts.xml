@@ -5,11 +5,55 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5"/>
-<lastBuildDate>Fri, 08 Sep 2023 10:17:42 -0700</lastBuildDate>
-<pubDate>Thu, 07 Sep 2023 11:37:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 08 Sep 2023 22:25:39 -0700</lastBuildDate>
+<pubDate>Fri, 08 Sep 2023 22:24:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/contained-brush-fire-09082023-inc1683" hreflang="en">CONTAINED Brush Fire 09/08/2023 INC#1683</a></title>
+  <link><a href="/alert/contained-brush-fire-09082023-inc1683" hreflang="en">view</a></link>
+  <description>CONTAINED Brush Fire; INC#1683; 09:43PM; 4020 N Mandeville Canyon Rd; MAP: &lt;a href="https://bit.ly/3EyHSXC" target="_blank" rel="noopener"&gt;https://bit.ly/3EyHSXC&lt;/a&gt;; #Brentwood; After establishing an anchor point (a point where the fire cannot retreat beyond), crews surrounded the fire with hose lines in steep terrain, while fire helicopters made water drops on the head of the fire. It took 36 firefighters 61 minutes to extinguish the flames in medium-to-heavy brush.  No structures were threatened. ; FS 19; Batt 9; West Bureau; Council District 11; BC17  BC9  E109  E19  E23  E237  E269  E290  E292  E69  E71  E90  EM9  H1  H2  H4  H7  HA1  HA2  HA4  HA7  T37  T69  T90  T92; CH7; 12; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>West</category>
+                            <category>#Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-09082023-inc1683" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 8, 2023 - 22:24</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-09082023-inc1683" hreflang="en">Brush Fire 09/08/2023 INC#1683</a></title>
+  <link><a href="/alert/brush-fire-09082023-inc1683" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#1683; 08:42PM; 4020 N Mandeville Canyon Rd; MAP: &lt;a href="https://bit.ly/3EyHSXC" target="_blank" rel="noopener"&gt;https://bit.ly/3EyHSXC&lt;/a&gt;; #Brentwood; Approximately a half-acre of brush burning, with a slow rate-of-spread. Crews are responding by ground and air.; FS 19; Batt 9; West Bureau; Council District 11; BC17  BC9  E109  E19  E23  E237  E269  E290  E292  E69  E71  E90  EM9  H1  H2  H4  H7  HA1  HA2  HA4  HA7  T37  T69  T90  T92; CH5; 12; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>West</category>
+                            <category>#Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-09082023-inc1683" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 8, 2023 - 21:11</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-09082023-inc1075" hreflang="en">KNOCKDOWN Structure Fire 09/08/2023 INC#1075</a></title>
+  <link><a href="/alert/knockdown-structure-fire-09082023-inc1075" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1075; 03:12PM; 833 S Fedora St; MAP: &lt;a href="https://bit.ly/3sH87Zf" target="_blank" rel="noopener"&gt;https://bit.ly/3sH87Zf&lt;/a&gt;; #Koreatown; Firefighters found fire in the elevator room and elevator shaft, which caused smoke to spread inside the building. Firefighters on the roof cut holes to allow smoke and heated gases to escape, while crews were proactively evacuating residents. Thankfully the 50 firefighters on scene extinguished the flames in 25 minutes, and cleared the smoke from the building, allowing all residents to repopulate their residences. No reported injuries. Cause under investigation.; FS 13; Batt 11; Central Bureau; Council District 10; BC11  E13  E15  E211  E215  E226  E229  E29  E6  RA15  RA813  SQ21  T11  T15  T26  T29; CH7; 13  14; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09082023-inc1075" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 8, 2023 - 16:40</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-09082023-inc1075" hreflang="en">Structure Fire 09/08/2023 INC#1075</a></title>
+  <link><a href="/alert/structure-fire-09082023-inc1075" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1075; 02:47PM; 833 S Fedora St; MAP: &lt;a href="https://bit.ly/3sH87Zf" target="_blank" rel="noopener"&gt;https://bit.ly/3sH87Zf&lt;/a&gt;; #Koreatown; Four-story apartment building with smoke showing from the roof (attic?). Offensive mode.; FS 13; Batt 11; Central Bureau; Council District 10; BC11  E13  E15  E211  E215  E226  E229  E29  E6  RA15  RA813  SQ21  T11  T15  T26  T29; CH9; 14; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-09082023-inc1075" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 8, 2023 - 15:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-09072023-inc0683" hreflang="en">KNOCKDOWN Structure Fire 09/07/2023 INC#0683</a></title>
   <link><a href="/alert/knockdown-structure-fire-09072023-inc0683" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0683; 11:24AM; 2249 S Harvard Bl; MAP: &lt;a href="https://bit.ly/463xXoC" target="_blank" rel="noopener"&gt;https://bit.ly/463xXoC&lt;/a&gt;; #AdamsNormandie; Firefighters made access to the three-story home, and ascended interior stairwells with hose lines. Fire attack crews located fire on the 3rd floor and in the attic, as ventilation crews went to the roof to cut holes for smoke and super-heated gases to escape. Ultimately, it took 47 firefighters 27 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 26; Batt 11; Central Bureau; Council District 8; BC1  BC11  CM20  CM22  E15  E215  E226  E26  E34  E447  EA1  EM11  RA11  RA834  SQ21  T15  T26  T29; CH7; 12; Nicholas Prange</description>
@@ -18,7 +62,7 @@
                             <category>#AdamsNormandie</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 7, 2023 - 11:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">Structure Fire 09/07/2023 INC#0683</a></title>
@@ -29,7 +73,7 @@
                             <category>#AdamsNormandie</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 7, 2023 - 11:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">KNOCKDOWN Structure Fire 09/06/2023 INC#1359</a></title>
@@ -40,7 +84,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 19:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">Structure Fire 09/06/2023 INC#1359</a></title>
@@ -51,7 +95,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09062023-inc1359" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 6, 2023 - 18:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">Knockdown -  Structure Fire 09/04/2023 INC#0097</a></title>
@@ -62,7 +106,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">Structure Fire 09/04/2023 INC#0097</a></title>
@@ -73,51 +117,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09042023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 4, 2023 - 02:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
-  <link><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></link>
-  <description>Update Greater Alarm Structure Fire; INC#1127; 07:12PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; During a post-fire assessment of LAFD responders, one of the first-to-arrive LAFD Firefighters involved in the entirety of the firefight was seen to exhibit clinical signs of dehydration. Pursuant to LAFD protocol, he has been taken to an area hospital in fair condition for a detailed clinical assessment. No additional injuries have been reported. The fire's cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; AR1  BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127-0" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, September 3, 2023 - 19:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
-  <link><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Update Greater Alarm Structure Fire; INC#1127; 06:20PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; Though LAFD crews actively assisted several occupants in safely exiting the smoke-charged twenty-unit two-story apartment building during the fire, only two civilian adults required LAFD medical assessment for smoke exposure: A 79 year-old female has been taken to an area hospital in fair condition for further medical assessment. The other patient declined offered ambulance transportation. While the fire was confined to the one upstairs apartment, LAFD personnel are systematically assessing the remaining units to assure residents can be safely and comfortably rehoused. The building was not equipped with optional fire sprinklers. The fire's cause remains under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EA1  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, September 3, 2023 - 18:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">Update Greater Alarm Structure Fire Knockdown -  09/03/2023 INC#1127</a></title>
-  <link><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Update Knockdown -  Greater Alarm Structure Fire; INC#1127; 05:51PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; First arriving 50 LAFD Firefighters took just 27 minutes to access, confine and fully extinguish fire within one 2nd floor unit of an 11,100 square foot two story center hallway apartment building (built 1924). Several occupants of the twenty-unit building were actively evacuating on LAFD arrival, and two are being medically evaluated by LAFD Paramedics. The fire's cause is under active investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM11  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA829  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-knockdown-09032023-inc1127" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, September 3, 2023 - 18:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">Greater Alarm Structure Fire 09/03/2023 INC#1127</a></title>
-  <link><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></link>
-  <description>Greater Alarm Structure Fire; INC#1127; 05:24PM; 5603 W Lexington Av; MAP: &lt;a href="https://bit.ly/3L7TeWd" target="_blank" rel="noopener"&gt;https://bit.ly/3L7TeWd&lt;/a&gt;; #Hollywood; PRELIM: Fire and smoke on the second floor of a 11,100 square foot twenty-unit two story center hallway apartment building, with active occupant evacuation.; FS 52; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E27  E29  E3  E35  E52  E6  E82  EM1  EM14  EM17  EM9  HR3  RA27  RA29  RA3  RA35  RA41  RA6  RA82  RA835  SO1  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12 13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09032023-inc1127" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, September 3, 2023 - 17:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=9de186be-4e6b-11ee-b872-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
