@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 09 Sep 2023 04:20:51 -0700</lastBuildDate>
-<pubDate>Sat, 09 Sep 2023 04:20:00 -0700</pubDate>
+<lastBuildDate>Sun, 10 Sep 2023 02:41:10 -0700</lastBuildDate>
+<pubDate>Sun, 10 Sep 2023 02:41:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">Traffic Collision - LAFD Involved 09/10/2023 INC#0043</a></title>
+  <link><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">view</a></link>
+  <description>Traffic Collision - LAFD Involved; INC#0043; 12:35AM; 13260 W Van Nuys Bl; MAP: &lt;a href="https://bit.ly/469viKp" target="_blank" rel="noopener"&gt;https://bit.ly/469viKp&lt;/a&gt;; #Pacoima; An LAFD Paramedic Rescue Ambulance responding to a medical emergency was struck broadside by a civilian pickup truck at the intersection of Van Nuys Boulevard and San Fernando Road, with the civilian pickup continuing on to collide with a nearby utility pole. The two adult male occupants of the full size pickup truck were badly trapped in the wreckage of their severely damaged truck before being freed by a team of LAFD responders. Both male civilians were transported to a regional trauma center in critical condition. The two male LAFD Paramedics were able to self-extricate from the wreckage of their Type I ambulance, sustaining minor to moderate injuries. Both LAFD Paramedics were taken to an area hospital in fair condition for treatment of injuries that are not considered life threatening. No other persons were injured. The initial medical emergency that the Paramedic team was headed to, was quickly handled successfully by another LAFD crew. Media Inquiries: LAPD Valley Traffic Division (Incident #125).; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  CM40  CM42  E274  E275  E298  E7  E75  EM14  EM15  HR3  RA18  RA75  RA81  RA87  T74  T75  T98  UR88; CH8; 17; Brian Humphrey</description>
+  <category>Traffic Collision - LAFD Involved</category>
+                            <category>Valley</category>
+                            <category>#Pacoima</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, September 10, 2023 - 02:41</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 09/09/2023 INC#0179</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">view</a></link>
   <description>KNOCKDOWN Greater Alarm Structure Fire; INC#0179; 04:13AM; 2311 W Fargo St; MAP: &lt;a href="https://bit.ly/3P9VzBi" target="_blank" rel="noopener"&gt;https://bit.ly/3P9VzBi&lt;/a&gt;; #SilverLake; Firefighters encountered heavy fire and excessive storage conditions inside the two-story hillside home. As the incident progressed, crews observed structural weakening and were forced to retreat into defensive mode. Once outside, the structure sustained a partial roof collapse. It took 90 firefighters 35 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 56; Batt 5; West Bureau; Council District 13; BC1  BC11  BC2  BC5  CM20  CM22  E20  E203  E211  E220  E227  E235  E250  E27  E35  E55  E56  E6  EM1  EM11  HR3  RA20  RA3  RA56  RA6  RA803  SO1  T11  T20  T27  T3  T35  T50  UR3  UR88; CH9; 12  13  14; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#AdamsNormandie</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 7, 2023 - 11:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">Structure Fire 09/07/2023 INC#0683</a></title>
-  <link><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0683; 10:57AM; 2249 S Harvard Bl; MAP: &lt;a href="https://bit.ly/463xXoC" target="_blank" rel="noopener"&gt;https://bit.ly/463xXoC&lt;/a&gt;; #AdamsNormandie; Three-story craftsman home with light light smoke showing. Crews located a fire on the 3rd floor. Offensive mode.; FS 26; Batt 11; Central Bureau; Council District 8; BC1  BC11  CM20  CM22  E15  E215  E226  E26  E34  E447  EM11  RA11  RA834  SQ21  T15  T26  T29; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#AdamsNormandie</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-09072023-inc0683" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, September 7, 2023 - 11:16</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
