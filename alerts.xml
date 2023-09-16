@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5"/>
-<lastBuildDate>Fri, 15 Sep 2023 09:24:42 -0700</lastBuildDate>
-<pubDate>Tue, 12 Sep 2023 14:15:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5"/>
+<lastBuildDate>Fri, 15 Sep 2023 16:01:42 -0700</lastBuildDate>
+<pubDate>Fri, 15 Sep 2023 16:01:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">Structure Fire 09/15/2023 INC#1150</a></title>
+  <link><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1150; 03:44PM; 5558 W Edgewood Pl; MAP: &lt;a href="https://bit.ly/3Zkc16C" target="_blank" rel="noopener"&gt;https://bit.ly/3Zkc16C&lt;/a&gt;; #MidWilshire; Two-story home with smoke showing. Offensive mode.; FS 68; Batt 18; South Bureau; Council District 5; BC11  BC18  CM20  CM22  E229  E26  E261  E29  E294  E61  E68  EM9  RA34  RA41  RA829  SO1  T29  T61  T94; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#MidWilshire</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">view</a></guid>
+                            <pubDate>Friday, September 15, 2023 - 16:01</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-major-emergency-structure-fire-4thstreetfire-09122023-inc0896" hreflang="en">Update Major Emergency Structure Fire #4thStreetFire 09/12/2023 INC#0896</a></title>
   <link><a href="/alert/update-major-emergency-structure-fire-4thstreetfire-09122023-inc0896" hreflang="en">view</a></link>
   <description>Update #4thStreetFire Major Emergency Structure Fire; INC#0896; 02:13PM; 329 E 4th St; MAP: &lt;a href="https://bit.ly/3r9PrB2" target="_blank" rel="noopener"&gt;https://bit.ly/3r9PrB2&lt;/a&gt;; #Downtown; With 125 LAFD Firefighters assigned in defensive operations, this incident, known as the "4th Street Fire" is now considered a Major Emergency. Heavy fire continues among dense storage on the second and third floors of the 5,000 square foot three-story (plus basement) commercial building of masonry construction (2 floors originally of 'office' space above first floor commercial). No injury. No evacuation. Two LAFD Public Information Officers (Captain Erik Scott / Captain Adam Van Gerpen) are available at Media Staging: 4th Street &amp; San Pedro Street.; FS 9; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC2  BC5  CM20  CM21  CM22  CM40  CM42  E1  E10  E11  E17  E202  E203  E209  E210  E211  E215  E227  E235  E27  E3  E4  E9  EA1  EM1  HR3  PI1  PI2  RA10  RA211  RA25  RA803  RA827  RA9  RI200  SO1  SQ21  T10  T11  T15  T2  T27  T3  T35  T9  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-4thstreetfire-09122023-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 12, 2023 - 14:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09122023-inc0896" hreflang="en">Greater Alarm Structure Fire 09/12/2023 INC#0896</a></title>
@@ -29,7 +40,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09122023-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 12, 2023 - 13:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">Update Greater Alarm Structure Fire 09/11/2023 INC#1130</a></title>
@@ -40,7 +51,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-traffic-collision-09112023-inc1310" hreflang="en">Multi-Patient Traffic Collision 09/11/2023 INC#1310</a></title>
@@ -51,7 +62,7 @@
                             <category>#Baldwin Hills #Crenshaw</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-09112023-inc1310" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 16:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">Knockdown -  Greater Alarm Structure Fire 09/11/2023 INC#1130</a></title>
@@ -62,7 +73,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 15:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09112023-inc1130" hreflang="en">Structure Fire 09/11/2023 INC#1130</a></title>
@@ -73,7 +84,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 14:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">Traffic Collision - LAFD Involved 09/10/2023 INC#0043</a></title>
@@ -84,7 +95,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">view</a></guid>
                             <pubDate>Sunday, September 10, 2023 - 02:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 09/09/2023 INC#0179</a></title>
@@ -95,7 +106,7 @@
                             <category>#SilverLake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 9, 2023 - 04:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09092023-inc0097" hreflang="en">KNOCKDOWN Structure Fire 09/09/2023 INC#0097</a></title>
@@ -106,18 +117,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09092023-inc0097" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 9, 2023 - 03:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-09092023-inc0179" hreflang="en">Structure Fire 09/09/2023 INC#0179</a></title>
-  <link><a href="/alert/structure-fire-09092023-inc0179" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0179; 03:28AM; 2311 W Fargo St; MAP: &lt;a href="https://bit.ly/3P9VzBi" target="_blank" rel="noopener"&gt;https://bit.ly/3P9VzBi&lt;/a&gt;; #SilverLake; Single-family home with heavy fire showing. Offensive mode.; FS 56; Batt 5; West Bureau; Council District 13; BC2  BC5  CM20  CM22  E20  E220  E235  E250  E35  E56  E6  EM11  RA20  RA56  T20  T35  T50; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#SilverLake</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-09092023-inc0179" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 9, 2023 - 03:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=5f50385e-53e4-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
