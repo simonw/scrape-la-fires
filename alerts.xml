@@ -5,11 +5,55 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5"/>
-<lastBuildDate>Fri, 15 Sep 2023 16:01:42 -0700</lastBuildDate>
-<pubDate>Fri, 15 Sep 2023 16:01:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 16 Sep 2023 18:39:22 -0700</lastBuildDate>
+<pubDate>Sat, 16 Sep 2023 18:39:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">Technical Rescue 09/16/2023 INC#1213</a></title>
+  <link><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">view</a></link>
+  <description>Technical Rescue; INC#1213; 05:29PM; 20640 W Valerio St; MAP: &lt;a href="https://bit.ly/46dAbC3" target="_blank" rel="noopener"&gt;https://bit.ly/46dAbC3&lt;/a&gt;; #Winnetka; Firefighters responded for an adult male who appears to have fallen (or jumped?) from a bridge, into the flood control channel at least 15 feet below. Firefighters took a rigid stretcher (called a litter basket) and secured the conscious patient. To get the patient up to street level, firefighters used ropes/lashing and a ladder, in a rescue maneuver called a "moving ladder slide," where the litter basket is fastened to the ladder and then the ladder (with patient) is passed along a line of firefighters to overcome challenging terrain. The patient was safely brought back up to street level and transported to a local trauma center in serious condition. Nothing further. ; FS 72; Batt 17; Valley Bureau; Council District 3; BC17  E104  E273  E72  E73  EM15  HR3  RA104  RA72  T73  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Technical Rescue</category>
+                            <category>Valley</category>
+                            <category>#Winnetka</category>
+                            <guid isPermaLink="false"><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, September 16, 2023 - 18:39</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">KNOCKDOWN Structure Fire 09/16/2023 INC#0967</a></title>
+  <link><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0967; 02:58PM; 5504 S Central Av; MAP: &lt;a href="https://bit.ly/44UBYuD" target="_blank" rel="noopener"&gt;https://bit.ly/44UBYuD&lt;/a&gt;; #CentralAlameda; Firefighters found fire burning in one unit of a row of commercials. Thirty-six firefighters performed a coordinated attack on the fire between interior fire attack and rooftop ventilation to contain the fire to the unit-of-origin and extinguish the flames in 12 minutes. No reported injuries. Cause under investigation.; FS 21; Batt 13; South Bureau; Council District 9; BC1  BC11  BC13  E14  E21  E221  E233  E33  RA33  RA833  SQ21  T21  T33; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#CentralAlameda</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, September 16, 2023 - 15:22</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">Structure Fire 09/16/2023 INC#0967</a></title>
+  <link><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0967; 02:46PM; 5504 S Central Av; MAP: &lt;a href="https://bit.ly/3PGIZLr" target="_blank" rel="noopener"&gt;https://bit.ly/3PGIZLr&lt;/a&gt;; #CentralAlameda; One-story row of commercials with smoke showing. Offensive mode.; FS 21; Batt 13; South Bureau; Council District 9; BC1  E14  E21  E221  E233  E33  RA33  RA833  SQ21  T21  T33; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#CentralAlameda</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, September 16, 2023 - 14:52</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/physical-rescue-09162023-inc0690" hreflang="en">Physical Rescue 09/16/2023 INC#0690</a></title>
+  <link><a href="/alert/physical-rescue-09162023-inc0690" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#0690; 11:46AM; 3993 S La Brea Av; MAP: &lt;a href="https://bit.ly/3Rpuf50" target="_blank" rel="noopener"&gt;https://bit.ly/3Rpuf50&lt;/a&gt;; #BaldwinHills/#Crenshaw; Firefighters responded to find a single-vehicle rollover, with one patient trapped. Firefighters deployed hydraulic rescue tools to free the patient from the wreckage. One adult male was transported in critical condition. LAPD Inc #1779. Nothing further.; FS 94; Batt 18; South Bureau; Council District 10; BC18  E261  E294  E34  E68  EM11  HR3  RA68  RA94  T61  T94; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>South</category>
+                            <category>#BaldwinHills/#Crenshaw</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-09162023-inc0690" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, September 16, 2023 - 12:42</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">Structure Fire 09/15/2023 INC#1150</a></title>
   <link><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">view</a></link>
   <description>Structure Fire; INC#1150; 03:44PM; 5558 W Edgewood Pl; MAP: &lt;a href="https://bit.ly/3Zkc16C" target="_blank" rel="noopener"&gt;https://bit.ly/3Zkc16C&lt;/a&gt;; #MidWilshire; Two-story home with smoke showing. Offensive mode.; FS 68; Batt 18; South Bureau; Council District 5; BC11  BC18  CM20  CM22  E229  E26  E261  E29  E294  E61  E68  EM9  RA34  RA41  RA829  SO1  T29  T61  T94; CH9; 12; Nicholas Prange</description>
@@ -18,7 +62,7 @@
                             <category>#MidWilshire</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09152023-inc1150" hreflang="en">view</a></guid>
                             <pubDate>Friday, September 15, 2023 - 16:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-4thstreetfire-09122023-inc0896" hreflang="en">Update Major Emergency Structure Fire #4thStreetFire 09/12/2023 INC#0896</a></title>
@@ -29,7 +73,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-4thstreetfire-09122023-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 12, 2023 - 14:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-09122023-inc0896" hreflang="en">Greater Alarm Structure Fire 09/12/2023 INC#0896</a></title>
@@ -40,7 +84,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-09122023-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 12, 2023 - 13:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">Update Greater Alarm Structure Fire 09/11/2023 INC#1130</a></title>
@@ -51,7 +95,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 17:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-traffic-collision-09112023-inc1310" hreflang="en">Multi-Patient Traffic Collision 09/11/2023 INC#1310</a></title>
@@ -62,7 +106,7 @@
                             <category>#Baldwin Hills #Crenshaw</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-09112023-inc1310" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 16:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">Knockdown -  Greater Alarm Structure Fire 09/11/2023 INC#1130</a></title>
@@ -73,51 +117,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
                             <pubDate>Monday, September 11, 2023 - 15:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-09112023-inc1130" hreflang="en">Structure Fire 09/11/2023 INC#1130</a></title>
-  <link><a href="/alert/structure-fire-09112023-inc1130" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1130; 02:45PM; 4163 S Broadway; MAP: &lt;a href="https://bit.ly/3Zae6Cd" target="_blank" rel="noopener"&gt;https://bit.ly/3Zae6Cd&lt;/a&gt;; #HistoricSouthCentral; PRELIM: Defensive firefight at a 150' x 150' two-story commercial building, the scene of a previous blaze.; FS 46; Batt 13; South Bureau; Council District 9; BC13  CM20  CM22  E14  E15  E215  E233  E46  EM11  RA15  RA246  RA815  SO1  SQ21  T15  T33; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#HistoricSouthCentral</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-09112023-inc1130" hreflang="en">view</a></guid>
-                            <pubDate>Monday, September 11, 2023 - 14:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">Traffic Collision - LAFD Involved 09/10/2023 INC#0043</a></title>
-  <link><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">view</a></link>
-  <description>Traffic Collision - LAFD Involved; INC#0043; 12:35AM; 13260 W Van Nuys Bl; MAP: &lt;a href="https://bit.ly/469viKp" target="_blank" rel="noopener"&gt;https://bit.ly/469viKp&lt;/a&gt;; #Pacoima; An LAFD Paramedic Rescue Ambulance responding to a medical emergency was struck broadside by a civilian pickup truck at the intersection of Van Nuys Boulevard and San Fernando Road, with the civilian pickup continuing on to collide with a nearby utility pole. The two adult male occupants of the full size pickup truck were badly trapped in the wreckage of their severely damaged truck before being freed by a team of LAFD responders. Both male civilians were transported to a regional trauma center in critical condition. The two male LAFD Paramedics were able to self-extricate from the wreckage of their Type I ambulance, sustaining minor to moderate injuries. Both LAFD Paramedics were taken to an area hospital in fair condition for treatment of injuries that are not considered life threatening. No other persons were injured. The initial medical emergency that the Paramedic team was headed to, was quickly handled successfully by another LAFD crew. Media Inquiries: LAPD Valley Traffic Division (Incident #125).; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  CM40  CM42  E274  E275  E298  E7  E75  EM14  EM15  HR3  RA18  RA75  RA81  RA87  T74  T75  T98  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Traffic Collision - LAFD Involved</category>
-                            <category>Valley</category>
-                            <category>#Pacoima</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-lafd-involved-09102023-inc0043" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, September 10, 2023 - 02:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 09/09/2023 INC#0179</a></title>
-  <link><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Greater Alarm Structure Fire; INC#0179; 04:13AM; 2311 W Fargo St; MAP: &lt;a href="https://bit.ly/3P9VzBi" target="_blank" rel="noopener"&gt;https://bit.ly/3P9VzBi&lt;/a&gt;; #SilverLake; Firefighters encountered heavy fire and excessive storage conditions inside the two-story hillside home. As the incident progressed, crews observed structural weakening and were forced to retreat into defensive mode. Once outside, the structure sustained a partial roof collapse. It took 90 firefighters 35 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 56; Batt 5; West Bureau; Council District 13; BC1  BC11  BC2  BC5  CM20  CM22  E20  E203  E211  E220  E227  E235  E250  E27  E35  E55  E56  E6  EM1  EM11  HR3  RA20  RA3  RA56  RA6  RA803  SO1  T11  T20  T27  T3  T35  T50  UR3  UR88; CH9; 12  13  14; Nicholas Prange</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>West</category>
-                            <category>#SilverLake</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-09092023-inc0179" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 9, 2023 - 04:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-09092023-inc0097" hreflang="en">KNOCKDOWN Structure Fire 09/09/2023 INC#0097</a></title>
-  <link><a href="/alert/knockdown-structure-fire-09092023-inc0097" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0097; 02:27AM; 876 S Norton Av; MAP: &lt;a href="https://bit.ly/3B52VQd" target="_blank" rel="noopener"&gt;https://bit.ly/3B52VQd&lt;/a&gt;; #Koreatown; It took 73 firefighters 37 minutes to access, confine, and extinguish the flames, operating in mostly defensive mode for the duration of the incident (site of previous fires). No reported injuries. Cause under investigation.; FS 29; Batt 11; Central Bureau; Council District 5; BC11  BC18  BC5  CM20  CM22  E11  E13  E211  E226  E227  E229  E26  E261  E27  E29  E61  EM11  HR3  RA27  RA29  RA829  T11  T26  T27  T29  T61  UR27  UR88; CH7; 12  13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Koreatown</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09092023-inc0097" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 9, 2023 - 03:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51c0dcf-541b-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
