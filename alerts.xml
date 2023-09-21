@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5"/>
-<lastBuildDate>Wed, 20 Sep 2023 21:13:42 -0700</lastBuildDate>
-<pubDate>Wed, 20 Sep 2023 21:13:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 21 Sep 2023 09:11:41 -0700</lastBuildDate>
+<pubDate>Thu, 21 Sep 2023 05:48:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">Physical Rescue 09/21/2023 INC#0110</a></title>
+  <link><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#0110; 02:19AM; 6800 W Milner Rd; MAP: &lt;a href="https://bit.ly/48BOMth" target="_blank" rel="noopener"&gt;https://bit.ly/48BOMth&lt;/a&gt;; #HollywoodHills; Two-vehicle traffic collision with two patients trapped. Firefighters used hydraulic rescue tools to free both patients, but sadly one of them was beyond medical help and had already succumbed to their injuries on scene. Three others were transported: two approximately 30-year-old females in moderate condition, and one approximately 35-year-old female in critical condition (initially trapped). Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio for updates.; FS 27; Batt 5; West Bureau; Council District 4; BC5  E227  E27  E61  E76  EM11  EM14  EM9  HR3  RA27  RA35  RA56  RA61  RA76  RA861  T27  UR88; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>West</category>
+                            <category>#HollywoodHills</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, September 21, 2023 - 05:48</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">Traffic Collision - Fatality 09/21/2023 INC#0208</a></title>
+  <link><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">view</a></link>
+  <description>Traffic Collision - Fatality; INC#0208; 04:45AM; SB 405 Fwy x Skirball Center Dr; MAP: &lt;a href="https://bit.ly/3jxvv4y" target="_blank" rel="noopener"&gt;https://bit.ly/3jxvv4y&lt;/a&gt;; #Brentwood; One vehicle into the back of the trailer of a semi truck. Sadly, the patient was beyond medical help. Due to the fatality, all lanes of the 405 freeway have been closed (unknown duration). Motorists: expect congestion and delay, avoid the immediate area and consider an alternate route. Monitor traffic reports on news radio for updates. CHP Log 264.; FS 109; Batt 10; Valley Bureau; Council District 11; BC9  E109  E19  E237  E71  EM9  HR3  RA19  RA71  T37  UR88; CH7; 12; Nicholas Prange</description>
+  <category>Traffic Collision - Fatality</category>
+                            <category>Valley</category>
+                            <category>#Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, September 21, 2023 - 05:37</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">Update Structure Fire 09/20/2023 INC#1632</a></title>
   <link><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">view</a></link>
   <description>Update Structure Fire; INC#1632; 09:02PM; 436 S Boyle Av; MAP: &lt;a href="https://bit.ly/3IrVZ3n" target="_blank" rel="noopener"&gt;https://bit.ly/3IrVZ3n&lt;/a&gt;; #BoyleHeights; Forty-six firefighters arrived at the burning vacant home, and immediately went to work protecting the neighboring buildings. Crews did not enter the building due to it being the site of many previous burns and structural integrity was already compromised. Firefighters managed to protect both neighboring residential structures, and have knocked down the bulk of the flames. This will be an extended operation to slowly and carefully finish eliminating hot spots in the burned out fire unit. No reported injuries. Cause under investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC5  CM20  CM22  E17  E2  E201  E202  E203  E209  E210  E221  E25  E3  E4  E9  EA1  EM11  HR3  RA1  RA2  RA25  RA3  RA803  RA809  SO1  SQ21  T1  T10  T2  T21  T3  T9  UR3  UR88; CH7; 13  14; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 21:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09202023-inc1632" hreflang="en">Structure Fire 09/20/2023 INC#1632</a></title>
@@ -29,7 +51,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09202023-inc1632" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 20:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-vs-motorcycle-fatality-09202023-inc1548" hreflang="en">Auto vs Motorcycle - Fatality 09/20/2023 INC#1548</a></title>
@@ -40,7 +62,7 @@
                             <category>#Palms</category>
                             <guid isPermaLink="false"><a href="/alert/auto-vs-motorcycle-fatality-09202023-inc1548" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 19:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">KNOCKDOWN  Structure Fire 09/19/2023 INC#1317</a></title>
@@ -51,7 +73,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 18:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">Structure Fire 09/19/2023 INC#1317</a></title>
@@ -62,7 +84,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 18:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09192023-inc0016" hreflang="en">KNOCKDOWN  Structure Fire 09/19/2023 INC#0016</a></title>
@@ -73,7 +95,7 @@
                             <category>Lincoln Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc0016" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 00:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09192023-inc0016" hreflang="en">Structure Fire 09/19/2023 INC#0016</a></title>
@@ -84,7 +106,7 @@
                             <category>Lincoln Heights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09192023-inc0016" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 00:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">Technical Rescue 09/16/2023 INC#1213</a></title>
@@ -95,29 +117,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 16, 2023 - 18:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">KNOCKDOWN Structure Fire 09/16/2023 INC#0967</a></title>
-  <link><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0967; 02:58PM; 5504 S Central Av; MAP: &lt;a href="https://bit.ly/44UBYuD" target="_blank" rel="noopener"&gt;https://bit.ly/44UBYuD&lt;/a&gt;; #CentralAlameda; Firefighters found fire burning in one unit of a row of commercials. Thirty-six firefighters performed a coordinated attack on the fire between interior fire attack and rooftop ventilation to contain the fire to the unit-of-origin and extinguish the flames in 12 minutes. No reported injuries. Cause under investigation.; FS 21; Batt 13; South Bureau; Council District 9; BC1  BC11  BC13  E14  E21  E221  E233  E33  RA33  RA833  SQ21  T21  T33; CH7; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#CentralAlameda</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09162023-inc0967" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 16, 2023 - 15:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">Structure Fire 09/16/2023 INC#0967</a></title>
-  <link><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0967; 02:46PM; 5504 S Central Av; MAP: &lt;a href="https://bit.ly/3PGIZLr" target="_blank" rel="noopener"&gt;https://bit.ly/3PGIZLr&lt;/a&gt;; #CentralAlameda; One-story row of commercials with smoke showing. Offensive mode.; FS 21; Batt 13; South Bureau; Council District 9; BC1  E14  E21  E221  E233  E33  RA33  RA833  SQ21  T21  T33; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#CentralAlameda</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-09162023-inc0967" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, September 16, 2023 - 14:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3f2f382a-5835-11ee-b873-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
