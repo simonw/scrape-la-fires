@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 21 Sep 2023 09:11:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5"/>
+<lastBuildDate>Thu, 21 Sep 2023 19:38:42 -0700</lastBuildDate>
 <pubDate>Thu, 21 Sep 2023 05:48:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 21, 2023 - 05:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">Traffic Collision - Fatality 09/21/2023 INC#0208</a></title>
@@ -29,7 +29,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">view</a></guid>
                             <pubDate>Thursday, September 21, 2023 - 05:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">Update Structure Fire 09/20/2023 INC#1632</a></title>
@@ -40,7 +40,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 21:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09202023-inc1632" hreflang="en">Structure Fire 09/20/2023 INC#1632</a></title>
@@ -51,7 +51,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09202023-inc1632" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 20:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-vs-motorcycle-fatality-09202023-inc1548" hreflang="en">Auto vs Motorcycle - Fatality 09/20/2023 INC#1548</a></title>
@@ -62,7 +62,7 @@
                             <category>#Palms</category>
                             <guid isPermaLink="false"><a href="/alert/auto-vs-motorcycle-fatality-09202023-inc1548" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 19:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">KNOCKDOWN  Structure Fire 09/19/2023 INC#1317</a></title>
@@ -73,7 +73,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 18:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">Structure Fire 09/19/2023 INC#1317</a></title>
@@ -84,7 +84,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 18:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-09192023-inc0016" hreflang="en">KNOCKDOWN  Structure Fire 09/19/2023 INC#0016</a></title>
@@ -95,7 +95,7 @@
                             <category>Lincoln Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc0016" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 00:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-09192023-inc0016" hreflang="en">Structure Fire 09/19/2023 INC#0016</a></title>
@@ -106,7 +106,7 @@
                             <category>Lincoln Heights</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09192023-inc0016" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 00:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">Technical Rescue 09/16/2023 INC#1213</a></title>
@@ -117,7 +117,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-09162023-inc1213" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 16, 2023 - 18:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2426b571-58f1-11ee-b873-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
