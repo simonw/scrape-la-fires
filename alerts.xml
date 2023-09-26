@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 25 Sep 2023 03:14:54 -0700</lastBuildDate>
-<pubDate>Sat, 23 Sep 2023 14:49:00 -0700</pubDate>
+<lastBuildDate>Mon, 25 Sep 2023 18:27:02 -0700</lastBuildDate>
+<pubDate>Mon, 25 Sep 2023 13:13:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/small-plane-crash-09252023-inc0817" hreflang="en">Small Plane Crash 09/25/2023 INC#0817</a></title>
+  <link><a href="/alert/small-plane-crash-09252023-inc0817" hreflang="en">view</a></link>
+  <description>Small Plane Crash; INC#0817; 12:53PM; 401 W Westmont Dr; MAP: &lt;a href="https://bit.ly/3PuLS0v" target="_blank" rel="noopener"&gt;https://bit.ly/3PuLS0v&lt;/a&gt;; Wilmington;  A small plane crashed (into a soccer field) with two persons on board. The pilot was still in the plane upon LAFD arrival and extricated. Both patients were transported (age/gender unk) in *at least* critical condition. There was no fire and no other patients reported. ; FS 36; Batt 6; South Bureau; Council District 15; BC6  CM20  CM22  E112  E285  E36  E85  EM6  HR3  RA36  RA38  T85; CH7; 12; Margaret Stewart</description>
+  <category>Small Plane Crash</category>
+                            <category>South</category>
+                            <category>Wilmington</category>
+                            <guid isPermaLink="false"><a href="/alert/small-plane-crash-09252023-inc0817" hreflang="en">view</a></guid>
+                            <pubDate>Monday, September 25, 2023 - 13:13</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-09232023-inc0954" hreflang="en">Structure Fire - Now Out 09/23/2023 INC#0954</a></title>
   <link><a href="/alert/structure-fire-now-out-09232023-inc0954" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#0954; 02:32PM; 645 N Gardner St; MAP: &lt;a href="https://bit.ly/3KCizHD" target="_blank" rel="noopener"&gt;https://bit.ly/3KCizHD&lt;/a&gt;; #Fairfax; Thirty LAFD firefighters responded to find a contents-only fire inside of a one-story single family home (site of previous burn). It took crews 12 minutes (2:44pm) to extinguish the flames, keeping it from spreading to the structure itself. No reported injuries. Cause under investigation.; FS 41; Batt 5; West Bureau; Council District 5; BC14  E227  E261  E41  E52  E61  RA41  RA861  SO1  T27  T61; CH9; 12; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, September 19, 2023 - 18:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">Structure Fire 09/19/2023 INC#1317</a></title>
-  <link><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1317; 06:02PM; 1623 N Mariposa Av; MAP: &lt;a href="https://bit.ly/45YIHoN" target="_blank" rel="noopener"&gt;https://bit.ly/45YIHoN&lt;/a&gt;; East Hollywood; [Corrected Alert] Three story (Pre-43) center hall apartment building with light smoke showing upon LAFD arrival. Firefighters initiated an offensive attack and located heavy smoke compartmentalized behind a Ponet (fire) door. They created a hose lay behind the door and made entry to find fire in one unit. Two additional task forces requested. ; FS 35; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E3  E35  E41  E52  E56  E82  EA1  EM1  EM11  EM14  HR3  RA20  RA52  RA56  RA803  RA835  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12  13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>East Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, September 19, 2023 - 18:22</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
