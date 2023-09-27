@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 26 Sep 2023 07:21:13 -0700</lastBuildDate>
-<pubDate>Mon, 25 Sep 2023 13:13:00 -0700</pubDate>
+<lastBuildDate>Tue, 26 Sep 2023 16:58:30 -0700</lastBuildDate>
+<pubDate>Tue, 26 Sep 2023 16:58:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-09262023-inc1288" hreflang="en">Traffic  09/26/2023 INC#1288</a></title>
+  <link><a href="/alert/traffic-09262023-inc1288" hreflang="en">view</a></link>
+  <description>Traffic ; INC#1288; 04:19PM; 11482 W Magnolia Bl; MAP: &lt;a href="https://bit.ly/3PqcLT6" target="_blank" rel="noopener"&gt;https://bit.ly/3PqcLT6&lt;/a&gt;; outside city; Two car traffic collision with a total of four patients. Two patients were transported to the hospital (21yo F and 22yo M both in fair condition) and two patients declined LAFD transport. Any further questions are referred to LAFD Incident #3162. No further details.; FS 60; Batt 14; Valley Bureau; Council District outside city; BC10  BC14  E260  E278  E60  E76  E86  E89  EM14  EM17  HR3  RA60  RA77  RA78  RA86  RA860  T60  T78  UR88; CH8; 18; Margaret Stewart</description>
+  <category>Traffic</category>
+                            <category>Valley</category>
+                            <category>outside city</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-09262023-inc1288" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, September 26, 2023 - 16:58</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/small-plane-crash-09252023-inc0817" hreflang="en">Small Plane Crash 09/25/2023 INC#0817</a></title>
   <link><a href="/alert/small-plane-crash-09252023-inc0817" hreflang="en">view</a></link>
   <description>Small Plane Crash; INC#0817; 12:53PM; 401 W Westmont Dr; MAP: &lt;a href="https://bit.ly/3PuLS0v" target="_blank" rel="noopener"&gt;https://bit.ly/3PuLS0v&lt;/a&gt;; Wilmington;  A small plane crashed (into a soccer field) with two persons on board. The pilot was still in the plane upon LAFD arrival and extricated. Both patients were transported (age/gender unk) in *at least* critical condition. There was no fire and no other patients reported. ; FS 36; Batt 6; South Bureau; Council District 15; BC6  CM20  CM22  E112  E285  E36  E85  EM6  HR3  RA36  RA38  T85; CH7; 12; Margaret Stewart</description>
@@ -106,17 +117,6 @@
                             <category>#Palms</category>
                             <guid isPermaLink="false"><a href="/alert/auto-vs-motorcycle-fatality-09202023-inc1548" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, September 20, 2023 - 19:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">KNOCKDOWN  Structure Fire 09/19/2023 INC#1317</a></title>
-  <link><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">view</a></link>
-  <description>KNOCKDOWN  Structure Fire; INC#1317; 06:36PM; 1623 N Mariposa Av; MAP: &lt;a href="https://bit.ly/45YIHoN" target="_blank" rel="noopener"&gt;https://bit.ly/45YIHoN&lt;/a&gt;; East Hollywood; KNOCKDOWN 70 Firefighters extinguished the fire in 34 minutes. They contained the fire primarily to the unit of origin on the 2nd floor with some extension up the wall to the 3rd floor unit but not inside the unit itself. There are two occupants of the unit being assessed for possible smoke inhalation Cause and $ loss TBD. No further details.; FS 35; Batt 5; West Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E203  E220  E227  E229  E235  E3  E35  E41  E52  E56  E82  EA1  EM1  EM11  EM14  HR3  RA20  RA52  RA56  RA803  RA835  T20  T27  T29  T3  T35  UR3  UR88; CH9; 12  13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>East Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09192023-inc1317" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, September 19, 2023 - 18:38</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
