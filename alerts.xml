@@ -6,10 +6,43 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 27 Sep 2023 18:54:55 -0700</lastBuildDate>
-<pubDate>Wed, 27 Sep 2023 14:19:00 -0700</pubDate>
+<lastBuildDate>Thu, 28 Sep 2023 06:57:01 -0700</lastBuildDate>
+<pubDate>Thu, 28 Sep 2023 06:52:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/fatal-traffic-collision-09282023-inc0276" hreflang="en">Fatal Traffic Collision 09/28/2023 INC#0276</a></title>
+  <link><a href="/alert/fatal-traffic-collision-09282023-inc0276" hreflang="en">view</a></link>
+  <description>Fatal Traffic Collision; INC#0276; 06:27AM; NB 405 Fwy x Sherman Wy; MAP: &lt;a href="https://bit.ly/3tbz9Z6" target="_blank" rel="noopener"&gt;https://bit.ly/3tbz9Z6&lt;/a&gt;; #VanNuys; PRELIM: Multi-vehicle collision with 4 patients total: One is deceased at scene. Three others with unspecified injuries, two of whom are anticipated to be transported by LAFD ambulance. No further details. #LATrafffic: Closure of one or more northbound lanes of the San Diego (I-405) Freeway at Sherman Way until CHP and Medical Examiner operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio. Media Inquiries: CHP West Valley (Log #410) and Medical Examiner.; FS 39; Batt 10; Valley Bureau; E39  E90  RA39  RA839; CH8; Brian Humphrey</description>
+  <category>Fatal Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>#VanNuys</category>
+                            <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-09282023-inc0276" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, September 28, 2023 - 06:52</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-09282023-inc0201" hreflang="en">KNOCKDOWN Structure Fire 09/28/2023 INC#0201</a></title>
+  <link><a href="/alert/knockdown-structure-fire-09282023-inc0201" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0201; 05:10AM; 16930 W Tupper St; MAP: &lt;a href="https://bit.ly/3ro3aEH" target="_blank" rel="noopener"&gt;https://bit.ly/3ro3aEH&lt;/a&gt;; Northridge; KNOCKDOWN: 30 firefighters extinguished the fire in 32 minutes with no injuries reported. The contents of the home indicate a marijuana grow operation and LAPD is on scene to handle the investigation. The fire extended into the attic and firefighters on the roof are conducting an extensive ventilation (strip) operation with an additional truck company enroute to assist. No further details.; FS 87; Batt 15; Valley Bureau; Council District outside city; BC15  E103  E275  E287  E290  E87  E90  RA87  RA903  T75  T87  T90; CH9; 17; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09282023-inc0201" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, September 28, 2023 - 05:10</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-09282023-inc0201" hreflang="en">Structure Fire 09/28/2023 INC#0201</a></title>
+  <link><a href="/alert/structure-fire-09282023-inc0201" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0201; 04:38AM; 16930 W Tupper St; MAP: &lt;a href="https://bit.ly/3ro3aEH" target="_blank" rel="noopener"&gt;https://bit.ly/3ro3aEH&lt;/a&gt;; Northridge; One story, single family dwelling with fire showing. Firefighters are in the offensive mode.; FS 87; Batt 15; Valley Bureau; Council District outside city; BC15  E103  E287  E290  E87  E90  RA87  RA903  T87  T90; CH9; 17; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-09282023-inc0201" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, September 28, 2023 - 04:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-09272023-inc0943" hreflang="en">KNOCKDOWN Structure Fire 09/27/2023 INC#0943</a></title>
   <link><a href="/alert/knockdown-structure-fire-09272023-inc0943" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0943; 02:12PM; 8600 N Keokuk Av; MAP: &lt;a href="https://bit.ly/3taf8SN" target="_blank" rel="noopener"&gt;https://bit.ly/3taf8SN&lt;/a&gt;; Canoga Park; KNOCKDOWN: 30 firefighters extinguished the fire in 28 minutes with no injuries reported. No other structures were damaged. No further details.; FS 104; Batt 17; Valley Bureau; Council District outside city; BC17  E103  E104  E107  E273  E296  RA104  RA96  T73  T93  T96; CH8; 17; Margaret Stewart</description>
@@ -84,39 +117,6 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-09232023-inc0604" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 23, 2023 - 11:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">Physical Rescue 09/21/2023 INC#0110</a></title>
-  <link><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">view</a></link>
-  <description>Physical Rescue; INC#0110; 02:19AM; 6800 W Milner Rd; MAP: &lt;a href="https://bit.ly/48BOMth" target="_blank" rel="noopener"&gt;https://bit.ly/48BOMth&lt;/a&gt;; #HollywoodHills; Two-vehicle traffic collision with two patients trapped. Firefighters used hydraulic rescue tools to free both patients, but sadly one of them was beyond medical help and had already succumbed to their injuries on scene. Three others were transported: two approximately 30-year-old females in moderate condition, and one approximately 35-year-old female in critical condition (initially trapped). Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio for updates.; FS 27; Batt 5; West Bureau; Council District 4; BC5  E227  E27  E61  E76  EM11  EM14  EM9  HR3  RA27  RA35  RA56  RA61  RA76  RA861  T27  UR88; CH7; 12; Nicholas Prange</description>
-  <category>Physical Rescue</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/physical-rescue-09212023-inc0110" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, September 21, 2023 - 05:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">Traffic Collision - Fatality 09/21/2023 INC#0208</a></title>
-  <link><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">view</a></link>
-  <description>Traffic Collision - Fatality; INC#0208; 04:45AM; SB 405 Fwy x Skirball Center Dr; MAP: &lt;a href="https://bit.ly/3jxvv4y" target="_blank" rel="noopener"&gt;https://bit.ly/3jxvv4y&lt;/a&gt;; #Brentwood; One vehicle into the back of the trailer of a semi truck. Sadly, the patient was beyond medical help. Due to the fatality, all lanes of the 405 freeway have been closed (unknown duration). Motorists: expect congestion and delay, avoid the immediate area and consider an alternate route. Monitor traffic reports on news radio for updates. CHP Log 264.; FS 109; Batt 10; Valley Bureau; Council District 11; BC9  E109  E19  E237  E71  EM9  HR3  RA19  RA71  T37  UR88; CH7; 12; Nicholas Prange</description>
-  <category>Traffic Collision - Fatality</category>
-                            <category>Valley</category>
-                            <category>#Brentwood</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-fatality-09212023-inc0208" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, September 21, 2023 - 05:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">Update Structure Fire 09/20/2023 INC#1632</a></title>
-  <link><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">view</a></link>
-  <description>Update Structure Fire; INC#1632; 09:02PM; 436 S Boyle Av; MAP: &lt;a href="https://bit.ly/3IrVZ3n" target="_blank" rel="noopener"&gt;https://bit.ly/3IrVZ3n&lt;/a&gt;; #BoyleHeights; Forty-six firefighters arrived at the burning vacant home, and immediately went to work protecting the neighboring buildings. Crews did not enter the building due to it being the site of many previous burns and structural integrity was already compromised. Firefighters managed to protect both neighboring residential structures, and have knocked down the bulk of the flames. This will be an extended operation to slowly and carefully finish eliminating hot spots in the burned out fire unit. No reported injuries. Cause under investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC5  CM20  CM22  E17  E2  E201  E202  E203  E209  E210  E221  E25  E3  E4  E9  EA1  EM11  HR3  RA1  RA2  RA25  RA3  RA803  RA809  SO1  SQ21  T1  T10  T2  T21  T3  T9  UR3  UR88; CH7; 13  14; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-09202023-inc1632" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, September 20, 2023 - 21:13</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
