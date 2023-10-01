@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 30 Sep 2023 23:08:39 -0700</lastBuildDate>
-<pubDate>Sat, 30 Sep 2023 23:08:00 -0700</pubDate>
+<lastBuildDate>Sun, 01 Oct 2023 00:02:02 -0700</lastBuildDate>
+<pubDate>Sun, 01 Oct 2023 00:01:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/cliff-rescue-09302023-inc1632-0" hreflang="en">Cliff Rescue 09/30/2023 INC#1632</a></title>
+  <link><a href="/alert/cliff-rescue-09302023-inc1632-0" hreflang="en">view</a></link>
+  <description>Cliff Rescue; INC#1632; 11:40PM; 3740 S Meyler St; MAP: &lt;a href="https://bit.ly/46x8AvP" target="_blank" rel="noopener"&gt;https://bit.ly/46x8AvP&lt;/a&gt;; #SanPedro; LAFD divers were able to access the interior of the heavily damaged coupe wedged upside down between rocks in the high surf, to discover and extricate one lifeless adult male occupant. Beyond medical help, he was determined dead and remains secure near the wreckage pending the Medical Examiner's arrival. A thorough search within the heavily damaged vehicle, as well as a spotlight and helicopter infrared search of the shoreline yielded no other victims. LAFD crews will assist Medical Examiner's staff in the safe, discreet and dignified recovery of the decedent from the shoreline as soon as the investigation and conditions allow. Media Inquiries: LAPD South Traffic / LAPD Harbor Division (Incident #3881) and Medical Examiner.; FS 101; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT5  E101  E112  E248  E285  E48  E85  EM13  H1  H2  HA1  HA2  RA101  RA85  RH114  T48  T85  UR85  UR88; CH7; 13  14; Brian Humphrey</description>
+  <category>Cliff Rescue</category>
+                            <category>South</category>
+                            <category>#SanPedro</category>
+                            <guid isPermaLink="false"><a href="/alert/cliff-rescue-09302023-inc1632-0" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 1, 2023 - 00:01</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-cliff-rescue-09302023-inc1632-0" hreflang="en">Update Cliff Rescue 09/30/2023 INC#1632</a></title>
   <link><a href="/alert/update-cliff-rescue-09302023-inc1632-0" hreflang="en">view</a></link>
   <description>Update Cliff Rescue; INC#1632; 11:05PM; 3740 S Meyler St; MAP: &lt;a href="https://bit.ly/46x8AvP" target="_blank" rel="noopener"&gt;https://bit.ly/46x8AvP&lt;/a&gt;; #SanPedro; LAFD divers from the trio of assigned LAFD fireboats have found the heavily damaged vehicle upside down in the pounding surf, wedged between large rocks on the rugged shoreline at maximum tide. One of the two LAFD rescue helicopters is utilizing a 30 million candlepower searchlights (along with those of the fireboats) to illuminate the challenging rescue scene for the LAFD divers, who have yet to find a victim, as they relentlessly seek to gain access to the upside down vehicle, which has a collapsed roof with significant passenger space intrusion.; FS 101; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT5  E101  E112  E248  E285  E48  E85  EM13  H1  H2  HA1  HA2  RA101  RA85  RH114  T48  T85  UR85  UR88; CH7; 13  14; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#NorthHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-09292023-inc0949" hreflang="en">view</a></guid>
                             <pubDate>Friday, September 29, 2023 - 15:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-09292023-inc0949" hreflang="en">Knockdown -  Structure Fire 09/29/2023 INC#0949</a></title>
-  <link><a href="/alert/knockdown-structure-fire-09292023-inc0949" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#0949; 02:30PM; 9627 N Noble Av; MAP: &lt;a href="https://bit.ly/46dtGzC" target="_blank" rel="noopener"&gt;https://bit.ly/46dtGzC&lt;/a&gt;; #NorthHills; Address Corrected to the rear of 9627 Noble Avenue. 32 LAFD Firefighters took just 17 minutes to access, confine and fully extinguish a well involved 10' x 15' shed to the rear of one-story home, that contained an unspecified number of 55 gallon drums of a yet to be determined type oil. The  fire was prevented from damaging a two-story residence to the north. No Injury. Fire cause under investigation.; FS 7; Batt 12; Valley Bureau; Council District 7; BC12  E239  E287  E298  E39  E7  E81  RA7  RA87  T39  T87  T98; CH9; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#NorthHills</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-09292023-inc0949" hreflang="en">view</a></guid>
-                            <pubDate>Friday, September 29, 2023 - 14:37</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
