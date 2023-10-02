@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 01 Oct 2023 00:02:02 -0700</lastBuildDate>
-<pubDate>Sun, 01 Oct 2023 00:01:00 -0700</pubDate>
+<lastBuildDate>Sun, 01 Oct 2023 18:11:05 -0700</lastBuildDate>
+<pubDate>Sun, 01 Oct 2023 18:11:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-10012023-inc1186" hreflang="en">Hiker Rescue 10/01/2023 INC#1186</a></title>
+  <link><a href="/alert/hiker-rescue-10012023-inc1186" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#1186; 05:44PM; West Mandeville Fire Rd; MAP: &lt;a href="https://bit.ly/3PCKx7S" target="_blank" rel="noopener"&gt;https://bit.ly/3PCKx7S&lt;/a&gt;; #Brentwood; LAFD has responded by ground and air to assist a 55 year-old male hiker who became suddenly ill on a remote section of the West Mandeville Fire Road in Westridge-Canyonback Wilderness Regional Park. An LAFD rescue helicopter was first to find the seriously ill man, and lowered a Flight Paramedic to medically assess, and begin his immediate treatment. The patient and rescuer will soon be hoisted aboard the hovering helicopter for in-flight advanced care during direct transport to a regional hospital. ; FS 19; Batt 9; West Bureau; Council District 11; BC9  BP19  E19  E269  H1  H3  HA1  HA3  RA19  RH114  T69; CH7; 12; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-10012023-inc1186" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 1, 2023 - 18:11</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/cliff-rescue-09302023-inc1632-0" hreflang="en">Cliff Rescue 09/30/2023 INC#1632</a></title>
   <link><a href="/alert/cliff-rescue-09302023-inc1632-0" hreflang="en">view</a></link>
   <description>Cliff Rescue; INC#1632; 11:40PM; 3740 S Meyler St; MAP: &lt;a href="https://bit.ly/46x8AvP" target="_blank" rel="noopener"&gt;https://bit.ly/46x8AvP&lt;/a&gt;; #SanPedro; LAFD divers were able to access the interior of the heavily damaged coupe wedged upside down between rocks in the high surf, to discover and extricate one lifeless adult male occupant. Beyond medical help, he was determined dead and remains secure near the wreckage pending the Medical Examiner's arrival. A thorough search within the heavily damaged vehicle, as well as a spotlight and helicopter infrared search of the shoreline yielded no other victims. LAFD crews will assist Medical Examiner's staff in the safe, discreet and dignified recovery of the decedent from the shoreline as soon as the investigation and conditions allow. Media Inquiries: LAPD South Traffic / LAPD Harbor Division (Incident #3881) and Medical Examiner.; FS 101; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT5  E101  E112  E248  E285  E48  E85  EM13  H1  H2  HA1  HA2  RA101  RA85  RH114  T48  T85  UR85  UR88; CH7; 13  14; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-09302023-inc0213" hreflang="en">view</a></guid>
                             <pubDate>Saturday, September 30, 2023 - 03:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-structure-fire-09292023-inc0949" hreflang="en">Update Structure Fire 09/29/2023 INC#0949</a></title>
-  <link><a href="/alert/update-structure-fire-09292023-inc0949" hreflang="en">view</a></link>
-  <description>Update Structure Fire; INC#0949; 03:00PM; 9627 N Noble Av; MAP: &lt;a href="https://bit.ly/46dtGzC" target="_blank" rel="noopener"&gt;https://bit.ly/46dtGzC&lt;/a&gt;; #NorthHills; On further inspection, it was determined that the two-story residence to the north did suffered some minor damage from the fire. No Injuries have been reported, and the fire cause remains under active investigation.; FS 7; Batt 12; Valley Bureau; Council District 7; BC12  E239  E287  E298  E39  E7  E81  RA7  RA87  T39  T87  T98; CH8; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#NorthHills</category>
-                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-09292023-inc0949" hreflang="en">view</a></guid>
-                            <pubDate>Friday, September 29, 2023 - 15:07</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
