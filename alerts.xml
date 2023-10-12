@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 11 Oct 2023 10:47:55 -0700</lastBuildDate>
-<pubDate>Wed, 11 Oct 2023 10:47:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5"/>
+<lastBuildDate>Wed, 11 Oct 2023 22:54:41 -0700</lastBuildDate>
+<pubDate>Wed, 11 Oct 2023 22:54:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-brush-fire-10112023-inc1762" hreflang="en">KNOCKDOWN Brush Fire 10/11/2023 INC#1762</a></title>
+  <link><a href="/alert/knockdown-brush-fire-10112023-inc1762" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Brush Fire; INC#1762; 10:31PM; NB 5 Fwy x EB 210 Fwy; MAP: &lt;a href="https://bit.ly/3rQwS5l" target="_blank" rel="noopener"&gt;https://bit.ly/3rQwS5l&lt;/a&gt;; #Sylmar; LAFD (32 FF) and LA County FD made quick work of the brush fire, surrounding the small burn area with hose, and dousing it with water. Crews held the burn to *less than* a tenth of an acre, achieving a knockdown of the flames in 41 minutes from the time of alarm. No reported injuries. Cause under investigation.; FS 91; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC10  BC12  E18  E275  E290  E298  E7  E75  E87  E90  E91  E98  EM15  H1  H3  H4  HA1  HA3  HA4  T75  T90  T98  WT77; CH8; 17; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#Sylmar</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-10112023-inc1762" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, October 11, 2023 - 22:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-10112023-inc1762" hreflang="en">Brush Fire 10/11/2023 INC#1762</a></title>
+  <link><a href="/alert/brush-fire-10112023-inc1762" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#1762; 09:50PM; NB 5 Fwy x EB 210 Fwy; MAP: &lt;a href="https://bit.ly/3rQwS5l" target="_blank" rel="noopener"&gt;https://bit.ly/3rQwS5l&lt;/a&gt;; #Sylmar; Approximately 50' x 75' area of brush on fire, with no wind and no structures threatened. LA County FD responding in mutual aid, and CHP assisting with lane closures on the freeway.; FS 91; Batt 12; Valley Bureau; Council District 7; BC10  BC12  E18  E275  E290  E298  E7  E75  E87  E90  E91  EM15  H1  H3  H4  HA1  HA3  HA4  T75  T90  T98; CH5; 17; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#Sylmar</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-10112023-inc1762" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, October 11, 2023 - 22:18</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-10112023-inc0559" hreflang="en">KNOCKDOWN Structure Fire 10/11/2023 INC#0559</a></title>
   <link><a href="/alert/knockdown-structure-fire-10112023-inc0559" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0559; 10:24AM; 800 N La Jolla Av; MAP: &lt;a href="https://bit.ly/3QfpHgx" target="_blank" rel="noopener"&gt;https://bit.ly/3QfpHgx&lt;/a&gt;; #BeverlyGrove; Crews arrived to find a boarded-up one-story single-family home with fire in the rear bedroom and throughout the attic. It took 32 firefighters 25 minutes to access, confine, and extinguish the flames, using coordinated efforts between rooftop ventilation and interior fire attack. One firefighter with non-life-threatening injuries has been transported to a local hospital in fair condition.; FS 41; Batt 5; West Bureau; Council District 5; BC18  BC5  CM20  CM22  CM52  E227  E229  E261  E27  E41  E61  E97  EM11  RA41  RA861  RA97  SO1  T27  T29  T61; CH9; 12  13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#BeverlyGrove</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10112023-inc0559" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 10:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10112023-inc0559" hreflang="en">Structure Fire 10/11/2023 INC#0559</a></title>
@@ -29,7 +51,7 @@
                             <category>#BeverlyGrove</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10112023-inc0559" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 10:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10102023-inc0353" hreflang="en">Knockdown -  Structure Fire 10/10/2023 INC#0353</a></title>
@@ -40,7 +62,7 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10102023-inc0353" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 10, 2023 - 08:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">Structure Fire 10/10/2023 INC#0353</a></title>
@@ -51,7 +73,7 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 10, 2023 - 08:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-10092023-inc1418" hreflang="en">Update Traffic Collision with Entrapment 10/09/2023 INC#1418</a></title>
@@ -62,7 +84,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-10092023-inc1418" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 9, 2023 - 19:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-10092023-inc1418" hreflang="en">Traffic Collision with Entrapment 10/09/2023 INC#1418</a></title>
@@ -73,7 +95,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-10092023-inc1418" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 9, 2023 - 18:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10092023-inc0968" hreflang="en">Knockdown -  Structure Fire 10/09/2023 INC#0968</a></title>
@@ -84,7 +106,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10092023-inc0968" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 9, 2023 - 14:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10092023-inc0968" hreflang="en">Structure Fire 10/09/2023 INC#0968</a></title>
@@ -95,29 +117,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10092023-inc0968" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 9, 2023 - 14:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10072023-inc1356" hreflang="en">Knockdown -  Structure Fire 10/07/2023 INC#1356</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10072023-inc1356" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1356; 06:08PM; 9701 W Yoakum Dr; MAP: &lt;a href="https://bit.ly/46FZrkM" target="_blank" rel="noopener"&gt;https://bit.ly/46FZrkM&lt;/a&gt;; #BeverlyCrest; 32 LAFD Firefighters took just 34 minutes to fully extinguish stubborn fire that was largely confined to the garage area on the first (lowest - street level) floor of a 2,943 square foot three-story ascending hillside home (built 1945). All occupants out on LAFD arrival. No injury. Fire cause under investigation.; FS 99; Batt 10; Valley Bureau; Council District 5; BC10  E108  E278  E288  E71  E99  RA71  RA878  RA99  T78  T88; CH9; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#BeverlyCrest</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10072023-inc1356" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, October 7, 2023 - 18:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10072023-inc1356" hreflang="en">Structure Fire 10/07/2023 INC#1356</a></title>
-  <link><a href="/alert/structure-fire-10072023-inc1356" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1356; 05:34PM; 9701 W Yoakum Dr; MAP: &lt;a href="https://bit.ly/46FZrkM" target="_blank" rel="noopener"&gt;https://bit.ly/46FZrkM&lt;/a&gt;; #BeverlyCrest; PRELIM: Offensive fire attack at a three story ascending hillside home with fire on the "bottom floor". ; FS 99; Batt 10; Valley Bureau; Council District 5; BC10  E108  E278  E288  E71  E99  RA878  RA99  T78  T88; CH9; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#BeverlyCrest</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10072023-inc1356" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, October 7, 2023 - 17:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d5872b54-68c3-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
