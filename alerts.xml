@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 12 Oct 2023 10:11:40 -0700</lastBuildDate>
-<pubDate>Thu, 12 Oct 2023 02:09:00 -0700</pubDate>
+<lastBuildDate>Thu, 12 Oct 2023 14:56:24 -0700</lastBuildDate>
+<pubDate>Thu, 12 Oct 2023 12:13:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">Confined Space Rescue 10/12/2023 INC#0688</a></title>
+  <link><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">view</a></link>
+  <description>Confined Space Rescue; INC#0688; 11:23AM; 222 N Hill St; MAP: &lt;a href="https://bit.ly/48NGJJR" target="_blank" rel="noopener"&gt;https://bit.ly/48NGJJR&lt;/a&gt;; #DowntownLA; A man fell down a shaft approximately 30 feet down (air vent?) and became trapped. LAFD Firefighters responded and, due to the depth and (narrow) width of the space, realized that ladders, or putting a rescuer (second person) in the shaft, were not the best options. Crews lowered a harness and rope down to the man and successfully (and quickly) raised him out of the shaft. Thankfully, he was awake and alert, with no obvious injuries. Paramedics performed an assessment and will transport him to a local hospital for further evaluation, due to the long distance of the fall. Nothing further.; FS 3; Batt 1; Central Bureau; Council District 14; BC1  BC2  CM20  CM22  E203  E3  E4  E9  EM1  FR201  HR3  RA11  RA17  RA809  SQ21  T3  T9  UR3  UR88; CH7; 12  13; Nicholas Prange</description>
+  <category>Confined Space Rescue</category>
+                            <category>Central</category>
+                            <category>#DowntownLA</category>
+                            <guid isPermaLink="false"><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, October 12, 2023 - 12:13</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-10122023-inc0082" hreflang="en">KNOCKDOWN Structure Fire 10/12/2023 INC#0082</a></title>
   <link><a href="/alert/knockdown-structure-fire-10122023-inc0082" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0082; 02:03AM; 3504 S 5th Av; MAP: &lt;a href="https://bit.ly/48HzAuq" target="_blank" rel="noopener"&gt;https://bit.ly/48HzAuq&lt;/a&gt;; #JeffersonPark; Fire was consuming one room in the rear corner, with some attic involvement. It took 40 firefighters 16 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 34; Batt 18; South Bureau; Council District 10; BC11  BC18  CM20  CM22  E15  E215  E226  E294  E34  E66  E94  EM11  RA34  RA834  T15  T26  T94; CH9; 13; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 10, 2023 - 08:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-traffic-collision-entrapment-10092023-inc1418" hreflang="en">Update Traffic Collision with Entrapment 10/09/2023 INC#1418</a></title>
-  <link><a href="/alert/update-traffic-collision-entrapment-10092023-inc1418" hreflang="en">view</a></link>
-  <description>Update Traffic Collision with Entrapment; INC#1418; 06:58PM; 7900 N Sepulveda Bl; MAP: &lt;a href="https://bit.ly/3FgRiY5" target="_blank" rel="noopener"&gt;https://bit.ly/3FgRiY5&lt;/a&gt;; #VanNuys; Two vehicle collision, with one vehicle striking a light pole, trapping and critically injuring a female passenger. The female driver of that car (serious condition), and the male driver of the other car (fair condition) , were not trapped. Unknown patient ages, affiliation or circumstances. All three have been taken to regional trauma center by LAFD Paramedics. Media Inquiries: LAPD Valley Traffic Division (Incidents #3563/3565); FS 90; Batt 10; Valley Bureau; Council District 6; BC10  E290  E39  E81  E90  EM15  EM17  HR3  RA100  RA81  RA881  RA90  T90  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Traffic Collision with Entrapment</category>
-                            <category>Valley</category>
-                            <category>#VanNuys</category>
-                            <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-10092023-inc1418" hreflang="en">view</a></guid>
-                            <pubDate>Monday, October 9, 2023 - 19:02</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
