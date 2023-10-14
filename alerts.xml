@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 12 Oct 2023 14:56:24 -0700</lastBuildDate>
-<pubDate>Thu, 12 Oct 2023 12:13:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5"/>
+<lastBuildDate>Fri, 13 Oct 2023 17:40:41 -0700</lastBuildDate>
+<pubDate>Fri, 13 Oct 2023 17:40:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/update-cliff-rescue-10132023-inc1264" hreflang="en">Update Cliff Rescue 10/13/2023 INC#1264</a></title>
+  <link><a href="/alert/update-cliff-rescue-10132023-inc1264" hreflang="en">view</a></link>
+  <description>Update Cliff Rescue; INC#1264; 05:40PM; 8100 W Skyline Dr; MAP: &lt;a href="https://bit.ly/46u6qxu" target="_blank" rel="noopener"&gt;https://bit.ly/46u6qxu&lt;/a&gt;; #BeverlyCrest; Due to the steep terrain and location of the crash, Firefighters opted for a hoist to rescue the occupant of the vehicle. One approximately 27-year-old male was hoisted and transported by air to a local trauma center in critical condition. LAPD Inc #3100. Nothing further.; FS 97; Batt 14; Valley Bureau; Council District 4; AO1  BC14  BC18  BC5  E227  E27  E278  E88  E97  EM14  H4  H7  HA4  HA7  HR3  RA827  RA97  RH114  T27  T78  UR27  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Cliff Rescue</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/update-cliff-rescue-10132023-inc1264" hreflang="en">view</a></guid>
+                            <pubDate>Friday, October 13, 2023 - 17:40</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/cliff-rescue-10132023-inc1264" hreflang="en">Cliff Rescue 10/13/2023 INC#1264</a></title>
+  <link><a href="/alert/cliff-rescue-10132023-inc1264" hreflang="en">view</a></link>
+  <description>Cliff Rescue; INC#1264; 04:55PM; 8100 W Skyline Dr; MAP: &lt;a href="https://bit.ly/46u6qxu" target="_blank" rel="noopener"&gt;https://bit.ly/46u6qxu&lt;/a&gt;; #BeverlyCrest; One vehicle went hundreds of feet over the side of the road, near Mulholland Drive &amp; Skyline Drive. LAFD Air Operations lowered a Firefighter-Paramedic down to the location where the vehicle came to rest, in order to initiate patient care.; FS 97; Batt 14; Valley Bureau; Council District 4; AO1  BC14  BC18  BC5  E227  E27  E278  E88  E97  EM14  H4  H7  HA4  HA7  HR3  RA827  RA97  RH114  T27  T78  UR27  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Cliff Rescue</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/cliff-rescue-10132023-inc1264" hreflang="en">view</a></guid>
+                            <pubDate>Friday, October 13, 2023 - 17:28</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">Confined Space Rescue 10/12/2023 INC#0688</a></title>
   <link><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">view</a></link>
   <description>Confined Space Rescue; INC#0688; 11:23AM; 222 N Hill St; MAP: &lt;a href="https://bit.ly/48NGJJR" target="_blank" rel="noopener"&gt;https://bit.ly/48NGJJR&lt;/a&gt;; #DowntownLA; A man fell down a shaft approximately 30 feet down (air vent?) and became trapped. LAFD Firefighters responded and, due to the depth and (narrow) width of the space, realized that ladders, or putting a rescuer (second person) in the shaft, were not the best options. Crews lowered a harness and rope down to the man and successfully (and quickly) raised him out of the shaft. Thankfully, he was awake and alert, with no obvious injuries. Paramedics performed an assessment and will transport him to a local hospital for further evaluation, due to the long distance of the fall. Nothing further.; FS 3; Batt 1; Central Bureau; Council District 14; BC1  BC2  CM20  CM22  E203  E3  E4  E9  EM1  FR201  HR3  RA11  RA17  RA809  SQ21  T3  T9  UR3  UR88; CH7; 12  13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/confined-space-rescue-10122023-inc0688" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 12, 2023 - 12:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10122023-inc0082" hreflang="en">KNOCKDOWN Structure Fire 10/12/2023 INC#0082</a></title>
@@ -29,7 +51,7 @@
                             <category>#JeffersonPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10122023-inc0082" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 12, 2023 - 02:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10122023-inc0082" hreflang="en">Structure Fire 10/12/2023 INC#0082</a></title>
@@ -40,7 +62,7 @@
                             <category>#JeffersonPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10122023-inc0082" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 12, 2023 - 02:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-10122023-inc0061" hreflang="en">Structure Fire - Now Out 10/12/2023 INC#0061</a></title>
@@ -51,7 +73,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-10122023-inc0061" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 12, 2023 - 02:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-brush-fire-10112023-inc1762" hreflang="en">KNOCKDOWN Brush Fire 10/11/2023 INC#1762</a></title>
@@ -62,7 +84,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-brush-fire-10112023-inc1762" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 22:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-10112023-inc1762" hreflang="en">Brush Fire 10/11/2023 INC#1762</a></title>
@@ -73,7 +95,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-10112023-inc1762" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 22:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10112023-inc0559" hreflang="en">KNOCKDOWN Structure Fire 10/11/2023 INC#0559</a></title>
@@ -84,7 +106,7 @@
                             <category>#BeverlyGrove</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10112023-inc0559" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 10:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10112023-inc0559" hreflang="en">Structure Fire 10/11/2023 INC#0559</a></title>
@@ -95,29 +117,7 @@
                             <category>#BeverlyGrove</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10112023-inc0559" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 11, 2023 - 10:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10102023-inc0353" hreflang="en">Knockdown -  Structure Fire 10/10/2023 INC#0353</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10102023-inc0353" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#0353; 08:28AM; 7449 N Aldea Av; MAP: &lt;a href="https://bit.ly/3QaKim5" target="_blank" rel="noopener"&gt;https://bit.ly/3QaKim5&lt;/a&gt;; #LakeBalboa; 30 Firefighters took just 16 minutes to extinguish flames that extended from a detached garage - fully involved on LAFD arrival - into a portion of the adjacent one-story home. No injury. Fire cause under investigation.; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E103  E273  E290  E73  E83  RA100  RA73  T73  T90; CH9; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#LakeBalboa</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10102023-inc0353" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, October 10, 2023 - 08:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">Structure Fire 10/10/2023 INC#0353</a></title>
-  <link><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0353; 08:12AM; 7449 N Aldea Av; MAP: &lt;a href="https://bit.ly/3QaKim5" target="_blank" rel="noopener"&gt;https://bit.ly/3QaKim5&lt;/a&gt;; #LakeBalboa; PRELIM: Detached one-story residential garage fully involved.; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E103  E273  E290  E83  RA100  RA73  T73  T90; CH9; 17; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#LakeBalboa</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10102023-inc0353" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, October 10, 2023 - 08:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=4cc64201-6a2a-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
