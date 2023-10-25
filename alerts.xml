@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Mon, 23 Oct 2023 18:47:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 24 Oct 2023 17:19:40 -0700</lastBuildDate>
 <pubDate>Mon, 23 Oct 2023 18:47:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-fatality-10232023-inc1299" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 23, 2023 - 18:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10232023-inc1299" hreflang="en">KNOCKDOWN Structure Fire 10/23/2023 INC#1299</a></title>
@@ -29,7 +29,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10232023-inc1299" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 23, 2023 - 17:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10232023-inc1299" hreflang="en">Structure Fire 10/23/2023 INC#1299</a></title>
@@ -40,7 +40,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10232023-inc1299" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 23, 2023 - 17:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10232023-inc0244" hreflang="en">KNOCKDOWN Structure Fire 10/23/2023 INC#0244</a></title>
@@ -51,7 +51,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10232023-inc0244" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 23, 2023 - 06:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10232023-inc0244" hreflang="en">Structure Fire 10/23/2023 INC#0244</a></title>
@@ -62,7 +62,7 @@
                             <category>East Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10232023-inc0244" hreflang="en">view</a></guid>
                             <pubDate>Monday, October 23, 2023 - 06:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-10222023-inc1276" hreflang="en">Hiker Rescue - Hoist Op 10/22/2023 INC#1276</a></title>
@@ -73,7 +73,7 @@
                             <category>Hollywood Hills</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-10222023-inc1276" hreflang="en">view</a></guid>
                             <pubDate>Sunday, October 22, 2023 - 18:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-10222023-inc0935-0" hreflang="en">Update Structure Fire 10/22/2023 INC#0935</a></title>
@@ -84,7 +84,7 @@
                             <category>Harbor Gateway</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-10222023-inc0935-0" hreflang="en">view</a></guid>
                             <pubDate>Sunday, October 22, 2023 - 15:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10222023-inc0935" hreflang="en">KNOCKDOWN Structure Fire 10/22/2023 INC#0935</a></title>
@@ -95,7 +95,7 @@
                             <category>Harbor Gateway</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10222023-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, October 22, 2023 - 15:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-10222023-inc0935" hreflang="en">Update Structure Fire 10/22/2023 INC#0935</a></title>
@@ -106,7 +106,7 @@
                             <category>Harbor Gateway</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-10222023-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, October 22, 2023 - 15:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10222023-inc0935" hreflang="en">Structure Fire 10/22/2023 INC#0935</a></title>
@@ -117,7 +117,7 @@
                             <category>Harbor Gateway</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10222023-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, October 22, 2023 - 14:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=510f53da-720f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
