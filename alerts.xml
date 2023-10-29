@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Fri, 27 Oct 2023 22:42:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 28 Oct 2023 22:10:01 -0700</lastBuildDate>
 <pubDate>Thu, 26 Oct 2023 15:42:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 26, 2023 - 15:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10262023-inc1038" hreflang="en">Structure Fire 10/26/2023 INC#1038</a></title>
@@ -29,7 +29,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10262023-inc1038" hreflang="en">view</a></guid>
                             <pubDate>Thursday, October 26, 2023 - 15:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10252023-inc1656" hreflang="en">Structure Fire 10/25/2023 INC#1656</a></title>
@@ -40,7 +40,7 @@
                             <category>Arleta</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc1656" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 22:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10252023-inc1415" hreflang="en">KNOCKDOWN Structure Fire 10/25/2023 INC#1415</a></title>
@@ -51,7 +51,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10252023-inc1415" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 19:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10252023-inc1415" hreflang="en">Structure Fire 10/25/2023 INC#1415</a></title>
@@ -62,7 +62,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc1415" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 19:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-fatality-10252023-inc0543" hreflang="en">KNOCKDOWN Structure Fire - FATALITY 10/25/2023 INC#0543</a></title>
@@ -73,7 +73,7 @@
                             <category>Central-Alameda</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 10:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-fatality-10252023-inc0543" hreflang="en">Update Structure Fire - FATALITY 10/25/2023 INC#0543</a></title>
@@ -84,7 +84,7 @@
                             <category>Central-Alameda</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 10:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10252023-inc0543" hreflang="en">Structure Fire 10/25/2023 INC#0543</a></title>
@@ -95,7 +95,7 @@
                             <category>Central-Alameda</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc0543" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 10:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">KNOCKDOWN Structure Fire 10/25/2023 INC#0217</a></title>
@@ -106,7 +106,7 @@
                             <category>Exposition Park</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 06:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-10252023-inc0217" hreflang="en">Structure Fire 10/25/2023 INC#0217</a></title>
@@ -117,7 +117,7 @@
                             <category>Exposition Park</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc0217" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 05:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cf0fd5c1-7554-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
