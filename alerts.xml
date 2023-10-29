@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 28 Oct 2023 22:10:01 -0700</lastBuildDate>
-<pubDate>Thu, 26 Oct 2023 15:42:00 -0700</pubDate>
+<lastBuildDate>Sun, 29 Oct 2023 10:55:48 -0700</lastBuildDate>
+<pubDate>Sun, 29 Oct 2023 10:55:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">Brush Fire 10/29/2023 INC#0749</a></title>
+  <link><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#0749; 10:34AM; 6300 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3tgQyeW" target="_blank" rel="noopener"&gt;https://bit.ly/3tgQyeW&lt;/a&gt;; #SepulvedaBasin; Small vegetation fire (approximately 50' x 100'), slow moving, in the Lake Balboa Park area with no structures threatened. Crews are making good progress, getting hose lines around it, and do not anticipate further spread. ; FS 100; Batt 10; Valley Bureau; Council District 6; AO1  AO2  BC10  BC15  BC17  BP99  CM20  CM22  CM40  CM42  E100  E239  E273  E290  E39  E64  E66  E73  E83  E88  E90  E94  EM15  H0B  H0C  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA100  T39  T73  T90  WT88; CH5; 17; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#SepulvedaBasin</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 10:55</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">Knockdown -  Structure Fire 10/26/2023 INC#1038</a></title>
   <link><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#1038; 03:42PM; 631 W 53rd St; MAP: &lt;a href="https://bit.ly/3SxQnL5" target="_blank" rel="noopener"&gt;https://bit.ly/3SxQnL5&lt;/a&gt;; #VermontSquare; *Address / Building Type Corrected*. First arriving 30 LAFD Firefighters took just 21 minutes to access, confine and fully extinguish an attic fire at a two story residential fourplex. No injury. Fire cause under investigation.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E215  E221  E233  E266  E33  E46  E5  E57  RA46  RA846  SQ21  T15  T21  T33  T66; CH9; 12; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>Exposition Park</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, October 25, 2023 - 06:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10252023-inc0217" hreflang="en">Structure Fire 10/25/2023 INC#0217</a></title>
-  <link><a href="/alert/structure-fire-10252023-inc0217" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0217; 05:31AM; 1281 W Exposition Bl; MAP: &lt;a href="https://bit.ly/494axlr" target="_blank" rel="noopener"&gt;https://bit.ly/494axlr&lt;/a&gt;; Exposition Park; 25' x 75' vacant commercial building (site of previous burn) with fire through the roof. Firefighters are in the defensive mode and no additional resources are anticipated to be required. There are no injuries reported.; FS 15; Batt 13; South Bureau; Council District 8; BC13  E15  E215  E226  E26  E34  E46  RA15  RA34  RA815  RA834  SQ21  T15  T26; CH9; 12  13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Exposition Park</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc0217" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 05:59</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
