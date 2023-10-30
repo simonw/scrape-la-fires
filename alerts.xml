@@ -6,117 +6,116 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 29 Oct 2023 10:55:48 -0700</lastBuildDate>
-<pubDate>Sun, 29 Oct 2023 10:55:00 -0700</pubDate>
+<lastBuildDate>Sun, 29 Oct 2023 22:35:50 -0700</lastBuildDate>
+<pubDate>Sun, 29 Oct 2023 22:35:00 -0700</pubDate>
 
     <item>
-  <title><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">Brush Fire 10/29/2023 INC#0749</a></title>
-  <link><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#0749; 10:34AM; 6300 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3tgQyeW" target="_blank" rel="noopener"&gt;https://bit.ly/3tgQyeW&lt;/a&gt;; #SepulvedaBasin; Small vegetation fire (approximately 50' x 100'), slow moving, in the Lake Balboa Park area with no structures threatened. Crews are making good progress, getting hose lines around it, and do not anticipate further spread. ; FS 100; Batt 10; Valley Bureau; Council District 6; AO1  AO2  BC10  BC15  BC17  BP99  CM20  CM22  CM40  CM42  E100  E239  E273  E290  E39  E64  E66  E73  E83  E88  E90  E94  EM15  H0B  H0C  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA100  T39  T73  T90  WT88; CH5; 17; Nicholas Prange</description>
+  <title><a href="/alert/structure-fire-now-out-10292023-inc1970" hreflang="en">Structure Fire - Now Out 10/29/2023 INC#1970</a></title>
+  <link><a href="/alert/structure-fire-now-out-10292023-inc1970" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#1970; 10:13PM; 3548 W Stocker St; MAP: &lt;a href="https://bit.ly/3MntVAi" target="_blank" rel="noopener"&gt;https://bit.ly/3MntVAi&lt;/a&gt;; #LeimertPark; Two-story vacant duplex, over parking, with fire showing. An auto fire in the rear exposed the structure to flames. The first 32 firefighters extinguished the flames in 20 minutes. No reported injuries. Cause under investigation.; FS 94; Batt 18; South Bureau; Council District 10; BC11  BC18  CM20  CM22  E226  E26  E266  E294  E34  E46  E68  EM11  RA834  RA94  T26  T66  T94; CH9; 13; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#LeimertPark</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-10292023-inc1970" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 22:35</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-physical-rescue-10292023-inc1824" hreflang="en">Update Physical Rescue 10/29/2023 INC#1824</a></title>
+  <link><a href="/alert/update-physical-rescue-10292023-inc1824" hreflang="en">view</a></link>
+  <description>Update Physical Rescue; INC#1824; 09:24PM; WB 10 Fwy x Cloverfield Bl; MAP: &lt;a href="https://bit.ly/45LIjcx" target="_blank" rel="noopener"&gt;https://bit.ly/45LIjcx&lt;/a&gt;; #SantaMonica; LAFD and SMFD responded to the rollover with one trapped patient. Crews extricated the patient and transported the approximately 35-year-old male in moderate condition. CHP Log #3221. Nothing further.; FS 125; Batt 22; Council District outside city; BC18  E237  E292  E43  E59  EM14  HR3  RA59  RA92  T37  T92; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>#SantaMonica</category>
+                            <guid isPermaLink="false"><a href="/alert/update-physical-rescue-10292023-inc1824" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 21:24</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/physical-rescue-10292023-inc1824" hreflang="en">Physical Rescue 10/29/2023 INC#1824</a></title>
+  <link><a href="/alert/physical-rescue-10292023-inc1824" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#1824; 08:24PM; WB 10 Fwy x Cloverfield Bl; MAP: &lt;a href="https://bit.ly/3Sk72l0" target="_blank" rel="noopener"&gt;https://bit.ly/3Sk72l0&lt;/a&gt;; #Sawtelle; Two-vehicle collision (with rollover). Firefighters working to extricate one trapped patient.; FS 92; Batt 18; South Bureau; Council District 5; E292  E59  RA92  T92; CH4; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>South</category>
+                            <category>#Sawtelle</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-10292023-inc1824" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 20:40</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/contained-brush-fire-10292023-inc1323" hreflang="en">CONTAINED Brush Fire 10/29/2023 INC#1323</a></title>
+  <link><a href="/alert/contained-brush-fire-10292023-inc1323" hreflang="en">view</a></link>
+  <description>CONTAINED Brush Fire; INC#1323; 05:11PM; 8911 N Moorcroft Av; MAP: &lt;a href="https://bit.ly/3QeB5rz" target="_blank" rel="noopener"&gt;https://bit.ly/3QeB5rz&lt;/a&gt;; #WestHills; It took 72 firefighters, by ground and air, approximately 90 minutes to extinguish the 5-acre fire burning near the west end of Nordhoff (west of Topanga). Crews have containment lines surrounding the fire and will remain on scene for "mop up" (eliminating all hot spots and smoldering material within the burn). No structures damaged. No injuries. Cause under investigation.; FS 96; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  BC17  BC5  CE83  CM20  CM22  CM40  CM42  DZ41  DZ45  E1  E10  E103  E105  E106  E107  E27  E29  E290  E296  E305  E472  E64  E66  E90  E94  EM17  H1  H3  H4  HA1  HA3  HA4  HA7  HE1  HT3  PI3  RA104  T105  T90  WT77  WT88; CH8; 18; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#WestHills</category>
+                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-10292023-inc1323" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 17:21</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/contained-grass-fire-10292023-inc1259" hreflang="en">CONTAINED Grass Fire 10/29/2023 INC#1259</a></title>
+  <link><a href="/alert/contained-grass-fire-10292023-inc1259" hreflang="en">view</a></link>
+  <description>CONTAINED Grass Fire; INC#1259; 04:07PM; NB 110 Fwy x Anaheim St; MAP: &lt;a href="https://bit.ly/3s8Apw1" target="_blank" rel="noopener"&gt;https://bit.ly/3s8Apw1&lt;/a&gt;; #Wilmington; Twenty LAFD firefighters responded to the grass fire (with some tree involvement) and held the burn to less than one-half-acre in under an hour. No structures damaged. No injuries. Cause under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E36  E38  E85  T38; CH7; 12; Nicholas Prange</description>
+  <category>Grass Fire</category>
+                            <category>South</category>
+                            <category>#Wilmington</category>
+                            <guid isPermaLink="false"><a href="/alert/contained-grass-fire-10292023-inc1259" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 16:20</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/contained-brush-fire-10292023-inc1120" hreflang="en">CONTAINED Brush Fire 10/29/2023 INC#1120</a></title>
+  <link><a href="/alert/contained-brush-fire-10292023-inc1120" hreflang="en">view</a></link>
+  <description>CONTAINED Brush Fire; INC#1120; 04:08PM; 12246 W Victory Bl; MAP: &lt;a href="https://bit.ly/3FzEJaP" target="_blank" rel="noopener"&gt;https://bit.ly/3FzEJaP&lt;/a&gt;; #NorthHollywood; Firefighters attacked 5 separate small spot fires by ground and air along a 1.5-mile stretch of the 170 freeway. After approximately two hours of battling fires in 15 - 20 mph wind, crews have achieved 100% containment on all fires in the vicinity. No injuries. No structures damaged. Lanes on Freeway and Victory slowly opening. Cause under investigation.; FS 89; Batt 14; Valley Bureau; Council District 2; AO1  AO2  AR1  BC12  BC14  BC17  BC5  CM40  CM42  E1  E10  E102  E260  E27  E278  E29  E39  E60  E64  E66  E73  E75  E76  E77  E81  E86  E89  E90  E94  EA1  EM14  H1  H3  H4  H7  HA1  HA4  HE1  PI1  RA78  RA86  T60  T78  WT77  WT88; CH8; 17; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#NorthHollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-10292023-inc1120" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 16:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-10292023-inc1323" hreflang="en">Brush Fire 10/29/2023 INC#1323</a></title>
+  <link><a href="/alert/brush-fire-10292023-inc1323" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#1323; 03:42PM; 8911 N Moorcroft Av; MAP: &lt;a href="https://bit.ly/3QeB5rz" target="_blank" rel="noopener"&gt;https://bit.ly/3QeB5rz&lt;/a&gt;; #WestHills; Approximately 5 acres of grass burning with 20+ mph winds. Currently, no structures threatened. Ventura County FD and LA County FD both sending a full brush response in automatic aid.; FS 96; Batt 15; Valley Bureau; Council District 12; AO1  AO2  BC10  BC12  BC15  CM20  CM22  E103  E105  E106  E107  E290  E296  E305  E472  E90  EM17  H1  H3  H4  HA1  HA3  HA4  HA7  T105  T90; CH9; 18; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#WestHills</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-10292023-inc1323" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 15:57</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/grass-fire-10292023-inc1259" hreflang="en">Grass Fire 10/29/2023 INC#1259</a></title>
+  <link><a href="/alert/grass-fire-10292023-inc1259" hreflang="en">view</a></link>
+  <description>Grass Fire; INC#1259; 03:15PM; NB 110 Fwy x Anaheim St; MAP: &lt;a href="https://bit.ly/3s8Apw1" target="_blank" rel="noopener"&gt;https://bit.ly/3s8Apw1&lt;/a&gt;; #Wilmington; One-half (0.5) acre of grass burning, slow rate of spread. No structures threatened.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E38  E85  T38; CH7; 12; Nicholas Prange</description>
+  <category>Grass Fire</category>
+                            <category>South</category>
+                            <category>#Wilmington</category>
+                            <guid isPermaLink="false"><a href="/alert/grass-fire-10292023-inc1259" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 15:31</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-10292023-inc1120" hreflang="en">Brush Fire 10/29/2023 INC#1120</a></title>
+  <link><a href="/alert/brush-fire-10292023-inc1120" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#1120; 02:15PM; 12246 W Victory Bl; MAP: &lt;a href="https://bit.ly/3FzEJaP" target="_blank" rel="noopener"&gt;https://bit.ly/3FzEJaP&lt;/a&gt;; #NorthHollywood; Approximately one-quarter (0.25) acre of brush burning near the 170 Freeway at Victory Blvd, with at least 15mph winds blowing out of the northeast. Firefighters attacking the flames by ground and air.Multiple spot fires on either side of the freeway. Motorists: Victory will be closed in both directions, and the 170 Freeway will be closed in both directions from Magnolia to Sherman Way.; FS 89; Batt 14; Valley Bureau; Council District 2; AO1  AO2  AR1  BC12  BC14  BC17  CM40  CM42  E1  E10  E260  E278  E29  E39  E60  E64  E66  E76  E77  E86  E89  E90  E94  EM14  H1  H3  H4  H7  HA1  HA4  RA78  RA86  T60  T78  WT77  WT88; CH5; 17; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>#NorthHollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-10292023-inc1120" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 15:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/contained-brush-fire-10292023-inc0749" hreflang="en">CONTAINED Brush Fire 10/29/2023 INC#0749</a></title>
+  <link><a href="/alert/contained-brush-fire-10292023-inc0749" hreflang="en">view</a></link>
+  <description>CONTAINED Brush Fire; INC#0749; 10:59AM; 6300 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3tgQyeW" target="_blank" rel="noopener"&gt;https://bit.ly/3tgQyeW&lt;/a&gt;; #SepulvedaBasin; Crews held the fire to approximately one-eighth of an acre in less than 30 minutes. No structures damaged. No reported injuries.; FS 100; Batt 10; Valley Bureau; Council District 6; AO1  AO2  BC10  BC15  BC17  BP99  CM20  CM22  CM40  CM42  E100  E239  E273  E290  E39  E64  E66  E73  E83  E88  E90  E94  EM15  H0B  H0C  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA100  SO1  T39  T73  T90  WT88; CH8; 17; Nicholas Prange</description>
   <category>Brush Fire</category>
                             <category>Valley</category>
                             <category>#SepulvedaBasin</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-10292023-inc0749" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, October 29, 2023 - 10:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">Knockdown -  Structure Fire 10/26/2023 INC#1038</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1038; 03:42PM; 631 W 53rd St; MAP: &lt;a href="https://bit.ly/3SxQnL5" target="_blank" rel="noopener"&gt;https://bit.ly/3SxQnL5&lt;/a&gt;; #VermontSquare; *Address / Building Type Corrected*. First arriving 30 LAFD Firefighters took just 21 minutes to access, confine and fully extinguish an attic fire at a two story residential fourplex. No injury. Fire cause under investigation.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E215  E221  E233  E266  E33  E46  E5  E57  RA46  RA846  SQ21  T15  T21  T33  T66; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#VermontSquare</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10262023-inc1038" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, October 26, 2023 - 15:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10262023-inc1038" hreflang="en">Structure Fire 10/26/2023 INC#1038</a></title>
-  <link><a href="/alert/structure-fire-10262023-inc1038" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1038; 03:21PM; 628 W 52nd Pl; MAP: &lt;a href="https://bit.ly/46Ixb1a" target="_blank" rel="noopener"&gt;https://bit.ly/46Ixb1a&lt;/a&gt;; #VermontSquare; *Address Tentative*. PRELIM: Offensive fire attack at a 2 story home with heavy smoke showing from the attic.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E215  E221  E233  E266  E33  E46  E5  E57  RA46  RA846  SQ21  T15  T21  T33  T66; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#VermontSquare</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10262023-inc1038" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, October 26, 2023 - 15:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10252023-inc1656" hreflang="en">Structure Fire 10/25/2023 INC#1656</a></title>
-  <link><a href="/alert/structure-fire-10252023-inc1656" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1656; 10:47PM; 9306 N Woodman Av; MAP: &lt;a href="https://bit.ly/40r8Vyx" target="_blank" rel="noopener"&gt;https://bit.ly/40r8Vyx&lt;/a&gt;; Arleta; FIRE NOW OUT: One story, single family dwelling with moderate smoke showing upon LAFD arrival. Firefighters initiated an offensive operation and extinguished the contents fire in 22 minutes (30 firefighters). All occupants were out of the home upon arrival but the location of their pet dog was unknown. Firefighters located the dog (in good condition) and reunited it with the owners. One 15yo female patient was evaluated for possible smoke inhalation. The original 9-1-1 call was received at 10:25PM. No further details.; FS 7; Batt 12; Valley Bureau; Council District 6; BC12  E275  E298  E7  E75  E81  RA81  RA881  T75  T98; CH9; 17; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>Arleta</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc1656" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 22:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10252023-inc1415" hreflang="en">KNOCKDOWN Structure Fire 10/25/2023 INC#1415</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10252023-inc1415" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1415; 07:42PM; 330 N Robinson St; MAP: &lt;a href="https://bit.ly/46BBqM1" target="_blank" rel="noopener"&gt;https://bit.ly/46BBqM1&lt;/a&gt;; Westlake; KNOCKDOWN: 30 firefighters extinguished the fire in 12 minutes with no injuries reported. The building appears to be vacant and crews prevented the fire from extending up into the residential area. Cause and $ loss TBD. No further details.; FS 6; Batt 11; Central Bureau; Council District 13; BC11  E11  E20  E211  E220  E6  RA6  RA806  T11  T20; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10252023-inc1415" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 19:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10252023-inc1415" hreflang="en">Structure Fire 10/25/2023 INC#1415</a></title>
-  <link><a href="/alert/structure-fire-10252023-inc1415" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1415; 07:30PM; 330 N Robinson St; MAP: &lt;a href="https://bit.ly/46BBqM1" target="_blank" rel="noopener"&gt;https://bit.ly/46BBqM1&lt;/a&gt;; Westlake; Two story, detached building with 1 floor residential over garage - garage well involved in fire. Firefighters are in the offensive mode.; FS 6; Batt 11; Central Bureau; Council District 13; BC11  E11  E20  E211  E220  E6  RA6  RA806  T11  T20; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc1415" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 19:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-fatality-10252023-inc0543" hreflang="en">KNOCKDOWN Structure Fire - FATALITY 10/25/2023 INC#0543</a></title>
-  <link><a href="/alert/knockdown-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire - FATALITY; INC#0543; 10:53AM; 1210 E 35th St; MAP: &lt;a href="https://bit.ly/3S8G8wp" target="_blank" rel="noopener"&gt;https://bit.ly/3S8G8wp&lt;/a&gt;; Central-Alameda; KNOCKDOWN: 30 firefighters extinguished the fire in 35 minutes. The fire extended from a room in the back of the house up into the attic. While conducting their primary search of the involved room, firefighters located a deceased victim. LAFD Arson is responding for the investigation (protocol). LAFD PIO Captain Cody Weireter is responding for media availability. LA County Medical Examiner-Coroner will be the agency determining cause of death and patient identification. LAPD Inc# 1575 No further details.; FS 14; Batt 1; Central Bureau; Council District 9; AR1  BC1  E14  E15  E215  E221  E46  EM1  PI3  RA15  RA46  RA815  SO1  T15  T21; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire - FATALITY</category>
-                            <category>Central</category>
-                            <category>Central-Alameda</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 10:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-structure-fire-fatality-10252023-inc0543" hreflang="en">Update Structure Fire - FATALITY 10/25/2023 INC#0543</a></title>
-  <link><a href="/alert/update-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></link>
-  <description>Update Structure Fire - FATALITY; INC#0543; 10:46AM; 1210 E 35th St; MAP: &lt;a href="https://bit.ly/3S8G8wp" target="_blank" rel="noopener"&gt;https://bit.ly/3S8G8wp&lt;/a&gt;; Central-Alameda; While firefighters continued to fight the fire which extended into the attic, crews conducted a search of the involved room and located one patient. Sadly (adult male) the patient is beyond medical help and determined deceased on scene. LAFD Arson will respond for the investigation per protocol for a fatality. Any questions regarding the patient are referred to the LA County Medical Examiner-Coroner who will handle cause death and patient identification. ; FS 14; Batt 1; Central Bureau; Council District 9; AR1  BC1  E14  E15  E215  E221  E46  EM1  RA15  RA46  RA815  SO1  T15  T21; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire - FATALITY</category>
-                            <category>Central</category>
-                            <category>Central-Alameda</category>
-                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-fatality-10252023-inc0543" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 10:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10252023-inc0543" hreflang="en">Structure Fire 10/25/2023 INC#0543</a></title>
-  <link><a href="/alert/structure-fire-10252023-inc0543" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0543; 10:18AM; 1210 E 35th St; MAP: &lt;a href="https://bit.ly/3S8G8wp" target="_blank" rel="noopener"&gt;https://bit.ly/3S8G8wp&lt;/a&gt;; Central-Alameda; One story, single family dwelling with smoke showing upon arrival. Firefighters are in the offensive mode and located fire in one room. ; FS 14; Batt 1; Central Bureau; Council District 9; BC1  E14  E15  E215  E221  E46  RA15  RA815  T15  T21; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>Central-Alameda</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10252023-inc0543" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 10:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">KNOCKDOWN Structure Fire 10/25/2023 INC#0217</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0217; 06:04AM; 1281 W Exposition Bl; MAP: &lt;a href="https://bit.ly/494axlr" target="_blank" rel="noopener"&gt;https://bit.ly/494axlr&lt;/a&gt;; Exposition Park; KNOCKDOWN: 40 firefighters extinguished the fire in 33 minutes with no injuries reported. Crews anticipated to be on scene for another hour for overhaul. No further details.; FS 15; Batt 13; South Bureau; Council District 8; BC13  E15  E215  E226  E26  E34  E46  RA15  RA34  RA815  RA834  SQ21  T15  T26; CH7; 12  13; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Exposition Park</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10252023-inc0217" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, October 25, 2023 - 06:32</pubDate>
+                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-10292023-inc0749" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, October 29, 2023 - 12:06</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
