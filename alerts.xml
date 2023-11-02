@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 01 Nov 2023 15:51:26 -0700</lastBuildDate>
-<pubDate>Wed, 01 Nov 2023 15:28:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5"/>
+<lastBuildDate>Thu, 02 Nov 2023 05:43:41 -0700</lastBuildDate>
+<pubDate>Thu, 02 Nov 2023 05:43:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/contained-brush-fire-11022023-inc0158" hreflang="en">CONTAINED Brush Fire 11/02/2023 INC#0158</a></title>
+  <link><a href="/alert/contained-brush-fire-11022023-inc0158" hreflang="en">view</a></link>
+  <description>CONTAINED Brush Fire; INC#0158; 04:57AM; 291 S Av 52; MAP: &lt;a href="https://bit.ly/3ucjLqe" target="_blank" rel="noopener"&gt;https://bit.ly/3ucjLqe&lt;/a&gt;; #HighlandPark; Firefighters found a slow-moving brush fire in steep terrain, with very light wind. Crews surrounded the burning vegetation with hose lines and fire breaks (created with hand tools) and contained the fire to approximately 1.5 acres. It took 52 firefighters 94 minutes to extinguish the flames. No injuries. No structures damaged. Cause under investigation.; FS 12; Batt 2; Central Bureau; Council District 1; AO1  AO2  BC1  BC2  BP47  E1  E12  E16  E201  E212  E290  E44  E47  E55  EM1  H1  H3  H4  H7  HA1  HA3  HA4  HA7  SO1  T1  T12  T90; CH7; 12; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Central</category>
+                            <category>#HighlandPark</category>
+                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-11022023-inc0158" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, November 2, 2023 - 05:43</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-11022023-inc0158" hreflang="en">Brush Fire 11/02/2023 INC#0158</a></title>
+  <link><a href="/alert/brush-fire-11022023-inc0158" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#0158; 03:23AM; 291 S Av 52; MAP: &lt;a href="https://bit.ly/3ucjLqe" target="_blank" rel="noopener"&gt;https://bit.ly/3ucjLqe&lt;/a&gt;; #HighlandPark; Approximately one-half-acre of brush burning on a hill  in or near Debs Park. ; FS 12; Batt 2; Central Bureau; Council District 1; AO1  AO2  BC1  BC2  E1  E12  E201  E212  E290  E44  E47  E55  EM1  H1  H3  H4  H7  HA1  HA3  HA4  HA7  T1  T12  T90; CH5; 12; Nicholas Prange</description>
+  <category>Brush Fire</category>
+                            <category>Central</category>
+                            <category>#HighlandPark</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-11022023-inc0158" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, November 2, 2023 - 03:44</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/contained-brush-fire-11012023-inc1018" hreflang="en">CONTAINED Brush Fire 11/01/2023 INC#1018</a></title>
   <link><a href="/alert/contained-brush-fire-11012023-inc1018" hreflang="en">view</a></link>
   <description>CONTAINED Brush Fire; INC#1018; 02:42PM; 1379 N Miller Dr; MAP: &lt;a href="https://bit.ly/3FFcKGH" target="_blank" rel="noopener"&gt;https://bit.ly/3FFcKGH&lt;/a&gt;; #HollywoodHillsWest; Firefighters from LAFD and LA County FD both responded to the brush fire burning on a steep slope between several homes. Crews made a strong stand, to hold the fire to less than one-half of an acre, and protected ALL neighboring homes. Crews will remain in the area to fortify containment lines and eliminate any remaining hot spots or smoldering debris. Approximately 48 LAFD firefighters, along with LA County FD personnel, took approximately 80 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 41; Batt 5; West Bureau; Council District 4; BC14  BC5  BP44  CM40  CM42  E261  E27  E290  E292  E41  E58  E61  E71  E97  EA1  EM9  H1  H4  H7  HA1  HA4  HA7  PI2  RA61  RA97  T61  T90; CH7; 12; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-11012023-inc1018" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 1, 2023 - 15:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-11012023-inc1018" hreflang="en">Brush Fire 11/01/2023 INC#1018</a></title>
@@ -29,7 +51,7 @@
                             <category>#HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-11012023-inc1018" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 1, 2023 - 13:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11012023-inc0185" hreflang="en">KNOCkDOWn Structure Fire 11/01/2023 INC#0185</a></title>
@@ -40,7 +62,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11012023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 1, 2023 - 03:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11012023-inc0185" hreflang="en">Structure Fire 11/01/2023 INC#0185</a></title>
@@ -51,7 +73,7 @@
                             <category>Valley Glen</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11012023-inc0185" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 1, 2023 - 03:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-brush-fire-forward-progress-stopped-10312023-inc1899" hreflang="en">Update Brush Fire - Forward Progress Stopped 10/31/2023 INC#1899</a></title>
@@ -62,7 +84,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/update-brush-fire-forward-progress-stopped-10312023-inc1899" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 31, 2023 - 23:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-10312023-inc1899" hreflang="en">Brush Fire 10/31/2023 INC#1899</a></title>
@@ -73,7 +95,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-10312023-inc1899" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 31, 2023 - 23:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/vehicle-building-10312023-inc1783" hreflang="en">Vehicle Into Building 10/31/2023 INC#1783</a></title>
@@ -84,7 +106,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-building-10312023-inc1783" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 31, 2023 - 21:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-10312023-inc1263" hreflang="en">KNOCKDOWN Structure Fire 10/31/2023 INC#1263</a></title>
@@ -95,29 +117,7 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10312023-inc1263" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, October 31, 2023 - 16:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-10312023-inc1263" hreflang="en">Structure Fire 10/31/2023 INC#1263</a></title>
-  <link><a href="/alert/structure-fire-10312023-inc1263" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1263; 04:09PM; 5 Mustang Ln; MAP: &lt;a href="https://bit.ly/45SBRAw" target="_blank" rel="noopener"&gt;https://bit.ly/45SBRAw&lt;/a&gt;; outside city; Two story, single family dwelling with light smoke showing on the 2nd floor with unconfirmed reports of two people possibly still upstairs.. Firefighters are in the offensive mode.; FS 106; Batt 17; Valley Bureau; Council District outside city; BC15  BC17  E105  E106  E2  E20  E296  E305  E472  E63  RA104  RA106  RA72  T105  T96; CH9; 18; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>outside city</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-10312023-inc1263" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, October 31, 2023 - 16:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-10312023-inc0712" hreflang="en">KNOCKDOWN Structure Fire 10/31/2023 INC#0712</a></title>
-  <link><a href="/alert/knockdown-structure-fire-10312023-inc0712" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0712; 11:50AM; 12408 W Archwood St; MAP: &lt;a href="https://bit.ly/3QGBPXO" target="_blank" rel="noopener"&gt;https://bit.ly/3QGBPXO&lt;/a&gt;; Valley Glen; KNOCKDOWN: 48 firefighters extinguished the fire in 25 minutes with no injuries reported. The fire was contained to two bedrooms and prevented from extending to the adjacent units. The primary and secondary search of the affected units did not locate any occupants. No further details.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  BC17  CM40  CM42  E102  E239  E260  E278  E288  E60  E88  E89  E90  RA102  RA39  RA889  RA89  T39  T60  T78  T88; CH9; 17; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>Valley Glen</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-10312023-inc0712" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, October 31, 2023 - 11:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=7339bd66-797d-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
