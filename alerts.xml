@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Fri, 03 Nov 2023 19:55:41 -0700</lastBuildDate>
-<pubDate>Fri, 03 Nov 2023 19:55:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 04 Nov 2023 07:16:33 -0700</lastBuildDate>
+<pubDate>Sat, 04 Nov 2023 02:20:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/trapped-vehicle-fatality-11042023-inc0065" hreflang="en">Trapped Vehicle - Fatality 11/04/2023 INC#0065</a></title>
+  <link><a href="/alert/trapped-vehicle-fatality-11042023-inc0065" hreflang="en">view</a></link>
+  <description>Trapped Vehicle - Fatality; INC#0065; 01:19AM; 18101 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/40qgAwN" target="_blank" rel="noopener"&gt;https://bit.ly/40qgAwN&lt;/a&gt;; Northridge; Two car collision with one car against a building, one sheared hydrant, and three patients trapped. Firefighters conducted the auto extrication and transported three patients in *at least* serious condition. Additionally,  two patients were determined dead on scene. All questions regarding the collision are referred to LAPD Traffic Division Inc# 0255. Drivers are advised to avoid the area as vehicles will remain in place until the completion of LAPD investigation and will impact traffic flow. ; FS 103; Batt 15; Valley Bureau; Council District 12; BC15  E103  E104  E273  E290  E70  E73  EM15  EM17  EM9  HR3  RA100  RA104  RA70  RA73  RA87  T73  T90  UR88; CH8; 17; Margaret Stewart</description>
+  <category>Trapped Vehicle - Fatality</category>
+                            <category>Valley</category>
+                            <category>Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/trapped-vehicle-fatality-11042023-inc0065" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 4, 2023 - 02:20</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/traffic-11032023-inc1675" hreflang="en">Traffic 11/03/2023 INC#1675</a></title>
   <link><a href="/alert/traffic-11032023-inc1675" hreflang="en">view</a></link>
   <description>Traffic; INC#1675; 07:35PM; 799 N Almar Av; MAP: &lt;a href="https://bit.ly/46Z2uF2" target="_blank" rel="noopener"&gt;https://bit.ly/46Z2uF2&lt;/a&gt;; Pacific Palisades; Multi-vehicle collision with six patients; three in *at least* serious condition and three with non-life threatening injuries (ages/genders unknown at this time). Any questions regarding the collision are referred to LAPD Traffic Division Inc# 4211.; FS 69; Batt 9; West Bureau; Council District 11; BC9  E23  E269  E69  EM17  EM9  RA37  RA59  RA69  RA837  RA862  T69; CH4; 13; Margaret Stewart</description>
@@ -18,7 +29,7 @@
                             <category>Pacific Palisades</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-11032023-inc1675" hreflang="en">view</a></guid>
                             <pubDate>Friday, November 3, 2023 - 19:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11032023-inc0311" hreflang="en">KNOCKDOWN Structure Fire 11/03/2023 INC#0311</a></title>
@@ -29,7 +40,7 @@
                             <category>Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11032023-inc0311" hreflang="en">view</a></guid>
                             <pubDate>Friday, November 3, 2023 - 06:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11032023-inc0311" hreflang="en">Structure Fire 11/03/2023 INC#0311</a></title>
@@ -40,7 +51,7 @@
                             <category>Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11032023-inc0311" hreflang="en">view</a></guid>
                             <pubDate>Friday, November 3, 2023 - 06:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/jumper-11022023-inc1492" hreflang="en">Jumper 11/02/2023 INC#1492</a></title>
@@ -51,7 +62,7 @@
                             <category>Van Nuys</category>
                             <guid isPermaLink="false"><a href="/alert/jumper-11022023-inc1492" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 19:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11022023-inc0820" hreflang="en">KNOCKDOWN Structure Fire 11/02/2023 INC#0820</a></title>
@@ -62,7 +73,7 @@
                             <category>Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11022023-inc0820" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 12:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fire-out-structure-fire-11022023-inc0832" hreflang="en">FIRE OUT Structure Fire 11/02/2023 INC#0832</a></title>
@@ -73,7 +84,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/fire-out-structure-fire-11022023-inc0832" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 12:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-high-rise-11022023-inc0832" hreflang="en">Structure Fire - High Rise 11/02/2023 INC#0832</a></title>
@@ -84,7 +95,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-high-rise-11022023-inc0832" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 12:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-11022023-inc0820" hreflang="en">Update Structure Fire 11/02/2023 INC#0820</a></title>
@@ -95,7 +106,7 @@
                             <category>Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-11022023-inc0820" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 12:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11022023-inc0820" hreflang="en">Structure Fire 11/02/2023 INC#0820</a></title>
@@ -106,18 +117,7 @@
                             <category>Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11022023-inc0820" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 2, 2023 - 12:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-updated-address-structure-fire-11022023-inc0770" hreflang="en">KNOCKDOWN (Updated address) Structure Fire 11/02/2023 INC#0770</a></title>
-  <link><a href="/alert/knockdown-updated-address-structure-fire-11022023-inc0770" hreflang="en">view</a></link>
-  <description>KNOCKDOWN (Updated address) Structure Fire; INC#0770; 12:09PM; 713 W 77th St; MAP: &lt;a href="https://bit.ly/3QIEksX" target="_blank" rel="noopener"&gt;https://bit.ly/3QIEksX&lt;/a&gt;; Vermont Knolls; KNOCKDOWN: 30 firefighters extinguished the fire in 25 minutes with no injuries reported. Firefighters contained the fire to the garage, preventing extension to the home and other buildings off the alley. No further details.; FS 57; Batt 13; South Bureau; Council District 8; BC13  E233  E264  E266  E33  E46  E57  E64  RA264  RA857  SO1  SQ21  T33  T64; CH7; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Vermont Knolls</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-updated-address-structure-fire-11022023-inc0770" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, November 2, 2023 - 12:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a387cd54-7abd-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
