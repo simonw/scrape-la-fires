@@ -5,11 +5,44 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Mon, 06 Nov 2023 14:48:41 -0800</lastBuildDate>
-<pubDate>Mon, 06 Nov 2023 14:48:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 07 Nov 2023 08:06:38 -0800</lastBuildDate>
+<pubDate>Tue, 07 Nov 2023 08:06:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">KNOCKDOWN Structure Fire 11/07/2023 INC#0336</a></title>
+  <link><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0336; 07:46AM; 9321 N Ventura Wy; MAP: &lt;a href="https://bit.ly/3SuUuYc" target="_blank" rel="noopener"&gt;https://bit.ly/3SuUuYc&lt;/a&gt;; #Chatsworth; The first 18 LAFD Firefighters, along with VCFD firefighters, extinguished the flames consuming a two-story home in 23 minutes. No reported injuries. Cause under investigation.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC15  BC17  CM40  CM42  E106  E107  E296  RA96  T96; CH8; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Chatsworth</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, November 7, 2023 - 08:06</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">Structure Fire 11/07/2023 INC#0336</a></title>
+  <link><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0336; 07:23AM; 9321 N Ventura Wy; MAP: &lt;a href="https://bit.ly/3SuUuYc" target="_blank" rel="noopener"&gt;https://bit.ly/3SuUuYc&lt;/a&gt;; #Chatsworth; Fire showing from the second floor of a two-story single-family home. Offensive mode.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC17  E106  E107  E296  RA96  T96; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Chatsworth</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, November 7, 2023 - 07:43</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">Fatality - Train vs Pedestrian 11/07/2023 INC#0302</a></title>
+  <link><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">view</a></link>
+  <description>Fatality - Train vs Pedestrian; INC#0302; 06:54AM; 8615 N Lindley Av; MAP: &lt;a href="https://bit.ly/40qrSRC" target="_blank" rel="noopener"&gt;https://bit.ly/40qrSRC&lt;/a&gt;; #Northridge; Sadly, one person was fatally struck by a train. The tracks have been shut down. No other patients. LAPD Inc #0743. Nothing further.; FS 103; Batt 15; Valley Bureau; Council District 12; BC15  E103  E273  E70  E73  EM15  HR3  RA70  RA73  T73  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Fatality - Train vs Pedestrian</category>
+                            <category>Valley</category>
+                            <category>#Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, November 7, 2023 - 07:22</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">Contained -  Brush Fire 11/06/2023 INC#1063</a></title>
   <link><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">view</a></link>
   <description>Contained -  Brush Fire; INC#1063; 02:40PM; 8358 Big Canyon Dr; MAP: &lt;a href="https://bit.ly/49mdBcT" target="_blank" rel="noopener"&gt;https://bit.ly/49mdBcT&lt;/a&gt;; #Sunland; LAFD ground and air units with assistance from Los Angeles County and Angeles National Forest Firefighting ground crews, have stopped forward progress of the flames to a 100' x 100' area of light-to-medium grass. mostly in a drainage area. No injury. No structure damage. No evacuation. LAFD and allied agency ground crews will continue operations this afternoon to complete final extinguishment and create a bare soil perimeter. Fire cause under investigation.
@@ -20,7 +53,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 14:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-11062023-inc1063" hreflang="en">Brush Fire 11/06/2023 INC#1063</a></title>
@@ -31,7 +64,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-11062023-inc1063" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 14:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-11062023-inc0146" hreflang="en">Knockdown -  Greater Alarm Structure Fire 11/06/2023 INC#0146</a></title>
@@ -42,7 +75,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-11062023-inc0146" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 04:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-11062023-inc0146" hreflang="en">Greater Alarm Structure Fire 11/06/2023 INC#0146</a></title>
@@ -53,7 +86,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-11062023-inc0146" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 03:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">Update Train vs. Vehicle 11/05/2023 INC#1476</a></title>
@@ -64,7 +97,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 5, 2023 - 20:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">Train vs. Vehicle 11/05/2023 INC#1476</a></title>
@@ -75,7 +108,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 5, 2023 - 19:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fatality-traffic-collision-11052023-inc0368" hreflang="en">Fatality Traffic Collision 11/05/2023 INC#0368</a></title>
@@ -86,40 +119,7 @@
                             <category>South Park</category>
                             <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-11052023-inc0368" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 5, 2023 - 06:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/fatality-traffic-collision-11052023-inc0327" hreflang="en">Fatality Traffic Collision 11/05/2023 INC#0327</a></title>
-  <link><a href="/alert/fatality-traffic-collision-11052023-inc0327" hreflang="en">view</a></link>
-  <description>Fatality Traffic Collision; INC#0327; 05:11AM; 100 E 17th St; MAP: &lt;a href="https://bit.ly/3QKH60I" target="_blank" rel="noopener"&gt;https://bit.ly/3QKH60I&lt;/a&gt;; #Downtown; PRELIM: Minivan vs. Metro Bus, possibly related to an LAPD pursuit. 5 civilian adult patients total, including one who was briefly trapped in the minivan: Patients: One is deceased and remains at scene. Three transported by ambulance in undetermined condition to an area hospital. One female transit bus operator (the only person aboard the bus) has declined treatment or ambulance transportation. Media Inquiries: LAPD Central Traffic Division (Incident #859) and Medical Examiner.; FS 10; Batt 1; Central Bureau; Council District 14; BC1  E10  E14  E209  E210  E9  EM1  EM11  HR3  RA10  RA209  RA809  RA810  RA9  T10  T9; CH7; 12; Brian Humphrey</description>
-  <category>Fatality Traffic Collision</category>
-                            <category>Central</category>
-                            <category>#Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-11052023-inc0327" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, November 5, 2023 - 06:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-greater-alarm-structure-fire-11042023-inc1684" hreflang="en">Knockdown -  Greater Alarm Structure Fire 11/04/2023 INC#1684</a></title>
-  <link><a href="/alert/knockdown-greater-alarm-structure-fire-11042023-inc1684" hreflang="en">view</a></link>
-  <description>Knockdown -  Greater Alarm Structure Fire; INC#1684; 10:23PM; 3719 S Western Av; MAP: &lt;a href="https://bit.ly/3REsMrl" target="_blank" rel="noopener"&gt;https://bit.ly/3REsMrl&lt;/a&gt;; #ExpositionPark; 84 Firefighters took just 20 minutes to access, confine and fully extinguish fire through the roof of a vacant one-story 940 square foot commercial building, the site of a previous fire. No injury. Fire cause under active investigation.; FS 34; Batt 18; South Bureau; Council District 8; AR1  BC11  BC13  BC18  BC5  CM20  CM22  E15  E215  E226  E227  E26  E266  E27  E294  E34  E66  EA1  EM9  HR3  RA27  RA34  RA826  SO1  SQ21  T15  T26  T27  T66  T94  UR27  UR88; CH9; 12  13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>South</category>
-                            <category>#ExpositionPark</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-11042023-inc1684" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, November 4, 2023 - 22:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/greater-alarm-structure-fire-11042023-inc1684" hreflang="en">Greater Alarm Structure Fire 11/04/2023 INC#1684</a></title>
-  <link><a href="/alert/greater-alarm-structure-fire-11042023-inc1684" hreflang="en">view</a></link>
-  <description>Greater Alarm Structure Fire; INC#1684; 10:03PM; 3719 S Western Av; MAP: &lt;a href="https://bit.ly/3REsMrl" target="_blank" rel="noopener"&gt;https://bit.ly/3REsMrl&lt;/a&gt;; Exposition Park; PRELIM: One story commercial building, the site of a previous blaze, with fire through the roof.; FS 34; Batt 18; South Bureau; Council District 8; BC11  BC13  BC18  BC5  CM20  CM22  E15  E215  E226  E227  E26  E266  E27  E294  E34  E66  EM9  HR3  RA27  RA34  RA826  SO1  SQ21  T15  T26  T27  T66  T94  UR27  UR88; CH9; 12  13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>South</category>
-                            <category>Exposition Park</category>
-                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-11042023-inc1684" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, November 4, 2023 - 22:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a15d53e4-7cf6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
