@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 07 Nov 2023 08:06:38 -0800</lastBuildDate>
-<pubDate>Tue, 07 Nov 2023 08:06:00 -0800</pubDate>
+<lastBuildDate>Tue, 07 Nov 2023 19:46:36 -0800</lastBuildDate>
+<pubDate>Tue, 07 Nov 2023 19:46:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">Structure Fire - Now Out 11/07/2023 INC#1522</a></title>
+  <link><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#1522; 07:20PM; 5255 N Bellingham Av; MAP: &lt;a href="https://bit.ly/3QOXbCv" target="_blank" rel="noopener"&gt;https://bit.ly/3QOXbCv&lt;/a&gt;; #ValleyVillage; Thirty-two LAFD firefighters quickly extinguished a kitchen fire in one unit of a three-story garden-style apartment building (bottom floor is parking) in 20 minutes (7:40pm). The fire was contained to the unit of origin, and did not spread to adjacent units. No reported injuries. Cause under investigation.; FS 60; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E278  E289  E60  RA78  RA878  T60  T78  T89; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>Valley</category>
+                            <category>#ValleyVillage</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, November 7, 2023 - 19:46</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">KNOCKDOWN Structure Fire 11/07/2023 INC#0336</a></title>
   <link><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0336; 07:46AM; 9321 N Ventura Wy; MAP: &lt;a href="https://bit.ly/3SuUuYc" target="_blank" rel="noopener"&gt;https://bit.ly/3SuUuYc&lt;/a&gt;; #Chatsworth; The first 18 LAFD Firefighters, along with VCFD firefighters, extinguished the flames consuming a two-story home in 23 minutes. No reported injuries. Cause under investigation.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC15  BC17  CM40  CM42  E106  E107  E296  RA96  T96; CH8; 17; Nicholas Prange</description>
@@ -108,17 +119,6 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 5, 2023 - 19:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/fatality-traffic-collision-11052023-inc0368" hreflang="en">Fatality Traffic Collision 11/05/2023 INC#0368</a></title>
-  <link><a href="/alert/fatality-traffic-collision-11052023-inc0368" hreflang="en">view</a></link>
-  <description>Fatality Traffic Collision; INC#0368; 06:17AM; 5821 S Central Av; MAP: &lt;a href="https://bit.ly/3u20VHW" target="_blank" rel="noopener"&gt;https://bit.ly/3u20VHW&lt;/a&gt;; South Park; PRELIM: Two vehicle traffic collision. Two patients total: One is deceased and remains at scene. One transported to an area hospital by LAFD Paramedics in undetermined condition. No further details. Media Inquiries: LAPD Central Traffic Division (Incident #956) and Medical Examiner.; FS 21; Batt 13; South Bureau; Council District 9; BC13  E221  E233  E33  E46  EM13  HR3  RA21  RA33  T21  T33; CH7; 12; Brian Humphrey</description>
-  <category>Fatality Traffic Collision</category>
-                            <category>South</category>
-                            <category>South Park</category>
-                            <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-11052023-inc0368" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, November 5, 2023 - 06:35</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
