@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 08 Nov 2023 15:10:24 -0800</lastBuildDate>
-<pubDate>Wed, 08 Nov 2023 15:10:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5"/>
+<lastBuildDate>Thu, 09 Nov 2023 09:33:42 -0800</lastBuildDate>
+<pubDate>Thu, 09 Nov 2023 09:33:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/grass-fire-11092023-inc0499" hreflang="en">Grass Fire 11/09/2023 INC#0499</a></title>
+  <link><a href="/alert/grass-fire-11092023-inc0499" hreflang="en">view</a></link>
+  <description>Grass Fire; INC#0499; 09:14AM; 15700 W Burbank Bl; MAP: &lt;a href="https://bit.ly/3aPmUFx" target="_blank" rel="noopener"&gt;https://bit.ly/3aPmUFx&lt;/a&gt;; #SepulvedaBasin; Approximately one-quarter-acre of grass burning, with 10mph winds. No structures threatened.; FS 88; Batt 10; Valley Bureau; Council District 6; BC10  CW3A  DT1  DZ45  E288  E39  E8138  E83  E88  HE1  T88  WT88; CH8; 17; Nicholas Prange</description>
+  <category>Grass Fire</category>
+                            <category>Valley</category>
+                            <category>#SepulvedaBasin</category>
+                            <guid isPermaLink="false"><a href="/alert/grass-fire-11092023-inc0499" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, November 9, 2023 - 09:33</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">Brush Fire - Now Stopped 11/08/2023 INC#1086</a></title>
   <link><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">view</a></link>
   <description>Brush Fire - Now Stopped; INC#1086; 02:29PM; 500 N Buena Vista Dr; MAP: &lt;a href="https://bit.ly/466W8Ct" target="_blank" rel="noopener"&gt;https://bit.ly/466W8Ct&lt;/a&gt;; #ElysianPark; Firefighters responded to reports of a brush fire in the Elysian Park area. They arrived quickly to find less than 1/10th of an acre burning, and prevented any further growth, and extinguished the flames. Crews will remain on scene to ensure all smoldering debris and hot spots are eliminated. No reported injuries. Cause under investigation.; FS 1; Batt 2; Central Bureau; Council District 1; AO1  AO2  BC1  BC2  E1  E12  E201  E203  E250  E290  E3  E44  E56  EM1  EM11  H3  H4  H7  HA3  HA4  HA7  T1  T3  T50  T90; CH5; 14; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 8, 2023 - 15:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">Structure Fire - Now Out 11/07/2023 INC#1522</a></title>
@@ -29,7 +40,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 19:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">KNOCKDOWN Structure Fire 11/07/2023 INC#0336</a></title>
@@ -40,7 +51,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 08:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">Structure Fire 11/07/2023 INC#0336</a></title>
@@ -51,7 +62,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 07:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">Fatality - Train vs Pedestrian 11/07/2023 INC#0302</a></title>
@@ -62,7 +73,7 @@
                             <category>#Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 07:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">Contained -  Brush Fire 11/06/2023 INC#1063</a></title>
@@ -75,7 +86,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 14:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-11062023-inc1063" hreflang="en">Brush Fire 11/06/2023 INC#1063</a></title>
@@ -86,7 +97,7 @@
                             <category>#Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-11062023-inc1063" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 14:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-11062023-inc0146" hreflang="en">Knockdown -  Greater Alarm Structure Fire 11/06/2023 INC#0146</a></title>
@@ -97,7 +108,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-11062023-inc0146" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 04:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-11062023-inc0146" hreflang="en">Greater Alarm Structure Fire 11/06/2023 INC#0146</a></title>
@@ -108,18 +119,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-11062023-inc0146" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 6, 2023 - 03:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">Update Train vs. Vehicle 11/05/2023 INC#1476</a></title>
-  <link><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></link>
-  <description>Update Train vs. Vehicle; INC#1476; 08:05PM; 5319 S Long Beach Av; MAP: &lt;a href="https://bit.ly/40oEIjo" target="_blank" rel="noopener"&gt;https://bit.ly/40oEIjo&lt;/a&gt;; #CentralAlameda; The one person briefly trapped in the overturned vehicle was freed by LAFD Firefighters, and has been taken to a regional trauma center in serious condition. The one train passenger with non-specific complaints, was medically evaluated by LAFD Paramedics and has declined ambulance transportation. No other injuries reported. With the temporary closure of both directions of Metro 'A' (Blue) Line light rail service in the vicinity of the incident (between Slauson Station and Vernon Stations) until LAPD operations are complete (unknown duration), Metro will make alternate transportation arrangements for the train operator and approximately 60 passengers aboard the train, who were uninjured. Train Riders: Follow @MetroLAAlerts ( https://twitter.com/MetroLAAlerts ) on Twitter/X for service updates. Media Inquiries: LAPD Central Traffic Division (Incident #3419) and Metro.; FS 21; Batt 13; South Bureau; Council District 9; BC1  BC13  E14  E21  E221  EM13  HR3  RA14  RA17  RA814  SQ21  T21; CH7; 12; Brian Humphrey</description>
-  <category>Train vs. Vehicle</category>
-                            <category>South</category>
-                            <category>#CentralAlameda</category>
-                            <guid isPermaLink="false"><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, November 5, 2023 - 20:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1f5439a1-7f26-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
