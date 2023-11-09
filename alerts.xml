@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 08 Nov 2023 03:55:47 -0800</lastBuildDate>
-<pubDate>Tue, 07 Nov 2023 19:46:00 -0800</pubDate>
+<lastBuildDate>Wed, 08 Nov 2023 15:10:24 -0800</lastBuildDate>
+<pubDate>Wed, 08 Nov 2023 15:10:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">Brush Fire - Now Stopped 11/08/2023 INC#1086</a></title>
+  <link><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">view</a></link>
+  <description>Brush Fire - Now Stopped; INC#1086; 02:29PM; 500 N Buena Vista Dr; MAP: &lt;a href="https://bit.ly/466W8Ct" target="_blank" rel="noopener"&gt;https://bit.ly/466W8Ct&lt;/a&gt;; #ElysianPark; Firefighters responded to reports of a brush fire in the Elysian Park area. They arrived quickly to find less than 1/10th of an acre burning, and prevented any further growth, and extinguished the flames. Crews will remain on scene to ensure all smoldering debris and hot spots are eliminated. No reported injuries. Cause under investigation.; FS 1; Batt 2; Central Bureau; Council District 1; AO1  AO2  BC1  BC2  E1  E12  E201  E203  E250  E290  E3  E44  E56  EM1  EM11  H3  H4  H7  HA3  HA4  HA7  T1  T3  T50  T90; CH5; 14; Nicholas Prange</description>
+  <category>Brush Fire - Now Stopped</category>
+                            <category>Central</category>
+                            <category>#ElysianPark</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, November 8, 2023 - 15:10</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">Structure Fire - Now Out 11/07/2023 INC#1522</a></title>
   <link><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#1522; 07:20PM; 5255 N Bellingham Av; MAP: &lt;a href="https://bit.ly/3QOXbCv" target="_blank" rel="noopener"&gt;https://bit.ly/3QOXbCv&lt;/a&gt;; #ValleyVillage; Thirty-two LAFD firefighters quickly extinguished a kitchen fire in one unit of a three-story garden-style apartment building (bottom floor is parking) in 20 minutes (7:40pm). The fire was contained to the unit of origin, and did not spread to adjacent units. No reported injuries. Cause under investigation.; FS 60; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E278  E289  E60  RA78  RA878  T60  T78  T89; CH9; 17; Nicholas Prange</description>
@@ -108,17 +119,6 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/update-train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 5, 2023 - 20:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">Train vs. Vehicle 11/05/2023 INC#1476</a></title>
-  <link><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></link>
-  <description>Train vs. Vehicle; INC#1476; 07:25PM; 5319 S Long Beach Av; MAP: &lt;a href="https://bit.ly/40oEIjo" target="_blank" rel="noopener"&gt;https://bit.ly/40oEIjo&lt;/a&gt;; #CentralAlameda; PRELIM: Solo vehicle collided with (undetermined direction) Metro 'A' (Blue) Line light rail train. The train is upright and remains on the rails. The vehicle is overturned with one person briefly trapped in the wreckage. One train passenger with non-specific complaints has expressed a desire  for medical evaluation by LAFD Paramedics. No other injuries currently reported. #LATransit: Temporary closure of both directions of Metro 'A' (Blue) Line light rail service in the vicinity of the incident (between Slauson Station and Vernon Stations) until LAFD operations are complete, unknown duration. Train Riders: Follow @MetroLAAlerts ( https://twitter.com/MetroLAAlerts ) on Twitter/X for service updates. Media: LAPD Central Traffic Division (Incident #3419) and Metro.; FS 21; Batt 13; South Bureau; Council District 9; BC1  BC13  E14  E21  E221  EM13  HR3  RA14  T21; CH7; 12; Brian Humphrey</description>
-  <category>Train vs. Vehicle</category>
-                            <category>South</category>
-                            <category>#CentralAlameda</category>
-                            <guid isPermaLink="false"><a href="/alert/train-vs-vehicle-11052023-inc1476" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, November 5, 2023 - 19:43</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
