@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Thu, 09 Nov 2023 22:06:42 -0800</lastBuildDate>
-<pubDate>Thu, 09 Nov 2023 22:06:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5"/>
+<lastBuildDate>Fri, 10 Nov 2023 08:29:42 -0800</lastBuildDate>
+<pubDate>Fri, 10 Nov 2023 08:29:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">KNOCKDOWN Structure Fire 11/10/2023 INC#0372</a></title>
+  <link><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0372; 08:28AM; 6322 S Crenshaw Bl; MAP: &lt;a href="https://bit.ly/3Qwnpbz" target="_blank" rel="noopener"&gt;https://bit.ly/3Qwnpbz&lt;/a&gt;; Hyde Park; KNOCKDOWN: The first alarm response of 30 firefighters (prior to arrival of additionally requested resources) extinguished the fire in 19 minutes with no injuries reported. Firefighters conducted a primary and secondary search with no occupants located. No other structures were damaged. No further details.; FS 66; Batt 13; South Bureau; Council District 8; BC11  BC13  CM20  CM22  E226  E233  E266  E33  E46  E57  E66  EM11  RA266  RA866  SO1  SQ21  T26  T33  T66; CH9; 12; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>Hyde Park</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">view</a></guid>
+                            <pubDate>Friday, November 10, 2023 - 08:29</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">Structure Fire 11/10/2023 INC#0372</a></title>
+  <link><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0372; 08:09AM; 6322 S Crenshaw Bl; MAP: &lt;a href="https://bit.ly/3Qwnpbz" target="_blank" rel="noopener"&gt;https://bit.ly/3Qwnpbz&lt;/a&gt;; Hyde Park; Two story, single family dwelling (vacant, boarded up) with moderate smoke showing. Firefighters are in the offensive mode.; FS 66; Batt 13; South Bureau; Council District 8; BC13  E233  E266  E46  E57  E66  RA266  RA866  SQ21  T33  T66; CH9; 12; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>Hyde Park</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">view</a></guid>
+                            <pubDate>Friday, November 10, 2023 - 08:14</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/fatality-vehicle-fire-11092023-inc1566" hreflang="en">Fatality Vehicle Fire 11/09/2023 INC#1566</a></title>
   <link><a href="/alert/fatality-vehicle-fire-11092023-inc1566" hreflang="en">view</a></link>
   <description>Fatality Vehicle Fire; INC#1566; 07:11PM; 1792 N Pasadena Av; MAP: &lt;a href="https://bit.ly/3srqgdR" target="_blank" rel="noopener"&gt;https://bit.ly/3srqgdR&lt;/a&gt;; #LincolnHeights; Earlier this evening, fire crews extinguished an automobile fire and then, sadly, discovered that one person was deceased, relating to the fire. LAFD Investigators are looking into the circumstances surrounding the incident. LAPD Inc #4147. Nothing further.; FS 1; Batt 2; Central Bureau; Council District 1; AR1  BC2  E1; CH7; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/fatality-vehicle-fire-11092023-inc1566" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 9, 2023 - 22:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/vehicle-fire-11092023-inc1755" hreflang="en">Vehicle Fire 11/09/2023 INC#1755</a></title>
@@ -29,7 +51,7 @@
                             <category>#WestAdams</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-fire-11092023-inc1755" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 9, 2023 - 21:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-grass-fire-11092023-inc0499" hreflang="en">CONTAINED Grass Fire 11/09/2023 INC#0499</a></title>
@@ -40,7 +62,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/contained-grass-fire-11092023-inc0499" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 9, 2023 - 10:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/grass-fire-11092023-inc0499" hreflang="en">Grass Fire 11/09/2023 INC#0499</a></title>
@@ -51,7 +73,7 @@
                             <category>#SepulvedaBasin</category>
                             <guid isPermaLink="false"><a href="/alert/grass-fire-11092023-inc0499" hreflang="en">view</a></guid>
                             <pubDate>Thursday, November 9, 2023 - 09:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">Brush Fire - Now Stopped 11/08/2023 INC#1086</a></title>
@@ -62,7 +84,7 @@
                             <category>#ElysianPark</category>
                             <guid isPermaLink="false"><a href="/alert/brush-fire-now-stopped-11082023-inc1086" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 8, 2023 - 15:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">Structure Fire - Now Out 11/07/2023 INC#1522</a></title>
@@ -73,7 +95,7 @@
                             <category>#ValleyVillage</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-11072023-inc1522" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 19:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">KNOCKDOWN Structure Fire 11/07/2023 INC#0336</a></title>
@@ -84,7 +106,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 08:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">Structure Fire 11/07/2023 INC#0336</a></title>
@@ -95,31 +117,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11072023-inc0336" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 7, 2023 - 07:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">Fatality - Train vs Pedestrian 11/07/2023 INC#0302</a></title>
-  <link><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">view</a></link>
-  <description>Fatality - Train vs Pedestrian; INC#0302; 06:54AM; 8615 N Lindley Av; MAP: &lt;a href="https://bit.ly/40qrSRC" target="_blank" rel="noopener"&gt;https://bit.ly/40qrSRC&lt;/a&gt;; #Northridge; Sadly, one person was fatally struck by a train. The tracks have been shut down. No other patients. LAPD Inc #0743. Nothing further.; FS 103; Batt 15; Valley Bureau; Council District 12; BC15  E103  E273  E70  E73  EM15  HR3  RA70  RA73  T73  UR88; CH8; 17; Nicholas Prange</description>
-  <category>Fatality - Train vs Pedestrian</category>
-                            <category>Valley</category>
-                            <category>#Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/fatality-train-vs-pedestrian-11072023-inc0302" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, November 7, 2023 - 07:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">Contained -  Brush Fire 11/06/2023 INC#1063</a></title>
-  <link><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">view</a></link>
-  <description>Contained -  Brush Fire; INC#1063; 02:40PM; 8358 Big Canyon Dr; MAP: &lt;a href="https://bit.ly/49mdBcT" target="_blank" rel="noopener"&gt;https://bit.ly/49mdBcT&lt;/a&gt;; #Sunland; LAFD ground and air units with assistance from Los Angeles County and Angeles National Forest Firefighting ground crews, have stopped forward progress of the flames to a 100' x 100' area of light-to-medium grass. mostly in a drainage area. No injury. No structure damage. No evacuation. LAFD and allied agency ground crews will continue operations this afternoon to complete final extinguishment and create a bare soil perimeter. Fire cause under investigation.
-
-; FS 74; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC2  BP74  CM40  CM42  DZ45  E260  E274  E275  E289  E290  E298  E60  E75  E77  E8139  E89  EM12  H1  H3  H4  H7  HA1  HA3  HA4  HA7  HE1  RA77  RA90  T74  T89  T90  T98  WT88 + LACoFD + ANF; CH5; 17; Brian Humphrey</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>#Sunland</category>
-                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-11062023-inc1063" hreflang="en">view</a></guid>
-                            <pubDate>Monday, November 6, 2023 - 14:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=50b146c3-7f8f-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=58f71332-7fe6-11ee-b874-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
