@@ -5,11 +5,77 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5"/>
-<lastBuildDate>Sat, 11 Nov 2023 02:55:42 -0800</lastBuildDate>
-<pubDate>Sat, 11 Nov 2023 02:33:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 11 Nov 2023 21:47:07 -0800</lastBuildDate>
+<pubDate>Sat, 11 Nov 2023 21:47:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-multicasualty-incident-11112023-inc1614" hreflang="en">Traffic - Multi-Casualty Incident 11/11/2023 INC#1614</a></title>
+  <link><a href="/alert/traffic-multicasualty-incident-11112023-inc1614" hreflang="en">view</a></link>
+  <description>Traffic - Multi-Casualty Incident; INC#1614; 09:46PM; 930 W King Bl; MAP: &lt;a href="https://bit.ly/3QUfwy7" target="_blank" rel="noopener"&gt;https://bit.ly/3QUfwy7&lt;/a&gt;; Exposition Park; Multi-vehicle collision with a total of 12 patients. Five patients transported in *at least* serious condition. Of the seven remaining patients, two were transported with non-life threatening injuries and five declined LAFD transport. Any questions regarding the collision are referred to LAPD Inc# 3453. The original 9-1-1 call was received at 8:44PM.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E15  E215  E46  EM1  EM13  EM9  HR3  RA14  RA15  RA34  RA46  RA813  RA814  RA815  RA846  T15; CH7; 13; Margaret Stewart</description>
+  <category>Traffic - Multi-Casualty Incident</category>
+                            <category>South</category>
+                            <category>Exposition Park</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-multicasualty-incident-11112023-inc1614" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 21:47</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/traffic-11112023-inc1397" hreflang="en">Traffic 11/11/2023 INC#1397</a></title>
+  <link><a href="/alert/traffic-11112023-inc1397" hreflang="en">view</a></link>
+  <description>Traffic; INC#1397; 06:19PM; 18101 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/40qgAwN" target="_blank" rel="noopener"&gt;https://bit.ly/40qgAwN&lt;/a&gt;; Northridge; Two car collision with auto fire, wires down on all four corners, and a sheared hydrant. There was no one trapped. One patient is being assessed (age/gender/condition unknown). Questions regarding the collision are referred to LAPD Traffic Division Inc# 2894; FS 103; Batt 15; Valley Bureau; Council District 12; BC15  E103  E104  E273  E70  EM15  HR3  RA107  RA73  T73  UR88; CH8; 17; Margaret Stewart</description>
+  <category>Traffic</category>
+                            <category>Valley</category>
+                            <category>Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-11112023-inc1397" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 18:32</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-boat-or-ship-fire-11112023-inc1202" hreflang="en">KNOCKDOWN Boat or Ship Fire 11/11/2023 INC#1202</a></title>
+  <link><a href="/alert/knockdown-boat-or-ship-fire-11112023-inc1202" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Boat or Ship Fire; INC#1202; 04:16PM; Berth 85 Spd; MAP: &lt;a href="https://bit.ly/47lyseM" target="_blank" rel="noopener"&gt;https://bit.ly/47lyseM&lt;/a&gt;; San Pedro; The first arriving fire companies achieved a quick knockdown with one patient being evaluated for possible smoke inhalation. No further details.; FS 112; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT3  BT5  E101  E112  E248  E285  E48  RA101  RA112  T48  T85; CH7; 15; Margaret Stewart</description>
+  <category>Boat or Ship Fire</category>
+                            <category>South</category>
+                            <category>San Pedro</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-boat-or-ship-fire-11112023-inc1202" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 16:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/boat-fire-11112023-inc1202" hreflang="en">Boat Fire 11/11/2023 INC#1202</a></title>
+  <link><a href="/alert/boat-fire-11112023-inc1202" hreflang="en">view</a></link>
+  <description>Boat Fire; INC#1202; 04:08PM; Berth 85 Spd; MAP: &lt;a href="https://bit.ly/47lyseM" target="_blank" rel="noopener"&gt;https://bit.ly/47lyseM&lt;/a&gt;; San Pedro; Approximately 50' sport fishing boat well involved in fire. Initial reports are no occupants on the boat.; FS 112; Batt 6; South Bureau; Council District 15; BC6  BT2  BT3  BT5  E101  E112  E248  E285  E48  RA101  RA112  T48  T85; CH7; 15; Margaret Stewart</description>
+  <category>Boat Fire</category>
+                            <category>South</category>
+                            <category>San Pedro</category>
+                            <guid isPermaLink="false"><a href="/alert/boat-fire-11112023-inc1202" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 16:14</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/forward-progress-stopped-brush-fire-forward-progress-stopped-11112023-inc0787" hreflang="en">FORWARD PROGRESS STOPPED Brush Fire - Forward Progress Stopped 11/11/2023 INC#0787</a></title>
+  <link><a href="/alert/forward-progress-stopped-brush-fire-forward-progress-stopped-11112023-inc0787" hreflang="en">view</a></link>
+  <description>FORWARD PROGRESS STOPPED Brush Fire - Forward Progress Stopped; INC#0787; 12:42PM; Eb 210 Fy; MAP: &lt;a href="https://bit.ly/3QCQFh2" target="_blank" rel="noopener"&gt;https://bit.ly/3QCQFh2&lt;/a&gt;; Sunland; All forward progress stopped and incident will be handled by the LAFD resources onscene. LA County Fire and Verdugo Fire resources canceled. No injuries reported. No further details.; FS 24; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  CM40  CM42  E24  E260  E274  E290  E298  E39  E60  E7  E77  E98  EM14  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA77  RA90  T60  T74  T90  T98  WT88; CH5; 17; Margaret Stewart</description>
+  <category>Brush Fire - Forward Progress Stopped</category>
+                            <category>Valley</category>
+                            <category>Sunland</category>
+                            <guid isPermaLink="false"><a href="/alert/forward-progress-stopped-brush-fire-forward-progress-stopped-11112023-inc0787" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 12:42</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">Brush Fire 11/11/2023 INC#0787</a></title>
+  <link><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">view</a></link>
+  <description>Brush Fire; INC#0787; 12:12PM; Eb 210 Fy; MAP: &lt;a href="https://bit.ly/3QCQFh2" target="_blank" rel="noopener"&gt;https://bit.ly/3QCQFh2&lt;/a&gt;; Sunland; One RV well involved in fire, extending into the brush. Approximately 3/4 acre in medium fuel, burning uphill. Firefighters have lines in place to anchor the fire.; FS 24; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  CM40  CM42  E24  E260  E274  E290  E298  E39  E60  E7  E77  E98  EM14  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA77  RA90  T60  T74  T90  T98  WT88; CH5; 17; Margaret Stewart</description>
+  <category>Brush Fire</category>
+                            <category>Valley</category>
+                            <category>Sunland</category>
+                            <guid isPermaLink="false"><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, November 11, 2023 - 12:33</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-structure-fire-11112023-inc0031-1" hreflang="en">Update Structure Fire 11/11/2023 INC#0031</a></title>
   <link><a href="/alert/update-structure-fire-11112023-inc0031-1" hreflang="en">view</a></link>
   <description>Update Structure Fire; INC#0031; 02:33AM; 1745 E 14th St; MAP: &lt;a href="https://bit.ly/3udjCbS" target="_blank" rel="noopener"&gt;https://bit.ly/3udjCbS&lt;/a&gt;; Downtown; The fire load in both pallet yards is mostly consumed. Firefighters have successfully defended three exposed commercial buildings from fire extension. The fire impinged the underside of the 10 Freeway and CalTrans is on scene for freeway inspection. CHP has a full closure of the 10 Freeway with traffic being diverted EB at Alameda and WB at Santa Fe. Follow https://cad.chp.ca.gov/Traffic.aspx for traffic updates. The cross arm of high tension wire is down on 14th St with energized lines, LADWP is on scene to handle. LAFD Heavy Equipment operators are enroute to assist with moving the debris to provide firefighters access to the pockets of fire. Official knockdown is not yet declared but the overhaul operation will last throughout the morning. LAFD PIO Firefighter David Ortiz is on scene for media availability. ; FS 17; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC13  BC5  CM20  CM22  E10  E11  E12  E14  E17  E2  E201  E202  E203  E209  E21  E210  E211  E215  E220  E221  E233  E235  E25  E260  E29  E3  E35  E4  E9  EA1  EM1  EX1  HE1  HR3  PI4  RA14  RA17  RA3  RS3  SQ21  T1  T10  T11  T15  T2  T20  T21  T3  T33  T35  T60  T9  UR3  UR88; CH9; 12  13; Margaret Stewart</description>
@@ -18,7 +84,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-11112023-inc0031-1" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 11, 2023 - 02:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-11112023-inc0031-0" hreflang="en">Update Structure Fire 11/11/2023 INC#0031</a></title>
@@ -29,7 +95,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-11112023-inc0031-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 11, 2023 - 01:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-11112023-inc0031" hreflang="en">Update Structure Fire 11/11/2023 INC#0031</a></title>
@@ -40,7 +106,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-11112023-inc0031" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 11, 2023 - 01:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11112023-inc0031" hreflang="en">Structure Fire 11/11/2023 INC#0031</a></title>
@@ -51,73 +117,7 @@
                             <category>Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11112023-inc0031" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 11, 2023 - 00:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-chemical-spill-final-11102023-inc0709" hreflang="en">Update Chemical Spill FINAL 11/10/2023 INC#0709</a></title>
-  <link><a href="/alert/update-chemical-spill-final-11102023-inc0709" hreflang="en">view</a></link>
-  <description>Update FINAL Chemical Spill; INC#0709; 03:56PM; 1168 La Live Wy; MAP: &lt;a href="https://bit.ly/3QBQH8U" target="_blank" rel="noopener"&gt;https://bit.ly/3QBQH8U&lt;/a&gt;; Downtown; LAFD Hazardous Materials Squad classified the product as non-hazardous and surveyed all areas, deeming them safe to occupy. LA County Hazardous Materials is on scene and while they finalize the exact product(s) involved, they stated people in the area may continue to notice the smell due to the quantity spilled however it is not hazardous and poses no public safety concern. The incident is transitioning to LA County Health Department and any further questions are referred to their agency. ; FS 10; Batt 1; Central Bureau; Council District 9; BC1  CM20  CM22  E10  E11  E13  E209  E210  E211  E221  EM1  EM11  EM9  PI4  RA10  RA11  RA17  RA209  RA21  RA6  SQ21  T10  T11  T21; CH7; 12; Margaret Stewart</description>
-  <category>Chemical Spill</category>
-                            <category>Central</category>
-                            <category>Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/update-chemical-spill-final-11102023-inc0709" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 16:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-chemical-spill-11102023-inc0709-0" hreflang="en">Update Chemical Spill 11/10/2023 INC#0709</a></title>
-  <link><a href="/alert/update-chemical-spill-11102023-inc0709-0" hreflang="en">view</a></link>
-  <description>Update Chemical Spill; INC#0709; 03:26PM; 1168 La Live Wy; MAP: &lt;a href="https://bit.ly/3QBQH8U" target="_blank" rel="noopener"&gt;https://bit.ly/3QBQH8U&lt;/a&gt;; Downtown; A total of 33 patients (all employees of the JW Marriott hotel) were evaluated. One adult female patient was transported for a medical compliant unrelated to the incident and all other patients were released on scene. While the product in the drum is believed to a cleaning solution, the exact identification is still being investigated. This is a static situation with no public safety concerns. ; FS 10; Batt 1; Central Bureau; Council District 9; BC1  CM20  CM22  E10  E11  E13  E209  E210  E211  E221  EM1  EM11  EM9  PI4  RA10  RA11  RA17  RA209  RA21  RA6  SQ21  T10  T11  T21; CH7; 12; Margaret Stewart</description>
-  <category>Chemical Spill</category>
-                            <category>Central</category>
-                            <category>Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/update-chemical-spill-11102023-inc0709-0" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 15:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-chemical-spill-11102023-inc0709" hreflang="en">Update Chemical Spill 11/10/2023 INC#0709</a></title>
-  <link><a href="/alert/update-chemical-spill-11102023-inc0709" hreflang="en">view</a></link>
-  <description>Update Chemical Spill; INC#0709; 02:05PM; 1168 La Live Wy; MAP: &lt;a href="https://bit.ly/3QBQH8U" target="_blank" rel="noopener"&gt;https://bit.ly/3QBQH8U&lt;/a&gt;; Downtown; While HazMat trained firefighters are working to identify the product, all LA Live employees in the area are being valuated by LAFD (more than 10 but exact number being determined). Additional resources are enroute to assist with the patient triage. There are no patients currently exhibiting any signs or symptoms of a serious illness.  ; FS 10; Batt 1; Central Bureau; Council District 9; BC1  E10  E210  E221  EM11  RA10  RA11  RA209  RA21  SQ21  T10  T21; CH7; 12; Margaret Stewart</description>
-  <category>Chemical Spill</category>
-                            <category>Central</category>
-                            <category>Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/update-chemical-spill-11102023-inc0709" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 14:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/chemical-spill-11102023-inc0709" hreflang="en">Chemical Spill 11/10/2023 INC#0709</a></title>
-  <link><a href="/alert/chemical-spill-11102023-inc0709" hreflang="en">view</a></link>
-  <description>Chemical Spill; INC#0709; 01:32PM; 1168 La Live Wy; MAP: &lt;a href="https://bit.ly/3QBQH8U" target="_blank" rel="noopener"&gt;https://bit.ly/3QBQH8U&lt;/a&gt;; Downtown; A 55 gallon drum had been moved into a parking structure for cleaning when an employee complained of general sickness from fumes emanating from unknown contents (possible chemicals). The units on scene requested LAFD HazMat squad and they are preparing to make entry in an attempt to identify the product in question. The adult male patient was treated on scene and declined ambulance transport. There are no other patients. The HVAC units near the drum are shut down and there are no evacuations required. The original 9-1-1 call was received at 11:58AM.; FS 10; Batt 1; Central Bureau; Council District 9; BC1  E10  E210  E221  RA10  RA11  RA21  SQ21  T10  T21; CH7; 12; Margaret Stewart</description>
-  <category>Chemical Spill</category>
-                            <category>Central</category>
-                            <category>Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/chemical-spill-11102023-inc0709" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 13:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">KNOCKDOWN Structure Fire 11/10/2023 INC#0372</a></title>
-  <link><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0372; 08:28AM; 6322 S Crenshaw Bl; MAP: &lt;a href="https://bit.ly/3Qwnpbz" target="_blank" rel="noopener"&gt;https://bit.ly/3Qwnpbz&lt;/a&gt;; Hyde Park; KNOCKDOWN: The first alarm response of 30 firefighters (prior to arrival of additionally requested resources) extinguished the fire in 19 minutes with no injuries reported. Firefighters conducted a primary and secondary search with no occupants located. No other structures were damaged. No further details.; FS 66; Batt 13; South Bureau; Council District 8; BC11  BC13  CM20  CM22  E226  E233  E266  E33  E46  E57  E66  EM11  RA266  RA866  SO1  SQ21  T26  T33  T66; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Hyde Park</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11102023-inc0372" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 08:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">Structure Fire 11/10/2023 INC#0372</a></title>
-  <link><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0372; 08:09AM; 6322 S Crenshaw Bl; MAP: &lt;a href="https://bit.ly/3Qwnpbz" target="_blank" rel="noopener"&gt;https://bit.ly/3Qwnpbz&lt;/a&gt;; Hyde Park; Two story, single family dwelling (vacant, boarded up) with moderate smoke showing. Firefighters are in the offensive mode.; FS 66; Batt 13; South Bureau; Council District 8; BC13  E233  E266  E46  E57  E66  RA266  RA866  SQ21  T33  T66; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>Hyde Park</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-11102023-inc0372" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 10, 2023 - 08:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=dac3b86b-8080-11ee-b874-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
