@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 13 Nov 2023 08:52:43 -0800</lastBuildDate>
-<pubDate>Sun, 12 Nov 2023 20:09:00 -0800</pubDate>
+<lastBuildDate>Mon, 13 Nov 2023 21:25:37 -0800</lastBuildDate>
+<pubDate>Mon, 13 Nov 2023 19:45:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-11132023-inc1701" hreflang="en">Traffic Collision 11/13/2023 INC#1701</a></title>
+  <link><a href="/alert/traffic-collision-11132023-inc1701" hreflang="en">view</a></link>
+  <description>Traffic Collision; INC#1701; 07:29PM; 5400 N Canoga Av; MAP: &lt;a href="https://bit.ly/40JyJWz" target="_blank" rel="noopener"&gt;https://bit.ly/40JyJWz&lt;/a&gt;; #WoodlandHills; PRELIM: Three car traffic collision with a total of five patients, including one or more trapped in the wreckage. No further details. Media Inquiries: LAPD Valley Traffic Division (Incident #3725); FS 84; Batt 17; Valley Bureau; Council District 3; BC17  E305  E84  EM15  EM17  RA105  RA84  RA881  RA903  T105  UR88; CH8; 17; Brian Humphrey</description>
+  <category>Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>#WoodlandHills</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-11132023-inc1701" hreflang="en">view</a></guid>
+                            <pubDate>Monday, November 13, 2023 - 19:45</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-11122023-inc1439" hreflang="en">Structure Fire 11/12/2023 INC#1439</a></title>
   <link><a href="/alert/structure-fire-11122023-inc1439" hreflang="en">view</a></link>
   <description>Structure Fire; INC#1439; 07:44PM; 14155 W Magnolia Bl; MAP: &lt;a href="https://bit.ly/49Bcvdi" target="_blank" rel="noopener"&gt;https://bit.ly/49Bcvdi&lt;/a&gt;; Sherman Oaks; FIRE NOW OUT: Firefighters located a small kitchen fire in a 2nd floor unit of a two story garden style apartment building. They quickly extinguished the fire and transported an adult male patient in serious condition with various burn injuries. LAFD Arson is responding for the investigation per protocol for a burn injury. The original 9-1-1 call was received at 7:31PM. No further details.  ; FS 88; Batt 10; Valley Bureau; Council District 4; AR1  BC10  E102  E239  E288  E39  E99  RA39  RA839  T39  T88; CH8; 17; Margaret Stewart</description>
@@ -106,17 +117,6 @@
                             <category>Sunland</category>
                             <guid isPermaLink="false"><a href="/alert/forward-progress-stopped-brush-fire-forward-progress-stopped-11112023-inc0787" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 11, 2023 - 12:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">Brush Fire 11/11/2023 INC#0787</a></title>
-  <link><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#0787; 12:12PM; Eb 210 Fy; MAP: &lt;a href="https://bit.ly/3QCQFh2" target="_blank" rel="noopener"&gt;https://bit.ly/3QCQFh2&lt;/a&gt;; Sunland; One RV well involved in fire, extending into the brush. Approximately 3/4 acre in medium fuel, burning uphill. Firefighters have lines in place to anchor the fire.; FS 24; Batt 12; Valley Bureau; Council District 7; BC10  BC12  BC14  CM40  CM42  E24  E260  E274  E290  E298  E39  E60  E7  E77  E98  EM14  H1  H3  H4  H7  HA1  HA3  HA4  HA7  RA77  RA90  T60  T74  T90  T98  WT88; CH5; 17; Margaret Stewart</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>Sunland</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-11112023-inc0787" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, November 11, 2023 - 12:33</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
