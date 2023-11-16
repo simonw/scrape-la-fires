@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5"/>
-<lastBuildDate>Wed, 15 Nov 2023 21:36:42 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 16 Nov 2023 07:49:25 -0800</lastBuildDate>
 <pubDate>Wed, 15 Nov 2023 14:24:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-11152023-inc0848" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 14:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-11152023-inc0950" hreflang="en">Knockdown -  Greater Alarm Structure Fire 11/15/2023 INC#0950</a></title>
@@ -29,7 +29,7 @@
                             <category>#GramercyPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-11152023-inc0950" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 13:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-11152023-inc0950" hreflang="en">Greater Alarm Structure Fire 11/15/2023 INC#0950</a></title>
@@ -40,7 +40,7 @@
                             <category>#GramercyPark</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-11152023-inc0950" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 13:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-11152023-inc0848" hreflang="en">Greater Alarm Structure Fire 11/15/2023 INC#0848</a></title>
@@ -51,7 +51,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-11152023-inc0848" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 12:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/vegetation-fire-11152023-inc0683" hreflang="en">Vegetation Fire 11/15/2023 INC#0683</a></title>
@@ -62,7 +62,7 @@
                             <category>#LincolnHeights</category>
                             <guid isPermaLink="false"><a href="/alert/vegetation-fire-11152023-inc0683" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 11:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/arson-suspect-arrested-media-advisory-11152023" hreflang="en">ARSON SUSPECT ARRESTED -  MEDIA ADVISORY 11/15/2023</a></title>
@@ -72,7 +72,7 @@
                             <category>#BoyleHeights / #Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/arson-suspect-arrested-media-advisory-11152023" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 10:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11152023-inc0240" hreflang="en">Knockdown -  Structure Fire 11/15/2023 INC#0240</a></title>
@@ -83,7 +83,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11152023-inc0240" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 05:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11152023-inc0240" hreflang="en">Structure Fire 11/15/2023 INC#0240</a></title>
@@ -94,7 +94,7 @@
                             <category>#EchoPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11152023-inc0240" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 05:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11152023-inc0202" hreflang="en">Knockdown -  Structure Fire 11/15/2023 INC#0202</a></title>
@@ -105,7 +105,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11152023-inc0202" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 05:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11152023-inc0202" hreflang="en">Structure Fire 11/15/2023 INC#0202</a></title>
@@ -116,7 +116,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11152023-inc0202" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, November 15, 2023 - 04:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1e9aa97a-8442-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
