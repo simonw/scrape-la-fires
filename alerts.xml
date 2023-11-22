@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5"/>
-<lastBuildDate>Tue, 21 Nov 2023 21:21:42 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 22 Nov 2023 09:43:38 -0800</lastBuildDate>
 <pubDate>Tue, 21 Nov 2023 21:21:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11212023-inc1705" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 21:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11212023-inc1705" hreflang="en">Structure Fire 11/21/2023 INC#1705</a></title>
@@ -29,7 +29,7 @@
                             <category>Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11212023-inc1705" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 21:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-technical-rescue-fatality-11212023-inc0895" hreflang="en">Update Technical Rescue - FATALITY 11/21/2023 INC#0895</a></title>
@@ -40,7 +40,7 @@
                             <category>Cheviot Hills</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-fatality-11212023-inc0895" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 14:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-11212023-inc0895" hreflang="en">Technical Rescue 11/21/2023 INC#0895</a></title>
@@ -51,7 +51,7 @@
                             <category>Cheviot Hills</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-11212023-inc0895" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 13:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11212023-inc0682" hreflang="en">KNOCKDOWN Structure Fire 11/21/2023 INC#0682</a></title>
@@ -62,7 +62,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11212023-inc0682" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 11:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11212023-inc0682" hreflang="en">Structure Fire 11/21/2023 INC#0682</a></title>
@@ -73,7 +73,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11212023-inc0682" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 11:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11212023-inc0127" hreflang="en">KNOCKDOWN  Structure Fire 11/21/2023 INC#0127</a></title>
@@ -84,7 +84,7 @@
                             <category>West Adams</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11212023-inc0127" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 03:09</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11212023-inc0127" hreflang="en">Structure Fire 11/21/2023 INC#0127</a></title>
@@ -95,7 +95,7 @@
                             <category>West Adams</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11212023-inc0127" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 21, 2023 - 02:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-vs-ped-11202023-inc1591" hreflang="en">Auto vs Ped 11/20/2023 INC#1591</a></title>
@@ -106,7 +106,7 @@
                             <category>Studio City</category>
                             <guid isPermaLink="false"><a href="/alert/auto-vs-ped-11202023-inc1591" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 20, 2023 - 19:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11202023-inc1292" hreflang="en">KNOCKDOWN Structure Fire 11/20/2023 INC#1292</a></title>
@@ -117,7 +117,7 @@
                             <category>Baldwin Hills/Crenshaw</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11202023-inc1292" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 20, 2023 - 16:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=046b8da4-88f7-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
