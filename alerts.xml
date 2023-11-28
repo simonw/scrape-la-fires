@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5"/>
-<lastBuildDate>Mon, 27 Nov 2023 09:33:42 -0800</lastBuildDate>
-<pubDate>Mon, 27 Nov 2023 09:33:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 27 Nov 2023 14:59:35 -0800</lastBuildDate>
+<pubDate>Mon, 27 Nov 2023 11:50:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">KNOCKDOWN Structure Fire 11/27/2023 INC#0767</a></title>
+  <link><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0767; 11:36AM; 6844 W Sunset Bl; MAP: &lt;a href="https://bit.ly/3QWsgDa" target="_blank" rel="noopener"&gt;https://bit.ly/3QWsgDa&lt;/a&gt;; #Hollywood; Firefighters found fire in one room on the first floor of the vacant commercial building. It took 30 firefighters 21 minutes to extinguish the flames. One firefighter sustained a non-life-threatening injury and will be transported for further care. Cause under investigation.; FS 27; Batt 5; West Bureau; Council District 13; BC11  BC5  CM52  E227  E261  E61  E76  E82  RA76  RA82  SO1  T27  T61; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>#Hollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">view</a></guid>
+                            <pubDate>Monday, November 27, 2023 - 11:50</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-11272023-inc0767" hreflang="en">Structure Fire 11/27/2023 INC#0767</a></title>
+  <link><a href="/alert/structure-fire-11272023-inc0767" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0767; 11:15AM; 6844 W Sunset Bl; MAP: &lt;a href="https://bit.ly/3QWsgDa" target="_blank" rel="noopener"&gt;https://bit.ly/3QWsgDa&lt;/a&gt;; #Hollywood; Two-story vacant commercial with fire showing. Offensive mode.; FS 27; Batt 5; West Bureau; Council District 13; BC11  BC5  CM52  E227  E261  E61  E76  E82  RA76  RA82  SO1  T27  T61; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>#Hollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-11272023-inc0767" hreflang="en">view</a></guid>
+                            <pubDate>Monday, November 27, 2023 - 11:30</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-physical-rescue-11272023-inc0471" hreflang="en">Update Physical Rescue 11/27/2023 INC#0471</a></title>
   <link><a href="/alert/update-physical-rescue-11272023-inc0471" hreflang="en">view</a></link>
   <description>Update Physical Rescue; INC#0471; 09:20AM; 11300 W Foothill Bl; MAP: &lt;a href="https://bit.ly/3N3AV5L" target="_blank" rel="noopener"&gt;https://bit.ly/3N3AV5L&lt;/a&gt;; #LakeViewTerrace; Firefighters successfully freed the trapped victim. Five total patients were assessed by LAFD Paramedics on scene. Three will not be transported by LAFD. The other two are being taken to a local hospital with non-life-threatening injuries. LAPD Inc #1180. Nothing further.; FS 98; Batt 12; Valley Bureau; Council District 7; BC12  E24  E298  E77  E98  EM15  FR91  HR3  RA74  RA898  RA91  RA98  T98  UR88; CH8; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#LakeViewTerrace</category>
                             <guid isPermaLink="false"><a href="/alert/update-physical-rescue-11272023-inc0471" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 27, 2023 - 09:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/physical-rescue-11272023-inc0471" hreflang="en">Physical Rescue 11/27/2023 INC#0471</a></title>
@@ -29,7 +51,7 @@
                             <category>#LakeViewTerrace</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-11272023-inc0471" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 27, 2023 - 09:12</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-physical-rescue-11262023-inc1550" hreflang="en">Update Physical Rescue 11/26/2023 INC#1550</a></title>
@@ -40,7 +62,7 @@
                             <category>#Pasadena</category>
                             <guid isPermaLink="false"><a href="/alert/update-physical-rescue-11262023-inc1550" hreflang="en">view</a></guid>
                             <pubDate>Monday, November 27, 2023 - 00:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/physical-rescue-11262023-inc1550" hreflang="en">Physical Rescue 11/26/2023 INC#1550</a></title>
@@ -51,7 +73,7 @@
                             <category>#EagleRock</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-11262023-inc1550" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 26, 2023 - 23:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11262023-inc1533" hreflang="en">KNOCKDOWN Structure Fire 11/26/2023 INC#1533</a></title>
@@ -62,7 +84,7 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11262023-inc1533" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 26, 2023 - 23:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11262023-inc1533" hreflang="en">Structure Fire 11/26/2023 INC#1533</a></title>
@@ -73,7 +95,7 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11262023-inc1533" hreflang="en">view</a></guid>
                             <pubDate>Sunday, November 26, 2023 - 23:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-11252023-inc0985" hreflang="en">Structure Fire - Now Out 11/25/2023 INC#0985</a></title>
@@ -84,7 +106,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-11252023-inc0985" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 25, 2023 - 15:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11252023-inc0869" hreflang="en">KNOCKDOWN Structure Fire 11/25/2023 INC#0869</a></title>
@@ -95,29 +117,7 @@
                             <category>#Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11252023-inc0869" hreflang="en">view</a></guid>
                             <pubDate>Saturday, November 25, 2023 - 15:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-11252023-inc0869" hreflang="en">Structure Fire 11/25/2023 INC#0869</a></title>
-  <link><a href="/alert/structure-fire-11252023-inc0869" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0869; 02:11PM; 17639 W Osborne St; MAP: &lt;a href="https://bit.ly/3SR5QWC" target="_blank" rel="noopener"&gt;https://bit.ly/3SR5QWC&lt;/a&gt;; #Northridge; One-story home with fire showing. Offensive mode.; FS 103; Batt 15; Valley Bureau; Council District 12; BC10  BC15  E103  E273  E287  E70  E87  RA70  RA87  T73  T87; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-11252023-inc0869" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, November 25, 2023 - 14:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-greater-alarm-fire-11242023-inc1521" hreflang="en">Knockdown -  Greater Alarm Fire 11/24/2023 INC#1521</a></title>
-  <link><a href="/alert/knockdown-greater-alarm-fire-11242023-inc1521" hreflang="en">view</a></link>
-  <description>Knockdown -  Greater Alarm Fire; INC#1521; 10:05PM; 901 E New Dock St; MAP: &lt;a href="https://bit.ly/3DZwG6m" target="_blank" rel="noopener"&gt;https://bit.ly/3DZwG6m&lt;/a&gt;; #SanPedro; 68 LAFD Firefighters took just 46 minutes in defensive firefighting operations to extinguish heavy fire in a 100' x 100' open roofed metal-clad industrial building at "SA Recycling Terminal Island" ( https://www.sarecycling.com/yard/sa-recycling-terminal-island ) a metal recycling firm on Terminal Island, at least 200 yards from the waterline at the Port of Los Angeles. The burning materials appear to be metal scrap and other debris, apparently related to automobile recycling. No injury. No evacuation. Fire cause under investigation.; FS 40; Batt 6; South Bureau; Council District 15; BC13  BC4  BC6  BT17  BT2  BT3  CM20  CM22  E112  E238  E248  E285  E36  E38  E40  E49  EM13  RA112  RA36  SO1  T38  T48  T85; CH7; 13  14; Brian Humphrey</description>
-  <category>Greater Alarm Fire</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-fire-11242023-inc1521" hreflang="en">view</a></guid>
-                            <pubDate>Friday, November 24, 2023 - 22:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1adf5031-8d4b-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
