@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 28 Nov 2023 20:45:01 -0800</lastBuildDate>
-<pubDate>Tue, 28 Nov 2023 20:44:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5"/>
+<lastBuildDate>Wed, 29 Nov 2023 16:24:42 -0800</lastBuildDate>
+<pubDate>Wed, 29 Nov 2023 16:24:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-hoist-op-11292023-inc1170" hreflang="en">Hiker Rescue - Hoist Op 11/29/2023 INC#1170</a></title>
+  <link><a href="/alert/hiker-rescue-hoist-op-11292023-inc1170" hreflang="en">view</a></link>
+  <description>Hiker Rescue - Hoist Op; INC#1170; 04:24PM; Graveyard Rd; MAP: &lt;a href="https://bit.ly/47QcvV2" target="_blank" rel="noopener"&gt;https://bit.ly/47QcvV2&lt;/a&gt;; Tujunga; LAFD Air Operations worked in close coordination with the call taker from Metro Fire Communications on the phone with the reporting party to help guide them to the hiker's location far up the hillside, near the top of a ridge. LAFD Air Ops lowered a rescuer to evaluate the patient and determined a hoist operation was appropriate. The operation is underway and the adult male will be transported to the hospital with non-life threatening fall related injuries. The original 9-1-1 call was received at 3:42PM. No further details.; FS 74; Batt 12; Valley Bureau; Council District 7; BC12  E24  E298  E90  H4  H7  HA4  HA7  RA55  RA74  RA874  RH114  T98; CH8; 17; Margaret Stewart</description>
+  <category>Hiker Rescue - Hoist Op</category>
+                            <category>Valley</category>
+                            <category>Tujunga</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-11292023-inc1170" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, November 29, 2023 - 16:24</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-11282023-inc1695" hreflang="en">Structure Fire 11/28/2023 INC#1695</a></title>
   <link><a href="/alert/structure-fire-11282023-inc1695" hreflang="en">view</a></link>
   <description>Structure Fire; INC#1695; 08:34PM; 4017 S Hooper Av; MAP: &lt;a href="https://bit.ly/3N6RT2Z" target="_blank" rel="noopener"&gt;https://bit.ly/3N6RT2Z&lt;/a&gt;; Central-Alameda; Two story, single family dwelling well involved in fire with one other home exposed. Firefighters are in the defensive mode. LADWP added due to wires down. ; FS 14; Batt 1; Central Bureau; Council District 9; BC1  BC13  E10  E14  E15  E21  E210  E215  E221  E233  E33 RA14  RA814  SQ21 T10  T15  T21  T33; CH9; 12; Margaret Stewart</description>
@@ -18,7 +29,7 @@
                             <category>Central-Alameda</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11282023-inc1695" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 20:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-11282023-inc1542" hreflang="en">KNOCKDOWN Structure Fire 11/28/2023 INC#1542</a></title>
@@ -29,7 +40,7 @@
                             <category>Vermont Square</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11282023-inc1542" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 19:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11282023-inc1542" hreflang="en">Structure Fire 11/28/2023 INC#1542</a></title>
@@ -40,7 +51,7 @@
                             <category>Vermont Square</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11282023-inc1542" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 19:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-cliff-rescue-hoist-op-11282023-inc0415" hreflang="en">Update Cliff Rescue - Hoist Op 11/28/2023 INC#0415</a></title>
@@ -51,7 +62,7 @@
                             <category>San Pedro</category>
                             <guid isPermaLink="false"><a href="/alert/update-cliff-rescue-hoist-op-11282023-inc0415" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 09:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/cliff-rescue-san-pedro-11282023-inc0415" hreflang="en">Cliff Rescue, San Pedro 11/28/2023 INC#0415</a></title>
@@ -62,7 +73,7 @@
                             <category>San Pedro</category>
                             <guid isPermaLink="false"><a href="/alert/cliff-rescue-san-pedro-11282023-inc0415" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 09:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-injuries-11282023-inc0144" hreflang="en">Update Structure Fire - with injuries 11/28/2023 INC#0144</a></title>
@@ -73,7 +84,7 @@
                             <category>Central-Alameda</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-injuries-11282023-inc0144" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 06:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-11282023-inc0144" hreflang="en">KNOCKDOWN Major Emergency Structure Fire 11/28/2023 INC#0144</a></title>
@@ -84,7 +95,7 @@
                             <category>#CentralAlameda #VernonFire</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-11282023-inc0144" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 05:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-11282023-inc0144" hreflang="en">Update Major Emergency Structure Fire 11/28/2023 INC#0144</a></title>
@@ -95,7 +106,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-11282023-inc0144" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 04:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-11282023-inc0144" hreflang="en">Structure Fire 11/28/2023 INC#0144</a></title>
@@ -106,18 +117,7 @@
                             <category>#CentralAlameda</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-11282023-inc0144" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, November 28, 2023 - 03:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">KNOCKDOWN Structure Fire 11/27/2023 INC#0767</a></title>
-  <link><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0767; 11:36AM; 6844 W Sunset Bl; MAP: &lt;a href="https://bit.ly/3QWsgDa" target="_blank" rel="noopener"&gt;https://bit.ly/3QWsgDa&lt;/a&gt;; #Hollywood; Firefighters found fire in one room on the first floor of the vacant commercial building. It took 30 firefighters 21 minutes to extinguish the flames. One firefighter sustained a non-life-threatening injury and will be transported for further care. Cause under investigation.; FS 27; Batt 5; West Bureau; Council District 13; BC11  BC5  CM52  E227  E261  E61  E76  E82  RA76  RA82  SO1  T27  T61; CH7; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-11272023-inc0767" hreflang="en">view</a></guid>
-                            <pubDate>Monday, November 27, 2023 - 11:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=da3c220b-8f16-11ee-b875-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
