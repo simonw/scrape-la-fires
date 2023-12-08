@@ -5,11 +5,55 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5"/>
-<lastBuildDate>Thu, 07 Dec 2023 10:12:42 -0800</lastBuildDate>
-<pubDate>Thu, 07 Dec 2023 07:30:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 07 Dec 2023 19:20:22 -0800</lastBuildDate>
+<pubDate>Thu, 07 Dec 2023 19:20:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-12072023-inc1416" hreflang="en">KNOCKDOWN Structure Fire 12/07/2023 INC#1416</a></title>
+  <link><a href="/alert/knockdown-structure-fire-12072023-inc1416" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1416; 07:18PM; 12970 W Branford St; MAP: &lt;a href="https://bit.ly/3dE6qo4" target="_blank" rel="noopener"&gt;https://bit.ly/3dE6qo4&lt;/a&gt;; Pacoima; KNOCKDOWN: The first arriving units made an offensive fire attack and located a contents fire within one unit, extinguishing it in 23 minutes with no injuries reported.. They prevented the fire from extending into the adjacent units (smoke only). Additional resources are canceled. ; FS 98; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC15  BC5  CM40  CM42  E227  E260  E27  E275  E289  E290  E7  E81  E87  E89  E95  E98  EM14  HR3  RA102  RA839  RA98  SQ87  SQ95  T27  T60  T75  T89  T90  UR27  UR88; CH9; 12  14  18; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>Pacoima</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12072023-inc1416" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, December 7, 2023 - 19:20</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-12072023-inc1416" hreflang="en">Structure Fire 12/07/2023 INC#1416</a></title>
+  <link><a href="/alert/structure-fire-12072023-inc1416" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1416; 06:55PM; 12970 W Branford St; MAP: &lt;a href="https://bit.ly/3dE6qo4" target="_blank" rel="noopener"&gt;https://bit.ly/3dE6qo4&lt;/a&gt;; Pacoima; Large commercial building with moderate smoke showing from one unit. Additional resources enroute. ; FS 98; Batt 12; Valley Bureau; Council District 6; BC12  BC14  BC15  BC5  CM40  CM42  E227  E260  E27  E275  E289  E290  E7  E81  E87  E89  E95  E98  EM14  HR3  RA102  RA839  RA98  SQ87  SQ95  T27  T60  T75  T89  T90  UR27  UR88; CH9; 12  18; Margaret Stewart</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>Pacoima</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-12072023-inc1416" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, December 7, 2023 - 19:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-trapped-vehicle-12072023-inc0562" hreflang="en">Update Trapped Vehicle 12/07/2023 INC#0562</a></title>
+  <link><a href="/alert/update-trapped-vehicle-12072023-inc0562" hreflang="en">view</a></link>
+  <description>Update Trapped Vehicle; INC#0562; 10:34AM; 348 N Kenter Av; MAP: &lt;a href="https://bit.ly/3sYiHMh" target="_blank" rel="noopener"&gt;https://bit.ly/3sYiHMh&lt;/a&gt;; Brentwood; Firefighters extricated the trapped driver (adult female does not appear to have life-threating injuries). It was a single car which rolled down from their driveway up the hill. The car is stable in the backyard and there is no damage to the structure. Removing the vehicle will be an extensive operation and firefighters are evaluating the situation for options. ; FS 19; Batt 9; West Bureau; Council District 11; BC9  E19  E237  E37  E59  EM9  HR3  RA19  RA71  T37  UR88; CH7; 12; Margaret Stewart</description>
+  <category>Trapped Vehicle</category>
+                            <category>West</category>
+                            <category>Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/update-trapped-vehicle-12072023-inc0562" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, December 7, 2023 - 10:35</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/trapped-vehicle-12072023-inc0562" hreflang="en">Trapped Vehicle 12/07/2023 INC#0562</a></title>
+  <link><a href="/alert/trapped-vehicle-12072023-inc0562" hreflang="en">view</a></link>
+  <description>Trapped Vehicle; INC#0562; 10:20AM; 348 N Kenter Av; MAP: &lt;a href="https://bit.ly/3sYiHMh" target="_blank" rel="noopener"&gt;https://bit.ly/3sYiHMh&lt;/a&gt;; Brentwood; One vehicle into a backyard (initial reports of rolling down into backyard) with one person trapped. ; FS 19; Batt 9; West Bureau; Council District 11; BC9  E19  E237  E37  E59  EM9  HR3  RA19  RA71  T37  UR88; CH7; 12; Margaret Stewart</description>
+  <category>Trapped Vehicle</category>
+                            <category>West</category>
+                            <category>Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/trapped-vehicle-12072023-inc0562" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, December 7, 2023 - 10:29</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-12072023-inc0294" hreflang="en">KNOCKDOWN Structure Fire 12/07/2023 INC#0294</a></title>
   <link><a href="/alert/knockdown-structure-fire-12072023-inc0294" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0294; 07:29AM; 607 W Century Bl; MAP: &lt;a href="https://bit.ly/3uLvdzc" target="_blank" rel="noopener"&gt;https://bit.ly/3uLvdzc&lt;/a&gt;; Vermont Vista; KNOCKDOWN: 32 firefighters extinguished the fire in 14 minutes with no injuries reported. The building type is updated to a two-story four plex and crews contained the fire to the one unit of origin. A primary and secondary search are clear with no occupants found. No further details.; FS 64; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E57  E64  E65  RA264  RA64  T33  T64; CH9; 12; Margaret Stewart</description>
@@ -18,7 +62,7 @@
                             <category>Vermont Vista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12072023-inc0294" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 07:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12072023-inc0294" hreflang="en">Structure Fire 12/07/2023 INC#0294</a></title>
@@ -29,7 +73,7 @@
                             <category>Vermont Vista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12072023-inc0294" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 07:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12072023-inc0068" hreflang="en">KNOCKDOWN Structure Fire 12/07/2023 INC#0068</a></title>
@@ -40,7 +84,7 @@
                             <category>#Venice</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12072023-inc0068" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 03:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12072023-inc0068" hreflang="en">Structure Fire 12/07/2023 INC#0068</a></title>
@@ -51,7 +95,7 @@
                             <category>#Venice</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12072023-inc0068" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 01:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12072023-inc0011" hreflang="en">KNOCKDOWN Structure Fire 12/07/2023 INC#0011</a></title>
@@ -62,7 +106,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12072023-inc0011" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 01:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12072023-inc0011" hreflang="en">Structure Fire 12/07/2023 INC#0011</a></title>
@@ -73,51 +117,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12072023-inc0011" hreflang="en">view</a></guid>
                             <pubDate>Thursday, December 7, 2023 - 00:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/train-vs-pedestrian-12062023-inc1530" hreflang="en">Train vs Pedestrian 12/06/2023 INC#1530</a></title>
-  <link><a href="/alert/train-vs-pedestrian-12062023-inc1530" hreflang="en">view</a></link>
-  <description>Train vs Pedestrian; INC#1530; 06:05PM; 8900 N Corbin Av; MAP: &lt;a href="https://bit.ly/4a8Kv0Y" target="_blank" rel="noopener"&gt;https://bit.ly/4a8Kv0Y&lt;/a&gt;; #Northridge; Sadly, one man (approximately 50 years old) was fatally struck by a train. Firefighter/Paramedics arrived to assess the man, only to find he was beyond medical help. The scene has been handed over to LAPD (Inc #3768) and the Medical Examiner. Nothing further.; FS 104; Batt 17; Valley Bureau; Council District 12; BC12  E28  E287  E296  E73  E8  EM15  HR3  RA75  RA93  T87  T96  UR88; CH8; 18; Nicholas Prange</description>
-  <category>Train vs Pedestrian</category>
-                            <category>Valley</category>
-                            <category>#Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-12062023-inc1530" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, December 6, 2023 - 19:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-outside-fire-12062023-inc1480" hreflang="en">KNOCKDOWN Outside Fire 12/06/2023 INC#1480</a></title>
-  <link><a href="/alert/knockdown-outside-fire-12062023-inc1480" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Outside Fire; INC#1480; 06:04PM; 19300 W Nordhoff St; MAP: &lt;a href="https://bit.ly/486uSpa" target="_blank" rel="noopener"&gt;https://bit.ly/486uSpa&lt;/a&gt;; #Northridge; Firefighters found a large homeless encampment on fire, with flames spreading to a quarter acre of grass and trees, and threatening a commercial building. Thirty-four firefighters deployed hose lines, held the flames to a quarter acre, and protected the nearby commercial building, extinguishing the flames in 25 minutes. No reported injuries. Cause under investigation.; FS 70; Batt 15; Valley Bureau; Council District 12; BC12  BC15  E103  E104  E107  E273  E296  E70  RA104  RA903  T73  T96; CH8; 17; Nicholas Prange</description>
-  <category>Outside Fire</category>
-                            <category>Valley</category>
-                            <category>#Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-outside-fire-12062023-inc1480" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, December 6, 2023 - 18:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/outside-fire-12062023-inc1480" hreflang="en">Outside Fire 12/06/2023 INC#1480</a></title>
-  <link><a href="/alert/outside-fire-12062023-inc1480" hreflang="en">view</a></link>
-  <description>Outside Fire; INC#1480; 05:39PM; 19300 W Nordhoff St; MAP: &lt;a href="https://bit.ly/486uSpa" target="_blank" rel="noopener"&gt;https://bit.ly/486uSpa&lt;/a&gt;; Northridge; Large outside (rubbish) fire, which spread to approximately one-quarter acre of vegetation, and threatening a commercial building.; FS 70; Batt 15; Valley Bureau; Council District 12; BC12  BC15  E104  E107  E273  E296  E70  RA104  RA903  T73  T96; CH9; 17; Nicholas Prange</description>
-  <category>Outside Fire</category>
-                            <category>Valley</category>
-                            <category>Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/outside-fire-12062023-inc1480" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, December 6, 2023 - 17:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-12062023-inc1386" hreflang="en">KNOCKDOWN Structure Fire 12/06/2023 INC#1386</a></title>
-  <link><a href="/alert/knockdown-structure-fire-12062023-inc1386" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1386; 05:02PM; 250 W Sepulveda St; MAP: &lt;a href="https://bit.ly/3GyzyZc" target="_blank" rel="noopener"&gt;https://bit.ly/3GyzyZc&lt;/a&gt;; #SanPedro; Firefighters found a vacant duplex with heavy fire showing from the rear unit. Crews began operating hose lines from the exterior, and knocked the flames back enough to continue the fight inside the structure (called a transitional attack), while other crews ascended ladders to the roof for vertical ventilation. Ultimately, it took 32 firefighters 16 minutes to access, confine, and extinguish the flames, before any fire reached the other unit in the duplex. No reported injuries. Cause under investigation. ; FS 112; Batt 6; South Bureau; Council District 15; BC11  BC13  BC6  CM20  CM22  E101  E112  E238  E248  E285  E36  E48  EM13  RA112  RA848  T38  T48  T85; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12062023-inc1386" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, December 6, 2023 - 17:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=35d1ca8a-952c-11ee-b875-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
