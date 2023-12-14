@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 13 Dec 2023 08:23:10 -0800</lastBuildDate>
-<pubDate>Tue, 12 Dec 2023 14:23:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5"/>
+<lastBuildDate>Wed, 13 Dec 2023 19:12:41 -0800</lastBuildDate>
+<pubDate>Wed, 13 Dec 2023 14:19:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-12132023-inc1030" hreflang="en">Knockdown - Structure Fire 12/13/2023 INC#1030</a></title>
+  <link><a href="/alert/knockdown-structure-fire-12132023-inc1030" hreflang="en">view</a></link>
+  <description>Knockdown - Structure Fire; INC#1030; 02:09PM; 19438 Lorne St; MAP: &lt;a href="https://maps.app.goo.gl/DdTpY8YPqEUbaDJJ7" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/DdTpY8YPqEUbaDJJ7&lt;/a&gt;; #Reseda; *Address / Community Name Corrected to 19438 Lorne Street in Reseda*. 32 LAFD Firefighters took just 25 minutes to access, confine and extinguish fire involving the patio and rear portion of a 1,936 square foot one-story home (built 1954). No injury. Fire cause under investigation.; FS 104; Batt 17; Valley Bureau; Council District outside city; BC15  BC17  E103  E104  E273  E296  E73  RA104  RA73  T73  T96; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Reseda</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12132023-inc1030" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, December 13, 2023 - 14:19</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-12132023-inc1030" hreflang="en">Structure Fire 12/13/2023 INC#1030</a></title>
+  <link><a href="/alert/structure-fire-12132023-inc1030" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1030; 01:44PM; 8043 N Tunney Av; MAP: &lt;a href="https://bit.ly/2zFIY3f" target="_blank" rel="noopener"&gt;https://bit.ly/2zFIY3f&lt;/a&gt;; #Winnetka; *Address Tentative*. Offensive fire attack against heavy smoke and fire to the rear of a one-story home. ; FS 104; Batt 17; Valley Bureau; Council District outside city; BC15  BC17  E103  E104  E273  E296  E73  RA104  RA73  T73  T96; CH9; 17; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Winnetka</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-12132023-inc1030" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, December 13, 2023 - 13:56</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-traffic-collision-12122023-inc1005" hreflang="en">Update Traffic Collision 12/12/2023 INC#1005</a></title>
   <link><a href="/alert/update-traffic-collision-12122023-inc1005" hreflang="en">view</a></link>
   <description>Update Traffic Collision; INC#1005; 02:20PM; SB 405 Fwy x Victory Bl; MAP: &lt;a href="https://bit.ly/48hlXBl" target="_blank" rel="noopener"&gt;https://bit.ly/48hlXBl&lt;/a&gt;; #VanNuys; Contrary to initial reports to CHP from multiple 9-1-1 callers, the vehicle is now best described as a full size commercial dump truck.; FS 39; Batt 10; Valley Bureau; Council District 6; BC15  E275  E288  E290  E39  E88  EM10  HR3  RA39  RA7  RA83  RA839  RA878  T75  T88  T90  UR88; CH8; 17; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-12122023-inc1005" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 12, 2023 - 14:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-traffic-collision-entrapment-12122023-inc1005" hreflang="en">Update Traffic Collision with Entrapment 12/12/2023 INC#1005</a></title>
@@ -29,7 +51,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/update-traffic-collision-entrapment-12122023-inc1005" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 12, 2023 - 14:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-12122023-inc1005" hreflang="en">Traffic Collision with Entrapment 12/12/2023 INC#1005</a></title>
@@ -40,7 +62,7 @@
                             <category>Van Nuys</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-12122023-inc1005" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 12, 2023 - 13:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-outside-fire-12112023-inc1349" hreflang="en">Contained -  Outside Fire 12/11/2023 INC#1349</a></title>
@@ -51,7 +73,7 @@
                             <category>#ExpositionPark</category>
                             <guid isPermaLink="false"><a href="/alert/contained-outside-fire-12112023-inc1349" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 11, 2023 - 16:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fire-12112023-inc1349" hreflang="en">Fire 12/11/2023 INC#1349</a></title>
@@ -62,7 +84,7 @@
                             <category>#ExpositionPark</category>
                             <guid isPermaLink="false"><a href="/alert/fire-12112023-inc1349" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 11, 2023 - 16:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12112023-inc0449" hreflang="en">Knockdown -  Structure Fire 12/11/2023 INC#0449</a></title>
@@ -73,7 +95,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12112023-inc0449" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 11, 2023 - 08:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12112023-inc0449" hreflang="en">Structure Fire 12/11/2023 INC#0449</a></title>
@@ -84,7 +106,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12112023-inc0449" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 11, 2023 - 07:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12102023-inc1314" hreflang="en">KNOCKDOWN Structure Fire 12/10/2023 INC#1314</a></title>
@@ -95,29 +117,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12102023-inc1314" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 10, 2023 - 17:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-12102023-inc1314" hreflang="en">Structure Fire 12/10/2023 INC#1314</a></title>
-  <link><a href="/alert/structure-fire-12102023-inc1314" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1314; 04:54PM; 2731 E Winter St; MAP: &lt;a href="https://bit.ly/3NlWkr4" target="_blank" rel="noopener"&gt;https://bit.ly/3NlWkr4&lt;/a&gt;; Boyle Heights; Single family dwelling with heavy fire showing and at least two other buildings exposed. Firefighters are in the offensive mode.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  E1  E16  E2  E202  E447  E458  RA17  RA25  SO1  SQ21  T2  T9; CH9; 12; Margaret Stewart</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>Boyle Heights</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-12102023-inc1314" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, December 10, 2023 - 17:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-hoist-op-12102023-inc0914" hreflang="en">Hiker Rescue - Hoist Op 12/10/2023 INC#0914</a></title>
-  <link><a href="/alert/hiker-rescue-hoist-op-12102023-inc0914" hreflang="en">view</a></link>
-  <description>Hiker Rescue - Hoist Op; INC#0914; 01:18PM; 589 N Los Liones Dr; MAP: &lt;a href="https://bit.ly/3TiZfnS" target="_blank" rel="noopener"&gt;https://bit.ly/3TiZfnS&lt;/a&gt;; Pacific Palisades; Firefighters located an adult female hiker with a lower leg injury. Due to her injury and location, LAFD Air Ops is preparing for a hoist operation. The 9-1-1 call was received at 12:59PM. ; FS 23; Batt 9; West Bureau; Council District 11; AO1  BC9  E23  E269  H0C  H4  H7  HA4  HA7  RA23  RH114  T69; CH7; 13; Margaret Stewart</description>
-  <category>Hiker Rescue - Hoist Op</category>
-                            <category>West</category>
-                            <category>Pacific Palisades</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-12102023-inc0914" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, December 10, 2023 - 13:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=a3eb63b8-9a2e-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
