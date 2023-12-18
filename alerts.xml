@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5"/>
-<lastBuildDate>Sun, 17 Dec 2023 21:08:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 18 Dec 2023 07:11:14 -0800</lastBuildDate>
 <pubDate>Sun, 17 Dec 2023 21:08:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 21:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">KNOCKDOWN Structure Fire 12/17/2023 INC#0405</a></title>
@@ -29,7 +29,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 07:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">Structure Fire 12/17/2023 INC#0405</a></title>
@@ -40,7 +40,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 06:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">KNOCKDOWN Structure Fire 12/16/2023 INC#1281</a></title>
@@ -51,7 +51,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">Structure Fire 12/16/2023 INC#1281</a></title>
@@ -62,7 +62,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-12162023-inc1206" hreflang="en">Traffic 12/16/2023 INC#1206</a></title>
@@ -73,7 +73,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-12162023-inc1206" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12162023-inc0844" hreflang="en">KNOCKDOWN Structure Fire 12/16/2023 INC#0844</a></title>
@@ -84,7 +84,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 13:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-12162023-inc0844-0" hreflang="en">Update Structure Fire 12/16/2023 INC#0844</a></title>
@@ -95,7 +95,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-12162023-inc0844-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 13:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-12162023-inc0844" hreflang="en">Update Structure Fire 12/16/2023 INC#0844</a></title>
@@ -106,7 +106,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 12:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12162023-inc0844" hreflang="en">Structure Fire 12/16/2023 INC#0844</a></title>
@@ -117,7 +117,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 12:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
