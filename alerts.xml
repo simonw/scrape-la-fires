@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 17 Dec 2023 09:07:40 -0800</lastBuildDate>
-<pubDate>Sun, 17 Dec 2023 07:03:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5"/>
+<lastBuildDate>Sun, 17 Dec 2023 21:08:41 -0800</lastBuildDate>
+<pubDate>Sun, 17 Dec 2023 21:08:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">Traffic - FATALITY 12/17/2023 INC#1600</a></title>
+  <link><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">view</a></link>
+  <description>Traffic - FATALITY; INC#1600; 08:55PM; 13201 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/3v4GGKg" target="_blank" rel="noopener"&gt;https://bit.ly/3v4GGKg&lt;/a&gt;; Sun Valley; Multi-vehicle collision with one fatality (age/gender unknown) and four patients with minor injuries. LAPD Inc# 3772; FS 89; Batt 14; Valley Bureau; Council District 6; BC14  E102  E239  E289  E290  E39  E89  EM14  RA39  RA89  T39  T89  T90; CH8; 17; Margaret Stewart</description>
+  <category>Traffic - FATALITY</category>
+                            <category>Valley</category>
+                            <category>Sun Valley</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, December 17, 2023 - 21:08</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">KNOCKDOWN Structure Fire 12/17/2023 INC#0405</a></title>
   <link><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0405; 06:58AM; 12321 W Riverside Dr; MAP: &lt;a href="https://bit.ly/3TrpAAg" target="_blank" rel="noopener"&gt;https://bit.ly/3TrpAAg&lt;/a&gt;; Valley Village; KNOCKDOWN: 48 firefighters extinguished the attic fire in 23 minutes. The fire was contained to the attic in one corner of the building. Salvage operations were conducted in the units below to protect against water damage. No further details.; FS 78; Batt 14; Valley Bureau; Council District 2; BC10  BC14  CM40  CM42  E102  E260  E278  E288  E289  E60  E86  E89  E97  EM14  RA60  RA78  RA878  SO1  T60  T78  T88  T89; CH9; 17; Margaret Stewart</description>
@@ -18,7 +29,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 07:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">Structure Fire 12/17/2023 INC#0405</a></title>
@@ -29,7 +40,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 06:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">KNOCKDOWN Structure Fire 12/16/2023 INC#1281</a></title>
@@ -40,7 +51,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">Structure Fire 12/16/2023 INC#1281</a></title>
@@ -51,7 +62,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-12162023-inc1206" hreflang="en">Traffic 12/16/2023 INC#1206</a></title>
@@ -62,7 +73,7 @@
                             <category>Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-12162023-inc1206" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12162023-inc0844" hreflang="en">KNOCKDOWN Structure Fire 12/16/2023 INC#0844</a></title>
@@ -73,7 +84,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 13:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-12162023-inc0844-0" hreflang="en">Update Structure Fire 12/16/2023 INC#0844</a></title>
@@ -84,7 +95,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-12162023-inc0844-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 13:10</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-12162023-inc0844" hreflang="en">Update Structure Fire 12/16/2023 INC#0844</a></title>
@@ -95,7 +106,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 12:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12162023-inc0844" hreflang="en">Structure Fire 12/16/2023 INC#0844</a></title>
@@ -106,18 +117,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12162023-inc0844" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 12:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-purple-line-ta-or-vehic-12162023-inc0830" hreflang="en">Update Purple Line TA or Vehic 12/16/2023 INC#0830</a></title>
-  <link><a href="/alert/update-purple-line-ta-or-vehic-12162023-inc0830" hreflang="en">view</a></link>
-  <description>Update Purple Line TA or Vehic; INC#0830; 12:36PM; 4936 S Crenshaw Bl; MAP: &lt;a href="https://bit.ly/4aqp8rY" target="_blank" rel="noopener"&gt;https://bit.ly/4aqp8rY&lt;/a&gt;; Hyde Park; Firefighters extricated an approximately 70yo male patient from the auto and are transporting him in serious condition. No further details.; FS 66; Batt 13; South Bureau; Council District 8; BC11  BC13  E215  E233  E294  E46  E57  E66  E68  E94  E95  EM11  HR3  RA94  SQ95  T15  T33  T94; CH7; 15; Margaret Stewart</description>
-  <category>Purple Line TA or Vehic</category>
-                            <category>South</category>
-                            <category>Hyde Park</category>
-                            <guid isPermaLink="false"><a href="/alert/update-purple-line-ta-or-vehic-12162023-inc0830" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, December 16, 2023 - 12:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=820ff38b-9d63-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
