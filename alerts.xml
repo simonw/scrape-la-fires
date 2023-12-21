@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 20 Dec 2023 08:16:02 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5"/>
+<lastBuildDate>Wed, 20 Dec 2023 19:47:41 -0800</lastBuildDate>
 <pubDate>Tue, 19 Dec 2023 21:24:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/complete-rescue-12192023-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 19, 2023 - 21:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rescue-12192023-inc1680" hreflang="en">Rescue 12/19/2023 INC#1680</a></title>
@@ -29,7 +29,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/rescue-12192023-inc1680" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 19, 2023 - 20:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rescue-12192023-inc1660" hreflang="en">Rescue 12/19/2023 INC#1660</a></title>
@@ -40,7 +40,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/rescue-12192023-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 19, 2023 - 20:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-entrapment-12192023-inc1328" hreflang="en">Traffic Collision with Entrapment 12/19/2023 INC#1328</a></title>
@@ -51,7 +51,7 @@
                             <category>#WoodlandHills</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-12192023-inc1328" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 19, 2023 - 16:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/flooding-12192023-inc1206" hreflang="en">Flooding 12/19/2023 INC#1206</a></title>
@@ -62,7 +62,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/flooding-12192023-inc1206" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 19, 2023 - 15:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">Traffic - FATALITY 12/17/2023 INC#1600</a></title>
@@ -73,7 +73,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-fatality-12172023-inc1600" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 21:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">KNOCKDOWN Structure Fire 12/17/2023 INC#0405</a></title>
@@ -84,7 +84,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 07:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">Structure Fire 12/17/2023 INC#0405</a></title>
@@ -95,7 +95,7 @@
                             <category>Valley Village</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12172023-inc0405" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 17, 2023 - 06:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">KNOCKDOWN Structure Fire 12/16/2023 INC#1281</a></title>
@@ -106,7 +106,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">Structure Fire 12/16/2023 INC#1281</a></title>
@@ -117,7 +117,7 @@
                             <category>Manchester Square</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12162023-inc1281" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 16, 2023 - 16:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b08666a8-9fb3-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
