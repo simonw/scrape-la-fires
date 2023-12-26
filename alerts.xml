@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5"/>
-<lastBuildDate>Mon, 25 Dec 2023 01:48:41 -0800</lastBuildDate>
-<pubDate>Mon, 25 Dec 2023 01:48:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Mon, 25 Dec 2023 15:01:02 -0800</lastBuildDate>
+<pubDate>Mon, 25 Dec 2023 15:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-hoist-op-12252023-inc0925" hreflang="en">Hiker Rescue - Hoist Op 12/25/2023 INC#0925</a></title>
+  <link><a href="/alert/hiker-rescue-hoist-op-12252023-inc0925" hreflang="en">view</a></link>
+  <description>Hiker Rescue - Hoist Op; INC#0925; 02:34PM; Hollywood Hills West; MAP: &lt;a href="https://bit.ly/3tswn2f" target="_blank" rel="noopener"&gt;https://bit.ly/3tswn2f&lt;/a&gt;; Hollywood Hills; LAFD Air Ops located the injured hiker mid-slope on the hillside and lowered a rescuer for assessment. The adult, female patient suffered a ground level fall and sustained a possible ankle fracture. LAFD Air Ops will conduct a hoist operation followed by hospital transport. No further details.; FS 76; Batt 5; West Bureau; Council District 4; CH7; 13; Margaret Stewart</description>
+  <category>Hiker Rescue - Hoist Op</category>
+                            <category>West</category>
+                            <category>Hollywood Hills</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-12252023-inc0925" hreflang="en">view</a></guid>
+                            <pubDate>Monday, December 25, 2023 - 15:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-fire-now-out-12252023-inc0078" hreflang="en">Structure Fire - FIRE NOW OUT 12/25/2023 INC#0078</a></title>
   <link><a href="/alert/structure-fire-fire-now-out-12252023-inc0078" hreflang="en">view</a></link>
   <description>Structure Fire - FIRE NOW OUT; INC#0078; 12:55AM; 5021 S San Pedro St; MAP: &lt;a href="https://bit.ly/3RWj0AQ" target="_blank" rel="noopener"&gt;https://bit.ly/3RWj0AQ&lt;/a&gt;; South Park; Firefighters extinguished fire in a detached bungalow in 14 minutes. Sadly two family pets were located inside, deceased. Five occupants are displaced and being assisted with immediate needs. No further details. ; FS 46; Batt 13; South Bureau; Council District 9; CH7; 12; Margaret Stewart</description>
@@ -18,7 +29,7 @@
                             <category>South Park</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-12252023-inc0078" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 25, 2023 - 01:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-fire-now-out-12252023-inc0023" hreflang="en">Structure Fire - FIRE NOW OUT 12/25/2023 INC#0023</a></title>
@@ -29,7 +40,7 @@
                             <category>Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-12252023-inc0023" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 25, 2023 - 00:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12242023-inc1209" hreflang="en">KNOCKDOWN Structure Fire 12/24/2023 INC#1209</a></title>
@@ -40,7 +51,7 @@
                             <category>Adams-Normandie</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12242023-inc1209" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 17:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12242023-inc1209" hreflang="en">Structure Fire 12/24/2023 INC#1209</a></title>
@@ -51,7 +62,7 @@
                             <category>Adams-Normandie</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12242023-inc1209" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 17:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12242023-inc0373" hreflang="en">KNOCKDOWN Structure Fire 12/24/2023 INC#0373</a></title>
@@ -62,7 +73,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12242023-inc0373" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 07:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12242023-inc0373" hreflang="en">Structure Fire 12/24/2023 INC#0373</a></title>
@@ -73,7 +84,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12242023-inc0373" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 07:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-12232023-inc0148" hreflang="en">Knockdown - Major Emergency Structure Fire 12/23/2023 INC#0148</a></title>
@@ -84,7 +95,7 @@
                             <category>#CypressPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-12232023-inc0148" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 23, 2023 - 03:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/major-emergency-structure-fire-12232023-inc0148" hreflang="en">Major Emergency Structure Fire 12/23/2023 INC#0148</a></title>
@@ -95,7 +106,7 @@
                             <category>#CypressPark</category>
                             <guid isPermaLink="false"><a href="/alert/major-emergency-structure-fire-12232023-inc0148" hreflang="en">view</a></guid>
                             <pubDate>Saturday, December 23, 2023 - 02:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-royaloakfire-major-emergency-structure-fire-12222023-inc1162" hreflang="en">Update - #RoyalOakFire -  Major Emergency Structure Fire 12/22/2023 INC#1162</a></title>
@@ -106,18 +117,7 @@
                             <category>#Encino</category>
                             <guid isPermaLink="false"><a href="/alert/update-royaloakfire-major-emergency-structure-fire-12222023-inc1162" hreflang="en">view</a></guid>
                             <pubDate>Friday, December 22, 2023 - 18:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-royaloakfire-major-emergency-structure-fire-12222023-inc1162" hreflang="en">Knockdown - #RoyalOakFire - Major Emergency Structure Fire 12/22/2023 INC#1162</a></title>
-  <link><a href="/alert/knockdown-royaloakfire-major-emergency-structure-fire-12222023-inc1162" hreflang="en">view</a></link>
-  <description>Knockdown - #RoyalOakFire - Major Emergency Structure Fire; INC#1162; 05:44PM; 15837 W Royal Oak Rd; MAP: &lt;a href="https://bit.ly/3NDPsFm" target="_blank" rel="noopener"&gt;https://bit.ly/3NDPsFm&lt;/a&gt;; #Encino; 133 LAFD Firefighters took 3 hours in largely defensive operations to access, confine and extinguish the bulk of deeply entrenched and stubborn fire within the (as much as a 17,000 square-foot?) three-story home of fire origin that was in the framing and wrapped stage of construction. No injury. Fire cause under active investigation.; FS 88; Batt 10; Valley Bureau; Council District 4; E288  E88  T88  E83  E109  RA99  E278  T78  RA78  BC10  BC14  T39  E239  CM42  CM40  UR88  HA6  H6  E90  E93  E293  T93  E87  SQ87  EM14  BC12  T89  E289  E89  UR89  HR3  BC5  SO1  HA7  H7  HA3  H3  HA5  H5  EA1  AR1  HE1  EX2  T27  E227  T61  E261  E11  E205  T75  E275  PI3; CH8; 17  18; Brian Humphrey</description>
-  <category>Major Emergency Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Encino</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-royaloakfire-major-emergency-structure-fire-12222023-inc1162" hreflang="en">view</a></guid>
-                            <pubDate>Friday, December 22, 2023 - 17:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c89aa685-a30a-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
