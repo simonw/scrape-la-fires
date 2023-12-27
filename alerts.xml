@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5"/>
-<lastBuildDate>Tue, 26 Dec 2023 21:28:41 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 27 Dec 2023 02:00:24 -0800</lastBuildDate>
 <pubDate>Tue, 26 Dec 2023 20:05:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/trapped-vehicle-12262023-inc1417" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 26, 2023 - 20:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-trapped-vehicle-12262023-inc0541" hreflang="en">Update Trapped Vehicle 12/26/2023 INC#0541</a></title>
@@ -29,7 +29,7 @@
                             <category>Palms</category>
                             <guid isPermaLink="false"><a href="/alert/update-trapped-vehicle-12262023-inc0541" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 26, 2023 - 10:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/trapped-vehicle-12262023-inc0541" hreflang="en">Trapped Vehicle 12/26/2023 INC#0541</a></title>
@@ -40,7 +40,7 @@
                             <category>Palms</category>
                             <guid isPermaLink="false"><a href="/alert/trapped-vehicle-12262023-inc0541" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, December 26, 2023 - 10:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-hoist-op-12252023-inc0925" hreflang="en">Hiker Rescue - Hoist Op 12/25/2023 INC#0925</a></title>
@@ -51,7 +51,7 @@
                             <category>Hollywood Hills</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-hoist-op-12252023-inc0925" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 25, 2023 - 15:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-fire-now-out-12252023-inc0078" hreflang="en">Structure Fire - FIRE NOW OUT 12/25/2023 INC#0078</a></title>
@@ -62,7 +62,7 @@
                             <category>South Park</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-12252023-inc0078" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 25, 2023 - 01:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-fire-now-out-12252023-inc0023" hreflang="en">Structure Fire - FIRE NOW OUT 12/25/2023 INC#0023</a></title>
@@ -73,7 +73,7 @@
                             <category>Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-fire-now-out-12252023-inc0023" hreflang="en">view</a></guid>
                             <pubDate>Monday, December 25, 2023 - 00:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12242023-inc1209" hreflang="en">KNOCKDOWN Structure Fire 12/24/2023 INC#1209</a></title>
@@ -84,7 +84,7 @@
                             <category>Adams-Normandie</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12242023-inc1209" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 17:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12242023-inc1209" hreflang="en">Structure Fire 12/24/2023 INC#1209</a></title>
@@ -95,7 +95,7 @@
                             <category>Adams-Normandie</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12242023-inc1209" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 17:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-12242023-inc0373" hreflang="en">KNOCKDOWN Structure Fire 12/24/2023 INC#0373</a></title>
@@ -106,7 +106,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-12242023-inc0373" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 07:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-12242023-inc0373" hreflang="en">Structure Fire 12/24/2023 INC#0373</a></title>
@@ -117,7 +117,7 @@
                             <category>Sun Valley</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-12242023-inc0373" hreflang="en">view</a></guid>
                             <pubDate>Sunday, December 24, 2023 - 07:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=cb10fcfc-a478-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
