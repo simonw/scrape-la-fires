@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 08 Jan 2024 07:05:28 -0800</lastBuildDate>
-<pubDate>Mon, 08 Jan 2024 07:05:00 -0800</pubDate>
+<lastBuildDate>Mon, 08 Jan 2024 18:34:39 -0800</lastBuildDate>
+<pubDate>Mon, 08 Jan 2024 18:34:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-01082024-inc1459" hreflang="en">Structure Fire - Now Out 01/08/2024 INC#1459</a></title>
+  <link><a href="/alert/structure-fire-now-out-01082024-inc1459" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#1459; 06:17PM; 5445 W Sierra Vista Av; MAP: &lt;a href="https://bit.ly/3SbBWM4" target="_blank" rel="noopener"&gt;https://bit.ly/3SbBWM4&lt;/a&gt;; #Hollywood; The first 24 firefighters arrived at a two-story garden-style apartment with light smoke showing. Firefighters quickly deployed hose lines and located a small oven fire, which damaged the nearest wall. It took 12 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 52; Batt 5; West Bureau; Council District 13; BC11  BC18  BC5  CM20  CM22  E227  E229  E235  E27  E35  E52  E82  EM1  RA27  RA82  T27  T29  T35; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>West</category>
+                            <category>#Hollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01082024-inc1459" hreflang="en">view</a></guid>
+                            <pubDate>Monday, January 8, 2024 - 18:34</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-01082024-inc0312" hreflang="en">KNOCKDOWN Structure Fire 01/08/2024 INC#0312</a></title>
   <link><a href="/alert/knockdown-structure-fire-01082024-inc0312" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0312; 06:51AM; 6413 N Donna Av; MAP: &lt;a href="https://bit.ly/3vpt1h0" target="_blank" rel="noopener"&gt;https://bit.ly/3vpt1h0&lt;/a&gt;; #Reseda; Firefighters found heavy fire coming from a one-story home, and performed a transitional attack (beginning the hose stream from just outside and advancing in). A total of 38 firefighters extinguished the flames in 22 minutes. no reported injuries. Cause under investigation.; FS 93; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E100  E273  E293  E72  E73  E93  RA73  RA872  RA93  T73  T93; CH8; 17; Nicholas Prange</description>
@@ -106,16 +117,6 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01052024-inc1528" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 5, 2024 - 20:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/lytle-creek-earthquake-information-statement-01052024" hreflang="en">Lytle Creek Earthquake Information Statement 01/05/2024</a></title>
-  <link><a href="/alert/lytle-creek-earthquake-information-statement-01052024" hreflang="en">view</a></link>
-  <description>Lytle Creek Earthquake Information Statement; 10:55AM; #LytleCreekEarthquake; The Los Angeles Fire Department remains in a normal operating mode. There have been NO reports of injury, structure or infrastructure damage within our City of Los Angeles jurisdiction related to the M4.1 earthquake near Lytle Creek California (in San Bernardino County ~44 miles northeast of downtown Los Angeles) at 10:55 AM. For additional information regarding this seismic event: https://earthquake.usgs.gov/earthquakes/eventpage/ci40455759/executive; - - Brian Humphrey</description>
-  <category>Earthquake Information Statement</category>
-                            <category>#LytleCreekEarthquake</category>
-                            <guid isPermaLink="false"><a href="/alert/lytle-creek-earthquake-information-statement-01052024" hreflang="en">view</a></guid>
-                            <pubDate>Friday, January 5, 2024 - 11:15</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
