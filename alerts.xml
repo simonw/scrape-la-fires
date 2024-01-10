@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5"/>
-<lastBuildDate>Tue, 09 Jan 2024 16:32:42 -0800</lastBuildDate>
-<pubDate>Tue, 09 Jan 2024 16:32:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 10 Jan 2024 02:49:59 -0800</lastBuildDate>
+<pubDate>Wed, 10 Jan 2024 02:49:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-01102024-inc0117" hreflang="en">Structure Fire - Now Out 01/10/2024 INC#0117</a></title>
+  <link><a href="/alert/structure-fire-now-out-01102024-inc0117" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0117; 02:25AM; 7005 N Radford Av; MAP: &lt;a href="https://bit.ly/3NTCROw" target="_blank" rel="noopener"&gt;https://bit.ly/3NTCROw&lt;/a&gt;; #NorthHollywood; Firefighters found a one-story vacant church with smoke showing. Thirty firefighters went to work to access, confine, and extinguish the flames in less than 20 minutes. No reported injuries. Cause under investigation.; FS 89; Batt 14; Valley Bureau; Council District 2; BC10  BC14  E102  E260  E278  E289  E60  E77  E89  RA889  RA89  T60  T78  T89; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>Valley</category>
+                            <category>#NorthHollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01102024-inc0117" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 10, 2024 - 02:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/water-rescue-01092024-inc1132" hreflang="en">Water Rescue 01/09/2024 INC#1132</a></title>
   <link><a href="/alert/water-rescue-01092024-inc1132" hreflang="en">view</a></link>
   <description>Water Rescue; INC#1132; 04:10PM; 25999 S Normandie Av; MAP: &lt;a href="https://bit.ly/3vsqVNx" target="_blank" rel="noopener"&gt;https://bit.ly/3vsqVNx&lt;/a&gt;; #HarborCity; LAFD responded to a water rescue to find and remove a deceased person from Machado Lake in Ken Malloy Harbor Regional Park. The victim remains at scene (no hospital transport). No other injuries reported. No further details: Media Inquiries: LAPD Harbor Division (Incident #3361) and Coroner.; FS 85; Batt 6; South Bureau; Council District 15; BC6  E285  E85  EM13  RA85  T85; CH7; 12; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#HarborCity</category>
                             <guid isPermaLink="false"><a href="/alert/water-rescue-01092024-inc1132" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 9, 2024 - 16:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01092024-inc0841" hreflang="en">KNOCKDOWN Structure Fire 01/09/2024 INC#0841</a></title>
@@ -29,7 +40,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01092024-inc0841" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 9, 2024 - 14:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01092024-inc0841" hreflang="en">Structure Fire 01/09/2024 INC#0841</a></title>
@@ -40,7 +51,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01092024-inc0841" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 9, 2024 - 13:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-01082024-inc1459" hreflang="en">Structure Fire - Now Out 01/08/2024 INC#1459</a></title>
@@ -51,7 +62,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01082024-inc1459" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 8, 2024 - 18:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01082024-inc0312" hreflang="en">KNOCKDOWN Structure Fire 01/08/2024 INC#0312</a></title>
@@ -62,7 +73,7 @@
                             <category>#Reseda</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01082024-inc0312" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 8, 2024 - 07:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01082024-inc0312" hreflang="en">Structure Fire 01/08/2024 INC#0312</a></title>
@@ -73,7 +84,7 @@
                             <category>#Reseda</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01082024-inc0312" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 8, 2024 - 06:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01072024-inc0809" hreflang="en">KNOCKDOWN Structure Fire 01/07/2024 INC#0809</a></title>
@@ -84,7 +95,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01072024-inc0809" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 7, 2024 - 13:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01072024-inc0809" hreflang="en">Structure Fire 01/07/2024 INC#0809</a></title>
@@ -95,7 +106,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01072024-inc0809" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 7, 2024 - 12:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-fatal-traffic-collision-01072024-inc0058" hreflang="en">Update Fatal Traffic Collision 01/07/2024 INC#0058</a></title>
@@ -106,18 +117,7 @@
                             <category>#CanogaPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-fatal-traffic-collision-01072024-inc0058" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 7, 2024 - 01:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/fatal-traffic-collision-01072024-inc0058" hreflang="en">Fatal Traffic Collision 01/07/2024 INC#0058</a></title>
-  <link><a href="/alert/fatal-traffic-collision-01072024-inc0058" hreflang="en">view</a></link>
-  <description>Fatal Traffic Collision; INC#0058; 12:45AM; 7600 N Topanga Canyon Bl; MAP: &lt;a href="https://bit.ly/48JQeJ7" target="_blank" rel="noopener"&gt;https://bit.ly/48JQeJ7&lt;/a&gt;; #CanogaPark; PRELIM: Three vehicle collision. Five patients total: Two deceased at scene, badly trapped in the wreckage. One critical patient and two serious patients (Undetermined Ages / Genders / Affiliation / Circumstances ) are being transported to area hospitals. #LATraffic: Closure of one or more lanes at or near the intersection of Topanga Canyon Boulevard and Saticoy Street until LAPD and Medical Examiner operations are complete, unknown duration. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Media Inquiries: LAPD Valley Traffic Division (Incident #139) and Medical Examiner.; FS 106; Batt 17; Valley Bureau; Council District 3; BC17  E104  E106  E296  E72  EM15  EM17  HR3  RA104  RA105  RA106  RA96  T96  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Fatal Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#CanogaPark</category>
-                            <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-01072024-inc0058" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, January 7, 2024 - 01:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c34037e2-af4f-11ee-b876-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
