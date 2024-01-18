@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 17 Jan 2024 13:17:02 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5"/>
+<lastBuildDate>Thu, 18 Jan 2024 06:58:42 -0800</lastBuildDate>
 <pubDate>Wed, 17 Jan 2024 04:59:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01172024-inc0127" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 17, 2024 - 04:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-01172024-inc0127" hreflang="en">Greater Alarm Structure Fire 01/17/2024 INC#0127</a></title>
@@ -29,7 +29,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-01172024-inc0127" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 17, 2024 - 03:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01162024-inc1750" hreflang="en">KNOCKDOWN Structure Fire 01/16/2024 INC#1750</a></title>
@@ -40,7 +40,7 @@
                             <category>#EastHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01162024-inc1750" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 16, 2024 - 21:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01162024-inc1750" hreflang="en">Structure Fire 01/16/2024 INC#1750</a></title>
@@ -51,7 +51,7 @@
                             <category>#EastHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01162024-inc1750" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 16, 2024 - 20:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-01162024-inc0813" hreflang="en">Structure Fire - Now Out 01/16/2024 INC#0813</a></title>
@@ -62,7 +62,7 @@
                             <category>#HydePark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01162024-inc0813" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 16, 2024 - 12:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-01152024-inc1476" hreflang="en">Update Structure Fire 01/15/2024 INC#1476</a></title>
@@ -73,7 +73,7 @@
                             <category>#MarVista</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-01152024-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 15, 2024 - 20:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01152024-inc1476" hreflang="en">Knockdown -  Structure Fire 01/15/2024 INC#1476</a></title>
@@ -84,7 +84,7 @@
                             <category>#MarVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01152024-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 15, 2024 - 19:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01152024-inc1476" hreflang="en">Structure Fire 01/15/2024 INC#1476</a></title>
@@ -95,7 +95,7 @@
                             <category>#MarVista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01152024-inc1476" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 15, 2024 - 19:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01142024-inc0579" hreflang="en">Knockdown -  Structure Fire 01/14/2024 INC#0579</a></title>
@@ -106,7 +106,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01142024-inc0579" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 14, 2024 - 11:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01142024-inc0579" hreflang="en">Structure Fire 01/14/2024 INC#0579</a></title>
@@ -117,7 +117,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01142024-inc0579" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 14, 2024 - 10:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=1166fa87-b612-11ee-b876-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
