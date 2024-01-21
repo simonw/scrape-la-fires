@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 20 Jan 2024 22:08:01 -0800</lastBuildDate>
-<pubDate>Sat, 20 Jan 2024 22:07:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Sun, 21 Jan 2024 09:52:42 -0800</lastBuildDate>
+<pubDate>Sun, 21 Jan 2024 09:52:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">Structure Fire - Now Out 01/21/2024 INC#0470</a></title>
+  <link><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0470; 09:10AM; 1539 W Cambria St; MAP: &lt;a href="https://bit.ly/3GqSauf" target="_blank" rel="noopener"&gt;https://bit.ly/3GqSauf&lt;/a&gt;; #Westlake; 54 LAFD Firefighters took just 42 minutes to access, confine and extinguish (9:52 AM) stubborn flames in an abandoned 8,988 square foot two-story residential fourplex (built 1900) that had fire through the roof on their arrival. No injury. Fire cause under investigation.; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  BC5  CM20  CM22  E10  E11  E13  E210  E211  E9  EM11  RA10  RA13  RA813  SQ21  T10  T11  T9; CH9; 12  13; Brian Humphrey</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>Central</category>
+                            <category>#Westlake</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, January 21, 2024 - 09:52</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-01202024-inc1610" hreflang="en">Structure Fire - Now Out 01/20/2024 INC#1610</a></title>
   <link><a href="/alert/structure-fire-now-out-01202024-inc1610" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#1610; 09:50PM; 2829 N Future St; MAP: &lt;a href="https://bit.ly/48HuttZ" target="_blank" rel="noopener"&gt;https://bit.ly/48HuttZ&lt;/a&gt;; #CypressPark; Firefighters responded to a one-story single-family home with fire in one room. It took 36 firefighters 15 minutes to access, confine, and extinguish the flames, keeping it contained to the room-of-origin. Crews will set up blowers to evacuate the smoke out of the building. No reported injuries. Cause under investigation.; FS 44; Batt 2; Central Bureau; Council District 1; BC1  BC2  E1  E201  E250  E44  E56  RA1  RA844  T1  T50; CH9; 13; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#CypressPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01202024-inc1610" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 22:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202024-inc1307" hreflang="en">KNOCKDOWN Structure Fire 01/20/2024 INC#1307</a></title>
@@ -29,7 +40,7 @@
                             <category>San Pedro</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 19:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01202024-inc1307" hreflang="en">Structure Fire 01/20/2024 INC#1307</a></title>
@@ -40,7 +51,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01202024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 18:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-materials-01202024-inc0869" hreflang="en">Hazardous Materials 01/20/2024 INC#0869</a></title>
@@ -51,7 +62,7 @@
                             <category>#Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-materials-01202024-inc0869" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 14:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202024-inc0829" hreflang="en">KNOCKDOWN Structure Fire 01/20/2024 INC#0829</a></title>
@@ -62,7 +73,7 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202024-inc0829" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 14:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01202024-inc0829" hreflang="en">Structure Fire 01/20/2024 INC#0829</a></title>
@@ -73,7 +84,7 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01202024-inc0829" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 13:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202024-inc0445" hreflang="en">KNOCKDOWN Structure Fire 01/20/2024 INC#0445</a></title>
@@ -84,7 +95,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202024-inc0445" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 09:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01202024-inc0445" hreflang="en">Structure Fire 01/20/2024 INC#0445</a></title>
@@ -95,7 +106,7 @@
                             <category>#HighlandPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01202024-inc0445" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 09:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01192024-inc0364" hreflang="en">KNOCKDOWN Structure Fire 01/19/2024 INC#0364</a></title>
@@ -106,18 +117,7 @@
                             <category>#Tarzana</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01192024-inc0364" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 19, 2024 - 09:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-01192024-inc0385" hreflang="en">KNOCKDOWN Structure Fire 01/19/2024 INC#0385</a></title>
-  <link><a href="/alert/knockdown-structure-fire-01192024-inc0385" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0385; 08:22AM; 1069 W 6th St; MAP: &lt;a href="https://bit.ly/48F4RxO" target="_blank" rel="noopener"&gt;https://bit.ly/48F4RxO&lt;/a&gt;; #Westlake; Firefighters ascended the stairwell of the four-story vacant office building and located a trash fire on the third floor. The flames were extinguished quickly, but smoke had made its way throughout the building. Crews will remain on scene using blowers to systematically evacuate the smoke from the building room by room, and remove any remaining smoldering materials. It took 48 firefighters 33 minutes to access and extinguish the flames. No reported injuries. Cause under investigation.; FS 3; Batt 1; Central Bureau; Council District 1;  E3  T3  E203  RA803  RA3  E11  E9  T9  SQ21  BC1  BC11  UR3  CM22  RA11  E10  E220  T20  EM1  BC13  CM20  EA1 ; CH7; 12  13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01192024-inc0385" hreflang="en">view</a></guid>
-                            <pubDate>Friday, January 19, 2024 - 08:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=df24e61e-b885-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
