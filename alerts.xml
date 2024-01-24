@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 23 Jan 2024 13:57:18 -0800</lastBuildDate>
-<pubDate>Tue, 23 Jan 2024 12:55:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Wed, 24 Jan 2024 09:53:42 -0800</lastBuildDate>
+<pubDate>Wed, 24 Jan 2024 04:00:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">Civilian Fatality Structure Fire 01/24/2024 INC#0143</a></title>
+  <link><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">view</a></link>
+  <description>Civilian Fatality Structure Fire; INC#0143; 03:02AM; 10803 N Noble Av; MAP: &lt;a href="https://bit.ly/3Hsn1XE" target="_blank" rel="noopener"&gt;https://bit.ly/3Hsn1XE&lt;/a&gt;; #MissionHills; 32 LAFD Firefighters took just 22 minutes (3:24 AM) to access, confine and extinguish heavy fire within an 1,856 square foot one-story home, that had been converted to a residential duplex (Primary and ADU under one roof). In extinguishing the intense flames, firefighters discovered the remains of one adult male. The three other occupants of the building were able to escape unharmed. No other injuries reported. Fire cause under active investigation. The 72 year-old structure was not equipped with smoke alarms as required by law. LAFD Public Information Officer Firefighter David Ortiz is en route to assist the media (ETA 4:15 AM). ; FS 75; Batt 12; Valley Bureau; Council District 7; AR1  BC12  BC15  E275  E287  E7  E75  E87  PI4  RA7  RA75  T75  T87; CH9; 17; Brian Humphrey</description>
+  <category>Civilian Fatality Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#MissionHills</category>
+                            <guid isPermaLink="false"><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 24, 2024 - 04:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">Update Hazardous Materials Investigation 01/23/2024 INC#0787</a></title>
   <link><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></link>
   <description>Update Hazardous Materials Investigation; INC#0787; 12:55PM; 13100 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3SwBvw1" target="_blank" rel="noopener"&gt;https://bit.ly/3SwBvw1&lt;/a&gt;; #GranadaHills; The two 30 year-old male workers are in fair condition with minor respiratory complaints after their isolated accidental exposure to a corrosion inhibiting product. They will both be transported by LAFD ambulance to an area hospital for further evaluation. No other persons are ill or injured. No escalating or off-site hazard has been identified. Media Inquiries: Metropolitan Water District and Cal-OSHA.; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  E295  E75  E95  EM15  ER3  JT1  JT2  RA18  RA891  T87  T95 ; CH8; 17; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-materials-investigation-01232024-inc0787" hreflang="en">Hazardous Materials Investigation 01/23/2024 INC#0787</a></title>
@@ -29,7 +40,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 12:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fire-01232024-inc0129" hreflang="en">Fire 01/23/2024 INC#0129</a></title>
@@ -40,7 +51,7 @@
                             <category>#ManchesterSquare</category>
                             <guid isPermaLink="false"><a href="/alert/fire-01232024-inc0129" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 04:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-01212024-inc0958" hreflang="en">Traffic Collision 01/21/2024 INC#0958</a></title>
@@ -51,7 +62,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-01212024-inc0958" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 15:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01212024-inc0935" hreflang="en">Knockdown -  Greater Alarm Structure Fire 01/21/2024 INC#0935</a></title>
@@ -62,7 +73,7 @@
                             <category>#PicoUnion</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01212024-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 15:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-01212024-inc0935" hreflang="en">Greater Alarm Structure Fire 01/21/2024 INC#0935</a></title>
@@ -73,7 +84,7 @@
                             <category>#PicoUnion</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-01212024-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 15:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">Structure Fire - Now Out 01/21/2024 INC#0470</a></title>
@@ -84,7 +95,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 09:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-01202024-inc1610" hreflang="en">Structure Fire - Now Out 01/20/2024 INC#1610</a></title>
@@ -95,7 +106,7 @@
                             <category>#CypressPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01202024-inc1610" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 22:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01202024-inc1307" hreflang="en">KNOCKDOWN Structure Fire 01/20/2024 INC#1307</a></title>
@@ -106,18 +117,7 @@
                             <category>San Pedro</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01202024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 20, 2024 - 19:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-01202024-inc1307" hreflang="en">Structure Fire 01/20/2024 INC#1307</a></title>
-  <link><a href="/alert/structure-fire-01202024-inc1307" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1307; 06:33PM; 719 S Pacific Av; MAP: &lt;a href="https://bit.ly/3u225Uc" target="_blank" rel="noopener"&gt;https://bit.ly/3u225Uc&lt;/a&gt;; #SanPedro; Two-story commercial with heavy smoke showing. Offensive mode.; FS 48; Batt 6; South Bureau; Council District 15; BC4  BC6  E112  E248  E285  E36  E48  RA112  RA848  T48  T85; CH9; 14; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-01202024-inc1307" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, January 20, 2024 - 18:44</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=82298f90-bae1-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
