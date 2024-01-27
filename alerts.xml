@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 26 Jan 2024 09:33:27 -0800</lastBuildDate>
-<pubDate>Wed, 24 Jan 2024 20:43:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Fri, 26 Jan 2024 17:48:42 -0800</lastBuildDate>
+<pubDate>Fri, 26 Jan 2024 17:48:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-greater-alarm-structure-fire-01262024-inc1250" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 01/26/2024 INC#1250</a></title>
+  <link><a href="/alert/knockdown-greater-alarm-structure-fire-01262024-inc1250" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Greater Alarm Structure Fire; INC#1250; 05:11PM; 115 S Catalina St; #Koreatown; Firefighters responded to a two-story *four-plex* with heavy fire showing from the second floor. Firefighters deployed hose lines inside the building, while crews ascended ladders to the roof to cut holes and release smoke and heat from the structure. Firefighters contained the fire to just one unit of the four-plex, and protected the nearby buildings that were initially threatened. It took the first 50 firefighters 21 minutes to access, confine, and extinguish the flames. Thankfully, there were no reported injuries. The cause is under investigation.; FS 6; Batt 11; Central Bureau; Council District 10; AR1  BC1  BC11  BC5  CM20  CM22  E13  E20  E203  E211  E220  E229  E235  E29  E6  E89  EA1  EM11  HR3  PH1  RA11  RA3  RA52  RA803  RA806  SO1  SQ21  T11  T20  T29  T3  T35  UR3  UR88  UR89; CH7; 12  13; Nicholas Prange</description>
+  <category>Greater Alarm Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01262024-inc1250" hreflang="en">view</a></guid>
+                            <pubDate>Friday, January 26, 2024 - 17:48</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-01262024-inc1250" hreflang="en">Structure Fire 01/26/2024 INC#1250</a></title>
+  <link><a href="/alert/structure-fire-01262024-inc1250" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1250; 04:50PM; 115 S Catalina St; #Koreatown; Two-story garden-style apartment building with fire showing. Offensive mode.; FS 6; Batt 11; Central Bureau; Council District 10; BC11  BC5  E13  E211  E220  E229  E29  E6  RA52  RA806  T11  T20  T29; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Koreatown</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-01262024-inc1250" hreflang="en">view</a></guid>
+                            <pubDate>Friday, January 26, 2024 - 16:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-earthquake-mode-complete-01242024" hreflang="en">Update Earthquake Mode Complete 01/24/2024</a></title>
   <link><a href="/alert/update-earthquake-mode-complete-01242024" hreflang="en">view</a></link>
   <description>Update Earthquake Mode Complete; 08:42PM; - Outside City - ; MAP: &lt;a href="https://maps.app.goo.gl/SBktUbY22awMH5ai7" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/SBktUbY22awMH5ai7&lt;/a&gt;; Earthquake Event ~50 Miles East of Downtown Los Angeles - ; LAFD personnel have surveyed the City of Los Angeles by land, air and sea following the magnitude 4.2 earthquake at 7:43 PM PST centered near San Bernardino, California. No significant infra/structure damage or injuries have been noted within the City of Los Angeles. LAFD Earthquake Mode is now complete. If you felt this earthquake, we encourage you to submit a USGS "Felt It" Report: ( https://earthquake.usgs.gov/earthquakes/eventpage/ci39756418/tellus ), and to use this event as a reminder to prepare for inevitable earthquake activity in our region. Preparedness information can be found at: ( https://ready.lacity.gov ). ; FS ALL; Batt ALL; ALL; Council District ALL; ALL; ALL; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>Earthquake Event ~50 Miles East of Downtown Los Angeles -</category>
                             <guid isPermaLink="false"><a href="/alert/update-earthquake-mode-complete-01242024" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 24, 2024 - 20:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/earthquake-mode-01242024" hreflang="en">Earthquake Mode 01/24/2024</a></title>
@@ -29,7 +51,7 @@
                             <category>~50 Miles East of Downtown Los Angeles</category>
                             <guid isPermaLink="false"><a href="/alert/earthquake-mode-01242024" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 24, 2024 - 20:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">Civilian Fatality Structure Fire 01/24/2024 INC#0143</a></title>
@@ -40,7 +62,7 @@
                             <category>#MissionHills</category>
                             <guid isPermaLink="false"><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 24, 2024 - 04:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">Update Hazardous Materials Investigation 01/23/2024 INC#0787</a></title>
@@ -51,7 +73,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-materials-investigation-01232024-inc0787" hreflang="en">Hazardous Materials Investigation 01/23/2024 INC#0787</a></title>
@@ -62,7 +84,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 12:42</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fire-01232024-inc0129" hreflang="en">Fire 01/23/2024 INC#0129</a></title>
@@ -73,7 +95,7 @@
                             <category>#ManchesterSquare</category>
                             <guid isPermaLink="false"><a href="/alert/fire-01232024-inc0129" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, January 23, 2024 - 04:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-01212024-inc0958" hreflang="en">Traffic Collision 01/21/2024 INC#0958</a></title>
@@ -84,7 +106,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-01212024-inc0958" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 15:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01212024-inc0935" hreflang="en">Knockdown -  Greater Alarm Structure Fire 01/21/2024 INC#0935</a></title>
@@ -95,29 +117,7 @@
                             <category>#PicoUnion</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01212024-inc0935" hreflang="en">view</a></guid>
                             <pubDate>Sunday, January 21, 2024 - 15:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/greater-alarm-structure-fire-01212024-inc0935" hreflang="en">Greater Alarm Structure Fire 01/21/2024 INC#0935</a></title>
-  <link><a href="/alert/greater-alarm-structure-fire-01212024-inc0935" hreflang="en">view</a></link>
-  <description>Greater Alarm Structure Fire; INC#0935; 02:48PM; 1124 S Westlake Av; MAP: &lt;a href="https://bit.ly/4b6dnY5" target="_blank" rel="noopener"&gt;https://bit.ly/4b6dnY5&lt;/a&gt;; #PicoUnion; *Address Tentative* PRELIM: Two story apartment building with heavy fire in the attic, threatening at least one other structure.; FS 11; Batt 11; Central Bureau; Council District 1;  BC1  BC11  BC2  BC5  CM20  CM22  E10  E11  E13  E20  E210  E211  E220  EM11  RA11  RA15  RA811  SO1  SQ21  T10  T11  T20 ; CH9; 13; Brian Humphrey</description>
-  <category>Greater Alarm Structure Fire</category>
-                            <category>Central</category>
-                            <category>#PicoUnion</category>
-                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-01212024-inc0935" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, January 21, 2024 - 15:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">Structure Fire - Now Out 01/21/2024 INC#0470</a></title>
-  <link><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#0470; 09:10AM; 1539 W Cambria St; MAP: &lt;a href="https://bit.ly/3GqSauf" target="_blank" rel="noopener"&gt;https://bit.ly/3GqSauf&lt;/a&gt;; #Westlake; 54 LAFD Firefighters took just 42 minutes to access, confine and extinguish (9:52 AM) stubborn flames in an abandoned 8,988 square foot two-story residential fourplex (built 1900) that had fire through the roof on their arrival. No injury. Fire cause under investigation.; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  BC5  CM20  CM22  E10  E11  E13  E210  E211  E9  EM11  RA10  RA13  RA813  SQ21  T10  T11  T9; CH9; 12  13; Brian Humphrey</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Central</category>
-                            <category>#Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-01212024-inc0470" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, January 21, 2024 - 09:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=3253af6d-bcb6-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
