@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5"/>
-<lastBuildDate>Sat, 27 Jan 2024 08:13:42 -0800</lastBuildDate>
-<pubDate>Sat, 27 Jan 2024 08:13:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sat, 27 Jan 2024 20:27:00 -0800</lastBuildDate>
+<pubDate>Sat, 27 Jan 2024 13:39:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">Hiker Rescue 01/27/2024 INC#0770</a></title>
+  <link><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0770; 12:40PM; Runyon Canyon Rd; #HollywoodHillsWest; Firefighters located an approximately 40-year-old male in mild-to-medium medical distress in a remote area of Runyon Canyon. LAFD Air Operations hoisted the patient and transported him by air to a local hospital for further evaluation. Nothing further.; FS 41; Batt 5; West Bureau; Council District 4; BC5  E227  E41  H1  H4  HA1  HA4  RA82  RH114  T27; CH7; 12; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#HollywoodHillsWest</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, January 27, 2024 - 13:39</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">Hiker Rescue 01/27/2024 INC#0560</a></title>
+  <link><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0560; 10:29AM; 3693 N Wonder View Dr; #HollywoodHills; Firefighters located a 44-year-old male who had sustained a ground-level fall in a remote area of the Hollywood Hills. LAFD Air Operations hoisted the patient and transported him by air to a local hospital. Nothing further.; FS 76; Batt 5; West Bureau; Council District 4; BC14  E260  E76  H4  HA4  RA76  RA82  RH214  T60; CH7; 13; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#HollywoodHills</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, January 27, 2024 - 11:17</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">KNOCKDOWN Structure Fire 01/27/2024 INC#0355</a></title>
   <link><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0355; 08:00AM; 845 S Kingsley Dr; #Koreatown; Firefighters responded to a two-story craftsman-style home with heavy smoke and fire coming from the second floor. It took 46 firefighter 26 minutes to access, confine, and extinguish the flames. Firefighters protected the nearby residential buildings and the fire was contained to the second floor and the attic. No reported injuries. Cause under investigation. ; FS 29; Batt 11; Central Bureau; Council District 10; AR1  BC11  BC18  BC5  CM20  CM22  E11  E13  E226  E229  E26  E29  EM11  RA13  RA26  RA29  RA829  SO1  T11  T26  T29; CH7; 12  13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 27, 2024 - 08:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">Structure Fire 01/27/2024 INC#0355</a></title>
@@ -29,7 +51,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 27, 2024 - 07:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-agency-assist-01262024-inc1711" hreflang="en">Update Agency Assist 01/26/2024 INC#1711</a></title>
@@ -40,7 +62,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/update-agency-assist-01262024-inc1711" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 26, 2024 - 23:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/agency-assist-01262024-inc1711" hreflang="en">Agency Assist 01/26/2024 INC#1711</a></title>
@@ -51,7 +73,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/agency-assist-01262024-inc1711" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 26, 2024 - 22:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01262024-inc1250" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 01/26/2024 INC#1250</a></title>
@@ -62,7 +84,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01262024-inc1250" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 26, 2024 - 17:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01262024-inc1250" hreflang="en">Structure Fire 01/26/2024 INC#1250</a></title>
@@ -73,7 +95,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01262024-inc1250" hreflang="en">view</a></guid>
                             <pubDate>Friday, January 26, 2024 - 16:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-earthquake-mode-complete-01242024" hreflang="en">Update Earthquake Mode Complete 01/24/2024</a></title>
@@ -84,7 +106,7 @@
                             <category>Earthquake Event ~50 Miles East of Downtown Los Angeles -</category>
                             <guid isPermaLink="false"><a href="/alert/update-earthquake-mode-complete-01242024" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 24, 2024 - 20:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/earthquake-mode-01242024" hreflang="en">Earthquake Mode 01/24/2024</a></title>
@@ -95,29 +117,7 @@
                             <category>~50 Miles East of Downtown Los Angeles</category>
                             <guid isPermaLink="false"><a href="/alert/earthquake-mode-01242024" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 24, 2024 - 20:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">Civilian Fatality Structure Fire 01/24/2024 INC#0143</a></title>
-  <link><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">view</a></link>
-  <description>Civilian Fatality Structure Fire; INC#0143; 03:02AM; 10803 N Noble Av; MAP: &lt;a href="https://bit.ly/3Hsn1XE" target="_blank" rel="noopener"&gt;https://bit.ly/3Hsn1XE&lt;/a&gt;; #MissionHills; 32 LAFD Firefighters took just 22 minutes (3:24 AM) to access, confine and extinguish heavy fire within an 1,856 square foot one-story home, that had been converted to a residential duplex (Primary and ADU under one roof). In extinguishing the intense flames, firefighters discovered the remains of one adult male. The three other occupants of the building were able to escape unharmed. No other injuries reported. Fire cause under active investigation. The 72 year-old structure was not equipped with smoke alarms as required by law. LAFD Public Information Officer Firefighter David Ortiz is en route to assist the media (ETA 4:15 AM). ; FS 75; Batt 12; Valley Bureau; Council District 7; AR1  BC12  BC15  E275  E287  E7  E75  E87  PI4  RA7  RA75  T75  T87; CH9; 17; Brian Humphrey</description>
-  <category>Civilian Fatality Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#MissionHills</category>
-                            <guid isPermaLink="false"><a href="/alert/civilian-fatality-structure-fire-01242024-inc0143" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, January 24, 2024 - 04:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">Update Hazardous Materials Investigation 01/23/2024 INC#0787</a></title>
-  <link><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></link>
-  <description>Update Hazardous Materials Investigation; INC#0787; 12:55PM; 13100 N Balboa Bl; MAP: &lt;a href="https://bit.ly/3SwBvw1" target="_blank" rel="noopener"&gt;https://bit.ly/3SwBvw1&lt;/a&gt;; #GranadaHills; The two 30 year-old male workers are in fair condition with minor respiratory complaints after their isolated accidental exposure to a corrosion inhibiting product. They will both be transported by LAFD ambulance to an area hospital for further evaluation. No other persons are ill or injured. No escalating or off-site hazard has been identified. Media Inquiries: Metropolitan Water District and Cal-OSHA.; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  E295  E75  E95  EM15  ER3  JT1  JT2  RA18  RA891  T87  T95 ; CH8; 17; Brian Humphrey</description>
-  <category>Hazardous Materials Investigation</category>
-                            <category>Valley</category>
-                            <category>#GranadaHills</category>
-                            <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-investigation-01232024-inc0787" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, January 23, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=095ab4a8-bd2f-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
