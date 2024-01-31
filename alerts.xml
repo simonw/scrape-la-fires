@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 29 Jan 2024 23:49:18 -0800</lastBuildDate>
-<pubDate>Mon, 29 Jan 2024 23:49:00 -0800</pubDate>
+<lastBuildDate>Tue, 30 Jan 2024 20:34:01 -0800</lastBuildDate>
+<pubDate>Tue, 30 Jan 2024 10:33:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/test-01302024-inc0000" hreflang="en">Test 01/30/2024 INC#0000</a></title>
+  <link><a href="/alert/test-01302024-inc0000" hreflang="en">view</a></link>
+  <description>Test; INC#0000; 10:31AM; 200 N Main St; MAP: &lt;a href="https://maps.app.goo.gl/53AqVLPAGxCiBNMD7" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/53AqVLPAGxCiBNMD7&lt;/a&gt;; Civic Center; This is a test. Test only. No action required. Test complete; FS 3; Batt 1; Cental; Council District 14; E3; 0; 0; Brian Humphrey</description>
+  <category>Test</category>
+                            <category>Cental</category>
+                            <category>Civic Center</category>
+                            <guid isPermaLink="false"><a href="/alert/test-01302024-inc0000" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, January 30, 2024 - 10:33</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 01/29/2024 INC#1767</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">view</a></link>
   <description>KNOCKDOWN Greater Alarm Structure Fire; INC#1767; 10:40PM; 3333 W 2nd St; #Koreatown; Firefighters responded to a very large four-story apartment complex, which had three occupied floors over a parking level. Crews simultaneously developed hose lines to a top-floor fire unit, assisted occupants evacuate, and cut holes in the roof for vertical ventilation. Seventy-two firefighters extinguished the flames in 25 minutes. One patient went to the hospital in fair condition due to smoke inhalation. Due to smoke damage, an unknown number of residents will be displace. Red Cross is responding to assist. No firefighter injuries. Cause under investigation.; FS 6; Batt 11; Central Bureau; Council District 13; AR1  BC1  BC11  BC18  BC5  CM20  CM22  E11  E13  E20  E203  E211  E220  E229  E235  E27  E35  E6  EM11  EM5  HR3  RA13  RA3  RA35  RA6  RA803  RA806  RA811  SO1  SQ21  T11  T20  T29  T3  T35  UR3  UR88; CH7; 12  13; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">view</a></guid>
                             <pubDate>Saturday, January 27, 2024 - 07:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-agency-assist-01262024-inc1711" hreflang="en">Update Agency Assist 01/26/2024 INC#1711</a></title>
-  <link><a href="/alert/update-agency-assist-01262024-inc1711" hreflang="en">view</a></link>
-  <description>Update Agency Assist; INC#1711; 11:08PM; 2830 E Lancaster Av; #BoyleHeights; LAFD and LAPD have concluded operations of the single-patient behavioral emergency, with that person being brought down safely, without the use of the air rescue cushion. Crews are breaking down the equipment and cleaning up. The freeway will re-open shortly, after crews have cleared the lanes.; FS 16; Batt 2; Central Bureau; Council District 14; BC2  E1  E16  E2  E201  E202  EM1  RA2  T1  T2; CH7; 12; Nicholas Prange</description>
-  <category>Agency Assist</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/update-agency-assist-01262024-inc1711" hreflang="en">view</a></guid>
-                            <pubDate>Friday, January 26, 2024 - 23:11</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
