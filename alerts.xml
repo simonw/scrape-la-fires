@@ -5,20 +5,64 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 31 Jan 2024 01:16:39 -0800</lastBuildDate>
-<pubDate>Tue, 30 Jan 2024 10:33:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Wed, 31 Jan 2024 18:26:43 -0800</lastBuildDate>
+<pubDate>Wed, 31 Jan 2024 17:40:00 -0800</pubDate>
 
     <item>
-  <title><a href="/alert/test-01302024-inc0000" hreflang="en">Test 01/30/2024 INC#0000</a></title>
-  <link><a href="/alert/test-01302024-inc0000" hreflang="en">view</a></link>
-  <description>Test; INC#0000; 10:31AM; 200 N Main St; MAP: &lt;a href="https://maps.app.goo.gl/53AqVLPAGxCiBNMD7" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/53AqVLPAGxCiBNMD7&lt;/a&gt;; Civic Center; This is a test. Test only. No action required. Test complete; FS 3; Batt 1; Cental; Council District 14; E3; 0; 0; Brian Humphrey</description>
-  <category>Test</category>
-                            <category>Cental</category>
-                            <category>Civic Center</category>
-                            <guid isPermaLink="false"><a href="/alert/test-01302024-inc0000" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, January 30, 2024 - 10:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+  <title><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">Knockdown -  Greater Alarm Structure Fire 01/31/2024 INC#1228</a></title>
+  <link><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></link>
+  <description>Knockdown -  Greater Alarm Structure Fire; INC#1228; 05:25PM; 4535 W Melbourne Av; MAP: &lt;a href="https://bit.ly/3OnVbPW" target="_blank" rel="noopener"&gt;https://bit.ly/3OnVbPW&lt;/a&gt;; #LosFeliz; *Addresses Confirmed*. 81 Firefighters took just 37 minutes to access, confine and fully extinguish fast-moving flames from an outside fire that extended from vegetation to engulf a detached garage, and a portion of a two-story residential duplex (addresses include 4535 Melbourne Avenue and 4550 Russell Avenue). No injury. Fire cause under investigation.; FS 35; Batt 5; West Bureau; Council District 4; BC1  BC14  BC2  BC5  CM20  CM22  E20  E220  E227  E235  E250  E27  E288  E35  E52  E56  E82  E95  EM5  HR3  RA27  RA35  RA835  SQ95  T20  T27  T35  T50  T88  UR27  UR88; CH7; 13  14; Brian Humphrey</description>
+  <category>Greater Alarm Structure Fire</category>
+                            <category>West</category>
+                            <category>#LosFeliz</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 31, 2024 - 17:40</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/greater-alarm-structure-fire-01312024-inc1228" hreflang="en">Greater Alarm Structure Fire 01/31/2024 INC#1228</a></title>
+  <link><a href="/alert/greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></link>
+  <description>Greater Alarm Structure Fire; INC#1228; 04:48PM; 4535 W Melbourne Av; MAP: &lt;a href="https://bit.ly/3OnVbPW" target="_blank" rel="noopener"&gt;https://bit.ly/3OnVbPW&lt;/a&gt;; #LosFeliz; *Address Tentative* PRELIM: Outside fire extended into a detached garage, as well as the attic of an adjacent one-story home.; FS 35; Batt 5; West Bureau; Council District 4; BC1  BC14  BC2  BC5  CM20  CM22  E20  E220  E235  E250  E27  E288  E35  E52  E56  E82  E95  EM5  HR3  RA27  RA35  RA835  SQ95  T20  T35  T50  T88  UR88; CH9; 13, 14; Brian Humphrey</description>
+  <category>Greater Alarm Structure Fire</category>
+                            <category>West</category>
+                            <category>#LosFeliz</category>
+                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 31, 2024 - 17:07</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-01312024-inc1205" hreflang="en">Knockdown - Structure Fire 01/31/2024 INC#1205</a></title>
+  <link><a href="/alert/knockdown-structure-fire-01312024-inc1205" hreflang="en">view</a></link>
+  <description>Knockdown - Structure Fire; INC#1205; 04:56PM; 2818 W Leeward Av; MAP: &lt;a href="https://bit.ly/42lRCj4" target="_blank" rel="noopener"&gt;https://bit.ly/42lRCj4&lt;/a&gt;; #Westlake; 36 LAFD Firefighters took just 19 minutes to access, confine and extinguish flames in one second floor unit. No injury. Fire cause under investigation.; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  E11  E13  E211  E229  E6  EM1  EM5  RA13  RA211  RA811  RA813  SO1  SQ21  T11  T29; CH9; 12; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Westlake</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01312024-inc1205" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 31, 2024 - 16:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-01312024-inc1205" hreflang="en">Structure Fire 01/31/2024 INC#1205</a></title>
+  <link><a href="/alert/structure-fire-01312024-inc1205" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1205; 04:37PM; 2818 W Leeward Av; MAP: &lt;a href="https://bit.ly/42lRCj4" target="_blank" rel="noopener"&gt;https://bit.ly/42lRCj4&lt;/a&gt;; #Westlake; PRELIM: Three-story center hallways apartment building with fire in one 2nd floor unit.; FS 11; Batt 11; Central Bureau; Council District 1; BC1  BC11  E11  E13  E211  E229  E6  RA211  RA811  RA813  SQ21  T11  T29; CH9; 12; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Westlake</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-01312024-inc1205" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 31, 2024 - 16:43</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/fire-01312024-inc0964" hreflang="en">Fire 01/31/2024 INC#0964</a></title>
+  <link><a href="/alert/fire-01312024-inc0964" hreflang="en">view</a></link>
+  <description>Fire; INC#0964; 02:03PM; 8940 N Reseda Bl; MAP: &lt;a href="https://maps.app.goo.gl/r3ZuzX5XTSTjsKLL9" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/r3ZuzX5XTSTjsKLL9&lt;/a&gt;; #Northridge; PRELIM: Scaffolding (only) toppled into power lines at four-story apartment building under construction. No injury. Though there is electrical arcing and small flames involving debris near the currently energized scaffolding, the now vacant (all workers safety self-evacuated) building is not involved with fire.  LADWP en route (unknown ETA). #LATraffic: Full closure of Reseda Boulevard between Rayen Street and Nordhoff Street until LADWP crews have secured the power line, and rendered the site and vicinity safe for travel. Unknown ETO. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio. Bus Riders: Follow @MetroLAAlerts on Twitter/X ( https://twitter.com/MetroLAAlerts) for any service updates.; FS 103; Batt 15; Valley Bureau; Council District 12; BC10  BC15  E103  E273  E287  E70  E73  RA70  RA73  T73  T87; CH9; 17; Brian Humphrey</description>
+  <category>Fire</category>
+                            <category>Valley</category>
+                            <category>#Northridge</category>
+                            <guid isPermaLink="false"><a href="/alert/fire-01312024-inc0964" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, January 31, 2024 - 14:26</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 01/29/2024 INC#1767</a></title>
@@ -29,7 +73,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 23:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01292024-inc1767" hreflang="en">Structure Fire 01/29/2024 INC#1767</a></title>
@@ -40,7 +84,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01292024-inc1767" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 22:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01292024-inc1307" hreflang="en">KNOCKDOWN Structure Fire 01/29/2024 INC#1307</a></title>
@@ -51,7 +95,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01292024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 17:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01292024-inc1307" hreflang="en">Structure Fire 01/29/2024 INC#1307</a></title>
@@ -62,7 +106,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01292024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 16:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-traffic-collision-01292024-inc1086" hreflang="en">Multi-Patient Traffic Collision 01/29/2024 INC#1086</a></title>
@@ -73,51 +117,7 @@
                             <category>#VermontKnolls</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-01292024-inc1086" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 15:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">Hiker Rescue 01/27/2024 INC#0770</a></title>
-  <link><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0770; 12:40PM; Runyon Canyon Rd; #HollywoodHillsWest; Firefighters located an approximately 40-year-old male in mild-to-medium medical distress in a remote area of Runyon Canyon. LAFD Air Operations hoisted the patient and transported him by air to a local hospital for further evaluation. Nothing further.; FS 41; Batt 5; West Bureau; Council District 4; BC5  E227  E41  H1  H4  HA1  HA4  RA82  RH114  T27; CH7; 12; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#HollywoodHillsWest</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-01272024-inc0770" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, January 27, 2024 - 13:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">Hiker Rescue 01/27/2024 INC#0560</a></title>
-  <link><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0560; 10:29AM; 3693 N Wonder View Dr; #HollywoodHills; Firefighters located a 44-year-old male who had sustained a ground-level fall in a remote area of the Hollywood Hills. LAFD Air Operations hoisted the patient and transported him by air to a local hospital. Nothing further.; FS 76; Batt 5; West Bureau; Council District 4; BC14  E260  E76  H4  HA4  RA76  RA82  RH214  T60; CH7; 13; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#HollywoodHills</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-01272024-inc0560" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, January 27, 2024 - 11:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">KNOCKDOWN Structure Fire 01/27/2024 INC#0355</a></title>
-  <link><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0355; 08:00AM; 845 S Kingsley Dr; #Koreatown; Firefighters responded to a two-story craftsman-style home with heavy smoke and fire coming from the second floor. It took 46 firefighter 26 minutes to access, confine, and extinguish the flames. Firefighters protected the nearby residential buildings and the fire was contained to the second floor and the attic. No reported injuries. Cause under investigation. ; FS 29; Batt 11; Central Bureau; Council District 10; AR1  BC11  BC18  BC5  CM20  CM22  E11  E13  E226  E229  E26  E29  EM11  RA13  RA26  RA29  RA829  SO1  T11  T26  T29; CH7; 12  13; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Koreatown</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01272024-inc0355" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, January 27, 2024 - 08:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">Structure Fire 01/27/2024 INC#0355</a></title>
-  <link><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0355; 07:34AM; 845 S Kingsley Dr; #Koreatown; Two-story vacant home with fire showing. Offensive mode. ; FS 29; Batt 11; Central Bureau; Council District 10; BC11  BC18  BC5  CM20  CM22  E11  E13  E226  E229  E26  E29  EM11  RA13  RA29  RA829  T11  T26  T29; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Koreatown</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-01272024-inc0355" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, January 27, 2024 - 07:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
