@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5"/>
-<lastBuildDate>Wed, 31 Jan 2024 18:26:43 -0800</lastBuildDate>
-<pubDate>Wed, 31 Jan 2024 17:40:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 01 Feb 2024 07:27:12 -0800</lastBuildDate>
+<pubDate>Thu, 01 Feb 2024 07:27:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-02012024-inc0337" hreflang="en">Knockdown -  Structure Fire 02/01/2024 INC#0337</a></title>
+  <link><a href="/alert/knockdown-structure-fire-02012024-inc0337" hreflang="en">view</a></link>
+  <description>Knockdown -  Structure Fire; INC#0337; 07:21AM; 575 1/2 W 87th St; MAP: &lt;a href="https://bit.ly/3HICUJB" target="_blank" rel="noopener"&gt;https://bit.ly/3HICUJB&lt;/a&gt;; #VermontVista; *Address Corrected* 36 Firefighters took just 12 minutes to access, confine and fully extinguish heavy fire in one unit of a one-story row of bungalows. No injury. Fire cause under investigation.; FS 57; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E266  E33  E46  E64  EM13  RA257  RA57  RA857  T33  T66; CH9; 12; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#VermontVista</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02012024-inc0337" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, February 1, 2024 - 07:27</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-02012024-inc0337" hreflang="en">Structure Fire 02/01/2024 INC#0337</a></title>
+  <link><a href="/alert/structure-fire-02012024-inc0337" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0337; 07:09AM; 567 W 87th St; MAP: &lt;a href="https://bit.ly/3HICUJB" target="_blank" rel="noopener"&gt;https://bit.ly/3HICUJB&lt;/a&gt;; #VermontVista; *Address Tentative* PRELIM: One-story row of bungalows with heavy fire showing from one unit; FS 57; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E266  E33  E46  E64  EM13  RA257  RA57  RA857  T33  T66; CH9; 12; Brian Humphrey</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#VermontVista</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-02012024-inc0337" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, February 1, 2024 - 07:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">Knockdown -  Greater Alarm Structure Fire 01/31/2024 INC#1228</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></link>
   <description>Knockdown -  Greater Alarm Structure Fire; INC#1228; 05:25PM; 4535 W Melbourne Av; MAP: &lt;a href="https://bit.ly/3OnVbPW" target="_blank" rel="noopener"&gt;https://bit.ly/3OnVbPW&lt;/a&gt;; #LosFeliz; *Addresses Confirmed*. 81 Firefighters took just 37 minutes to access, confine and fully extinguish fast-moving flames from an outside fire that extended from vegetation to engulf a detached garage, and a portion of a two-story residential duplex (addresses include 4535 Melbourne Avenue and 4550 Russell Avenue). No injury. Fire cause under investigation.; FS 35; Batt 5; West Bureau; Council District 4; BC1  BC14  BC2  BC5  CM20  CM22  E20  E220  E227  E235  E250  E27  E288  E35  E52  E56  E82  E95  EM5  HR3  RA27  RA35  RA835  SQ95  T20  T27  T35  T50  T88  UR27  UR88; CH7; 13  14; Brian Humphrey</description>
@@ -18,7 +40,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 31, 2024 - 17:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-01312024-inc1228" hreflang="en">Greater Alarm Structure Fire 01/31/2024 INC#1228</a></title>
@@ -29,7 +51,7 @@
                             <category>#LosFeliz</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-01312024-inc1228" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 31, 2024 - 17:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01312024-inc1205" hreflang="en">Knockdown - Structure Fire 01/31/2024 INC#1205</a></title>
@@ -40,7 +62,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01312024-inc1205" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 31, 2024 - 16:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01312024-inc1205" hreflang="en">Structure Fire 01/31/2024 INC#1205</a></title>
@@ -51,7 +73,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01312024-inc1205" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 31, 2024 - 16:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fire-01312024-inc0964" hreflang="en">Fire 01/31/2024 INC#0964</a></title>
@@ -62,7 +84,7 @@
                             <category>#Northridge</category>
                             <guid isPermaLink="false"><a href="/alert/fire-01312024-inc0964" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, January 31, 2024 - 14:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 01/29/2024 INC#1767</a></title>
@@ -73,7 +95,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-01292024-inc1767" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 23:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-01292024-inc1767" hreflang="en">Structure Fire 01/29/2024 INC#1767</a></title>
@@ -84,7 +106,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-01292024-inc1767" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 22:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-01292024-inc1307" hreflang="en">KNOCKDOWN Structure Fire 01/29/2024 INC#1307</a></title>
@@ -95,29 +117,7 @@
                             <category>#Sylmar</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-01292024-inc1307" hreflang="en">view</a></guid>
                             <pubDate>Monday, January 29, 2024 - 17:08</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-01292024-inc1307" hreflang="en">Structure Fire 01/29/2024 INC#1307</a></title>
-  <link><a href="/alert/structure-fire-01292024-inc1307" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1307; 04:46PM; 15639 W La Mesa St; #Sylmar; One-story single-family home with fire showing. Offensive mode.; FS 91; Batt 12; Valley Bureau; Council District 7; BC12  BC14  E18  E275  E298  E75  E91  E98  EM15  RA75  RA891  RA91  T75  T98; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Sylmar</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-01292024-inc1307" hreflang="en">view</a></guid>
-                            <pubDate>Monday, January 29, 2024 - 16:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/multipatient-traffic-collision-01292024-inc1086" hreflang="en">Multi-Patient Traffic Collision 01/29/2024 INC#1086</a></title>
-  <link><a href="/alert/multipatient-traffic-collision-01292024-inc1086" hreflang="en">view</a></link>
-  <description>Multi-Patient Traffic Collision; INC#1086; 02:37PM; 7307 S Hoover St; #VermontKnolls; Four-vehicle collision (one of them was parked/unoccupied) resulting in 6 injured patients. No one was trapped. Three were transported in moderate condition, two were transported in fair condition, and one refused the offer for ambulance transport. LAPD Incident #3099. Nothing further.; FS 57; Batt 13; South Bureau; Council District 8; AP65  BC13  E233  E33  EM13  EM4  RA14  RA246  RA57  RA814  RA833  RA846  RA857  RA864  T33; CH4; 12; Nicholas Prange</description>
-  <category>Multi-Patient Traffic Collision</category>
-                            <category>South</category>
-                            <category>#VermontKnolls</category>
-                            <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-01292024-inc1086" hreflang="en">view</a></guid>
-                            <pubDate>Monday, January 29, 2024 - 15:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=56329e16-c0a9-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
