@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5"/>
-<lastBuildDate>Thu, 08 Feb 2024 13:27:42 -0800</lastBuildDate>
-<pubDate>Thu, 08 Feb 2024 11:58:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Fri, 09 Feb 2024 05:11:01 -0800</lastBuildDate>
+<pubDate>Fri, 09 Feb 2024 05:10:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-02092024-inc0216" hreflang="en">Structure Fire - Now Out 02/09/2024 INC#0216</a></title>
+  <link><a href="/alert/structure-fire-now-out-02092024-inc0216" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0216; 04:38AM; 822 N Lakme Av; MAP: &lt;a href="https://bit.ly/3HRDCnZ" target="_blank" rel="noopener"&gt;https://bit.ly/3HRDCnZ&lt;/a&gt;; #Wilmington; First arriving 36 LAFD Firefighters took just 32 minutes (5:10 AM) to access, confine and extinguish heavy fire on the upper floor and attic of a detached two-story garage with residence on the second floor. No injury. Fire cause under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC13  BC6  CM20  CM22  E238  E248  E285  E38  E48  E49  E85  RA38  RA85  SO1  T38  T48  T85; CH9; 12; Brian Humphrey</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#Wilmington</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-02092024-inc0216" hreflang="en">view</a></guid>
+                            <pubDate>Friday, February 9, 2024 - 05:10</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">Collapsed Structure 02/08/2024 INC#0793</a></title>
   <link><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">view</a></link>
   <description>Collapsed Structure; INC#0793; 11:37AM; 226 W Olympic Bl; MAP: &lt;a href="https://bit.ly/48bNBPu" target="_blank" rel="noopener"&gt;https://bit.ly/48bNBPu&lt;/a&gt;; #Downtown; PRELIM: Subterranean stairwell collapse at a construction site. One adult male worker, who was quickly freed from debris on LAFD arrival, will be transported to an area hospital with serious injury. No other injuries reported. Media Inquiries: Property Management and Cal OSHA.; FS 10; Batt 1; Central Bureau; Council District 14; BC1  BC11  CM20  CM22  E10  E11  E203  E210  E3  E9  EM1  HR3  RA11  RA209  RA4  RA803  RA900  SO1  SQ21  T10  T3  T9  UR3  UR88; CH7; 12; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">view</a></guid>
                             <pubDate>Thursday, February 8, 2024 - 11:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/mountain-rescue-02082024-inc0601" hreflang="en">Mountain Rescue 02/08/2024 INC#0601</a></title>
@@ -29,7 +40,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/mountain-rescue-02082024-inc0601" hreflang="en">view</a></guid>
                             <pubDate>Thursday, February 8, 2024 - 10:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02072024-inc1894" hreflang="en">KNOCKDOWN Structure Fire 02/07/2024 INC#1894</a></title>
@@ -40,7 +51,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02072024-inc1894" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 23:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02072024-inc1894" hreflang="en">Structure Fire 02/07/2024 INC#1894</a></title>
@@ -51,7 +62,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02072024-inc1894" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 23:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02072024-inc1660" hreflang="en">KNOCKDOWN Structure Fire 02/07/2024 INC#1660</a></title>
@@ -62,7 +73,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02072024-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 21:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02072024-inc1660" hreflang="en">Structure Fire 02/07/2024 INC#1660</a></title>
@@ -73,7 +84,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02072024-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 20:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-02072024-inc0637" hreflang="en">Structure Fire - Now Out 02/07/2024 INC#0637</a></title>
@@ -84,7 +95,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-02072024-inc0637" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 10:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-materials-02062024-inc1658" hreflang="en">Hazardous Materials 02/06/2024 INC#1658</a></title>
@@ -95,7 +106,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-materials-02062024-inc1658" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, February 6, 2024 - 20:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/evacuation-order-lifted-02062024" hreflang="en">EVACUATION ORDER LIFTED 02/06/2024</a></title>
@@ -121,18 +132,7 @@ Para obtener más información sobre la respuesta de emergencia relacionada con 
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/evacuation-order-lifted-02062024" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, February 6, 2024 - 17:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/technical-rescue-02052024-inc2061" hreflang="en">Technical Rescue 02/05/2024 INC#2061</a></title>
-  <link><a href="/alert/technical-rescue-02052024-inc2061" hreflang="en">view</a></link>
-  <description>Technical Rescue; INC#2061; 07:55PM; 4307 W Rose Hill Dr; MAP: &lt;a href="https://maps.app.goo.gl/aGmAhU1VQFxkhbHD7" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/aGmAhU1VQFxkhbHD7&lt;/a&gt;; #MontecitoHeights; Delivery truck precariously perched in soft soil on the side of a hill, threatening a home below. No injuries. Firefighters, USAR, and Heavy Rescue will work together to attempt to bring the vehicle to solid ground at street level.; FS 47; Batt 2; Central Bureau; Council District 14; BC1  BC2  BP47  E1  E203  E227  E27  E450  E47  EM1  HR3  RA3  RA47  T1  T27  T3  UR27  UR3  UR88; CH7; 12; Nicholas Prange</description>
-  <category>Technical Rescue</category>
-                            <category>Central</category>
-                            <category>#MontecitoHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/technical-rescue-02052024-inc2061" hreflang="en">view</a></guid>
-                            <pubDate>Monday, February 5, 2024 - 20:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
