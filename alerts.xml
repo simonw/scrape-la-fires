@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 08 Feb 2024 08:52:47 -0800</lastBuildDate>
-<pubDate>Wed, 07 Feb 2024 23:41:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Thu, 08 Feb 2024 13:27:42 -0800</lastBuildDate>
+<pubDate>Thu, 08 Feb 2024 11:58:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">Collapsed Structure 02/08/2024 INC#0793</a></title>
+  <link><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">view</a></link>
+  <description>Collapsed Structure; INC#0793; 11:37AM; 226 W Olympic Bl; MAP: &lt;a href="https://bit.ly/48bNBPu" target="_blank" rel="noopener"&gt;https://bit.ly/48bNBPu&lt;/a&gt;; #Downtown; PRELIM: Subterranean stairwell collapse at a construction site. One adult male worker, who was quickly freed from debris on LAFD arrival, will be transported to an area hospital with serious injury. No other injuries reported. Media Inquiries: Property Management and Cal OSHA.; FS 10; Batt 1; Central Bureau; Council District 14; BC1  BC11  CM20  CM22  E10  E11  E203  E210  E3  E9  EM1  HR3  RA11  RA209  RA4  RA803  RA900  SO1  SQ21  T10  T3  T9  UR3  UR88; CH7; 12; Brian Humphrey</description>
+  <category>Collapsed Structure</category>
+                            <category>Central</category>
+                            <category>#Downtown</category>
+                            <guid isPermaLink="false"><a href="/alert/collapsed-structure-02082024-inc0793" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, February 8, 2024 - 11:58</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/mountain-rescue-02082024-inc0601" hreflang="en">Mountain Rescue 02/08/2024 INC#0601</a></title>
+  <link><a href="/alert/mountain-rescue-02082024-inc0601" hreflang="en">view</a></link>
+  <description>Mountain Rescue; INC#0601; 10:01AM; W Mandeville Fire Rd; MAP: &lt;a href="https://bit.ly/3SpQcQ8" target="_blank" rel="noopener"&gt;https://bit.ly/3SpQcQ8&lt;/a&gt;; #Brentwood; PRELIM: LAFD ground and air response to an adult male mountain bicyclist with a leg injury sustained in a fall on the West Mandeville Fire Road. Plan A = hoist the patient into the hovering LAFD rescue helicopter for in-flight treatment during direct transport to a regional trauma center.; FS 19; Batt 9; West Bureau; Council District 11; BC9  E19  E269  H0A  RA69  RH114  T69; CH7; 13; Brian Humphrey</description>
+  <category>Mountain Rescue</category>
+                            <category>West</category>
+                            <category>#Brentwood</category>
+                            <guid isPermaLink="false"><a href="/alert/mountain-rescue-02082024-inc0601" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, February 8, 2024 - 10:30</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-02072024-inc1894" hreflang="en">KNOCKDOWN Structure Fire 02/07/2024 INC#1894</a></title>
   <link><a href="/alert/knockdown-structure-fire-02072024-inc1894" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1894; 11:07PM; 1611 Schrader Bl; MAP: &lt;a href="https://bit.ly/3Uy5yEJ" target="_blank" rel="noopener"&gt;https://bit.ly/3Uy5yEJ&lt;/a&gt;; #Hollywood; Firefighters responded to a three-story center-hallway apartment building with fire showing from one unit on the second floor. Firefighters ascended to the second-floor and established a hose line to advance toward the fire. Ultimately, it took 32 firefighters 18 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 27; Batt 5; West Bureau; Council District 13; BC11  BC18  BC5  CM20  CM22  E227  E235  E261  E27  E41  E52  E82  EM5  RA27  RA827  T27  T35  T61; CH7; 12; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02072024-inc1894" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 23:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02072024-inc1894" hreflang="en">Structure Fire 02/07/2024 INC#1894</a></title>
@@ -29,7 +51,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02072024-inc1894" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 23:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02072024-inc1660" hreflang="en">KNOCKDOWN Structure Fire 02/07/2024 INC#1660</a></title>
@@ -40,7 +62,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02072024-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 21:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02072024-inc1660" hreflang="en">Structure Fire 02/07/2024 INC#1660</a></title>
@@ -51,7 +73,7 @@
                             <category>#BeverlyCrest</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02072024-inc1660" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 20:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-02072024-inc0637" hreflang="en">Structure Fire - Now Out 02/07/2024 INC#0637</a></title>
@@ -62,7 +84,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-02072024-inc0637" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 7, 2024 - 10:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-materials-02062024-inc1658" hreflang="en">Hazardous Materials 02/06/2024 INC#1658</a></title>
@@ -73,7 +95,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-materials-02062024-inc1658" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, February 6, 2024 - 20:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/evacuation-order-lifted-02062024" hreflang="en">EVACUATION ORDER LIFTED 02/06/2024</a></title>
@@ -99,7 +121,7 @@ Para obtener más información sobre la respuesta de emergencia relacionada con 
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/evacuation-order-lifted-02062024" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, February 6, 2024 - 17:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-02052024-inc2061" hreflang="en">Technical Rescue 02/05/2024 INC#2061</a></title>
@@ -110,29 +132,7 @@ Para obtener más información sobre la respuesta de emergencia relacionada con 
                             <category>#MontecitoHeights</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-02052024-inc2061" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 5, 2024 - 20:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/river-rescue-02052024-inc1523" hreflang="en">River Rescue 02/05/2024 INC#1523</a></title>
-  <link><a href="/alert/river-rescue-02052024-inc1523" hreflang="en">view</a></link>
-  <description>River Rescue; INC#1523; 02:45PM; 17 Pacoima Wash; #Sylmar; Firefighters responded to bystander reports that a man jumped in the flowing water in pursuit of his dog. Crews responded to several bridges and access points down river and located the canine, who had managed to swim safely to the edge and escape the rapids. LAFD Air Ops lowered a rescuer into the water, who was able to grab the patient, who was still conscious. They were hoisted into the aircraft, and transported to the local hospital by air. His dog was taken to a local shelter for temporary care for minor injuries. There were no other victims in the water, related to this incident. PIO Captain Cody Weireter responding to Paxton x Arleta for media needs.; FS 91; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC11  BC12  BC5  BC712  CM40  CM42  E235  E250  E260  E298  E35  E39  E76  E81  E82  E91  EM17  EM5  H1  H4  H5  HA1  HA4  HA5  HR3  PI3  RA39  RA850  RA86  SC1  SW44  SW88  SW89  T35  T50  T60  T98  UR88; CH5; 12; Nicholas Prange</description>
-  <category>River Rescue</category>
-                            <category>Valley</category>
-                            <category>#Sylmar</category>
-                            <guid isPermaLink="false"><a href="/alert/river-rescue-02052024-inc1523" hreflang="en">view</a></guid>
-                            <pubDate>Monday, February 5, 2024 - 16:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-debris-flow-02052024-inc0696" hreflang="en">Update Debris Flow 02/05/2024 INC#0696</a></title>
-  <link><a href="/alert/update-debris-flow-02052024-inc0696" hreflang="en">view</a></link>
-  <description>Update Debris Flow; INC#0696; 10:30AM; 1919 N Beverly Dr; MAP: &lt;a href="https://maps.app.goo.gl/h7jJych3u5woVkqq8" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/h7jJych3u5woVkqq8&lt;/a&gt;; #BeverlyCrest; Firefighters responded to a debris flow in Beverly Crest, where firefighters assisted stranded residents from seven homes evacuate, including six adults and nine children. Six of the homes were damaged and one threatened. ; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  BC712  BC9  CM40  CM42  E108  E288  E289  E292  EM14  ER2  HR3  JT4  PI3  RA71  RA88  RA889  T88  T89  T92  UA6  UR88; CH8; 17; Nicholas Prange</description>
-  <category>Debris Flow</category>
-                            <category>Valley</category>
-                            <category>#BeverlyCrest</category>
-                            <guid isPermaLink="false"><a href="/alert/update-debris-flow-02052024-inc0696" hreflang="en">view</a></guid>
-                            <pubDate>Monday, February 5, 2024 - 11:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=e3f07a98-c6c8-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
