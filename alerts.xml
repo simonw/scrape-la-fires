@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 10 Feb 2024 09:38:11 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5"/>
+<lastBuildDate>Sat, 10 Feb 2024 22:13:42 -0800</lastBuildDate>
 <pubDate>Sat, 10 Feb 2024 09:38:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/cliff-rescue-02102024-inc0440" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 10, 2024 - 09:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-civilian-fatality-02102024-inc0066" hreflang="en">Update Major Emergency Structure Fire Civilian Fatality 02/10/2024 INC#0066</a></title>
@@ -29,7 +29,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-civilian-fatality-02102024-inc0066" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 10, 2024 - 04:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-02102024-inc0066" hreflang="en">Knockdown -  Major Emergency Structure Fire 02/10/2024 INC#0066</a></title>
@@ -40,7 +40,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-02102024-inc0066" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 10, 2024 - 02:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-02102024-inc0066" hreflang="en">Greater Alarm Structure Fire 02/10/2024 INC#0066</a></title>
@@ -51,7 +51,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-02102024-inc0066" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 10, 2024 - 01:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02092024-inc1260" hreflang="en">Knockdown - Structure Fire 02/09/2024 INC#1260</a></title>
@@ -62,7 +62,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02092024-inc1260" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 17:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02092024-inc1260" hreflang="en">Structure Fire 02/09/2024 INC#1260</a></title>
@@ -73,7 +73,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02092024-inc1260" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 16:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/concluded-earthquake-mode-complete-02092024-inc0964" hreflang="en">CONCLUDED - Earthquake Mode Complete 02/09/2024 INC#0964</a></title>
@@ -83,7 +83,7 @@
                             <category>Santa Monica Mountains</category>
                             <guid isPermaLink="false"><a href="/alert/concluded-earthquake-mode-complete-02092024-inc0964" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 15:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/earthquake-mode-02092024-inc0964" hreflang="en">Earthquake Mode 02/09/2024 INC#0964</a></title>
@@ -93,7 +93,7 @@
                             <category>Santa Monica Mountains</category>
                             <guid isPermaLink="false"><a href="/alert/earthquake-mode-02092024-inc0964" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 14:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/air-ambulance-02092024-inc0805" hreflang="en">Air Ambulance 02/09/2024 INC#0805</a></title>
@@ -104,7 +104,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/air-ambulance-02092024-inc0805" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 13:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02092024-inc0771" hreflang="en">Knockdown -  Structure Fire 02/09/2024 INC#0771</a></title>
@@ -117,7 +117,7 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02092024-inc0771" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 12:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b3bc5ba2-c8a4-11ee-b877-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
