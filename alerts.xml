@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 10 Feb 2024 22:56:08 -0800</lastBuildDate>
-<pubDate>Sat, 10 Feb 2024 09:38:00 -0800</pubDate>
+<lastBuildDate>Sun, 11 Feb 2024 22:07:34 -0800</lastBuildDate>
+<pubDate>Sun, 11 Feb 2024 11:03:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-02112024-inc0558" hreflang="en">Hiker Rescue 02/11/2024 INC#0558</a></title>
+  <link><a href="/alert/hiker-rescue-02112024-inc0558" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0558; 10:11AM; Paseo Miramar Trail; MAP: &lt;a href="https://bit.ly/49c8tYb" target="_blank" rel="noopener"&gt;https://bit.ly/49c8tYb&lt;/a&gt;; #PacificPalisades; LAFD ground and air response to an adult male hiker who sustained minor injuries in a ground-level fall on a remote section of the Paseo Miramar Trail in the Santa Monica Mountains. Rough fire road conditions due to recent storms prevent a quick or safe ground transport. The patient, in fair condition, is being hoisted into a hovering LAFD Rescue Helicopter, where he will receive in-flight care during direct transport to a regional hospital. ; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  H4  H6  HA4  HA6  RA23  RH114  T69; CH7; 12; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-02112024-inc0558" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, February 11, 2024 - 11:03</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/cliff-rescue-02102024-inc0440" hreflang="en">Cliff Rescue 02/10/2024 INC#0440</a></title>
   <link><a href="/alert/cliff-rescue-02102024-inc0440" hreflang="en">view</a></link>
   <description>Cliff Rescue; INC#0440; 09:03AM; 4040 S Bluff Pl; MAP: &lt;a href="https://bit.ly/49tx8Ye" target="_blank" rel="noopener"&gt;https://bit.ly/49tx8Ye&lt;/a&gt;; #SanPedro; PRELIM: LAFD land, air and sea response to an adult male (landscaper who slipped but did not fall?), who is stranded but physically stable on a seaside cliff approximately 75 feet from the cliff top, and twenty feet above sea level. He does not appear to be injured. LAFD divers swam from their fireboat to assist at the shoreline, as LAFD Rescue Helicopters now hover above. Because of high tide and cold seas, the man will soon be hoisted aboard the helicopter. He will be transferred the care of LAFD ground crews at a bluff top landing zone.; FS 48; Batt 6; South Bureau; Council District 15; AO1  AO2  BC6  BT1  BT17  BT2  E101  E205  E248  E3  E48  EM13  H1  H4  HA1  HA4  RA101  RA36  RH114  T48  T5  UR5  UR88; CH7; 12; Brian Humphrey</description>
@@ -104,19 +115,6 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/air-ambulance-02092024-inc0805" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 9, 2024 - 13:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-02092024-inc0771" hreflang="en">Knockdown -  Structure Fire 02/09/2024 INC#0771</a></title>
-  <link><a href="/alert/knockdown-structure-fire-02092024-inc0771" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#0771; 12:43PM; 520 S Kenmore Av; MAP: &lt;a href="https://bit.ly/42BPGmD" target="_blank" rel="noopener"&gt;https://bit.ly/42BPGmD&lt;/a&gt;; #Koreatown; First arriving 32 LAFD Firefighters took just 24 minutes to access, confine and fully extinguish fire within the kitchen area of one second floor apartment at the rear of an 18,783 square foot / 24 unit / four-story garden-style apartment building (3 occupied floors over parking). No injury. Fire cause under investigation.
-
-; FS 6; Batt 11; Central Bureau; Council District 10; BC1  BC11  BC18  BC5  CM20  CM22  E11  E13  E20  E220  E226  E227  E229  E29  E3  E6  EM11  EM5  HR3  RA26  RA35  RA803  RA813  SQ21  T20  T26  T27  T29  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Koreatown</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02092024-inc0771" hreflang="en">view</a></guid>
-                            <pubDate>Friday, February 9, 2024 - 12:48</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
