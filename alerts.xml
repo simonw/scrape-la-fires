@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 16 Feb 2024 10:06:55 -0800</lastBuildDate>
-<pubDate>Thu, 15 Feb 2024 20:11:00 -0800</pubDate>
+<lastBuildDate>Fri, 16 Feb 2024 16:05:01 -0800</lastBuildDate>
+<pubDate>Fri, 16 Feb 2024 16:04:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-02162024-inc1129" hreflang="en">Hiker Rescue 02/16/2024 INC#1129</a></title>
+  <link><a href="/alert/hiker-rescue-02162024-inc1129" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#1129; 03:11PM; Runyon Canyon; MAP: &lt;a href="https://bit.ly/3T22Fei" target="_blank" rel="noopener"&gt;https://bit.ly/3T22Fei&lt;/a&gt;; #HollywoodHillsWest; Firefighters located an approximately 50-year-old female with a lower extremity injury, unable to make it back from her remote location. LAFD Air Operations lowered a paramedic down to her, who provided care, and helped safely hoist her into the helicopter, where she was safely transported to a local hospital. Nothing further.; FS 41; Batt 5; West Bureau; Council District 4; BC5  E235  E261  E41  E90  H3  H4  HA3  HA4  RA41  RA878  RA894  RH114  T35  T61; CH7; 12; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#HollywoodHillsWest</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-02162024-inc1129" hreflang="en">view</a></guid>
+                            <pubDate>Friday, February 16, 2024 - 16:04</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-02152024-inc1618" hreflang="en">Structure Fire - Now Out 02/15/2024 INC#1618</a></title>
   <link><a href="/alert/structure-fire-now-out-02152024-inc1618" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#1618; 07:45PM; 8903 S Central Av; MAP: &lt;a href="https://bit.ly/3UCYcA0" target="_blank" rel="noopener"&gt;https://bit.ly/3UCYcA0&lt;/a&gt;; #GreenMeadows; Firefighters responded to a vacant house with fire showing. It took 36 firefighters 15 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 65; Batt 13; South Bureau; Council District 9; BC11  BC2  E233  E264  E266  E57  E64  E65  RA65  RA864  SQ21  T33  T64  T66; CH7; 12; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Venice</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02142024-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 14, 2024 - 13:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-modified-river-rescue-02142024-inc0283" hreflang="en">Update Modified River Rescue 02/14/2024 INC#0283</a></title>
-  <link><a href="/alert/update-modified-river-rescue-02142024-inc0283" hreflang="en">view</a></link>
-  <description>Update Modified River Rescue; INC#0283; 08:00AM; 356 LA River; MAP: &lt;a href="https://bit.ly/3uCoyaH" target="_blank" rel="noopener"&gt;https://bit.ly/3uCoyaH&lt;/a&gt;; #BoyleHeights; Firefighters assisted LAPD and the Medical Examiner with the body recovery of a deceased adult male in the flood control channel, using a rigid stretcher ("basket") with ropes coming from the tip of an aerial ladder truck. Nothing further.; FS 17; Batt 1; Central Bureau; Council District 14; AO1  AO2  BC1  E4  E447  H4  H6  H7  HA4  HA6  HA7  RA17  RA90  T9; CH7; 13; Nicholas Prange</description>
-  <category>Modified River Rescue</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/update-modified-river-rescue-02142024-inc0283" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, February 14, 2024 - 08:53</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
