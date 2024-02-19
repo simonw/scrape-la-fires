@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5"/>
-<lastBuildDate>Sun, 18 Feb 2024 00:34:42 -0800</lastBuildDate>
-<pubDate>Sun, 18 Feb 2024 00:34:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 18 Feb 2024 20:37:03 -0800</lastBuildDate>
+<pubDate>Sun, 18 Feb 2024 17:26:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/update-physical-rescue-02182024-inc1036" hreflang="en">Update Physical Rescue 02/18/2024 INC#1036</a></title>
+  <link><a href="/alert/update-physical-rescue-02182024-inc1036" hreflang="en">view</a></link>
+  <description>Update Physical Rescue; INC#1036; 05:00PM; 2445 N Coldwater Canyon Dr; MAP: &lt;a href="https://bit.ly/49BR6jq" target="_blank" rel="noopener"&gt;https://bit.ly/49BR6jq&lt;/a&gt;; #BeverlyCrest; Firefighters successfully extricated two people from the overturned vehicle, and transported both to a local hospital. Unknown age/gender/condition. Nothing further.; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E71  E97  E99  EM14  HR3  RA37  RA71  RA78  RA97  T78  T92  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/update-physical-rescue-02182024-inc1036" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, February 18, 2024 - 17:26</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/physical-rescue-02182024-inc1036" hreflang="en">Physical Rescue 02/18/2024 INC#1036</a></title>
+  <link><a href="/alert/physical-rescue-02182024-inc1036" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#1036; 04:19PM; 2445 N Coldwater Canyon Dr; MAP: &lt;a href="https://bit.ly/49BR6jq" target="_blank" rel="noopener"&gt;https://bit.ly/49BR6jq&lt;/a&gt;; #BeverlyCrest; Firefighters responding to one vehicle rollover with two patients trapped.; FS 108; Batt 14; Valley Bureau; Council District 5; BC14  E108  E278  E292  E71  E97  RA71  RA78  RA97  T78  T92; CH8; 17; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>Valley</category>
+                            <category>#BeverlyCrest</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-02182024-inc1036" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, February 18, 2024 - 16:28</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-structure-fire-knockdown-02182024-inc0011" hreflang="en">Update Structure Fire KNOCKDOWN 02/18/2024 INC#0011</a></title>
   <link><a href="/alert/update-structure-fire-knockdown-02182024-inc0011" hreflang="en">view</a></link>
   <description>Update KNOCKDOWN Structure Fire; INC#0011; 12:28AM; 20742 W Skouras Dr; MAP: &lt;a href="https://bit.ly/4bBpPzD" target="_blank" rel="noopener"&gt;https://bit.ly/4bBpPzD&lt;/a&gt;; #Winnetka; Firefighters responded to a one-story home with fire showing from the attic. While crews prepared to advance hose lines inside the house and cut holes in the roof, others performed salvage operations inside (gathering valuables and belongings and covering them to avoid further damage due to smoke or water). Ultimately, it took 32 firefighters 17 minutes to access, confine, and extinguish the attic fire. No reported injuries. Cause under investigation.; FS 72; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E105  E293  E305  E72  E84  RA72  RA84  SO1  T105  T93; CH9; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-02182024-inc0011" hreflang="en">view</a></guid>
                             <pubDate>Sunday, February 18, 2024 - 00:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02182024-inc0011" hreflang="en">Structure Fire 02/18/2024 INC#0011</a></title>
@@ -29,7 +51,7 @@
                             <category>#Winnetka</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02182024-inc0011" hreflang="en">view</a></guid>
                             <pubDate>Sunday, February 18, 2024 - 00:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-knockdown-02172024-inc1386" hreflang="en">Update Structure Fire KNOCKDOWN 02/17/2024 INC#1386</a></title>
@@ -40,7 +62,7 @@
                             <category>Sawtelle</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-knockdown-02172024-inc1386" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 17, 2024 - 20:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02172024-inc1386" hreflang="en">Structure Fire 02/17/2024 INC#1386</a></title>
@@ -51,7 +73,7 @@
                             <category>#Sawtelle</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02172024-inc1386" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 17, 2024 - 19:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-02162024-inc1129" hreflang="en">Hiker Rescue 02/16/2024 INC#1129</a></title>
@@ -62,7 +84,7 @@
                             <category>#HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-02162024-inc1129" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 16, 2024 - 16:04</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-02152024-inc1618" hreflang="en">Structure Fire - Now Out 02/15/2024 INC#1618</a></title>
@@ -73,7 +95,7 @@
                             <category>#GreenMeadows</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-02152024-inc1618" hreflang="en">view</a></guid>
                             <pubDate>Thursday, February 15, 2024 - 20:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-explosion-02152024-inc0317-0" hreflang="en">Update Explosion 02/15/2024 INC#0317</a></title>
@@ -84,7 +106,7 @@
                             <category>#Wilmington</category>
                             <guid isPermaLink="false"><a href="/alert/update-explosion-02152024-inc0317-0" hreflang="en">view</a></guid>
                             <pubDate>Thursday, February 15, 2024 - 12:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-fatality-02152024-inc0574" hreflang="en">Structure Fire - Now Out (Fatality) 02/15/2024 INC#0574</a></title>
@@ -95,29 +117,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-fatality-02152024-inc0574" hreflang="en">view</a></guid>
                             <pubDate>Thursday, February 15, 2024 - 10:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-explosion-02152024-inc0317" hreflang="en">Update Explosion 02/15/2024 INC#0317</a></title>
-  <link><a href="/alert/update-explosion-02152024-inc0317" hreflang="en">view</a></link>
-  <description>Update Explosion; INC#0317; 10:00AM; 1120 N Alameda St; MAP: &lt;a href="https://bit.ly/49FhKIl" target="_blank" rel="noopener"&gt;https://bit.ly/49FhKIl&lt;/a&gt;; #Wilmington; Firefighters arrived to find a CNG-powered semi truck (tractor-only) on fire, and deployed hose lines to address the flames. Six minutes after ten firefighters arrived on scene arriving on scene, an explosion injured at least seven of our members (2 of which were in critical condition, and all 7 transported to area hospitals). LAFD Hazardous Materials Specialists are now on scene. Firefighters have set up a 500-foot perimeter around the location of the blast. Residents are encouraged to stay inside. There are no homes within the immediate danger zone and no formal evacuations have been ordered. Firefighters and Police Officers are keeping personnel and the public outside of the perimeter. Flames appear to be continuing from one cylinder. There are currently over 150 firefighters assigned to this incident to handle medical, fire, and hazardous materials components. REMINDER: IT IS ILLEGAL TO FLY DRONES WITHIN 500 FEET OF AN EMERGENCY INCIDENT, WITHOUT CLEARANCE. Motorists seek alternate routes. MEDIA: A press conference is *anticipated* to be at 11:00 AM at the entrance to the Emergency Department of Harbor-UCLA Medical Center (1000 W Carson Street). Please stage on Carson, west of Vermont. Media at the scene, please stage on the 1200 block of N Alameda Street.; FS 38; Batt 6; South Bureau; Council District 15; AO1  AO2  AP65  AR1  AR10  AR11  AR12  AR14  AR21  AR22  AR27  AR33  AR34  AR38  AR7  AR9  BC1  BC13  BC4  BC6  CE43  CM1  CM20  CM22  CM3  CM32  E112  E205  E21  E210  E215  E220  E221  E238  E248  E285  E290  E36  E40  E48  E49  E5  E64  E85  E90  EM1  EM11  EM13  EM18  EM35  ER3  FC1  H1  H3  HA1  HA3  HE1  HR3  JT1  JT2  JT3  JT4  JT6  PL1  RA10  RA101  RA112  RA264  RA266  RA36  RA38  RA5  RA57  RA64  RA79  RA848  RA85  RA90  RH114  RS3  SO1  SQ21  SQ48  T10  T15  T20  T21  T38  T48  T5  T85  T90  TL4  TO34  UA1  UR5  UR88; CH7; 12  13  14; Nicholas Prange</description>
-  <category>Explosion</category>
-                            <category>South</category>
-                            <category>#Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/update-explosion-02152024-inc0317" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, February 15, 2024 - 10:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/explosion-02152024-inc0317" hreflang="en">Explosion 02/15/2024 INC#0317</a></title>
-  <link><a href="/alert/explosion-02152024-inc0317" hreflang="en">view</a></link>
-  <description>Explosion; INC#0317; 06:58AM; 1120 N Alameda St; MAP: &lt;a href="https://bit.ly/49FhKIl" target="_blank" rel="noopener"&gt;https://bit.ly/49FhKIl&lt;/a&gt;; #Wilmington; Firefighters responded to a truck with pressurized cylinders on fire. A an explosion on scene injured multiple firefighters. Three have already been transported to a local hospital (at least two in critical condition). Several other injured are being evaluated on scene, awaiting additional ambulances to arrive (estimated 7 total firefighters). PIO Captain Adam Van Gerpen en route. MOTORISTS: Avoid the area.; FS 38; Batt 6; South Bureau; Council District 15; AO1  AO2  AR1  BC13  BC4  BC6  CM20  CM22  E112  E205  E238  E248  E285  E290  E36  E48  E49  E5  E85  E90  EM1  EM11  EM13  EM18  H1  H3  HA1  HA3  HR3  JT1  JT2  JT4  JT6  RA101  RA112  RA264  RA36  RA38  RA5  RA64  RA79  RA848  RA85  RA90  RH114  SQ48  T38  T48  T5  T85  T90  UR5  UR88; CH9; 12  13; Nicholas Prange</description>
-  <category>Explosion</category>
-                            <category>South</category>
-                            <category>#Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/explosion-02152024-inc0317" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, February 15, 2024 - 07:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=8f173016-ce38-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
