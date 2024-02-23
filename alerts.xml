@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 22 Feb 2024 19:52:20 -0800</lastBuildDate>
-<pubDate>Thu, 22 Feb 2024 19:52:00 -0800</pubDate>
+<lastBuildDate>Fri, 23 Feb 2024 09:44:02 -0800</lastBuildDate>
+<pubDate>Fri, 23 Feb 2024 09:24:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-02232024-inc0407" hreflang="en">Traffic 02/23/2024 INC#0407</a></title>
+  <link><a href="/alert/traffic-02232024-inc0407" hreflang="en">view</a></link>
+  <description>Traffic; INC#0407; 08:33AM; 757 E Florence Av; MAP: &lt;a href="https://bit.ly/3OW3Md8" target="_blank" rel="noopener"&gt;https://bit.ly/3OW3Md8&lt;/a&gt;; Florence; Firefighters responded to a three vehicle traffic accident with trapped patients.  Two adult patients in critical condition and two patients with non-life threatening injuries were transported to local hospitals. ; FS 33; Batt 13; South Bureau; Council District 9; BC13  E21  E221  E233  E33  EM11  EM13  RA33  RA46  RA815  RA833  RA864  RA865  RA915  T21  T33; CH4; 12; Jennifer Middleton</description>
+  <category>Traffic</category>
+                            <category>South</category>
+                            <category>Florence</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-02232024-inc0407" hreflang="en">view</a></guid>
+                            <pubDate>Friday, February 23, 2024 - 09:24</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-02222024-inc1562" hreflang="en">Knockdown -  Structure Fire 02/22/2024 INC#1562</a></title>
   <link><a href="/alert/knockdown-structure-fire-02222024-inc1562" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#1562; 07:47PM; 3104 E Ganahl St; MAP: &lt;a href="https://bit.ly/42WK72A" target="_blank" rel="noopener"&gt;https://bit.ly/42WK72A&lt;/a&gt;; #BoyleHeights; 43 LAFD Firefighters with the support of LACoFD took just 19 minutes to access, confine and extinguish flames in one upstairs unit of a two-story residential duplex. No human injury. Firefighters are now caring for two puppies they rescued from the burning building. As this location at the City/County border has now been determined to be within the Los Angeles County Fire Department's jurisdiction, all further information will come from LACoFD.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  E1  E16  E201  E202  E4  E450  RA1  RA2  RA801  SO1  SQ21  T1  T2 + LACoFD; CH9; 12; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#LakeBalboa</category>
                             <guid isPermaLink="false"><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-1" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, February 20, 2024 - 10:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-0" hreflang="en">Update Fatality Traffic Collision 02/20/2024 INC#0520</a></title>
-  <link><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-0" hreflang="en">view</a></link>
-  <description>Update Fatality Traffic Collision; INC#0520; 10:30AM; 17300 W Saticoy St; MAP: &lt;a href="https://bit.ly/48ntZbo" target="_blank" rel="noopener"&gt;https://bit.ly/48ntZbo&lt;/a&gt;; #LakeBalboa; The pickup that struck the building was from a commercial pest control firm. Because the forceful collision(s) caused that truck's cargo of commercial pesticide *containers* to be ejected alongside the roadway and building, an LAFD Hazardous Materials Squad has been summoned per protocol to survey the scene and assure no actual pesticide *product* has been spilled. Though no escalating or off-site hazard has been identified, the immediate area of the collision has been cordoned off until the LAFD HazMat investigation is complete. No persons at the scene have any medical complaints, and there is no formal evacuation.; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E104  E273  E290  E295  E73  EM10  HR3  JT2  RA100  RA73  SQ87  SQ95  T73  T90  T95  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Fatality Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#LakeBalboa</category>
-                            <guid isPermaLink="false"><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-0" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, February 20, 2024 - 10:40</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
