@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 23 Feb 2024 19:21:21 -0800</lastBuildDate>
-<pubDate>Fri, 23 Feb 2024 09:24:00 -0800</pubDate>
+<lastBuildDate>Fri, 23 Feb 2024 22:52:59 -0800</lastBuildDate>
+<pubDate>Fri, 23 Feb 2024 22:48:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-02232024-inc1703" hreflang="en">Structure Fire 02/23/2024 INC#1703</a></title>
+  <link><a href="/alert/structure-fire-02232024-inc1703" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1703; 10:07PM; 15702 W Roscoe Bl; MAP: &lt;a href="https://bit.ly/3STRrXY" target="_blank" rel="noopener"&gt;https://bit.ly/3STRrXY&lt;/a&gt;; Van Nuys; Firefighters responded to reports of an auto fire near a single story 70' x 30' vacant auto dealership. Crews arrived to find smoke showing from the structure and requested additional resources as they advanced hose lines and made forcible entry into the building. It took 32 firefighters 15 minutes to access, confine and extinguish the flames. No reported injuries. Cause under investigation.  ; FS 90; Batt 10; Valley Bureau; Council District 6; BC10  BC15  E275  E290  E7  E81  E90  RA7  RA90  T75  T90; CH9; 17; Jennifer Middleton</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>Van Nuys</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-02232024-inc1703" hreflang="en">view</a></guid>
+                            <pubDate>Friday, February 23, 2024 - 22:48</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/traffic-02232024-inc0407" hreflang="en">Traffic 02/23/2024 INC#0407</a></title>
   <link><a href="/alert/traffic-02232024-inc0407" hreflang="en">view</a></link>
   <description>Traffic; INC#0407; 08:33AM; 757 E Florence Av; MAP: &lt;a href="https://bit.ly/3OW3Md8" target="_blank" rel="noopener"&gt;https://bit.ly/3OW3Md8&lt;/a&gt;; Florence; Firefighters responded to a three vehicle traffic accident with trapped patients.  Two adult patients in critical condition and two patients with non-life threatening injuries were transported to local hospitals. ; FS 33; Batt 13; South Bureau; Council District 9; BC13  E21  E221  E233  E33  EM11  EM13  RA33  RA46  RA815  RA833  RA864  RA865  RA915  T21  T33; CH4; 12; Jennifer Middleton</description>
@@ -106,17 +117,6 @@
                             <category>#AngelesNationalForest</category>
                             <guid isPermaLink="false"><a href="/alert/agency-assist-02212024-inc0336" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, February 21, 2024 - 08:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-1" hreflang="en">Update Fatality Traffic Collision 02/20/2024 INC#0520</a></title>
-  <link><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-1" hreflang="en">view</a></link>
-  <description>Update Fatality Traffic Collision; INC#0520; 10:58AM; 17300 W Saticoy St; MAP: &lt;a href="https://bit.ly/48ntZbo" target="_blank" rel="noopener"&gt;https://bit.ly/48ntZbo&lt;/a&gt;; #LakeBalboa; The adult male (sole) occupant of the pickup truck is deceased and remains at scene. The critically injured adult female was the driver and sole occupant of the coupe. She is being treated at a regional trauma center. No other injuries have been reported. Though there was rain in the area this morning, the specific cause of - and any factors related to the collision, will be formally determined by LAPD Valley Traffic Division investigators.; FS 100; Batt 10; Valley Bureau; Council District 6; BC10  E100  E104  E273  E290  E295  E73  EM10  HR3  JT2  RA100  RA73  SQ87  SQ95  T73  T90  T95  UR88; CH8; 17; Brian Humphrey</description>
-  <category>Fatality Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#LakeBalboa</category>
-                            <guid isPermaLink="false"><a href="/alert/update-fatality-traffic-collision-02202024-inc0520-1" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, February 20, 2024 - 10:59</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
