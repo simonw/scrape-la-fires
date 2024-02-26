@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5"/>
-<lastBuildDate>Sun, 25 Feb 2024 05:48:42 -0800</lastBuildDate>
-<pubDate>Sat, 24 Feb 2024 21:31:00 -0800</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 25 Feb 2024 12:46:02 -0800</lastBuildDate>
+<pubDate>Sun, 25 Feb 2024 12:45:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">Update Multi-Patient Traffic Collision with Entrapment 02/25/2024 INC#0684</a></title>
+  <link><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">view</a></link>
+  <description>Update Multi-Patient Traffic Collision with Entrapment; INC#0684; 12:40PM; 18153 W Vanowen St; MAP: &lt;a href="https://bit.ly/3wBrRiS" target="_blank" rel="noopener"&gt;https://bit.ly/3wBrRiS&lt;/a&gt;; #Reseda; Firefighters responded to a traffic collision involving at least 4 vehicles (plus 2 additional parked vehicles impacted) and a sheared hydrant. Upon arrival, firefighters found that one trapped patient was deceased (left in place for law enforcement investigation and medical examiner), and two others were in need of extrication. Crews used hydraulic rescue tools (similar to "Jaws of Life") to free both trapped patients from one vehicle. An additional 8 patients were involved, but not trapped. Firefighter-Paramedics evaluated a total of 11 patients (including the deceased). Six patients were transported to area hospitals, and four declined transport by LAFD ambulance. Firefighters successfully shut down the hydrant after extricating the trapped patients. LAPD Inc #2049. Nothing further; FS 100; Batt 10; Valley Bureau; Council District 4; BC10  E100  E103  E239  E273  E293  E73  EM14  HR3  RA39  RA70  RA73  RA83  RA872  RA889  RA903  RA93  T39  T73  T93  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Multi-Patient Traffic Collision with Entrapment</category>
+                            <category>Valley</category>
+                            <category>#Reseda</category>
+                            <guid isPermaLink="false"><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, February 25, 2024 - 12:45</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/multipatient-traffic-collision-02252024-inc0684" hreflang="en">Multi-Patient Traffic Collision 02/25/2024 INC#0684</a></title>
+  <link><a href="/alert/multipatient-traffic-collision-02252024-inc0684" hreflang="en">view</a></link>
+  <description>Multi-Patient Traffic Collision; INC#0684; 11:18AM; 18153 W Vanowen St; MAP: &lt;a href="https://bit.ly/3wBrRiS" target="_blank" rel="noopener"&gt;https://bit.ly/3wBrRiS&lt;/a&gt;; Reseda; PRELIM: Three-vehicle collision with trapped patients. Firefighters preparing for extrication.; FS 100; Batt 10; Valley Bureau; Council District 4; BC10  E100  E103  E273  E73  EM14  HR3  RA39  RA70  RA83  T73  UR88; CH8; 17; Nicholas Prange</description>
+  <category>Multi-Patient Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>Reseda</category>
+                            <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-02252024-inc0684" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, February 25, 2024 - 11:31</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-02242024-inc1446" hreflang="en">KNOCKDOWN Structure Fire 02/24/2024 INC#1446</a></title>
   <link><a href="/alert/knockdown-structure-fire-02242024-inc1446" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1446; 08:43PM; 4161 S Vermont Av; MAP: &lt;a href="https://bit.ly/3TeJuhG" target="_blank" rel="noopener"&gt;https://bit.ly/3TeJuhG&lt;/a&gt;; #VermontSquare; Firefighters investigated smoke found on the first and second floor, and spreading throughout the building. It took 80 firefighters 37 minutes to access, confine, and extinguish the flames. Crews set up a system of blowers to remove the smoke and reintroduce fresh air into the building. Thankfully, there were no reported injuries. The cause of the fire is under investigation.; FS 46; Batt 13; South Bureau; Council District 9; AR1  BC1  BC11  BC13  BC5  CM20  CM22  E11  E15  E215  E221  E227  E266  E27  E33  E46  E66  E95  EA1  EM11  HR3  RA46  RA846  SO1  SQ21  SQ95  T15  T21  T27  T66  UR27  UR88; CH7; 12  13; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02242024-inc1446" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 21:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02242024-inc1446" hreflang="en">Structure Fire 02/24/2024 INC#1446</a></title>
@@ -29,7 +51,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02242024-inc1446" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 20:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-hazardous-condition-02242024-inc1115" hreflang="en">Update Hazardous Condition 02/24/2024 INC#1115</a></title>
@@ -40,7 +62,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/update-hazardous-condition-02242024-inc1115" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 19:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-condition-02242024-inc1115" hreflang="en">Hazardous Condition 02/24/2024 INC#1115</a></title>
@@ -51,7 +73,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-condition-02242024-inc1115" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 17:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02242024-inc0627" hreflang="en">KNOCKDOWN Structure Fire 02/24/2024 INC#0627</a></title>
@@ -62,7 +84,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02242024-inc0627" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 11:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02242024-inc0627" hreflang="en">Structure Fire 02/24/2024 INC#0627</a></title>
@@ -73,7 +95,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02242024-inc0627" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 11:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02232024-inc1703" hreflang="en">Structure Fire 02/23/2024 INC#1703</a></title>
@@ -84,7 +106,7 @@
                             <category>Van Nuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02232024-inc1703" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 23, 2024 - 22:48</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-02232024-inc0407" hreflang="en">Traffic 02/23/2024 INC#0407</a></title>
@@ -95,29 +117,7 @@
                             <category>Florence</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-02232024-inc0407" hreflang="en">view</a></guid>
                             <pubDate>Friday, February 23, 2024 - 09:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-02222024-inc1562" hreflang="en">Knockdown -  Structure Fire 02/22/2024 INC#1562</a></title>
-  <link><a href="/alert/knockdown-structure-fire-02222024-inc1562" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1562; 07:47PM; 3104 E Ganahl St; MAP: &lt;a href="https://bit.ly/42WK72A" target="_blank" rel="noopener"&gt;https://bit.ly/42WK72A&lt;/a&gt;; #BoyleHeights; 43 LAFD Firefighters with the support of LACoFD took just 19 minutes to access, confine and extinguish flames in one upstairs unit of a two-story residential duplex. No human injury. Firefighters are now caring for two puppies they rescued from the burning building. As this location at the City/County border has now been determined to be within the Los Angeles County Fire Department's jurisdiction, all further information will come from LACoFD.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  E1  E16  E201  E202  E4  E450  RA1  RA2  RA801  SO1  SQ21  T1  T2 + LACoFD; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02222024-inc1562" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, February 22, 2024 - 19:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-02222024-inc1562" hreflang="en">Structure Fire 02/22/2024 INC#1562</a></title>
-  <link><a href="/alert/structure-fire-02222024-inc1562" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1562; 07:28PM; 3104 E Ganahl St; MAP: &lt;a href="https://bit.ly/42WK72A" target="_blank" rel="noopener"&gt;https://bit.ly/42WK72A&lt;/a&gt;; #BoyleHeights; PRELIM: Offensive fire attack at a two-story multi-family dwelling with fire on the second floor.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC11  E1  E16  E201  E202  E4  RA1  RA801  SQ21  T1  T2; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-02222024-inc1562" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, February 22, 2024 - 19:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=958af437-d3e4-11ee-b87a-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
