@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 26 Feb 2024 20:15:11 -0800</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5"/>
+<lastBuildDate>Tue, 27 Feb 2024 07:41:42 -0800</lastBuildDate>
 <pubDate>Mon, 26 Feb 2024 12:55:00 -0800</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02262024-inc0747" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02262024-inc0747" hreflang="en">Structure Fire 02/26/2024 INC#0747</a></title>
@@ -29,7 +29,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02262024-inc0747" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 12:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02262024-inc0337" hreflang="en">KNOCKDOWN Structure Fire 02/26/2024 INC#0337</a></title>
@@ -40,7 +40,7 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02262024-inc0337" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 08:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02262024-inc0337" hreflang="en">Structure Fire 02/26/2024 INC#0337</a></title>
@@ -51,7 +51,7 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02262024-inc0337" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 07:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">Update Multi-Patient Traffic Collision with Entrapment 02/25/2024 INC#0684</a></title>
@@ -62,7 +62,7 @@
                             <category>#Reseda</category>
                             <guid isPermaLink="false"><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">view</a></guid>
                             <pubDate>Sunday, February 25, 2024 - 12:45</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-traffic-collision-02252024-inc0684" hreflang="en">Multi-Patient Traffic Collision 02/25/2024 INC#0684</a></title>
@@ -73,7 +73,7 @@
                             <category>Reseda</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-02252024-inc0684" hreflang="en">view</a></guid>
                             <pubDate>Sunday, February 25, 2024 - 11:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-02242024-inc1446" hreflang="en">KNOCKDOWN Structure Fire 02/24/2024 INC#1446</a></title>
@@ -84,7 +84,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02242024-inc1446" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 21:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-02242024-inc1446" hreflang="en">Structure Fire 02/24/2024 INC#1446</a></title>
@@ -95,7 +95,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02242024-inc1446" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 20:23</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-hazardous-condition-02242024-inc1115" hreflang="en">Update Hazardous Condition 02/24/2024 INC#1115</a></title>
@@ -106,7 +106,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/update-hazardous-condition-02242024-inc1115" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 19:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hazardous-condition-02242024-inc1115" hreflang="en">Hazardous Condition 02/24/2024 INC#1115</a></title>
@@ -117,7 +117,7 @@
                             <category>#Brentwood</category>
                             <guid isPermaLink="false"><a href="/alert/hazardous-condition-02242024-inc1115" hreflang="en">view</a></guid>
                             <pubDate>Saturday, February 24, 2024 - 17:59</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b396575d-d586-11ee-b87a-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
