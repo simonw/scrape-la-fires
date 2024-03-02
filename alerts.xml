@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 01 Mar 2024 09:24:16 -0800</lastBuildDate>
-<pubDate>Wed, 28 Feb 2024 18:04:00 -0800</pubDate>
+<lastBuildDate>Fri, 01 Mar 2024 12:20:11 -0800</lastBuildDate>
+<pubDate>Fri, 01 Mar 2024 12:20:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-03012024-inc0757" hreflang="en">Structure Fire - Now Out 03/01/2024 INC#0757</a></title>
+  <link><a href="/alert/structure-fire-now-out-03012024-inc0757" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0757; 11:54AM; 900 W Exposition Bl; MAP: &lt;a href="https://bit.ly/3T2rA0c" target="_blank" rel="noopener"&gt;https://bit.ly/3T2rA0c&lt;/a&gt;; #ExpositionPark; First arriving 40 LAFD Firefighters took just 25 minutes (12:19 PM) to access and confirm full extinguishment of a small fire (with moderate interior smoke) associated with an active roofing operation at the Natural History Museum of Los Angeles County (NHMLA). All occupants of the building  were safely evacuated, and no injuries are reported. Media Inquiries: NHMLA.; FS 15; Batt 13; South Bureau; Council District 9; BC11  BC13  BC2  CM22  E13  E15  E210  E226  E26  E266  E34  EM11  RA15  RA815  SQ21  T10  T26  T66; CH9; 13; Brian Humphrey</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#ExpositionPark</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03012024-inc0757" hreflang="en">view</a></guid>
+                            <pubDate>Friday, March 1, 2024 - 12:20</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-structure-fire-knockdown-02282024-inc1343" hreflang="en">Update Structure Fire KNOCKDOWN 02/28/2024 INC#1343</a></title>
   <link><a href="/alert/update-structure-fire-knockdown-02282024-inc1343" hreflang="en">view</a></link>
   <description>Update KNOCKDOWN Structure Fire; INC#1343; 05:55PM; 10816 W Blix St; MAP: &lt;a href="https://bit.ly/3IgAvpF" target="_blank" rel="noopener"&gt;https://bit.ly/3IgAvpF&lt;/a&gt;; Toluca Lake; Firefighters responded to the front unit of a one story duplex with smoke reported from an oven fire. 34 firefighters took 10 mins to extinguish flames contained to the oven/stove and immediate area surrounding the appliance. No extension. No reported injuries, Cause under investigation. ; FS 86; Batt 14; Valley Bureau; Council District 2; BC14  BC5  E102  E260  E289  E76  E86  RA76  RA86  T60  T89; CH9; 17; Jennifer Middleton</description>
@@ -106,17 +117,6 @@
                             <category>#MidCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-02262024-inc0337" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 07:37</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">Update Multi-Patient Traffic Collision with Entrapment 02/25/2024 INC#0684</a></title>
-  <link><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">view</a></link>
-  <description>Update Multi-Patient Traffic Collision with Entrapment; INC#0684; 12:40PM; 18153 W Vanowen St; MAP: &lt;a href="https://bit.ly/3wBrRiS" target="_blank" rel="noopener"&gt;https://bit.ly/3wBrRiS&lt;/a&gt;; #Reseda; Firefighters responded to a traffic collision involving at least 4 vehicles (plus 2 additional parked vehicles impacted) and a sheared hydrant. Upon arrival, firefighters found that one trapped patient was deceased (left in place for law enforcement investigation and medical examiner), and two others were in need of extrication. Crews used hydraulic rescue tools (similar to "Jaws of Life") to free both trapped patients from one vehicle. An additional 8 patients were involved, but not trapped. Firefighter-Paramedics evaluated a total of 11 patients (including the deceased). Six patients were transported to area hospitals, and four declined transport by LAFD ambulance. Firefighters successfully shut down the hydrant after extricating the trapped patients. LAPD Inc #2049. Nothing further; FS 100; Batt 10; Valley Bureau; Council District 4; BC10  E100  E103  E239  E273  E293  E73  EM14  HR3  RA39  RA70  RA73  RA83  RA872  RA889  RA903  RA93  T39  T73  T93  UR88; CH8; 17; Nicholas Prange</description>
-  <category>Multi-Patient Traffic Collision with Entrapment</category>
-                            <category>Valley</category>
-                            <category>#Reseda</category>
-                            <guid isPermaLink="false"><a href="/alert/update-multipatient-traffic-collision-entrapment-02252024-inc0684" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, February 25, 2024 - 12:45</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
