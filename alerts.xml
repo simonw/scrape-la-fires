@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 03 Mar 2024 14:36:47 -0800</lastBuildDate>
-<pubDate>Sun, 03 Mar 2024 14:36:00 -0800</pubDate>
+<lastBuildDate>Mon, 04 Mar 2024 08:43:31 -0800</lastBuildDate>
+<pubDate>Mon, 04 Mar 2024 00:05:00 -0800</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-fire-03032024-inc1579" hreflang="en">Traffic Collision with Fire 03/03/2024 INC#1579</a></title>
+  <link><a href="/alert/traffic-collision-fire-03032024-inc1579" hreflang="en">view</a></link>
+  <description>Traffic Collision with Fire; INC#1579; 10:58PM; EB 134 Fwy x Riverside Dr; MAP: &lt;a href="https://bit.ly/3STHD00" target="_blank" rel="noopener"&gt;https://bit.ly/3STHD00&lt;/a&gt;; #GriffithPark; PRELIM: One passenger vehicle fell from the Riverside Drive (sometimes referenced as Victory Boulevard) freeway overpass, striking the concrete center divider of the Ventura Freeway (SR134) below, and catching fire. Two patients from that vehicle self-extricated prior to the fire department's arrival: A 65 year-old male and a 60 year-old male (unknown affiliation) with unspecified injuries, who were taken by paramedics to regional trauma centers in serious but stable condition. No other injuries reported. Firefighters remain at scene to control the stubborn flames of the still burning vehicle. No escalating or off-site hazard has been identified. Media Inquiries: CHP Altadena (Log #2867), LAPD Central Traffic Division (Incident #4856) and Caltrans.; FS 76; Batt 5; West Bureau; Council District 4; BC5  E235  E260  E35  E56  E60  E76  EM5  HR3  RA35  RA56  RA86  SQ21  T35  T60  UR88; CH7; 12; Brian Humphrey</description>
+  <category>Traffic Collision with Fire</category>
+                            <category>West</category>
+                            <category>#GriffithPark</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-fire-03032024-inc1579" hreflang="en">view</a></guid>
+                            <pubDate>Monday, March 4, 2024 - 00:05</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03032024-inc0861" hreflang="en">Knockdown - Structure Fire 03/03/2024 INC#0861</a></title>
   <link><a href="/alert/knockdown-structure-fire-03032024-inc0861" hreflang="en">view</a></link>
   <description>Knockdown - Structure Fire; INC#0861; 02:36PM; 17606 W Camino De Yatasto; MAP: &lt;a href="https://bit.ly/431xdAa" target="_blank" rel="noopener"&gt;https://bit.ly/431xdAa&lt;/a&gt;; #PacificPalisades; 31 LAFD Firefighters took just 34 minutes to access, confine and fully extinguish fire involving a vehicle and contents within the garage of a 5,288 square foot home. No injury. Fire cause under investigation.; FS 23; Batt 9; West Bureau; Council District 11; BC18  BC9  E19  E23  E263  E269  E69  RA23  RA69  T63  T69; CH9; 12; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-02262024-inc0747" hreflang="en">view</a></guid>
                             <pubDate>Monday, February 26, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-02262024-inc0747" hreflang="en">Structure Fire 02/26/2024 INC#0747</a></title>
-  <link><a href="/alert/structure-fire-02262024-inc0747" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0747; 11:53AM; 10231 N Silverton Av; MAP: &lt;a href="https://bit.ly/3VcxoXN" target="_blank" rel="noopener"&gt;https://bit.ly/3VcxoXN&lt;/a&gt;; #Tujunga; PRELIM: Two-story hillside home with smoke showing. Offensive mode.; FS 74; Batt 12; Valley Bureau; Council District 7; BC12  BC14  BC2  E24  E274  E298  E77  E89  E98  EM5  RA74  RA77  RA98  T74  T98; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Tujunga</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-02262024-inc0747" hreflang="en">view</a></guid>
-                            <pubDate>Monday, February 26, 2024 - 12:07</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
