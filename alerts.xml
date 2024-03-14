@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 13 Mar 2024 06:28:38 -0700</lastBuildDate>
-<pubDate>Wed, 13 Mar 2024 05:01:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5"/>
+<lastBuildDate>Wed, 13 Mar 2024 22:37:42 -0700</lastBuildDate>
+<pubDate>Wed, 13 Mar 2024 15:59:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-03132024-inc1188" hreflang="en">KNOCKDOWN Structure Fire 03/13/2024 INC#1188</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03132024-inc1188" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1188; 03:41PM; 1150 E 105th St; MAP: &lt;a href="https://bit.ly/3TznE8z" target="_blank" rel="noopener"&gt;https://bit.ly/3TznE8z&lt;/a&gt;; #GreenMeadows; The first 16 firefighters arrived, and deployed hose lines and made access to the one-story home, making an aggressive interior fire attack to contain the fire to the room-of-origin, and extinguish the flames in 13 minutes. No other structures damaged. No reported injuries. Cause under investigation.; FS 65; Batt 13; South Bureau; Council District 8; BC1  BC13  E21  E264  E33  E64  E65  RA264  RA864  SO1  SQ21  T33  T64; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#GreenMeadows</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03132024-inc1188" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, March 13, 2024 - 15:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-03132024-inc1188" hreflang="en">Structure Fire 03/13/2024 INC#1188</a></title>
+  <link><a href="/alert/structure-fire-03132024-inc1188" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1188; 03:28PM; 1150 E 105th St; MAP: &lt;a href="https://bit.ly/3TznE8z" target="_blank" rel="noopener"&gt;https://bit.ly/3TznE8z&lt;/a&gt;; #GreenMeadows; One-story single-family home with fire showing, and one other structure threatened. Offensive mode.; FS 65; Batt 13; South Bureau; Council District 8; BC1  BC13  E21  E264  E33  E64  E65  RA264  RA864  SQ21  T33  T64; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#GreenMeadows</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03132024-inc1188" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, March 13, 2024 - 15:35</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/landslide-03132024-inc0153" hreflang="en">Landslide 03/13/2024 INC#0153</a></title>
   <link><a href="/alert/landslide-03132024-inc0153" hreflang="en">view</a></link>
   <description>Landslide; INC#0153; 02:51AM; 3741 N Ventura Canyon Av; MAP: &lt;a href="https://bit.ly/4cgDn3U" target="_blank" rel="noopener"&gt;https://bit.ly/4cgDn3U&lt;/a&gt;; #ShermanOaks; Firefighters responded to reports of a large tree down and wires down in the backyard of a residence. Responders arrived to find a large portion of a hillside had slid down toward at least three homes. Several people have been evacuated from at least one of the homes. A primary search of the homes revealed no patients, but a more thorough (secondary) search will be conducted after daybreak. Department of Building and Safety is responding to assess the structures and hillsides. PIO Captain Cody Weireter is now on scene.; FS 78; Batt 14; Valley Bureau; Council District 4; BC14  CM40  CM42  E278  E288  E99  PI3  RA78  T78  T88  UR88; CH8; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#ShermanOaks</category>
                             <guid isPermaLink="false"><a href="/alert/landslide-03132024-inc0153" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 13, 2024 - 05:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-03132024-inc0152" hreflang="en">Structure Fire - Now Out 03/13/2024 INC#0152</a></title>
@@ -29,7 +51,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03132024-inc0152" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 13, 2024 - 03:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03122024-inc0939" hreflang="en">KNOCKDOWN Structure Fire 03/12/2024 INC#0939</a></title>
@@ -40,7 +62,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03122024-inc0939" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 12, 2024 - 15:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03122024-inc0939" hreflang="en">Structure Fire 03/12/2024 INC#0939</a></title>
@@ -51,7 +73,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03122024-inc0939" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 12, 2024 - 14:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03102024-inc1433" hreflang="en">Knockdown -  Structure Fire 03/10/2024 INC#1433</a></title>
@@ -62,7 +84,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03102024-inc1433" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 10, 2024 - 22:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03102024-inc1433" hreflang="en">Structure Fire 03/10/2024 INC#1433</a></title>
@@ -73,7 +95,7 @@
                             <category>#HistoricSouthCentral</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03102024-inc1433" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 10, 2024 - 22:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/helicopter-hoist-rescue-03102024-inc0442" hreflang="en">Helicopter Hoist Rescue 03/10/2024 INC#0442</a></title>
@@ -84,7 +106,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/helicopter-hoist-rescue-03102024-inc0442" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 10, 2024 - 10:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03092024-inc1594" hreflang="en">Knockdown -  Structure Fire 03/09/2024 INC#1594</a></title>
@@ -95,29 +117,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03092024-inc1594" hreflang="en">view</a></guid>
                             <pubDate>Saturday, March 9, 2024 - 21:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03092024-inc1594" hreflang="en">Structure Fire 03/09/2024 INC#1594</a></title>
-  <link><a href="/alert/structure-fire-03092024-inc1594" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1594; 09:20PM; 14737 W Sherman Wy; MAP: &lt;a href="https://bit.ly/4a5irL5" target="_blank" rel="noopener"&gt;https://bit.ly/4a5irL5&lt;/a&gt;; #VanNuys; PRELIM: Three-story garden style apartment building with heavy smoke from one unit on the second floor.; FS 39; Batt 10; Valley Bureau; Council District 6; BC10  BC14  E239  E288  E290  E39  E81  E90  RA39  RA81  RA889  T39  T88  T90; CH9; 18; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#VanNuys</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03092024-inc1594" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, March 9, 2024 - 21:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-major-emergency-structure-fire-03092024-inc0367-0" hreflang="en">Update Major Emergency Structure Fire 03/09/2024 INC#0367</a></title>
-  <link><a href="/alert/update-major-emergency-structure-fire-03092024-inc0367-0" hreflang="en">view</a></link>
-  <description>Update Major Emergency Structure Fire; INC#0367; 05:00PM; 1400 E Newton St; MAP: &lt;a href="https://bit.ly/4a5Xb7X" target="_blank" rel="noopener"&gt;https://bit.ly/4a5Xb7X&lt;/a&gt;; #Downtown; No witnesses have come forward to identify any specific persons as missing. The LAFD cadaver detection canine team's multi-hour search of the heavily damaged 9,100 square foot building yielded no indication of human remains. The five injured firefighters have been treated and released from medical care.  No other civilian or firefighter injuries have been reported. No escalating or off-site hazards have been identified. The specific cause of the fire remains the focus of an LAFD investigation.; FS 14; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC12  BC13  BC18  BC5  BC731  CM20  CM22  E10  E11  E14  E16  E2  E201  E202  E203  E209  E21  E210  E211  E215  E220  E221  E229  E248  E27  E295  E3  E450  E46  E48  E9  EA2  EM1  EM11  EM13  ER2  HE1  HR3  JT1  JT6  K902  K904  PH1  PI3  PI4  RA10  RA14  RA17  RA209  RA3  RA803  RA809  RA811  SO1  SQ21  SQ48  SQ95  T1  T10  T11  T15  T2  T20  T21  T29  T3  T48  T9  T95  UR3  UR88; CH7; 12  13; Brian Humphrey</description>
-  <category>Major Emergency Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-03092024-inc0367-0" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, March 9, 2024 - 17:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=f97a39a7-e1c4-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
