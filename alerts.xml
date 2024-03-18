@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 17 Mar 2024 20:15:06 -0700</lastBuildDate>
-<pubDate>Sun, 17 Mar 2024 20:15:00 -0700</pubDate>
+<lastBuildDate>Mon, 18 Mar 2024 11:06:01 -0700</lastBuildDate>
+<pubDate>Mon, 18 Mar 2024 11:05:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">Technical Rescue - Fatality 03/18/2024 INC#0762</a></title>
+  <link><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">view</a></link>
+  <description>Technical Rescue - Fatality; INC#0762; 10:39AM; Berth 270; MAP: &lt;a href="https://bit.ly/48YIcMm" target="_blank" rel="noopener"&gt;https://bit.ly/48YIcMm&lt;/a&gt;; #SanPedro; Firefighters received reports of a worker trapped under a fork lift. Upon arrival, firefighters found the trapped person to be deceased. Urban Search and Rescue specialists will continue their response to assist with safely removing the heavy machinery from the site, to allow other agencies (CalOSHA, Law Enforcement and the Medical Examiner) to conduct their investigation. No transport. Nothing further.; FS 40; Batt 6; South Bureau; Council District outside city; BC13  BC6  BT2  BT3  E205  E238  E285  E38  E40  E48  E5  E85  EM1  HR3  RA101  RA112  RA5  RA803  T38  T48  T5  UR5  UR85  UR88; CH7; 12; Nicholas Prange</description>
+  <category>Technical Rescue - Fatality</category>
+                            <category>South</category>
+                            <category>#SanPedro</category>
+                            <guid isPermaLink="false"><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">view</a></guid>
+                            <pubDate>Monday, March 18, 2024 - 11:05</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">Auto Rollover 03/17/2024 INC#1480</a></title>
   <link><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">view</a></link>
   <description>Auto Rollover; INC#1480; 07:31PM; 17000 W Lassen St; MAP: &lt;a href="https://bit.ly/3x0Q9Dq" target="_blank" rel="noopener"&gt;https://bit.ly/3x0Q9Dq&lt;/a&gt;; #NorthHills; LAFD responded to a four-vehicle collision with rollover. Firefighters/Paramedics transported 5 patients total from the scene to the hospital (2 serious, 3 fair). Unknown ages/genders/conditions. Nothing further.; FS 87; Batt 15; Valley Bureau; Council District 12; BC15  E287  E70  E87  EM10  EM15  RA18  RA828  RA87  RA903  T87; CH8; 17; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/red-line-vs-pedestrian-03162024-inc0576" hreflang="en">view</a></guid>
                             <pubDate>Saturday, March 16, 2024 - 10:03</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-03162024-inc0243" hreflang="en">Structure Fire - Now Out 03/16/2024 INC#0243</a></title>
-  <link><a href="/alert/structure-fire-now-out-03162024-inc0243" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#0243; 03:38AM; 837 S Kingsley Dr; MAP: &lt;a href="https://bit.ly/3IGIMn8" target="_blank" rel="noopener"&gt;https://bit.ly/3IGIMn8&lt;/a&gt;; #Koreatown; LAFD responded to a 2-story vacant craftsman home to find a detached garage well involved. Crews worked quickly to extinguish the flames and minimize exposure the the vacant 2 story craftsman home and were able to scale back the remaining incoming companies. It took 28 firefighters 15 minutes to extinguish the fire.; A parked vehicle was damaged due to the high heat of the garage fire. Building and safety were notified; No reported injuries, fire is under investigation.; FS 29; Batt 11; Central Bureau; Council District 10; BC11  BC18  BC5  CM20  CM22  E13  E210  E211  E226  E229  E26  E29  EM11  RA29  RA829  T10  T11  T26  T29; CH7; 12; Bert Fierro</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Central</category>
-                            <category>#Koreatown</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03162024-inc0243" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, March 16, 2024 - 04:22</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
