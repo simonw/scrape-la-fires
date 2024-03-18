@@ -6,10 +6,65 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 16 Mar 2024 20:24:33 -0700</lastBuildDate>
-<pubDate>Sat, 16 Mar 2024 20:24:00 -0700</pubDate>
+<lastBuildDate>Sun, 17 Mar 2024 20:15:06 -0700</lastBuildDate>
+<pubDate>Sun, 17 Mar 2024 20:15:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">Auto Rollover 03/17/2024 INC#1480</a></title>
+  <link><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">view</a></link>
+  <description>Auto Rollover; INC#1480; 07:31PM; 17000 W Lassen St; MAP: &lt;a href="https://bit.ly/3x0Q9Dq" target="_blank" rel="noopener"&gt;https://bit.ly/3x0Q9Dq&lt;/a&gt;; #NorthHills; LAFD responded to a four-vehicle collision with rollover. Firefighters/Paramedics transported 5 patients total from the scene to the hospital (2 serious, 3 fair). Unknown ages/genders/conditions. Nothing further.; FS 87; Batt 15; Valley Bureau; Council District 12; BC15  E287  E70  E87  EM10  EM15  RA18  RA828  RA87  RA903  T87; CH8; 17; Nicholas Prange</description>
+  <category>Auto Rollover</category>
+                            <category>Valley</category>
+                            <category>#NorthHills</category>
+                            <guid isPermaLink="false"><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 17, 2024 - 20:15</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">KNOCKDOWN Structure Fire 03/17/2024 INC#1226</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1226; 05:21PM; 1020 W Bartlett St; MAP: &lt;a href="https://bit.ly/3viSmth" target="_blank" rel="noopener"&gt;https://bit.ly/3viSmth&lt;/a&gt;; #Chinatown; *Corrected Address* Firefighters found heavy fire in one (boarded-up) duplex, which was exposing the neighboring (also boarded-up) duplex to intense heat and flames. Twenty-six firefighters used defensive tactics to extinguish the flames in 14 minutes. The fire unit was destroyed, but the adjacent unit only sustained damage to the exterior. No reported injuries. Cause under investigation.; FS 3; Batt 1; Central Bureau; Council District 1; BC1  BC11  E20  E211  E220  E3  E4  RA20  RA803  SQ21  T11  T20  T9; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Chinatown</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 17, 2024 - 17:47</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">Structure Fire 03/17/2024 INC#1226</a></title>
+  <link><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1226; 05:07PM; 1030 W Alpine St; MAP: &lt;a href="https://bit.ly/48ZcXkd" target="_blank" rel="noopener"&gt;https://bit.ly/48ZcXkd&lt;/a&gt;; #Chinatown; *Tentative Address* One-story duplex with heavy fire showing. Defensive mode.; FS 3; Batt 1; Central Bureau; Council District 1; BC1  BC11  E20  E211  E220  E3  E4  RA20  RA803  SQ21  T11  T20  T9; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Central</category>
+                            <category>#Chinatown</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 17, 2024 - 17:18</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">Update Physical Rescue 03/17/2024 INC#1013</a></title>
+  <link><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">view</a></link>
+  <description>Update Physical Rescue; INC#1013; 04:05PM; WB 10 Fwy x Hoover St; MAP: &lt;a href="https://bit.ly/49T4nVx" target="_blank" rel="noopener"&gt;https://bit.ly/49T4nVx&lt;/a&gt;; #UniversityPark; Seven people were injured as a result of a two-vehicle collision, with rollover. Firefighter extricated one trapped adult from the wreckage. Firefighter/Paramedics evaluated, treated, and transported 5 patients in serious-to-critical condition to a nearby trauma center (3 month-old male, 6 year-old male, 7 year-old male, 10 year-old male, and 29-year-old female). One patient was evaluated and released on scene (adult male), and one was found deceased at the scene (adult male). CHP Log #1764. Nothing further.; FS 10; Batt 1; Central Bureau; Council District 1; BC1  E209  E210  E26  E9  EM11  EM13  EM5  HR3  RA11  RA13  RA14  RA15  RA26  RA810  RA9  T10; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>Central</category>
+                            <category>#UniversityPark</category>
+                            <guid isPermaLink="false"><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 17, 2024 - 16:38</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">Physical Rescue 03/17/2024 INC#1013</a></title>
+  <link><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#1013; 03:07PM; WB 10 Fwy x Hoover St; MAP: &lt;a href="https://bit.ly/49T4nVx" target="_blank" rel="noopener"&gt;https://bit.ly/49T4nVx&lt;/a&gt;; #UniversityPark; Two-vehicle collision with at least five patients being evaluated, and one deceased (6 total).; FS 10; Batt 1; Central Bureau; Council District 1; BC1  E209  E210  E26  E9  EM11  EM13  EM5  HR3  RA11  RA13  RA14  RA15  RA26  RA810  RA9  T10; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>Central</category>
+                            <category>#UniversityPark</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 17, 2024 - 15:34</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-03162024-inc1494" hreflang="en">Structure Fire - Now Out 03/16/2024 INC#1494</a></title>
   <link><a href="/alert/structure-fire-now-out-03162024-inc1494" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#1494; 08:07PM; 5931 N Reseda Bl; MAP: &lt;a href="https://bit.ly/3PolPJh" target="_blank" rel="noopener"&gt;https://bit.ly/3PolPJh&lt;/a&gt;; #Tarzana; Firefighters quickly extinguished a fire in one unit caused by an oven. There are no injuries reported. No further details.; FS 93; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E100  E273  E290  E73  E93  RA100  RA93  T73  T90; CH9; 17; Connor Thompson</description>
@@ -62,61 +117,6 @@
                             <category>#Koreatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03162024-inc0243" hreflang="en">view</a></guid>
                             <pubDate>Saturday, March 16, 2024 - 04:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-03152024-inc1821" hreflang="en">KNOCKDOWN Structure Fire 03/15/2024 INC#1821</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03152024-inc1821" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1821; 10:37PM; 8345 N Broadacre Dr; MAP: &lt;a href="https://bit.ly/3TlD7aR" target="_blank" rel="noopener"&gt;https://bit.ly/3TlD7aR&lt;/a&gt;; #Shadow Hills; LAFD firefighters battled and extinguished the stubborn fire in 19 minutes. The 1-story single family dwelling presented some difficulty with accessing the seat of the fire due to large amounts of personal property in the home. Firefighters made quick work in extinguishing the blaze with no reported injuries.  Fire cause under investigation.;; FS 77; Batt 12; Valley Bureau; Council District 2; BC12  BC14  E24  E260  E289  E77  E89  RA77  RA889  T60  T89; CH9; 17; Bert Fierro</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Shadow Hills</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03152024-inc1821" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 15, 2024 - 23:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03152024-inc1821" hreflang="en">Structure Fire 03/15/2024 INC#1821</a></title>
-  <link><a href="/alert/structure-fire-03152024-inc1821" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1821; 10:37PM; 8345 N Broadacre Dr; MAP: &lt;a href="https://bit.ly/3TlD7aR" target="_blank" rel="noopener"&gt;https://bit.ly/3TlD7aR&lt;/a&gt;; #Shadow Hills;  PRELIM: One-story single-family home with fire showing offensive mode; FS 77; Batt 12; Valley Bureau; Council District 2; BC12  BC14  E24  E260  E289  E77  E89  RA77  RA889  T60  T89; CH9; 17; Bert Fierro</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Shadow Hills</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03152024-inc1821" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 15, 2024 - 22:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-03152024-inc1736" hreflang="en">Structure Fire - Now Out 03/15/2024 INC#1736</a></title>
-  <link><a href="/alert/structure-fire-now-out-03152024-inc1736" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#1736; 09:42PM; 1210 E Sandison St; MAP: &lt;a href="https://bit.ly/3TBk6mk" target="_blank" rel="noopener"&gt;https://bit.ly/3TBk6mk&lt;/a&gt;; Wilmington;  A total of 32 LAFD firefighters took 14 minutes with a defensive approach to extinguish flames in a unit located on the second floor of a garden style apartment. Firefighters made a quick stop on the fire before it got out of hand. There were no reported injuries. The cause of the fire is under investigation.; FS 38; Batt 6; South Bureau; Council District 15; BC13  BC4  E112  E248  E285  E36  E85  RA38  RA85  T48  T85; CH7; 13; Bert Fierro</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>South</category>
-                            <category>Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03152024-inc1736" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 15, 2024 - 22:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/automobile-fire-03152024-inc1707" hreflang="en">Automobile Fire 03/15/2024 INC#1707</a></title>
-  <link><a href="/alert/automobile-fire-03152024-inc1707" hreflang="en">view</a></link>
-  <description>Automobile Fire; INC#1707; 09:23PM; 1000 N Farragut Av; MAP: &lt;a href="https://bit.ly/3wTQ7NE" target="_blank" rel="noopener"&gt;https://bit.ly/3wTQ7NE&lt;/a&gt;; #Wilmington; LAFD responded to a reported rubbish fire at 1000 N Farragut; Upon arrival found a mobile crane on fire with containers being exposed and additional resources were added to assist in extinguishing the large diesel crane. Firefighters protected the exposed containers and upon further investigation were found to be empty. Firefighters made quick work in the extinguishment of the mobile crane, no reports of injuries and or hazardous materials issues and the fire has been extinguished.; FS 38; Batt 6; South Bureau; Council District 15; BC6  E238  E38  E49  T38; CH7; 12; Bert Fierro</description>
-  <category>Automobile Fire</category>
-                            <category>South</category>
-                            <category>#Wilmington</category>
-                            <guid isPermaLink="false"><a href="/alert/automobile-fire-03152024-inc1707" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 15, 2024 - 22:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-03152024-inc1535" hreflang="en">Structure Fire - Now Out 03/15/2024 INC#1535</a></title>
-  <link><a href="/alert/structure-fire-now-out-03152024-inc1535" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#1535; 07:34PM; 9010 N Tobias Av; MAP: &lt;a href="https://bit.ly/407wziA" target="_blank" rel="noopener"&gt;https://bit.ly/407wziA&lt;/a&gt;; #Panorama City; Firefighters responded to a 3-story garden style apartment over parking with light smoke in the underground parking ;38 Firefighters extinguished a dumpster fire held in check by an activated fire sprinkler inside the trash chute; Crews will remain on-scene to assist occupants and conduct smoke removal for an unspecified amount of time; No reported injuries.; FS 7; Batt 12; Valley Bureau; Council District 6; BC10  BC12  E275  E290  E7  E75  E90  E98  RA90  RA97  T75  T90; CH9; 17; Bert Fierro</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Valley</category>
-                            <category>#Panorama City</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03152024-inc1535" hreflang="en">view</a></guid>
-                            <pubDate>Friday, March 15, 2024 - 19:51</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
