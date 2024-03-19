@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Mon, 18 Mar 2024 19:14:01 -0700</lastBuildDate>
-<pubDate>Mon, 18 Mar 2024 19:13:00 -0700</pubDate>
+<lastBuildDate>Tue, 19 Mar 2024 08:32:23 -0700</lastBuildDate>
+<pubDate>Tue, 19 Mar 2024 06:20:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">Structure Fire - Now Out 03/19/2024 INC#0226</a></title>
+  <link><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0226; 05:28AM; 3787 N Cahuenga Bl; MAP: &lt;a href="https://bit.ly/4aiZ3KD" target="_blank" rel="noopener"&gt;https://bit.ly/4aiZ3KD&lt;/a&gt;; #StudioCity; Firefighters responded to a 25’ x 100’ one-story commercial building with smoke showing to the rear. Firefighters found a detached A/V room with fire inside behind the main building, with flames threatening the commercial. Crews quickly deployed hose lines to the rear and extinguished the flames, keeping them from extending inside the main portion of the business. Ultimately, it took 34 firefighters 17 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 76; Batt 5; West Bureau; Council District 4; AR1  BC14  BC5  E239  E260  E278  E60  E76  E86  E97  RA76  RA86  RA860  SO1  T39  T60  T78; CH7; 17; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>West</category>
+                            <category>#StudioCity</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, March 19, 2024 - 06:20</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">Hoist Rescue 03/18/2024 INC#1587</a></title>
   <link><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">view</a></link>
   <description>Hoist Rescue; INC#1587; 06:27PM; 7600 W Verdugo Crestline Dr; MAP: &lt;a href="https://bit.ly/49WiHw9" target="_blank" rel="noopener"&gt;https://bit.ly/49WiHw9&lt;/a&gt;; #Tujunga; Firefighters located a 29-year-old female in a remote area with a lower leg injury. Ground crews were unable to bring apparatus to the patient's location, therefore LAFD Air Operations utilized a hoist operation. A rescuer was lowered down to the patient to assess, treat, and prepare the patient for a hoist. LAFD Air Operations transported the patient by air to a local hospital. Nothing further.; FS 74; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC12  E24  E274  H5  H7  HA5  HA7  PB74  RA7  RA74  RH114  SO1  T74; CH8; 17; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#UniversityPark</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 15:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-03162024-inc1494" hreflang="en">Structure Fire - Now Out 03/16/2024 INC#1494</a></title>
-  <link><a href="/alert/structure-fire-now-out-03162024-inc1494" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#1494; 08:07PM; 5931 N Reseda Bl; MAP: &lt;a href="https://bit.ly/3PolPJh" target="_blank" rel="noopener"&gt;https://bit.ly/3PolPJh&lt;/a&gt;; #Tarzana; Firefighters quickly extinguished a fire in one unit caused by an oven. There are no injuries reported. No further details.; FS 93; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E100  E273  E290  E73  E93  RA100  RA93  T73  T90; CH9; 17; Connor Thompson</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Valley</category>
-                            <category>#Tarzana</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03162024-inc1494" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, March 16, 2024 - 20:24</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
