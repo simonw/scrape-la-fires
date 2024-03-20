@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5"/>
-<lastBuildDate>Tue, 19 Mar 2024 21:55:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 20 Mar 2024 07:29:33 -0700</lastBuildDate>
 <pubDate>Tue, 19 Mar 2024 21:55:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#ShermanOaks</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03192024-inc1702" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 19, 2024 - 21:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03192024-inc1702" hreflang="en">Structure Fire 03/19/2024 INC#1702</a></title>
@@ -29,7 +29,7 @@
                             <category>#ShermanOaks</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03192024-inc1702" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 19, 2024 - 21:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">Structure Fire - Now Out 03/19/2024 INC#0226</a></title>
@@ -40,7 +40,7 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 19, 2024 - 06:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">Hoist Rescue 03/18/2024 INC#1587</a></title>
@@ -51,7 +51,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 19:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-technical-rescue-03182024-inc0997" hreflang="en">Update Technical Rescue 03/18/2024 INC#0997</a></title>
@@ -62,7 +62,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-03182024-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 14:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-03182024-inc0997" hreflang="en">Technical Rescue 03/18/2024 INC#0997</a></title>
@@ -73,7 +73,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-03182024-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 13:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">Technical Rescue - Fatality 03/18/2024 INC#0762</a></title>
@@ -84,7 +84,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 11:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">Auto Rollover 03/17/2024 INC#1480</a></title>
@@ -95,7 +95,7 @@
                             <category>#NorthHills</category>
                             <guid isPermaLink="false"><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 20:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">KNOCKDOWN Structure Fire 03/17/2024 INC#1226</a></title>
@@ -106,7 +106,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 17:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">Structure Fire 03/17/2024 INC#1226</a></title>
@@ -117,7 +117,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 17:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
