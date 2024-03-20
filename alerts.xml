@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 19 Mar 2024 08:32:23 -0700</lastBuildDate>
-<pubDate>Tue, 19 Mar 2024 06:20:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5"/>
+<lastBuildDate>Tue, 19 Mar 2024 21:55:42 -0700</lastBuildDate>
+<pubDate>Tue, 19 Mar 2024 21:55:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-03192024-inc1702" hreflang="en">KNOCKDOWN Structure Fire 03/19/2024 INC#1702</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03192024-inc1702" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1702; 09:47PM; 15314 Dickens St; MAP: &lt;a href="https://bit.ly/3PsUtkZ" target="_blank" rel="noopener"&gt;https://bit.ly/3PsUtkZ&lt;/a&gt;; #ShermanOaks; Firefighters responded to an automotive shop (collision repair &amp; paint shop) to find heavy smoke coming from inside the building. Crews made access to the inside of the building and found multiple vehicles burning inside. It took the first 28 firefighters just 18 minutes to access, confine, and extinguish the flames. No reported injuries. Cause under investigation.; FS 88; Batt 10; Valley Bureau; Council District 4; BC10  BC14  CM40  CM42  E109  E239  E288  E293  E39  E83  E88  EM14  RA83  RA88  SO1  T39  T88  T93; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#ShermanOaks</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03192024-inc1702" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, March 19, 2024 - 21:55</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-03192024-inc1702" hreflang="en">Structure Fire 03/19/2024 INC#1702</a></title>
+  <link><a href="/alert/structure-fire-03192024-inc1702" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1702; 09:29PM; 15314 Dickens St; MAP: &lt;a href="https://bit.ly/3PsUtkZ" target="_blank" rel="noopener"&gt;https://bit.ly/3PsUtkZ&lt;/a&gt;; #ShermanOaks; One-story commercial building with smoke showing. Offensive mode.; FS 88; Batt 10; Valley Bureau; Council District 4; BC10  BC14  CM40  CM42  E109  E239  E288  E293  E39  E83  E88  EM14  RA83  RA88  T39  T88  T93; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#ShermanOaks</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03192024-inc1702" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, March 19, 2024 - 21:36</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">Structure Fire - Now Out 03/19/2024 INC#0226</a></title>
   <link><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></link>
   <description>Structure Fire - Now Out; INC#0226; 05:28AM; 3787 N Cahuenga Bl; MAP: &lt;a href="https://bit.ly/4aiZ3KD" target="_blank" rel="noopener"&gt;https://bit.ly/4aiZ3KD&lt;/a&gt;; #StudioCity; Firefighters responded to a 25’ x 100’ one-story commercial building with smoke showing to the rear. Firefighters found a detached A/V room with fire inside behind the main building, with flames threatening the commercial. Crews quickly deployed hose lines to the rear and extinguished the flames, keeping them from extending inside the main portion of the business. Ultimately, it took 34 firefighters 17 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 76; Batt 5; West Bureau; Council District 4; AR1  BC14  BC5  E239  E260  E278  E60  E76  E86  E97  RA76  RA86  RA860  SO1  T39  T60  T78; CH7; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 19, 2024 - 06:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">Hoist Rescue 03/18/2024 INC#1587</a></title>
@@ -29,7 +51,7 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 19:13</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-technical-rescue-03182024-inc0997" hreflang="en">Update Technical Rescue 03/18/2024 INC#0997</a></title>
@@ -40,7 +62,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-03182024-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 14:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-03182024-inc0997" hreflang="en">Technical Rescue 03/18/2024 INC#0997</a></title>
@@ -51,7 +73,7 @@
                             <category>#ShadowHills</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-03182024-inc0997" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 13:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">Technical Rescue - Fatality 03/18/2024 INC#0762</a></title>
@@ -62,7 +84,7 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-fatality-03182024-inc0762" hreflang="en">view</a></guid>
                             <pubDate>Monday, March 18, 2024 - 11:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">Auto Rollover 03/17/2024 INC#1480</a></title>
@@ -73,7 +95,7 @@
                             <category>#NorthHills</category>
                             <guid isPermaLink="false"><a href="/alert/auto-rollover-03172024-inc1480" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 20:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">KNOCKDOWN Structure Fire 03/17/2024 INC#1226</a></title>
@@ -84,7 +106,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 17:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">Structure Fire 03/17/2024 INC#1226</a></title>
@@ -95,29 +117,7 @@
                             <category>#Chinatown</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03172024-inc1226" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 17, 2024 - 17:18</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">Update Physical Rescue 03/17/2024 INC#1013</a></title>
-  <link><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">view</a></link>
-  <description>Update Physical Rescue; INC#1013; 04:05PM; WB 10 Fwy x Hoover St; MAP: &lt;a href="https://bit.ly/49T4nVx" target="_blank" rel="noopener"&gt;https://bit.ly/49T4nVx&lt;/a&gt;; #UniversityPark; Seven people were injured as a result of a two-vehicle collision, with rollover. Firefighter extricated one trapped adult from the wreckage. Firefighter/Paramedics evaluated, treated, and transported 5 patients in serious-to-critical condition to a nearby trauma center (3 month-old male, 6 year-old male, 7 year-old male, 10 year-old male, and 29-year-old female). One patient was evaluated and released on scene (adult male), and one was found deceased at the scene (adult male). CHP Log #1764. Nothing further.; FS 10; Batt 1; Central Bureau; Council District 1; BC1  E209  E210  E26  E9  EM11  EM13  EM5  HR3  RA11  RA13  RA14  RA15  RA26  RA810  RA9  T10; CH7; 12; Nicholas Prange</description>
-  <category>Physical Rescue</category>
-                            <category>Central</category>
-                            <category>#UniversityPark</category>
-                            <guid isPermaLink="false"><a href="/alert/update-physical-rescue-03172024-inc1013" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 17, 2024 - 16:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">Physical Rescue 03/17/2024 INC#1013</a></title>
-  <link><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">view</a></link>
-  <description>Physical Rescue; INC#1013; 03:07PM; WB 10 Fwy x Hoover St; MAP: &lt;a href="https://bit.ly/49T4nVx" target="_blank" rel="noopener"&gt;https://bit.ly/49T4nVx&lt;/a&gt;; #UniversityPark; Two-vehicle collision with at least five patients being evaluated, and one deceased (6 total).; FS 10; Batt 1; Central Bureau; Council District 1; BC1  E209  E210  E26  E9  EM11  EM13  EM5  HR3  RA11  RA13  RA14  RA15  RA26  RA810  RA9  T10; CH7; 12; Nicholas Prange</description>
-  <category>Physical Rescue</category>
-                            <category>Central</category>
-                            <category>#UniversityPark</category>
-                            <guid isPermaLink="false"><a href="/alert/physical-rescue-03172024-inc1013" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 17, 2024 - 15:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=19fceb8c-e676-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
