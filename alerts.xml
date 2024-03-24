@@ -6,17 +6,28 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 23 Mar 2024 16:40:02 -0700</lastBuildDate>
-<pubDate>Fri, 22 Mar 2024 17:33:00 -0700</pubDate>
+<lastBuildDate>Sun, 24 Mar 2024 10:39:30 -0700</lastBuildDate>
+<pubDate>Sun, 24 Mar 2024 00:49:00 -0700</pubDate>
 
     <item>
-  <title><a href="/alert/complete-rescue-03232024-inc1211" hreflang="en">Complete -  Rescue 03/23/2024 INC#1211</a></title>
-  <link><a href="/alert/complete-rescue-03232024-inc1211" hreflang="en">view</a></link>
+  <title><a href="/alert/greater-alarm-structure-fire-now-out-03232024-inc1702" hreflang="en">Greater Alarm Structure Fire - Now Out 03/23/2024 INC#1702</a></title>
+  <link><a href="/alert/greater-alarm-structure-fire-now-out-03232024-inc1702" hreflang="en">view</a></link>
+  <description>Greater Alarm Structure Fire - Now Out; INC#1702; 11:57PM; 3051 E Wabash Av; MAP: &lt;a href="https://bit.ly/3vo0etE" target="_blank" rel="noopener"&gt;https://bit.ly/3vo0etE&lt;/a&gt;; #BoyleHeights; 72 Firefighters took just 32 minutes (12:29 AM) to access, confine and extinguish fire within a 75' x 100' two-story commercial building containing a coin laundry and second floor living area. LAFD crews rescued an adult male and dog from the living area. One other civilian was medically evaluated. Both declined medical care. Fire cause under active investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC2  BC5  CM20  CM22  E1  E16  E2  E201  E202  E203  E25  E3  E4  E95  EA1  EM1  HR3  RA2  RA25  RA3  RA803  RA900  SO1  SQ21  SQ95  T1  T2  T3  T9  UR3  UR88; CH9; 12  13; Brian Humphrey</description>
+  <category>Greater Alarm Structure Fire - Now Out</category>
+                            <category>Central</category>
+                            <category>#BoyleHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-now-out-03232024-inc1702" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, March 24, 2024 - 00:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/complete-rescue-03222024-inc1211" hreflang="en">Complete -  Rescue 03/22/2024 INC#1211</a></title>
+  <link><a href="/alert/complete-rescue-03222024-inc1211" hreflang="en">view</a></link>
   <description>Complete -  Rescue; INC#1211; 05:30PM; 7319 N Hazeltine Av; MAP: &lt;a href="https://bit.ly/3ppEvu6" target="_blank" rel="noopener"&gt;https://bit.ly/3ppEvu6&lt;/a&gt;; #VanNuys; Though the construction site prohibited direct access and rescue operations solely via an LAFD aerial ladder truck, firefighters were able to extend the truck's 100' aerial ladder to use a a distant high point, allowing LAFD responders to use ground ladders and a two-line rope/harness system to successfully lower the worker to safety. The 39-year-old man, who reportedly experienced a severe lower abdominal injury - possibly from a nail gun discharge, is now being medically evaluated and prepared for hospital transport by LAFD Paramedics.; FS 81; Batt 10; Valley Bureau; Council District 2; BC10  E239  E288  E39  E88  RA60  RA88  T39  T88  UR88; CH8; 17; Brian Humphrey</description>
   <category>Rescue</category>
                             <category>Valley</category>
                             <category>#VanNuys</category>
-                            <guid isPermaLink="false"><a href="/alert/complete-rescue-03232024-inc1211" hreflang="en">view</a></guid>
+                            <guid isPermaLink="false"><a href="/alert/complete-rescue-03222024-inc1211" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 22, 2024 - 17:33</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
@@ -106,17 +117,6 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03192024-inc0226" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, March 19, 2024 - 06:20</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">Hoist Rescue 03/18/2024 INC#1587</a></title>
-  <link><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">view</a></link>
-  <description>Hoist Rescue; INC#1587; 06:27PM; 7600 W Verdugo Crestline Dr; MAP: &lt;a href="https://bit.ly/49WiHw9" target="_blank" rel="noopener"&gt;https://bit.ly/49WiHw9&lt;/a&gt;; #Tujunga; Firefighters located a 29-year-old female in a remote area with a lower leg injury. Ground crews were unable to bring apparatus to the patient's location, therefore LAFD Air Operations utilized a hoist operation. A rescuer was lowered down to the patient to assess, treat, and prepare the patient for a hoist. LAFD Air Operations transported the patient by air to a local hospital. Nothing further.; FS 74; Batt 12; Valley Bureau; Council District 7; AO1  AO2  BC12  E24  E274  H5  H7  HA5  HA7  PB74  RA7  RA74  RH114  SO1  T74; CH8; 17; Nicholas Prange</description>
-  <category>Hoist Rescue</category>
-                            <category>Valley</category>
-                            <category>#Tujunga</category>
-                            <guid isPermaLink="false"><a href="/alert/hoist-rescue-03182024-inc1587" hreflang="en">view</a></guid>
-                            <pubDate>Monday, March 18, 2024 - 19:13</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
