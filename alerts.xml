@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Wed, 27 Mar 2024 10:24:12 -0700</lastBuildDate>
-<pubDate>Wed, 27 Mar 2024 09:35:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5"/>
+<lastBuildDate>Wed, 27 Mar 2024 22:35:42 -0700</lastBuildDate>
+<pubDate>Wed, 27 Mar 2024 22:35:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-03272024-inc1611" hreflang="en">Structure Fire 03/27/2024 INC#1611</a></title>
+  <link><a href="/alert/structure-fire-03272024-inc1611" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1611; 10:27PM; 13574 W Gager St; MAP: &lt;a href="https://bit.ly/3TSw37k" target="_blank" rel="noopener"&gt;https://bit.ly/3TSw37k&lt;/a&gt;; #Pacoima; Heavy fire showing from a detached structure (garage? converted?) to the rear of a one-story single-family home.; FS 98; Batt 12; Valley Bureau; Council District 7; BC10  BC12  E275  E298  E75  E81  E98  RA75  RA898  RA98  T75  T98; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>#Pacoima</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03272024-inc1611" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, March 27, 2024 - 22:35</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">Hiker Rescue 03/27/2024 INC#0784</a></title>
+  <link><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0784; 12:36PM; Haines Canyon Ave; MAP: &lt;a href="https://bit.ly/49gXCeK" target="_blank" rel="noopener"&gt;https://bit.ly/49gXCeK&lt;/a&gt;; #Tujunga; Firefighters located a 19-year-old male in a remote area, with an arm injury sustained during cycling. Ground crews were unable to bring apparatus to the patient's location, therefore LAFD Air Operations utilized a hoist operation. A rescuer was lowered down to the patient to assess, treat, and prepare the patient for a hoist. LAFD Air Operations hoisted and transported the patient by air to a local hospital. Nothing further.; FS 74; Batt 12; Valley Bureau; Council District 7; BC12  E24  E274  H4  H7  HA4  HA7  PB74  RA77  RA874  RH114  T74; CH8; 17; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>#Tujunga</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, March 27, 2024 - 13:38</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">Aircraft Emergency - DRILL ONLY 03/27/2024 INC#0344</a></title>
   <link><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">view</a></link>
   <description>Aircraft Emergency - DRILL ONLY; INC#0344; 07:37AM; Burbank Airport; MAP: &lt;a href="https://bit.ly/3VAxhVN" target="_blank" rel="noopener"&gt;https://bit.ly/3VAxhVN&lt;/a&gt;; Burbank; Several public safety agencies are conducting a large-scale drill at Burbank Airport today, including your LAFD. In the case of an actual emergency, those who are signed up for Incident Alerts at LAFD.org/Alerts will receive these notifications. This training will better prepare first responders for responding to an aircraft emergency, and help practice interoperability between agencies with regards to communications and tactics. There is no actual Aircraft Emergency at this time.; FS 60; Batt 14; Valley Bureau; Council District outside city; BC14  CM2  EM14  HL1  HL2; CH8; 16; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>Burbank</category>
                             <guid isPermaLink="false"><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 27, 2024 - 09:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/complete-river-rescue-03242024-inc1201" hreflang="en">Complete -  River Rescue 03/24/2024 INC#1201</a></title>
@@ -29,7 +51,7 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/complete-river-rescue-03242024-inc1201" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 24, 2024 - 17:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/river-rescue-03242024-inc1201" hreflang="en">River Rescue 03/24/2024 INC#1201</a></title>
@@ -40,7 +62,7 @@
                             <category>#StudioCity</category>
                             <guid isPermaLink="false"><a href="/alert/river-rescue-03242024-inc1201" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 24, 2024 - 17:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-now-out-03232024-inc1702" hreflang="en">Greater Alarm Structure Fire - Now Out 03/23/2024 INC#1702</a></title>
@@ -51,7 +73,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-now-out-03232024-inc1702" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 24, 2024 - 00:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/complete-rescue-03222024-inc1211" hreflang="en">Complete -  Rescue 03/22/2024 INC#1211</a></title>
@@ -62,7 +84,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/complete-rescue-03222024-inc1211" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 22, 2024 - 17:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rescue-03222024-inc1211" hreflang="en">Rescue 03/22/2024 INC#1211</a></title>
@@ -73,7 +95,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/rescue-03222024-inc1211" hreflang="en">view</a></guid>
                             <pubDate>Friday, March 22, 2024 - 17:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03212024-inc0854" hreflang="en">KNOCKDOWN Structure Fire 03/21/2024 INC#0854</a></title>
@@ -84,7 +106,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03212024-inc0854" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 21, 2024 - 13:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03212024-inc0854" hreflang="en">Structure Fire 03/21/2024 INC#0854</a></title>
@@ -95,29 +117,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03212024-inc0854" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 21, 2024 - 12:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-03202024-inc1394" hreflang="en">KNOCKDOWN Structure Fire 03/20/2024 INC#1394</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03202024-inc1394" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1394; 06:25PM; 20345 W Londelius St; MAP: &lt;a href="https://bit.ly/43vhiuq" target="_blank" rel="noopener"&gt;https://bit.ly/43vhiuq&lt;/a&gt;; #Winnetka; Firefighters responded to a one-story home with heavy fire showing from the attached garage. Crews quickly advanced hose lines inside to attack the garage fire and stop the advancing flames before they entered the living area of the home. Firefighters discovered the garage fire spread into the attic, and put fire attack on pause to perform salvage operations inside (gathering valuables and belongings and covering them to avoid further damage due to smoke or water), before opening up the ceiling and roof to access the burning attic. Ultimately, it took 32 firefighters 25 minutes to access, confine, and extinguish the attic fire. One adult female was evaluated for minor smoke inhalation and found to be in good condition. She declined hospital transport. The occupants will be displaced and Red Cross is responding to help them during this transition period. No firefighter injuries. Cause under investigation.; FS 104; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E103  E104  E107  E273  E296  RA104  RA896  SO1  T73  T96; CH8; 18; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Winnetka</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03202024-inc1394" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 20, 2024 - 18:50</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03202024-inc1394" hreflang="en">Structure Fire 03/20/2024 INC#1394</a></title>
-  <link><a href="/alert/structure-fire-03202024-inc1394" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1394; 06:00PM; 20345 W Londelius St; MAP: &lt;a href="https://bit.ly/43vhiuq" target="_blank" rel="noopener"&gt;https://bit.ly/43vhiuq&lt;/a&gt;; #Winnetka; PRELIM:One-story single-family home, with heavy fire showing. Offensive mode.; FS 104; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E103  E104  E107  E273  E296  RA104  RA896  T73  T96; CH9; 18; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Winnetka</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03202024-inc1394" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 20, 2024 - 18:07</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=03c6d38f-ecc5-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
