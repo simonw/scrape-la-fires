@@ -5,11 +5,55 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5"/>
-<lastBuildDate>Thu, 28 Mar 2024 10:32:42 -0700</lastBuildDate>
-<pubDate>Thu, 28 Mar 2024 10:32:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 28 Mar 2024 22:01:16 -0700</lastBuildDate>
+<pubDate>Thu, 28 Mar 2024 17:49:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-03282024-inc1186" hreflang="en">KNOCKDOWN Structure Fire 03/28/2024 INC#1186</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03282024-inc1186" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1186; 04:57PM; 1310 N Detroit St; MAP: &lt;a href="https://bit.ly/3TFYl3B" target="_blank" rel="noopener"&gt;https://bit.ly/3TFYl3B&lt;/a&gt;; #Hollywood; Los Angeles City and County firefighters responded to a four-story residential building with smoke showing from the rear. Crews made access to the smoke-filled building, instructing residents to shelter inside of their apartment units. Firefighters located one unit on the third floor with contents burning inside, causing the heavy smoke conditions throughout the building. It took the first 50 LAFD firefighters (along with help from LACoFD) 36 minutes to access, confine, and extinguish the flames. Thankfully, firefighter communications with residents (telling them to stay in their units without opening the door to the smoky conditions) kept the many building occupants safe. There were no reported injuries despite the building being heavily occupied. One man later came home from the store to find his apartment destroyed. Red Cross is responding to assist him during this time of being displaced by the fire. The cause is under investigation.; FS 41; Batt 5; West Bureau; Council District 13; BC1  BC11  BC14  BC5  BC9  CM20  CM22  E227  E229  E235  E278  E288  E3  E35  E41  E60  E61  E82  E95  E97  EM1  EM13  EM14  HR3  PI3  RA15  RA41  RA82  RA827  SO1  SQ95  T27  T29  T35  T61  T78  T88  UR3  UR88; CH7; 13  15; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>#Hollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc1186" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, March 28, 2024 - 17:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">Update Auto Rollover 03/28/2024 INC#1108</a></title>
+  <link><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">view</a></link>
+  <description>Update Auto Rollover; INC#1108; 05:00PM; 3524 W 39th St; MAP: &lt;a href="https://bit.ly/43B3HS4" target="_blank" rel="noopener"&gt;https://bit.ly/43B3HS4&lt;/a&gt;; #BaldwinHills/#Crenshaw; LAFD firefighters and paramedics responded to a multi-vehicle collision involving an MTA bus (no entrapment). At least 14 people were assessed by firefighters and/or paramedics, including occupants of the bus and occupants of other vehicles involved. Three were transported in moderate condition, and six were transported in fair condition (unknown ages/genders). The rest declined ambulance transport to an area hospital, after being assessed on scene. LAPD Inc #3063. Nothing further.; FS 94; Batt 18; South Bureau; Council District 8; BC18  E226  E26  E34  EM11  EM5  EM9  RA246  RA26  RA266  RA46  RA806  RA809  RA811  RA814  RA862  RA866  T26; CH7; 12; Nicholas Prange</description>
+  <category>Auto Rollover</category>
+                            <category>South</category>
+                            <category>#BaldwinHills/#Crenshaw</category>
+                            <guid isPermaLink="false"><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, March 28, 2024 - 17:02</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-03282024-inc1186" hreflang="en">Structure Fire 03/28/2024 INC#1186</a></title>
+  <link><a href="/alert/structure-fire-03282024-inc1186" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1186; 04:21PM; 1310 N Detroit St; MAP: &lt;a href="https://bit.ly/3TFYl3B" target="_blank" rel="noopener"&gt;https://bit.ly/3TFYl3B&lt;/a&gt;; #Hollywood; PRELIM: Four-story apartment building with moderate smoke showing from the rear. Offensive mode.; FS 41; Batt 5; West Bureau; Council District 13; BC11  BC9  E227  E41  E61  E82  RA41  RA827  T27  T61; CH9; 13; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>#Hollywood</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-03282024-inc1186" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, March 28, 2024 - 16:32</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/auto-rollover-03282024-inc1108" hreflang="en">Auto Rollover 03/28/2024 INC#1108</a></title>
+  <link><a href="/alert/auto-rollover-03282024-inc1108" hreflang="en">view</a></link>
+  <description>Auto Rollover; INC#1108; 03:40PM; 3524 W 39th St; MAP: &lt;a href="https://bit.ly/43B3HS4" target="_blank" rel="noopener"&gt;https://bit.ly/43B3HS4&lt;/a&gt;; #BaldwinHills/#Crenshaw; LAFD is on scene of a multi-vehicle collision, with rollover, that included an MTA bus with passengers. LAFD is assessing at least 8 patients on scene, and preparing transport for those who would like further care at the hospital. LAPD Inc #3063.; FS 94; Batt 18; South Bureau; Council District 8; BC18  E226  E26  E34  EM11  EM5  EM9  RA26  RA266  RA46  RA806  RA809  RA811  RA862  RA866  T26; CH7; 12; Nicholas Prange</description>
+  <category>Auto Rollover</category>
+                            <category>South</category>
+                            <category>#BaldwinHills/#Crenshaw</category>
+                            <guid isPermaLink="false"><a href="/alert/auto-rollover-03282024-inc1108" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, March 28, 2024 - 16:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03282024-inc0522" hreflang="en">KNOCKDOWN Structure Fire 03/28/2024 INC#0522</a></title>
   <link><a href="/alert/knockdown-structure-fire-03282024-inc0522" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0522; 10:18AM; 229 E 66th St; MAP: &lt;a href="https://bit.ly/4acDn3m" target="_blank" rel="noopener"&gt;https://bit.ly/4acDn3m&lt;/a&gt;; #Florence; The first 26 LAFD firefighters extinguished the one-story duplex attic fire in 26 minutes, protecting the living quarters below with a coordinated effort of inside salvage work (move/cover belongings to protect from water damage), rooftop ventilation, and interior fire attack. There were no reported injuries. The cause of the fire is under investigation.; FS 33; Batt 13; South Bureau; Council District 9; BC13  BC18  E21  E221  E233  E33  E57  RA33  RA857  SO1  SQ21  T21  T33; CH7; 13; Nicholas Prange</description>
@@ -18,7 +62,7 @@
                             <category>#Florence</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc0522" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 10:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03282024-inc0522" hreflang="en">Structure Fire 03/28/2024 INC#0522</a></title>
@@ -29,7 +73,7 @@
                             <category>#Florence</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03282024-inc0522" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 10:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03282024-inc0423" hreflang="en">KNOCKDOWN Structure Fire 03/28/2024 INC#0423</a></title>
@@ -40,7 +84,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc0423" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 09:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03282024-inc0423" hreflang="en">Structure Fire 03/28/2024 INC#0423</a></title>
@@ -51,18 +95,18 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03282024-inc0423" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 08:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/knockdown-structure-fire-03272024-inc1611" hreflang="en">KNOCKDOWN Structure Fire 03/27/2024 INC#1611</a></title>
-  <link><a href="/alert/knockdown-structure-fire-03272024-inc1611" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1611; 10:47PM; 13574 W Gager St; MAP: &lt;a href="https://bit.ly/3TSw37k" target="_blank" rel="noopener"&gt;https://bit.ly/3TSw37k&lt;/a&gt;; #Pacoima; Firefighters responded to find heavy fire showing from a detached garage in the rear of a residential property. Flames were already shooting out through the roof, causing crews to fight the fire from the ground only. Firefighters deployed hose lines and used forcible entry techniques to open up the front of the garage, gaining access for hose streams. It took 32 firefighter 20 minutes to access, confine, and extinguish the flames. One 15-year old female was found with burn injuries, treated by firefighter/paramedics, and transported to an area hospital (unknown condition/circumstances). During an interior search of the structure, sadly, firefighters found one person deceased (age/gender/circumstances unknown). LAFD's Fire Investigators are responding to investigate this fatality fire and attempt to identify a cause. PIO Captain Cody Weireter is en route, ETA 11:30pm.; FS 98; Batt 12; Valley Bureau; Council District 7; AR1  AR7  BC10  BC12  E275  E298  E75  E81  E98  PI3  RA75  RA898  RA98  SO1  T75  T98; CH9; 17; Nicholas Prange</description>
+  <title><a href="/alert/knockdown-structure-fire-03282024-inc1611" hreflang="en">KNOCKDOWN Structure Fire 03/28/2024 INC#1611</a></title>
+  <link><a href="/alert/knockdown-structure-fire-03282024-inc1611" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1611; 10:47PM; 13574 W Gager St; MAP: &lt;a href="https://bit.ly/3TSw37k" target="_blank" rel="noopener"&gt;https://bit.ly/3TSw37k&lt;/a&gt;; #Pacoima; Firefighters responded to find heavy fire showing from a detached garage in the rear of a residential property. Flames were already shooting out through the roof, causing crews to fight the fire from the ground only. Firefighters deployed hose lines and used forcible entry techniques to open up the front of the garage, gaining access for hose streams. It took 32 firefighter 20 minutes to access, confine, and extinguish the flames. One 39-year old female (special needs) was found with burn injuries, treated by firefighter/paramedics, and transported to an area hospital (unknown condition/circumstances). During an interior search of the structure, sadly, firefighters found one person deceased (age/gender/circumstances unknown). LAFD's Fire Investigators are responding to investigate this fatality fire and attempt to identify a cause. PIO Captain Cody Weireter is en route, ETA 11:30pm.; FS 98; Batt 12; Valley Bureau; Council District 7; AR1  AR7  BC10  BC12  E275  E298  E75  E81  E98  PI3  RA75  RA898  RA98  SO1  T75  T98; CH9; 17; Nicholas Prange</description>
   <category>Structure Fire</category>
                             <category>Valley</category>
                             <category>#Pacoima</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03272024-inc1611" hreflang="en">view</a></guid>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc1611" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 27, 2024 - 23:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-03272024-inc1611" hreflang="en">Structure Fire 03/27/2024 INC#1611</a></title>
@@ -73,51 +117,7 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-03272024-inc1611" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, March 27, 2024 - 22:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">Hiker Rescue 03/27/2024 INC#0784</a></title>
-  <link><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0784; 12:36PM; Haines Canyon Ave; MAP: &lt;a href="https://bit.ly/49gXCeK" target="_blank" rel="noopener"&gt;https://bit.ly/49gXCeK&lt;/a&gt;; #Tujunga; Firefighters located a 19-year-old male in a remote area, with an arm injury sustained during cycling. Ground crews were unable to bring apparatus to the patient's location, therefore LAFD Air Operations utilized a hoist operation. A rescuer was lowered down to the patient to assess, treat, and prepare the patient for a hoist. LAFD Air Operations hoisted and transported the patient by air to a local hospital. Nothing further.; FS 74; Batt 12; Valley Bureau; Council District 7; BC12  E24  E274  H4  H7  HA4  HA7  PB74  RA77  RA874  RH114  T74; CH8; 17; Nicholas Prange</description>
-  <category>Hiker Rescue</category>
-                            <category>Valley</category>
-                            <category>#Tujunga</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-03272024-inc0784" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 27, 2024 - 13:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">Aircraft Emergency - DRILL ONLY 03/27/2024 INC#0344</a></title>
-  <link><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">view</a></link>
-  <description>Aircraft Emergency - DRILL ONLY; INC#0344; 07:37AM; Burbank Airport; MAP: &lt;a href="https://bit.ly/3VAxhVN" target="_blank" rel="noopener"&gt;https://bit.ly/3VAxhVN&lt;/a&gt;; Burbank; Several public safety agencies are conducting a large-scale drill at Burbank Airport today, including your LAFD. In the case of an actual emergency, those who are signed up for Incident Alerts at LAFD.org/Alerts will receive these notifications. This training will better prepare first responders for responding to an aircraft emergency, and help practice interoperability between agencies with regards to communications and tactics. There is no actual Aircraft Emergency at this time.; FS 60; Batt 14; Valley Bureau; Council District outside city; BC14  CM2  EM14  HL1  HL2; CH8; 16; Nicholas Prange</description>
-  <category>Aircraft Emergency - DRILL ONLY</category>
-                            <category>Valley</category>
-                            <category>Burbank</category>
-                            <guid isPermaLink="false"><a href="/alert/aircraft-emergency-drill-only-03272024-inc0344" hreflang="en">view</a></guid>
-                            <pubDate>Wednesday, March 27, 2024 - 09:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/complete-river-rescue-03242024-inc1201" hreflang="en">Complete -  River Rescue 03/24/2024 INC#1201</a></title>
-  <link><a href="/alert/complete-river-rescue-03242024-inc1201" hreflang="en">view</a></link>
-  <description>Complete -  River Rescue; INC#1201; 05:38PM; Los Angeles River East of Laurel Canyon Blvd; MAP: &lt;a href="https://maps.app.goo.gl/YVgEchDCDax5MoUWA" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/YVgEchDCDax5MoUWA&lt;/a&gt;; #StudioCity; After being thrown a flotation device and briefly holding onto the lower portion of a 24' wooden ladder lowered by the first arriving LAFD crew along the vertical concrete wall of the Los Angeles River, the 35-year-old woman was again swept a short distance downstream by the 15 mile-per-hour flow of stormwater, before being rescued by an LAFD Rescue Helicopter crew using a hoist cable and harness. She and her LAFD rescuer have been safely hoisted aboard the aircraft where she will receive continuous in-flight care for minor injuries, including hypothermia, during direct helicopter transport to an area hospital. The woman has confirmed there were no other persons or animals with her, or known by her to be in peril.; FS 78; Batt 14; Valley Bureau; AO1  AO2  BC1  BC11  BC14  BC2  CM20  CM22  E203  E227  E235  E250  E273  E278  E288  E35  E42  E55  E56  E76  E86  E88  EM5  H4  H6  HA4  HA6  HR3  RA56  RA850  RA878  T27  T3  T35  T50  T73  T78  T88  UR88; CH5; 17; Brian Humphrey</description>
-  <category>River Rescue</category>
-                            <category>Valley</category>
-                            <category>#StudioCity</category>
-                            <guid isPermaLink="false"><a href="/alert/complete-river-rescue-03242024-inc1201" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 24, 2024 - 17:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/river-rescue-03242024-inc1201" hreflang="en">River Rescue 03/24/2024 INC#1201</a></title>
-  <link><a href="/alert/river-rescue-03242024-inc1201" hreflang="en">view</a></link>
-  <description>River Rescue; INC#1201; 05:03PM; Los Angeles River x Laurel Canyon Blvd; MAP: &lt;a href="https://maps.app.goo.gl/YVgEchDCDax5MoUWA" target="_blank" rel="noopener"&gt;https://maps.app.goo.gl/YVgEchDCDax5MoUWA&lt;/a&gt;; #StudioCity; PRELIM: LAFD ground and air response, following a sudden rainstorm, to an adult female first discovered in the concrete-lined Los Angeles River flood control channel near Whitsett Avenue "less than knee depth" water that was moving at approximately 15 miles-per-hour. She was thrown a flotation device by responders, and is reportedly moving slowly downstream, last seen 400 yards west of Laurel Canyon Boulevard (5:28 PM), where she has reportedly been able to stand briefly, before being destabilized by the water.; FS 78; Batt 14; Valley Bureau; AO1  AO2  BC1  BC2  CM20  CM22  E203  E235  E250  E273  E278  E288  E35  E42  E55  E56  E76  E88  EM5  H4  H6  HA4  HA6  HR3  RA56  RA850  RA878  T3  T35  T50  T73  T78  T88  UR88; CH5; 17; Brian Humphrey</description>
-  <category>River Rescue</category>
-                            <category>Valley</category>
-                            <category>#StudioCity</category>
-                            <guid isPermaLink="false"><a href="/alert/river-rescue-03242024-inc1201" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 24, 2024 - 17:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2db26a28-ed29-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
