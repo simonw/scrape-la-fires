@@ -6,10 +6,22 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 29 Mar 2024 03:06:11 -0700</lastBuildDate>
-<pubDate>Fri, 29 Mar 2024 03:06:00 -0700</pubDate>
+<lastBuildDate>Fri, 29 Mar 2024 14:03:54 -0700</lastBuildDate>
+<pubDate>Fri, 29 Mar 2024 14:03:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-03292024-inc0819" hreflang="en">Structure Fire - Now Out 03/29/2024 INC#0819</a></title>
+  <link><a href="/alert/structure-fire-now-out-03292024-inc0819" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0819; 01:32PM; 6622 S 5th Av; MAP: &lt;a href="https://bit.ly/3TX1bCF" target="_blank" rel="noopener"&gt;https://bit.ly/3TX1bCF&lt;/a&gt;; Hyde Park; LAFD responded to a one-story home with smoke showing. Flames consumed multiple rooms inside. Crews established hose lines, made entry, and initiated fire attack. The first 22 firefighters took just 14 minutes to contain the fire to extinguish the flames (1:46pm). No reported injuries. Cause under investigation.
+; FS 66; Batt 13; South Bureau; Council District 8; BC13  BC18  E233  E266  E33  E57  RA257  RA846  SQ21  T33  T66; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>Hyde Park</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-03292024-inc0819" hreflang="en">view</a></guid>
+                            <pubDate>Friday, March 29, 2024 - 14:03</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03292024-inc0131" hreflang="en">KNOCKDOWN Structure Fire 03/29/2024 INC#0131</a></title>
   <link><a href="/alert/knockdown-structure-fire-03292024-inc0131" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0131; 02:49AM; 3947 S Mclaughlin Av; MAP: &lt;a href="https://bit.ly/3vyA8nM" target="_blank" rel="noopener"&gt;https://bit.ly/3vyA8nM&lt;/a&gt;; #MarVista; Firefighters found a one-story single-family home engulfed in flames. Firefighters quickly deployed hose lines to attack the fire inside and protect the nearby threatened buildings, while others ascended ladders to perform ventilation on the rooftop (to allow smoke and super-heated gases to escape and make it more survivable for fire crews below). It took 35 firefighters 26 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 62; Batt 4; West Bureau; Council District 11; BC4  BC9  E263  E292  E43  E62  E63  EM9  RA43  RA62  RA862  T63  T92; CH9; 12; Nicholas Prange</description>
@@ -106,17 +118,6 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc0423" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 09:58</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03282024-inc0423" hreflang="en">Structure Fire 03/28/2024 INC#0423</a></title>
-  <link><a href="/alert/structure-fire-03282024-inc0423" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0423; 08:49AM; 1111 W 6th St; MAP: &lt;a href="https://bit.ly/48F4RxO" target="_blank" rel="noopener"&gt;https://bit.ly/48F4RxO&lt;/a&gt;; #Westlake; PRELIM: Four-story vacant commercial building (site of previous burn) with smoke showing from the third floor. Offensive mode.; FS 3; Batt 1; Central Bureau; Council District 1; BC1  BC11  E10  E203  E211  E3  E9  RA11  RA3  RA803  SQ21  T11  T3; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03282024-inc0423" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 28, 2024 - 08:57</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
