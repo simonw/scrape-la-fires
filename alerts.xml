@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 31 Mar 2024 21:24:16 -0700</lastBuildDate>
-<pubDate>Sun, 31 Mar 2024 21:24:00 -0700</pubDate>
+<lastBuildDate>Mon, 01 Apr 2024 22:52:22 -0700</lastBuildDate>
+<pubDate>Mon, 01 Apr 2024 15:15:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-04012024-inc1003" hreflang="en">Hiker Rescue 04/01/2024 INC#1003</a></title>
+  <link><a href="/alert/hiker-rescue-04012024-inc1003" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#1003; 02:48PM; North of Mount Hollywood Tunnel; MAP: &lt;a href="https://bit.ly/4ahaMtL" target="_blank" rel="noopener"&gt;https://bit.ly/4ahaMtL&lt;/a&gt;; #GriffithPark; PRELIM: LAFD ground and air response to a 24-year-old female hiker in fair condition with a fractured ankle. She will soon be hoisted aboard a hovering LAFD helicopter to received continuing in-flight care during direct transport to regional trauma center.; FS 35; Batt 5; West Bureau; Council District 4; AO1  AO2  BC5  E35  H3  H4  H5  H7  HA3  HA4  HA5  HA7  RA35  RA835  RH114  T35; CH7; 12; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#GriffithPark</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04012024-inc1003" hreflang="en">view</a></guid>
+                            <pubDate>Monday, April 1, 2024 - 15:15</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-03312024-inc1394" hreflang="en">Knockdown -  Structure Fire 03/31/2024 INC#1394</a></title>
   <link><a href="/alert/knockdown-structure-fire-03312024-inc1394" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#1394; 09:23PM; 9915 S Compton Av; MAP: &lt;a href="https://bit.ly/3VGzDTb" target="_blank" rel="noopener"&gt;https://bit.ly/3VGzDTb&lt;/a&gt;; #Watts; 44 LAFD Firefighters + neighboring LACoFD in Automatic Aid, took just 29 minutes to access, confine and fully extinguish fire within a 25' x 50' combination one- and two-story commercial building housing a laundry/cleaners. No injury. Fire cause under investigation.; FS 65; Batt 13; South Bureau; Council District 15; BC1  BC13  E21  E221  E233  E264  E64  E65  RA21  RA64  RA865  SQ21  T21  T33  T64 + LACoFD; CH9; 13; Brian Humphrey</description>
@@ -107,17 +118,6 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03282024-inc1186" hreflang="en">view</a></guid>
                             <pubDate>Thursday, March 28, 2024 - 17:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">Update Auto Rollover 03/28/2024 INC#1108</a></title>
-  <link><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">view</a></link>
-  <description>Update Auto Rollover; INC#1108; 05:00PM; 3524 W 39th St; MAP: &lt;a href="https://bit.ly/43B3HS4" target="_blank" rel="noopener"&gt;https://bit.ly/43B3HS4&lt;/a&gt;; #BaldwinHills/#Crenshaw; LAFD firefighters and paramedics responded to a multi-vehicle collision involving an MTA bus (no entrapment). At least 14 people were assessed by firefighters and/or paramedics, including occupants of the bus and occupants of other vehicles involved. Three were transported in moderate condition, and six were transported in fair condition (unknown ages/genders). The rest declined ambulance transport to an area hospital, after being assessed on scene. LAPD Inc #3063. Nothing further.; FS 94; Batt 18; South Bureau; Council District 8; BC18  E226  E26  E34  EM11  EM5  EM9  RA246  RA26  RA266  RA46  RA806  RA809  RA811  RA814  RA862  RA866  T26; CH7; 12; Nicholas Prange</description>
-  <category>Auto Rollover</category>
-                            <category>South</category>
-                            <category>#BaldwinHills/#Crenshaw</category>
-                            <guid isPermaLink="false"><a href="/alert/update-auto-rollover-03282024-inc1108" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, March 28, 2024 - 17:02</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
