@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5"/>
-<lastBuildDate>Wed, 03 Apr 2024 22:34:42 -0700</lastBuildDate>
-<pubDate>Wed, 03 Apr 2024 22:34:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Thu, 04 Apr 2024 08:26:58 -0700</lastBuildDate>
+<pubDate>Thu, 04 Apr 2024 08:22:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/cliff-rescue-04042024-inc0327" hreflang="en">Cliff Rescue 04/04/2024 INC#0327</a></title>
+  <link><a href="/alert/cliff-rescue-04042024-inc0327" hreflang="en">view</a></link>
+  <description>Cliff Rescue; INC#0327; 07:41AM; 3730 S Roxbury St; MAP: &lt;a href="https://bit.ly/3xonSH4" target="_blank" rel="noopener"&gt;https://bit.ly/3xonSH4&lt;/a&gt;; #SanPedro; Firefighters responded by land, air, and sea to reports of a person in need of a cliff rescue. Firefighters arrived and, upon assessing the patient at the bottom of the Point Fermin cliffs, determined they were deceased. Firefighters are initiating a body recovery operation for the deceased person. Age/gender/circumstances are unknown at this time. Crews are working to secure the body and determine the safest method of bringing it up. LAPD is responding for the investigation. LA County Medical Examiner will determine identity and cause of death. Any further questions = LAPD and LA County Medical Examiner. No further details.; FS 101; Batt 6; South Bureau; Council District 15; AO1  AO2  BC6  BT1  BT2  BT5  E101  E248  E285  E48  E85  EM6  H4  H5  HA4  HA5  RA101  RA112  RA85  RH114  T48  T85  UR85  UR88; CH7; 12; Nicholas Prange</description>
+  <category>Cliff Rescue</category>
+                            <category>South</category>
+                            <category>#SanPedro</category>
+                            <guid isPermaLink="false"><a href="/alert/cliff-rescue-04042024-inc0327" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, April 4, 2024 - 08:22</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04032024-inc1636" hreflang="en">KNOCKDOWN Structure Fire 04/03/2024 INC#1636</a></title>
   <link><a href="/alert/knockdown-structure-fire-04032024-inc1636" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1636; 09:58PM; 14522 W Gault St; MAP: &lt;a href="https://bit.ly/4aobu8G" target="_blank" rel="noopener"&gt;https://bit.ly/4aobu8G&lt;/a&gt;; #VanNuys; Firefighters found fire in one unit of a (approximately 10-unit) two-story garden-style residential condos/townhomes with fire on the first floor of one unit. Crews made access to the unit and extended hose lines through tight spaces among excessive storage to access the fire. Ultimately, it took 30 firefighters 15 minutes to access, confine, and fully extinguish the fire, successfully protecting adjacent units from the nearby flames. No reported injuries. Cause under investigation.; FS 39; Batt 10; Valley Bureau; Council District 6; BC10  BC14  E102  E239  E289  E39  E81  RA39  RA839  T39  T89; CH8; 17; Nicholas Prange</description>
@@ -18,7 +29,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04032024-inc1636" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 22:34</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04032024-inc1628" hreflang="en">KNOCKDOWN Structure Fire 04/03/2024 INC#1628</a></title>
@@ -29,7 +40,7 @@
                             <category>#VermontKnolls</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04032024-inc1628" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 22:11</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04032024-inc1636" hreflang="en">Structure Fire 04/03/2024 INC#1636</a></title>
@@ -40,7 +51,7 @@
                             <category>#VanNuys</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04032024-inc1636" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 21:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04032024-inc1628" hreflang="en">Structure Fire 04/03/2024 INC#1628</a></title>
@@ -51,7 +62,7 @@
                             <category>#VermontKnolls</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04032024-inc1628" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 21:38</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/debris-flow-small-04032024-inc1482" hreflang="en">Debris Flow, Small 04/03/2024 INC#1482</a></title>
@@ -62,7 +73,7 @@
                             <category>HollywoodHillsWest</category>
                             <guid isPermaLink="false"><a href="/alert/debris-flow-small-04032024-inc1482" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 20:52</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04032024-inc1034" hreflang="en">KNOCKDOWN Structure Fire 04/03/2024 INC#1034</a></title>
@@ -73,7 +84,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04032024-inc1034" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 16:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04032024-inc1034" hreflang="en">Structure Fire 04/03/2024 INC#1034</a></title>
@@ -84,7 +95,7 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04032024-inc1034" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 3, 2024 - 15:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-04012024-inc1003" hreflang="en">Hiker Rescue 04/01/2024 INC#1003</a></title>
@@ -95,7 +106,7 @@
                             <category>#GriffithPark</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-04012024-inc1003" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 1, 2024 - 15:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-03312024-inc1394" hreflang="en">Knockdown -  Structure Fire 03/31/2024 INC#1394</a></title>
@@ -106,18 +117,7 @@
                             <category>#Watts</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-03312024-inc1394" hreflang="en">view</a></guid>
                             <pubDate>Sunday, March 31, 2024 - 21:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-03312024-inc1394" hreflang="en">Structure Fire 03/31/2024 INC#1394</a></title>
-  <link><a href="/alert/structure-fire-03312024-inc1394" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1394; 08:54PM; 9915 S Compton Av; MAP: &lt;a href="https://bit.ly/3VGzDTb" target="_blank" rel="noopener"&gt;https://bit.ly/3VGzDTb&lt;/a&gt;; #Watts; PRELIM: LAFD with LACoFD in Automatic Aid, battling fire in the rear portion of a 25' x 50' combination one- and two-story commercial building housing a laundry/cleaners.; FS 65; Batt 13; South Bureau; Council District 15; BC1  BC13  E21  E221  E233  E264  E64  E65  RA21  RA865  SQ21  T21  T33  T64 + LACoFD in Automatic Aid; CH9; 13; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#Watts</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-03312024-inc1394" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, March 31, 2024 - 21:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=0935d0a7-f245-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
