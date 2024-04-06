@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 05 Apr 2024 10:06:02 -0700</lastBuildDate>
-<pubDate>Fri, 05 Apr 2024 10:05:00 -0700</pubDate>
+<lastBuildDate>Fri, 05 Apr 2024 21:30:11 -0700</lastBuildDate>
+<pubDate>Fri, 05 Apr 2024 21:30:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">Train vs Pedestrian - Fatality 04/05/2024 INC#1506</a></title>
+  <link><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">view</a></link>
+  <description>Train vs Pedestrian - Fatality; INC#1506; 09:13PM; 662 S Alvarado St; MAP: &lt;a href="https://bit.ly/3weLF6z" target="_blank" rel="noopener"&gt;https://bit.ly/3weLF6z&lt;/a&gt;; #Westlake; Firefighters responded to the Metro B (Red) Line station to find one person had been fatally struck by a train. Firefighters will assist LAPD and Medical Examiner with the body recovery. Unknown age/gender/circumstances. Nothing further.; FS 11; Batt 11; Central Bureau; Council District 1; BC11  BC13  E11  E13  E20  E209  E211  E220  E9  EM1  HR3  RA11  SQ21  T11  T20  T9; CH7; 15; Nicholas Prange</description>
+  <category>Train vs Pedestrian - Fatality</category>
+                            <category>Central</category>
+                            <category>#Westlake</category>
+                            <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">view</a></guid>
+                            <pubDate>Friday, April 5, 2024 - 21:30</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">KNOCKDOWN Structure Fire 04/05/2024 INC#0193</a></title>
   <link><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0193; 09:21AM; 1416 S Main St; MAP: &lt;a href="https://bit.ly/3xgPvBF" target="_blank" rel="noopener"&gt;https://bit.ly/3xgPvBF&lt;/a&gt;; #DowntownLA; Firefighters continued operating in defensive mode for several hours, knocking back flare ups from adjacent rooftops, and protecting the neighboring buildings. The commercial building contained large amounts of clothing/textiles while burned readily and continued to fuel the fire. The roof partially collapsed part way through the incident, and firefighters maintained their strategies, waiting for the rest to collapse and give hose streams a straight shot at the burning materials beneath. Remote Suppression firefighting vehicle "RS3" was used to enter the unstable structure and gain access to better suppression angles and deeper penetration. Overall, it took 120 firefighters 4 hours and 12 minutes to extinguish the flames, however much of the debris within the rubble contains extremely hot spots that will need to be uncovered by LAFD Heavy Equipment. Thankfully, there were no reported injuries. Fire Investigators are on scene conducting a fire-cause investigation.; FS 10; Batt 1; Central Bureau; Council District 14; AR1  AR11  AR14  AR22  BC1  BC11  BC13  BC5  CM20  CM22  E10  E11  E13  E14  E15  E2  E203  E209  E210  E211  E215  E220  E221  E226  E294  E3  E63  E66  E9  E95  EA1  EM11  EX2  HE4  HE5  HR3  PI4  RA10  RA3  RA803  RA810  RS3  SO1  SQ21  SQ95  T10  T11  T15  T20  T21  T26  T3  T9  T94  UR3  UR88; CH7; 12  13  15; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#SanPedro</category>
                             <guid isPermaLink="false"><a href="/alert/boat-fire-04042024-inc0862" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 4, 2024 - 13:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/chemical-release-04042024-inc0577" hreflang="en">Chemical Release 04/04/2024 INC#0577</a></title>
-  <link><a href="/alert/chemical-release-04042024-inc0577" hreflang="en">view</a></link>
-  <description>Chemical Release; INC#0577; 10:47AM; 1575 N Gower St; MAP: &lt;a href="https://bit.ly/3xlNQLg" target="_blank" rel="noopener"&gt;https://bit.ly/3xlNQLg&lt;/a&gt;; #Hollywood; Firefighters are responding to an office building, where a refrigerant leak has sprung during work on an air conditioning system. The chemical is not toxic to inhale, however can present a hazard if it displaces oxygen in an enclosed area. Firefighters will isolate the hazard and deny entry to the area as a safety measure. Hazardous Materials specialists are on scene to assist with stopping the leak and ventilating the area. No offsite or escalating hazard.; FS 27; Batt 5; West Bureau; Council District 13; BC5  E21  E221  E27  JT2  RA52  SQ21  T21; CH7; 12; Nicholas Prange</description>
-  <category>Chemical Release</category>
-                            <category>West</category>
-                            <category>#Hollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/chemical-release-04042024-inc0577" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, April 4, 2024 - 12:22</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
