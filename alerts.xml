@@ -5,11 +5,58 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5"/>
-<lastBuildDate>Sat, 06 Apr 2024 22:00:42 -0700</lastBuildDate>
-<pubDate>Sat, 06 Apr 2024 22:00:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 07 Apr 2024 08:07:28 -0700</lastBuildDate>
+<pubDate>Sun, 07 Apr 2024 08:07:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-04072024-inc0396" hreflang="en">Hiker Rescue 04/07/2024 INC#0396</a></title>
+  <link><a href="/alert/hiker-rescue-04072024-inc0396" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0396; 07:37AM; O'Melveny Trl; MAP: &lt;a href="https://bit.ly/3TPV8yp" target="_blank" rel="noopener"&gt;https://bit.ly/3TPV8yp&lt;/a&gt;; #GranadaHills; Firefighters located an approximate 83-year-old male in a remote area, with an head injury from fall. Ground crews were unable to bring apparatus to the patient's location due to the terrain, therefore LAFD Air Operations utilized a hoist operation.  Rescuers were lowered down to the patient to assess, treat, and prepare the patient for a hoist. LAFD Air Operations hoisted and transported the patient by air to a local hospital. Nothing further.
+; FS 18; Batt 15; Valley Bureau; Council District 12; BC15  E18  E287  H4  H6  HA4  HA6  RA18  RH114  T87; CH8; 17; Mark McLean</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>#GranadaHills</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04072024-inc0396" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, April 7, 2024 - 08:07</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/fatal-traffic-collision-04072024-inc0112" hreflang="en">Fatal Traffic Collision 04/07/2024 INC#0112</a></title>
+  <link><a href="/alert/fatal-traffic-collision-04072024-inc0112" hreflang="en">view</a></link>
+  <description>Fatal Traffic Collision; INC#0112; 01:53AM; Wb 10 Fy; MAP: &lt;a href="https://bit.ly/3TMMIrB" target="_blank" rel="noopener"&gt;https://bit.ly/3TMMIrB&lt;/a&gt;; #RanchoPark; Three vehicle collision. Four patients total: one deceased at scene, badly trapped in the wreckage. LAFD used vehicle extrication techniques to free trapped viable patients. Three patients (Undetermined Ages / Genders / Affiliation / Circumstances ) are being transported to area hospitals. #LATraffic: Possible Closure of 10 freeway westbound at Overland until CHP and Medical Examiner operations are complete, unknown duration. LAFD resources are remaining on scene to assist Medical Examiner with vehicle extrication and body removal trapped in wreckage.  Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Media Inquiries: CHP (Log #244) and Medical Examiner.
+; FS 43; Batt 18; South Bureau; Council District 5; BC18  E292  E294  E43  E58  E59  EM11  EM5  EM9  HR3  RA43  RA58  RA59  RA62  RA92  T92  T94; CH7; 12; Mark McLean</description>
+  <category>Fatal Traffic Collision</category>
+                            <category>South</category>
+                            <category>#RanchoPark</category>
+                            <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-04072024-inc0112" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, April 7, 2024 - 02:43</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/static-hazardous-materials-investigation-04072024-inc1676" hreflang="en">STATIC Hazardous Materials Investigation 04/07/2024 INC#1676</a></title>
+  <link><a href="/alert/static-hazardous-materials-investigation-04072024-inc1676" hreflang="en">view</a></link>
+  <description>STATIC Hazardous Materials Investigation; INC#1676; 11:30PM; 452 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/48YRzwL" target="_blank" rel="noopener"&gt;https://bit.ly/48YRzwL&lt;/a&gt;; #LincolnHeights; LAFD Hazardous Materials Specialist used specialized metering devices to locate the leak of a liquid natural gas tank and were able to shut off the leaking valve for a vehicle.  The isolated area has been rendered safe for normal operations at the sanitation yard. There is NO off-site or escalating hazard. Nothing Further  ; FS 1; Batt 2; Central Bureau; Council District 1; BC2  E1  E21  E221  JT4  RA1  SQ21  T21; CH7; 12; Mark McLean</description>
+  <category>Hazardous Materials Investigation</category>
+                            <category>Central</category>
+                            <category>#LincolnHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/static-hazardous-materials-investigation-04072024-inc1676" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, April 7, 2024 - 01:25</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hazardous-materials-investigation-04062024-inc1676" hreflang="en">Hazardous Materials Investigation 04/06/2024 INC#1676</a></title>
+  <link><a href="/alert/hazardous-materials-investigation-04062024-inc1676" hreflang="en">view</a></link>
+  <description>Hazardous Materials Investigation; INC#1676; 11:30PM; 452 N San Fernando Rd; MAP: &lt;a href="https://bit.ly/48YRzwL" target="_blank" rel="noopener"&gt;https://bit.ly/48YRzwL&lt;/a&gt;; #LincolnHeights; Firefighters responded to spill at a sanitation yard to reports of tank leaking. Firefighters have isolated the hazard area and denying entry as safe measures. Hazardous Materials specialists are on scene determining the threat and best course of action to stopping the leak.
+; FS 1; Batt 2; Central Bureau; Council District 1; BC2  E1  E21  E221  JT4  RA1  SQ21  T21; CH7; 12; Mark McLean</description>
+  <category>Hazardous Materials Investigation</category>
+                            <category>Central</category>
+                            <category>#LincolnHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/hazardous-materials-investigation-04062024-inc1676" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, April 7, 2024 - 00:49</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/traffic-04062024-inc1525" hreflang="en">Traffic 04/06/2024 INC#1525</a></title>
   <link><a href="/alert/traffic-04062024-inc1525" hreflang="en">view</a></link>
   <description>Traffic; INC#1525; 09:43PM; 6618 N Fallbrook Av; MAP: &lt;a href="https://bit.ly/3TM5yPv" target="_blank" rel="noopener"&gt;https://bit.ly/3TM5yPv&lt;/a&gt;; #WestHills; Traffic collision resulting in two injured patients. No one was trapped. Two patients are being transported in critical condition to local trauma center. LAPD Incident #4227. Nothing further.; FS 105; Batt 17; Valley Bureau; Council District 12; BC17  E105  E305  E72  EM15  EM17  RA105  RA72  RA84  RA96  T105; CH8; 17; Mark McLean</description>
@@ -18,7 +65,7 @@
                             <category>#WestHills</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-04062024-inc1525" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 22:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04062024-inc0768" hreflang="en">KNOCKDOWN Structure Fire 04/06/2024 INC#0768</a></title>
@@ -30,18 +77,18 @@
                             <category>#Venice</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04062024-inc0768" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 13:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
-  <title><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">Hiker Rescue 04/06/2024 INC#0711</a></title>
-  <link><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">view</a></link>
-  <description>Hiker Rescue; INC#0711; 12:14PM; 24750 W Victory Bl; MAP: &lt;a href="https://bit.ly/3TOgtsb" target="_blank" rel="noopener"&gt;https://bit.ly/3TOgtsb&lt;/a&gt;; West Hills; LAFD personnel assisting with mutual aid to Ventura County Fire Department with one patient non ambulatory. Nothing Further; FS 105; Batt 17; Valley Bureau; Council District 3; BC10  E105  E305  H3  H4  H5  HA3  HA4  HA5  RA106  RH114  T105; CH8; 17; Nicholas Prange</description>
+  <title><a href="/alert/hiker-rescue-04072024-inc0711" hreflang="en">Hiker Rescue 04/07/2024 INC#0711</a></title>
+  <link><a href="/alert/hiker-rescue-04072024-inc0711" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0711; 12:14PM; 24750 W Victory Bl; MAP: &lt;a href="https://bit.ly/3TOgtsb" target="_blank" rel="noopener"&gt;https://bit.ly/3TOgtsb&lt;/a&gt;; West Hills; LAFD personnel assisting with mutual aid to Ventura County Fire Department with one patient non ambulatory. Nothing Further; FS 105; Batt 17; Valley Bureau; Council District 3; BC10  E105  E305  H3  H4  H5  HA3  HA4  HA5  RA106  RH114  T105; CH8; 17; Mark McLean</description>
   <category>Hiker Rescue</category>
                             <category>Valley</category>
                             <category>West Hills</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">view</a></guid>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04072024-inc0711" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 13:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04062024-inc0768" hreflang="en">Structure Fire 04/06/2024 INC#0768</a></title>
@@ -52,7 +99,7 @@
                             <category>Venice</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04062024-inc0768" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 12:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-technical-rescue-lower-operation-04062024-inc0385" hreflang="en">Update Technical Rescue Lower Operation 04/06/2024 INC#0385</a></title>
@@ -63,7 +110,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-lower-operation-04062024-inc0385" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 09:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-04062024-inc0385" hreflang="en">Technical Rescue 04/06/2024 INC#0385</a></title>
@@ -74,51 +121,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-04062024-inc0385" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 08:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">Train vs Pedestrian - Fatality 04/05/2024 INC#1506</a></title>
-  <link><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">view</a></link>
-  <description>Train vs Pedestrian - Fatality; INC#1506; 09:13PM; 662 S Alvarado St; MAP: &lt;a href="https://bit.ly/3weLF6z" target="_blank" rel="noopener"&gt;https://bit.ly/3weLF6z&lt;/a&gt;; #Westlake; Firefighters responded to the Metro B (Red) Line station to find one person had been fatally struck by a train. Firefighters will assist LAPD and Medical Examiner with the body recovery. Unknown age/gender/circumstances. Nothing further.; FS 11; Batt 11; Central Bureau; Council District 1; BC11  BC13  E11  E13  E20  E209  E211  E220  E9  EM1  HR3  RA11  SQ21  T11  T20  T9; CH7; 15; Nicholas Prange</description>
-  <category>Train vs Pedestrian - Fatality</category>
-                            <category>Central</category>
-                            <category>#Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">view</a></guid>
-                            <pubDate>Friday, April 5, 2024 - 21:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">KNOCKDOWN Structure Fire 04/05/2024 INC#0193</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0193; 09:21AM; 1416 S Main St; MAP: &lt;a href="https://bit.ly/3xgPvBF" target="_blank" rel="noopener"&gt;https://bit.ly/3xgPvBF&lt;/a&gt;; #DowntownLA; Firefighters continued operating in defensive mode for several hours, knocking back flare ups from adjacent rooftops, and protecting the neighboring buildings. The commercial building contained large amounts of clothing/textiles while burned readily and continued to fuel the fire. The roof partially collapsed part way through the incident, and firefighters maintained their strategies, waiting for the rest to collapse and give hose streams a straight shot at the burning materials beneath. Remote Suppression firefighting vehicle "RS3" was used to enter the unstable structure and gain access to better suppression angles and deeper penetration. Overall, it took 120 firefighters 4 hours and 12 minutes to extinguish the flames, however much of the debris within the rubble contains extremely hot spots that will need to be uncovered by LAFD Heavy Equipment. Thankfully, there were no reported injuries. Fire Investigators are on scene conducting a fire-cause investigation.; FS 10; Batt 1; Central Bureau; Council District 14; AR1  AR11  AR14  AR22  BC1  BC11  BC13  BC5  CM20  CM22  E10  E11  E13  E14  E15  E2  E203  E209  E210  E211  E215  E220  E221  E226  E294  E3  E63  E66  E9  E95  EA1  EM11  EX2  HE4  HE5  HR3  PI4  RA10  RA3  RA803  RA810  RS3  SO1  SQ21  SQ95  T10  T11  T15  T20  T21  T26  T3  T9  T94  UR3  UR88; CH7; 12  13  15; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#DowntownLA</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
-                            <pubDate>Friday, April 5, 2024 - 10:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-major-emergency-structure-fire-04052024-inc0193" hreflang="en">Update Major Emergency Structure Fire 04/05/2024 INC#0193</a></title>
-  <link><a href="/alert/update-major-emergency-structure-fire-04052024-inc0193" hreflang="en">view</a></link>
-  <description>Update Major Emergency Structure Fire; INC#0193; 06:46AM; 1416 S Main St; MAP: &lt;a href="https://bit.ly/3xgPvBF" target="_blank" rel="noopener"&gt;https://bit.ly/3xgPvBF&lt;/a&gt;; #DowntownLA; Firefighters continue to fight this commercial fire in defensive mode. A heavy fire load (reported as clothing/textiles) and a mezzanine inside have contributed to the fire behavior. The building has sustained a partial roof collapse. Firefighters have established positions on adjacent buildings on either side using hand lines to keep the flames at bay, but due to the condition of the building, this will be an extended operation. Crews are prioritizing the neighboring buildings, and will need to bring in LAFD Heavy Equipment crews to finalize extinguishment later this morning. So far, there have been no reported injuries. MOTORISTS: Avoid Main Street, near 14th St &amp; 15th St (street closed due to fire apparatus).; FS 10; Batt 1; Central Bureau; Council District 14; AR1  AR14  AR22  BC1  BC11  BC13  BC5  CM20  CM22  E10  E11  E13  E14  E15  E2  E203  E209  E210  E211  E215  E221  E226  E3  E9  E95  EA1  EM11  HE4  HE5  HR3  PI4  RA10  RA3  RA803  RA810  SO1  SQ21  SQ95  T10  T11  T15  T21  T26  T3  T9  UR3  UR88; CH9; 12  13  15; Nicholas Prange</description>
-  <category>Major Emergency Structure Fire</category>
-                            <category>Central</category>
-                            <category>#DowntownLA</category>
-                            <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
-                            <pubDate>Friday, April 5, 2024 - 06:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-04052024-inc0193" hreflang="en">Structure Fire 04/05/2024 INC#0193</a></title>
-  <link><a href="/alert/structure-fire-04052024-inc0193" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0193; 05:09AM; 1416 S Main St; MAP: &lt;a href="https://bit.ly/3xgPvBF" target="_blank" rel="noopener"&gt;https://bit.ly/3xgPvBF&lt;/a&gt;; #DowntownLA; One-story commercial (approx 50’x100’) with heavy fire. Defensive mode. PIO Firefighter David Ortiz is en route. ; FS 10; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC13  BC5  CM20  CM22  E10  E11  E13  E14  E15  E2  E203  E209  E210  E211  E215  E221  E226  E3  E9  E95  EA1  EM11  HR3  RA10  RA3  RA803  RA810  SO1  SQ21  SQ95  T10  T11  T15  T21  T26  T3  T9  UR3  UR88; CH9; 12  13  15; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#DowntownLA</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
-                            <pubDate>Friday, April 5, 2024 - 06:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
