@@ -5,11 +5,56 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 06 Apr 2024 09:40:59 -0700</lastBuildDate>
-<pubDate>Sat, 06 Apr 2024 09:40:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5"/>
+<lastBuildDate>Sat, 06 Apr 2024 22:00:42 -0700</lastBuildDate>
+<pubDate>Sat, 06 Apr 2024 22:00:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-04062024-inc1525" hreflang="en">Traffic 04/06/2024 INC#1525</a></title>
+  <link><a href="/alert/traffic-04062024-inc1525" hreflang="en">view</a></link>
+  <description>Traffic; INC#1525; 09:43PM; 6618 N Fallbrook Av; MAP: &lt;a href="https://bit.ly/3TM5yPv" target="_blank" rel="noopener"&gt;https://bit.ly/3TM5yPv&lt;/a&gt;; #WestHills; Traffic collision resulting in two injured patients. No one was trapped. Two patients are being transported in critical condition to local trauma center. LAPD Incident #4227. Nothing further.; FS 105; Batt 17; Valley Bureau; Council District 12; BC17  E105  E305  E72  EM15  EM17  RA105  RA72  RA84  RA96  T105; CH8; 17; Mark McLean</description>
+  <category>Traffic</category>
+                            <category>Valley</category>
+                            <category>#WestHills</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-04062024-inc1525" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 6, 2024 - 22:00</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/knockdown-structure-fire-04062024-inc0768" hreflang="en">KNOCKDOWN Structure Fire 04/06/2024 INC#0768</a></title>
+  <link><a href="/alert/knockdown-structure-fire-04062024-inc0768" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#0768; 12:47PM; 1700 S Penmar Av; MAP: &lt;a href="https://bit.ly/3VNO8os" target="_blank" rel="noopener"&gt;https://bit.ly/3VNO8os&lt;/a&gt;; #Venice; Initial arriving firefighters found a One-story single-family home well involved. Firefighters utilized fire attack hose lines with vertical ventilation to quickly extinguished the flames and keeping the fire from spreading vertically or horizontally. It took 32 firefighters 27 minutes to extinguish the flames and achieve a knockdown. The cause and origin is currently under investigation.  No reported injuries.
+; FS 63; Batt 4; West Bureau; Council District 11; BC18  BC4  E263  E292  E62  E63  E67  RA5  RA63  T63  T92; CH9; 12; Mark McLean</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>#Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04062024-inc0768" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 6, 2024 - 13:30</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">Hiker Rescue 04/06/2024 INC#0711</a></title>
+  <link><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0711; 12:14PM; 24750 W Victory Bl; MAP: &lt;a href="https://bit.ly/3TOgtsb" target="_blank" rel="noopener"&gt;https://bit.ly/3TOgtsb&lt;/a&gt;; West Hills; LAFD personnel assisting with mutual aid to Ventura County Fire Department with one patient non ambulatory. Nothing Further; FS 105; Batt 17; Valley Bureau; Council District 3; BC10  E105  E305  H3  H4  H5  HA3  HA4  HA5  RA106  RH114  T105; CH8; 17; Nicholas Prange</description>
+  <category>Hiker Rescue</category>
+                            <category>Valley</category>
+                            <category>West Hills</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04062024-inc0711" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 6, 2024 - 13:01</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-04062024-inc0768" hreflang="en">Structure Fire 04/06/2024 INC#0768</a></title>
+  <link><a href="/alert/structure-fire-04062024-inc0768" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#0768; 12:47PM; 1700 S Penmar Av; MAP: &lt;a href="https://bit.ly/3VNO8os" target="_blank" rel="noopener"&gt;https://bit.ly/3VNO8os&lt;/a&gt;; Venice; One-story single-family home well involved. Offensive mode.; FS 63; Batt 4; West Bureau; Council District 11; BC18  BC4  E263  E292  E62  E63  E67  RA5  RA63  T63  T92; CH9; 12; Mark McLean</description>
+  <category>Structure Fire</category>
+                            <category>West</category>
+                            <category>Venice</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-04062024-inc0768" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 6, 2024 - 12:55</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-technical-rescue-lower-operation-04062024-inc0385" hreflang="en">Update Technical Rescue Lower Operation 04/06/2024 INC#0385</a></title>
   <link><a href="/alert/update-technical-rescue-lower-operation-04062024-inc0385" hreflang="en">view</a></link>
   <description>Update Lower Operation Technical Rescue; INC#0385; 08:24AM; 5555 W Melrose Av; MAP: &lt;a href="https://bit.ly/43RK7Bs" target="_blank" rel="noopener"&gt;https://bit.ly/43RK7Bs&lt;/a&gt;; Hollywood; 24 Firefighters and USAR personnel on scene performed a technical rescue operation using a lowering technique with a rope system to assist one patient to the ground from a catwalk approximately 50' above ground level.  Patient on the ground level and is being medically evaluated by LAFD paramedics.  Nothing Further. ; FS 52; Batt 5; West Bureau; Council District 13; BC11  BC5  E227  E229  E27  E52  EM11  HR3  RA52  RA827  RA88  T27  T29  UR27  UR88; CH7; 12; Mark McLean</description>
@@ -18,7 +63,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/update-technical-rescue-lower-operation-04062024-inc0385" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 09:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-04062024-inc0385" hreflang="en">Technical Rescue 04/06/2024 INC#0385</a></title>
@@ -29,7 +74,7 @@
                             <category>Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-04062024-inc0385" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 6, 2024 - 08:51</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">Train vs Pedestrian - Fatality 04/05/2024 INC#1506</a></title>
@@ -40,7 +85,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-fatality-04052024-inc1506" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 5, 2024 - 21:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">KNOCKDOWN Structure Fire 04/05/2024 INC#0193</a></title>
@@ -51,7 +96,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 5, 2024 - 10:05</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-04052024-inc0193" hreflang="en">Update Major Emergency Structure Fire 04/05/2024 INC#0193</a></title>
@@ -62,7 +107,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 5, 2024 - 06:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04052024-inc0193" hreflang="en">Structure Fire 04/05/2024 INC#0193</a></title>
@@ -73,51 +118,7 @@
                             <category>#DowntownLA</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04052024-inc0193" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 5, 2024 - 06:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-structure-fire-04042024-inc1300" hreflang="en">Update Structure Fire 04/04/2024 INC#1300</a></title>
-  <link><a href="/alert/update-structure-fire-04042024-inc1300" hreflang="en">view</a></link>
-  <description>Update Structure Fire; INC#1300; 08:01PM; 730 W 30th St; MAP: &lt;a href="https://bit.ly/3JqVJ53" target="_blank" rel="noopener"&gt;https://bit.ly/3JqVJ53&lt;/a&gt;; #UniversityPark; LAFD responded to an LAPD operation where someone had barricaded themself inside of a home. LAFD staged outside to wait for LAPD to clear the scene. The smoke seen at first has now ceased and dissipated without LAFD involvement. Firefighters/paramedics remain on scene as an agency assist to support the ongoing LAPD operation. Refer additional questions to LAPD. Nothing further.; FS 15; Batt 13; South Bureau; Council District 9; AR1  BC1  BC13  CM20  CM22  E10  E14  E15  E210  E215  E46  EM11  RA10  RA15  RA815  SO1  SQ21  T10  T15  TL2  TM1  TM5; CH7; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#UniversityPark</category>
-                            <guid isPermaLink="false"><a href="/alert/update-structure-fire-04042024-inc1300" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, April 4, 2024 - 20:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-04042024-inc1300" hreflang="en">Structure Fire 04/04/2024 INC#1300</a></title>
-  <link><a href="/alert/structure-fire-04042024-inc1300" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#1300; 06:34PM; 730 W 30th St; MAP: &lt;a href="https://bit.ly/3JqVJ53" target="_blank" rel="noopener"&gt;https://bit.ly/3JqVJ53&lt;/a&gt;; #UniversityPark; Two-story craftsman-style home with smoke showing. Offensive mode.; FS 15; Batt 13; South Bureau; Council District 9; BC1  BC13  E10  E14  E15  E210  E215  E46  RA15  RA815  SQ21  T10  T15; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#UniversityPark</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-04042024-inc1300" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, April 4, 2024 - 18:57</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04042024-inc0895" hreflang="en">KNOCKDOWN Structure Fire 04/04/2024 INC#0895</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04042024-inc0895" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#0895; 02:19PM; 20251 W Sherman Wy; MAP: &lt;a href="https://bit.ly/43KraQW" target="_blank" rel="noopener"&gt;https://bit.ly/43KraQW&lt;/a&gt;; #Winnetka; Firefighters found a *three-story* garden-style apartment complex with fire in one second-floor unit. Firefighters deployed hose lines to the unit and quickly extinguished the flames and keeping the fire from spreading vertically or horizontally. The apartment above was affected by smoke and the unit below was affected by water due to the necessary fire suppression efforts. It took 34 firefighters 19 minutes to extinguish the flames. One patient was assessed for minor smoke inhalation, but declined hospital transport. No firefighter injuries. ; FS 72; Batt 17; Valley Bureau; Council District 3; BC15  BC17  E104  E293  E72  E73  E84  RA104  RA872  SO1  T73  T93; CH9; 17; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Winnetka</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04042024-inc0895" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, April 4, 2024 - 14:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-boat-fire-04042024-inc0862" hreflang="en">KNOCKDOWN Boat Fire 04/04/2024 INC#0862</a></title>
-  <link><a href="/alert/knockdown-boat-fire-04042024-inc0862" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Boat Fire; INC#0862; 02:04PM; Berth 42; MAP: &lt;a href="https://bit.ly/4am0JUe" target="_blank" rel="noopener"&gt;https://bit.ly/4am0JUe&lt;/a&gt;; #SanPedro; Forty firefighters responded by land and sea to the vessel on fire, described as an approximately 40-foot pleasure craft.  Firefighters initiated marine firefighting tactics and extinguished the flames in 20 minutes, protecting the other nearby docked vessels. Unfortunately, the damage had already been done, and the vessel wound up sinking after the flames were extinguished. Two people (one adult male and one adult female) were found off site (away from the burning boat) with medical needs. Paramedics assessed both and both declined hospital transport. Cause under investigation.; FS 48; Batt 6; South Bureau; Council District 15; BC6  BT1  BT2  BT3  BT5  E248  E285  E36  E38  E48  RA112  T48  T85; CH7; 12; Nicholas Prange</description>
-  <category>Boat Fire</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-boat-fire-04042024-inc0862" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, April 4, 2024 - 14:30</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=c8427dd9-f49b-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
