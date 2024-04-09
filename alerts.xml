@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5"/>
-<lastBuildDate>Mon, 08 Apr 2024 15:53:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Tue, 09 Apr 2024 10:55:44 -0700</lastBuildDate>
 <pubDate>Mon, 08 Apr 2024 15:53:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 8, 2024 - 15:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#1462</a></title>
@@ -30,7 +30,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 21:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc1462" hreflang="en">Structure Fire 04/07/2024 INC#1462</a></title>
@@ -41,7 +41,7 @@
                             <category>Vermont Vista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 20:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-jumper-04072024-inc1135" hreflang="en">Update Jumper 04/07/2024 INC#1135</a></title>
@@ -52,7 +52,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/update-jumper-04072024-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 18:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/jumper-04072024-inc1135" hreflang="en">Jumper 04/07/2024 INC#1135</a></title>
@@ -63,7 +63,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/jumper-04072024-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 17:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc0857" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#0857</a></title>
@@ -75,7 +75,7 @@
                             <category>#Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 15:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-04072024-inc0857" hreflang="en">Update Structure Fire 04/07/2024 INC#0857</a></title>
@@ -86,7 +86,7 @@
                             <category>#Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 14:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc0857" hreflang="en">Structure Fire 04/07/2024 INC#0857</a></title>
@@ -97,7 +97,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 14:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc0776" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#0776</a></title>
@@ -108,7 +108,7 @@
                             <category>#HistoricSouth-Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 13:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">Structure Fire 04/07/2024 INC#0776</a></title>
@@ -119,7 +119,7 @@
                             <category>#HistoricSouth-Central</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 13:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
