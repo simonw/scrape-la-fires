@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 07 Apr 2024 21:26:57 -0700</lastBuildDate>
-<pubDate>Sun, 07 Apr 2024 21:26:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5"/>
+<lastBuildDate>Mon, 08 Apr 2024 15:53:42 -0700</lastBuildDate>
+<pubDate>Mon, 08 Apr 2024 15:53:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">Structure Fire, Auto Aid COUNTY 04/08/2024 INC#1138</a></title>
+  <link><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></link>
+  <description>Structure Fire, Auto Aid COUNTY; INC#1138; 03:30PM; 23222 W Ida Pl; MAP: &lt;a href="https://bit.ly/3VOvlJy" target="_blank" rel="noopener"&gt;https://bit.ly/3VOvlJy&lt;/a&gt;; outside city; 2 story SFD w/heavy fire. 2 Task Forces from LAFD responding.  CMD: 10, Tac-U68/U-66.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC15  BC17  CM42  E107  E296  E305  T105  T96; CMD10; U66, U68; David Ortiz</description>
+  <category>Structure Fire</category>
+                            <category>Valley</category>
+                            <category>outside city</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></guid>
+                            <pubDate>Monday, April 8, 2024 - 15:53</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#1462</a></title>
   <link><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1462; 08:48PM; 801 W 106th St; MAP: &lt;a href="https://bit.ly/3TQpVLv" target="_blank" rel="noopener"&gt;https://bit.ly/3TQpVLv&lt;/a&gt;; #VermontVista; First arriving firefighter report detached garage fully involved with possible exposures. Firefighters were offensive mode utilizing fire attack handlines to extinguish fire in the non-converted garage.  Fire companies are checking exposure for fire extension.  Rapid firefighting tactics allowed 34 firefighters to get a knockdown in 21 minutes preventing horizontal and vertical spread of fire.  LAFD resources will remain on scene to provide salvage and overhaul to ensure full extinguishment of fire.     
@@ -19,7 +30,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 21:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc1462" hreflang="en">Structure Fire 04/07/2024 INC#1462</a></title>
@@ -30,7 +41,7 @@
                             <category>Vermont Vista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc1462" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 20:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-jumper-04072024-inc1135" hreflang="en">Update Jumper 04/07/2024 INC#1135</a></title>
@@ -41,7 +52,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/update-jumper-04072024-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 18:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/jumper-04072024-inc1135" hreflang="en">Jumper 04/07/2024 INC#1135</a></title>
@@ -52,7 +63,7 @@
                             <category>Boyle Heights</category>
                             <guid isPermaLink="false"><a href="/alert/jumper-04072024-inc1135" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 17:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc0857" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#0857</a></title>
@@ -64,7 +75,7 @@
                             <category>#Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 15:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-04072024-inc0857" hreflang="en">Update Structure Fire 04/07/2024 INC#0857</a></title>
@@ -75,7 +86,7 @@
                             <category>#Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 14:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc0857" hreflang="en">Structure Fire 04/07/2024 INC#0857</a></title>
@@ -86,7 +97,7 @@
                             <category>Mid-City</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc0857" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 14:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04072024-inc0776" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#0776</a></title>
@@ -97,7 +108,7 @@
                             <category>#HistoricSouth-Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 13:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">Structure Fire 04/07/2024 INC#0776</a></title>
@@ -108,18 +119,7 @@
                             <category>#HistoricSouth-Central</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 13:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/information-only-trapped-vehicle-04072024-inc0301" hreflang="en">Information Only Trapped Vehicle 04/07/2024 INC#0301</a></title>
-  <link><a href="/alert/information-only-trapped-vehicle-04072024-inc0301" hreflang="en">view</a></link>
-  <description>Information Only Trapped Vehicle; INC#0301; 05:47AM; Nb 5 Fy; MAP: &lt;a href="https://bit.ly/3U6Vq5c" target="_blank" rel="noopener"&gt;https://bit.ly/3U6Vq5c&lt;/a&gt;; Griffith Park; Solo vehicle with two persons trapped in the vehicle, one of whom (undetermined age/gender) was deceased. The other patient (undetermined age/gender) was disentangled from the wreckage by firefighters, and has been taken to a regional trauma center in critical condition. No other injuries. The vehicle was found by CHP on right shoulder with Heavy Damage. No fire. #LATraffic: Possible closure of one or more lanes of northbound 5 freeway near 134 interchange until CHP and Medical Examiner operations are complete. Unknown ETO. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Monitor traffic reports on news radio. Media Inquiries: CHP Log #558 and Medical Examiner.; FS 56; Batt 5; West Bureau; Council District 4; BC5  E235  E250  E35  E42  E82  EM5  HR3  RA35  RA56  RA82  RA835  T35  T50  UR88; CH7; 12; Mark McLean</description>
-  <category>Trapped Vehicle</category>
-                            <category>West</category>
-                            <category>Griffith Park</category>
-                            <guid isPermaLink="false"><a href="/alert/information-only-trapped-vehicle-04072024-inc0301" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, April 7, 2024 - 13:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d82c270a-f5fa-11ee-b87b-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
