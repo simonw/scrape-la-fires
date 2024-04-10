@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 09 Apr 2024 13:55:35 -0700</lastBuildDate>
-<pubDate>Mon, 08 Apr 2024 15:53:00 -0700</pubDate>
+<lastBuildDate>Wed, 10 Apr 2024 07:11:02 -0700</lastBuildDate>
+<pubDate>Wed, 10 Apr 2024 05:15:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-04102024-inc0224" hreflang="en">Structure Fire - Now Out 04/10/2024 INC#0224</a></title>
+  <link><a href="/alert/structure-fire-now-out-04102024-inc0224" hreflang="en">view</a></link>
+  <description>Structure Fire - Now Out; INC#0224; 04:45AM; 11256 N Paso Robles Av; MAP: &lt;a href="https://bit.ly/3JeUCFc" target="_blank" rel="noopener"&gt;https://bit.ly/3JeUCFc&lt;/a&gt;; #GranadaHills; Firefighters arrived to find a two-story home with fire showing from the second floor. Crews ascended ladders to the roof to vertically ventilate the structure, while other companies deployed hose lines for an interior fire attack. It took 36 firefighters 13 minutes from the time of alarm to extinguish the flames. One adult male patient was found with burn injuries, who was treated and transported to a local hospital by LAFD paramedics. The cause of the fire is under investigation. ; FS 18; Batt 15; Valley Bureau; Council District 12; BC12  BC15  E18  E275  E287  E75  E8  E87  EM15  RA18  RA75  RA87  SO1  T75  T87; CH8; 17; Nicholas Prange</description>
+  <category>Structure Fire - Now Out</category>
+                            <category>Valley</category>
+                            <category>#GranadaHills</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-04102024-inc0224" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, April 10, 2024 - 05:15</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">Structure Fire, Auto Aid COUNTY 04/08/2024 INC#1138</a></title>
   <link><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></link>
   <description>Structure Fire, Auto Aid COUNTY; INC#1138; 03:30PM; 23222 W Ida Pl; MAP: &lt;a href="https://bit.ly/3VOvlJy" target="_blank" rel="noopener"&gt;https://bit.ly/3VOvlJy&lt;/a&gt;; outside city; 2 story SFD w/heavy fire. 2 Task Forces from LAFD responding.  CMD: 10, Tac-U68/U-66.; FS 96; Batt 15; Valley Bureau; Council District outside city; BC15  BC17  CM42  E107  E296  E305  T105  T96; CMD10; U66, U68; David Ortiz</description>
@@ -108,17 +119,6 @@
                             <category>#HistoricSouth-Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 7, 2024 - 13:47</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">Structure Fire 04/07/2024 INC#0776</a></title>
-  <link><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">view</a></link>
-  <description>Structure Fire; INC#0776; 01:18PM; 2511 S San Pedro St; MAP: &lt;a href="https://bit.ly/3U8w5rS" target="_blank" rel="noopener"&gt;https://bit.ly/3U8w5rS&lt;/a&gt;; #HistoricSouth-Central; One-story commercial (Burger King) with heavy smoke showing. Offensive mode.; FS 14; Batt 1; Central Bureau; Council District 9; BC11  BC13  E15  E17  E201  E21  E215  RA17  RA21  SQ21  T1  T15; CH9; 13; Mark McLean</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#HistoricSouth-Central</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-04072024-inc0776" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, April 7, 2024 - 13:26</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
