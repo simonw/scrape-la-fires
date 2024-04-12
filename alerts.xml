@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 11 Apr 2024 21:54:21 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5"/>
+<lastBuildDate>Fri, 12 Apr 2024 07:46:41 -0700</lastBuildDate>
 <pubDate>Thu, 11 Apr 2024 21:54:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#Vermont-#Slauson</category>
                             <guid isPermaLink="false"><a href="/alert/physical-rescue-04112024-inc1761" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 11, 2024 - 21:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04112024-inc0422" hreflang="en">KNOCKDOWN Structure Fire 04/11/2024 INC#0422</a></title>
@@ -29,7 +29,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04112024-inc0422" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 11, 2024 - 09:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04112024-inc0422" hreflang="en">Structure Fire 04/11/2024 INC#0422</a></title>
@@ -40,7 +40,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04112024-inc0422" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 11, 2024 - 08:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-04102024-inc1759" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 04/10/2024 INC#1759</a></title>
@@ -51,7 +51,7 @@
                             <category>#SouthPark</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-04102024-inc1759" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 22:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102024-inc1759" hreflang="en">Structure Fire 04/10/2024 INC#1759</a></title>
@@ -62,7 +62,7 @@
                             <category>#SouthPark</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102024-inc1759" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 21:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04102024-inc1268" hreflang="en">KNOCKDOWN Structure Fire 04/10/2024 INC#1268</a></title>
@@ -73,7 +73,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04102024-inc1268" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 16:35</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04102024-inc1268" hreflang="en">Structure Fire 04/10/2024 INC#1268</a></title>
@@ -84,7 +84,7 @@
                             <category>#SunValley</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04102024-inc1268" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 16:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-04102024-inc0695" hreflang="en">Hiker Rescue 04/10/2024 INC#0695</a></title>
@@ -95,7 +95,7 @@
                             <category>#Chatsworth</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-04102024-inc0695" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 11:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-04102024-inc0224" hreflang="en">Structure Fire - Now Out 04/10/2024 INC#0224</a></title>
@@ -106,7 +106,7 @@
                             <category>#GranadaHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-04102024-inc0224" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, April 10, 2024 - 05:15</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">Structure Fire, Auto Aid COUNTY 04/08/2024 INC#1138</a></title>
@@ -117,7 +117,7 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 8, 2024 - 15:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=78e9b9e2-f8db-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
