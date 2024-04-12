@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 11 Apr 2024 09:32:27 -0700</lastBuildDate>
-<pubDate>Thu, 11 Apr 2024 09:32:00 -0700</pubDate>
+<lastBuildDate>Thu, 11 Apr 2024 21:54:21 -0700</lastBuildDate>
+<pubDate>Thu, 11 Apr 2024 21:54:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/physical-rescue-04112024-inc1761" hreflang="en">Physical Rescue 04/11/2024 INC#1761</a></title>
+  <link><a href="/alert/physical-rescue-04112024-inc1761" hreflang="en">view</a></link>
+  <description>Physical Rescue; INC#1761; 09:30PM; 5270 S Figueroa St; MAP: &lt;a href="https://bit.ly/3Q1umSB" target="_blank" rel="noopener"&gt;https://bit.ly/3Q1umSB&lt;/a&gt;; #Vermont-#Slauson; Firefighters responded to a two-vehicle traffic collision with two people trapped (and one additional not trapped). Crews used hydraulic rescue tools to roll back the wreckage and make access the patients. Sadly, one was found to be deceased. The other two were transported to the hospital via LAFD ambulance (approx 20-year-old male in serious-to-critical condition, and approx 5-year-old male in moderate condition). LAPD Inc #5012. Nothing further.; FS 46; Batt 13; South Bureau; Council District 9; BC13  E266  E33  E46  E66  EM11  HR3  RA21  RA246  RA257  RA266  T66; CH7; 12; Nicholas Prange</description>
+  <category>Physical Rescue</category>
+                            <category>South</category>
+                            <category>#Vermont-#Slauson</category>
+                            <guid isPermaLink="false"><a href="/alert/physical-rescue-04112024-inc1761" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, April 11, 2024 - 21:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04112024-inc0422" hreflang="en">KNOCKDOWN Structure Fire 04/11/2024 INC#0422</a></title>
   <link><a href="/alert/knockdown-structure-fire-04112024-inc0422" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#0422; 08:33AM; 650 W 111th St; MAP: &lt;a href="https://bit.ly/43XQO52" target="_blank" rel="noopener"&gt;https://bit.ly/43XQO52&lt;/a&gt;; #VermontVista; Firefighters responded to a one-story home with smoke showing. They made access through the front door and found two people inside, as flames grew in one room to the rear of the structure. Firefighters rescued both adult occupants from the structure, who thankfully sustained only minor smoke inhalation before being pulled out. It took 33 firefighters 13 minutes to extinguish the flames, limiting the fire damage to just one room and part of the hallway. LAFD ambulances transported both patients to a nearby hospital. Cause under investigation.; FS 64; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E57  E64  E65  E79  EM13  RA264  RA64  RA65  SO1  T33  T64; CH7; 12; Nicholas Prange</description>
@@ -106,18 +117,6 @@
                             <category>outside city</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-auto-aid-county-04082024-inc1138" hreflang="en">view</a></guid>
                             <pubDate>Monday, April 8, 2024 - 15:53</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">KNOCKDOWN Structure Fire 04/07/2024 INC#1462</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1462; 08:48PM; 801 W 106th St; MAP: &lt;a href="https://bit.ly/3TQpVLv" target="_blank" rel="noopener"&gt;https://bit.ly/3TQpVLv&lt;/a&gt;; #VermontVista; First arriving firefighter report detached garage fully involved with possible exposures. Firefighters were offensive mode utilizing fire attack handlines to extinguish fire in the non-converted garage.  Fire companies are checking exposure for fire extension.  Rapid firefighting tactics allowed 34 firefighters to get a knockdown in 21 minutes preventing horizontal and vertical spread of fire.  LAFD resources will remain on scene to provide salvage and overhaul to ensure full extinguishment of fire.     
-; FS 64; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E33  E64  E65  RA264  RA64  RA864  T33  T64; CH9; 12; Mark McLean</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#VermontVista</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04072024-inc1462" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, April 7, 2024 - 21:26</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
