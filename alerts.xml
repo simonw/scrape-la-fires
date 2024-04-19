@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Thu, 18 Apr 2024 22:07:02 -0700</lastBuildDate>
-<pubDate>Thu, 18 Apr 2024 22:06:00 -0700</pubDate>
+<lastBuildDate>Thu, 18 Apr 2024 23:14:33 -0700</lastBuildDate>
+<pubDate>Thu, 18 Apr 2024 23:14:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/vehicle-vs-pedestrians-04182024-inc1876" hreflang="en">Vehicle vs Pedestrians 04/18/2024 INC#1876</a></title>
+  <link><a href="/alert/vehicle-vs-pedestrians-04182024-inc1876" hreflang="en">view</a></link>
+  <description>Vehicle vs Pedestrians; INC#1876; 11:00PM; 524 S Alvarado St; MAP: &lt;a href="https://bit.ly/4d3ctg4" target="_blank" rel="noopener"&gt;https://bit.ly/4d3ctg4&lt;/a&gt;; #Westlake; Three patients have been transported by LAFD Paramedics after being struck by a vehicle. All three are in critical condition. Unknown age/gender/condition/circumstances. LAPD Inc #5056. Nothing further.; FS 11; Batt 11; Central Bureau; Council District 1; BC11  E11  E211  EM11  FR11  RA11  RA13  RA20  T11; CH7; 12; Nicholas Prange</description>
+  <category>Vehicle vs Pedestrians</category>
+                            <category>Central</category>
+                            <category>#Westlake</category>
+                            <guid isPermaLink="false"><a href="/alert/vehicle-vs-pedestrians-04182024-inc1876" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, April 18, 2024 - 23:14</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04182024-inc1742" hreflang="en">KNOCKDOWN Structure Fire 04/18/2024 INC#1742</a></title>
   <link><a href="/alert/knockdown-structure-fire-04182024-inc1742" hreflang="en">view</a></link>
   <description>KNOCKDOWN Structure Fire; INC#1742; 09:30PM; 529 W 90th St; MAP: &lt;a href="https://bit.ly/3UloeqW" target="_blank" rel="noopener"&gt;https://bit.ly/3UloeqW&lt;/a&gt;; #VermontVista; Firefighters responded to a property no longer occupied by the owner, where three structures are located: a front house, guest house (or "back house"), and a detached garage. Crews found heavy fire showing from the small guest house, adjacent to the detached garage. Firefighters advanced hose lines to the rear of the property and quickly applied water to the flames threatening the nearby garage. It took 24 firefighters 15 minutes to quench the flames, protecting the adjacent garage from all but minor exterior damage. No reported injuries. Cause under investigation.; FS 57; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E266  E33  E57  E64  RA264  RA57  RA857  RA864  SO1  T33  T66; CH7; 12; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Pacoima</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04162024-inc1483" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 16, 2024 - 18:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04152024-inc1611" hreflang="en">Knockdown -  Structure Fire 04/15/2024 INC#1611</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04152024-inc1611" hreflang="en">view</a></link>
-  <description>Knockdown -  Structure Fire; INC#1611; 08:27PM; 1620 N Redesdale Av; MAP: &lt;a href="https://bit.ly/3TXxqjL" target="_blank" rel="noopener"&gt;https://bit.ly/3TXxqjL&lt;/a&gt;; #SilverLake; *Address Corrected* First arriving 28 LAFD Firefighters took just 19 minutes to access, confine and extinguish an exterior patio fire involving swimming pool equipment and threatening propane tanks stored adjacent to a three story descending hillside home (two levels below grade). LAFD crews prevented flames from entering the 1,582 square foot home. No injury reported. Fire cause under investigation.; FS 20; Batt 11; Central Bureau; Council District 13; BC1  BC11  BC5  CM20  CM22  E20  E220  E235  E250  E35  E52  E6  EM5  RA20  RA52  RA56  SQ21  T20  T35  T50; CH9; 12; Brian Humphrey</description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#SilverLake</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04152024-inc1611" hreflang="en">view</a></guid>
-                            <pubDate>Monday, April 15, 2024 - 20:33</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
