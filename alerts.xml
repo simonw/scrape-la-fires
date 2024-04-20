@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 19 Apr 2024 20:14:24 -0700</lastBuildDate>
-<pubDate>Fri, 19 Apr 2024 20:14:00 -0700</pubDate>
+<lastBuildDate>Sat, 20 Apr 2024 01:56:01 -0700</lastBuildDate>
+<pubDate>Sat, 20 Apr 2024 01:55:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">Structure Fire - Knockdown 04/20/2024 INC#0080</a></title>
+  <link><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">view</a></link>
+  <description>Structure Fire - Knockdown; INC#0080; 01:02AM; 15001 W Mission Hills Rd; MAP: &lt;a href="https://bit.ly/4aNcy63" target="_blank" rel="noopener"&gt;https://bit.ly/4aNcy63&lt;/a&gt;; #MissionHills; Firefighters responded to a one-story single-family home with heavy fire showing. Firefighters operated in the defensive mode (from the exterior only) to apply large amounts of water to the intense flames from around the perimeter of the structure. It took a total of 48 firefighters 45 minutes (1:47am) to extinguish the blaze. No reported injuries. Cause under investigation.; FS 75; Batt 12; Valley Bureau; Council District 7; BC12  BC15  E275  E298  E474  E7  E75  E98  RA75  RA891  RA91  T75  T98; CH9; 17; Nicholas Prange</description>
+  <category>Structure Fire - Knockdown</category>
+                            <category>Valley</category>
+                            <category>#MissionHills</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 20, 2024 - 01:55</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/multipatient-traffic-collision-04192024-inc1523" hreflang="en">Multi-Patient Traffic Collision 04/19/2024 INC#1523</a></title>
   <link><a href="/alert/multipatient-traffic-collision-04192024-inc1523" hreflang="en">view</a></link>
   <description>Multi-Patient Traffic Collision; INC#1523; 07:28PM; 6800 N Tampa Av; MAP: &lt;a href="https://bit.ly/4b2hWBV" target="_blank" rel="noopener"&gt;https://bit.ly/4b2hWBV&lt;/a&gt;; #Reseda; Firefighters responded to a two-vehicle collision resulting in five people injured. Crews set up treatment and transport for all five. Two adult females in moderate condition, two adult males in serious condition, and one juvenile (teenage) female in serious condition were taken to area hospitals by LAFD ambulances. Nothing further.; FS 73; Batt 17; Valley Bureau; Council District 3; BC17  E273  E73  E93  EM14  EM15  EM17  RA100  RA104  RA73  RA83  RA84  RA93  T73; CH8; 18; Nicholas Prange</description>
@@ -106,17 +117,6 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-04162024-inc1524" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 16, 2024 - 19:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04162024-inc1483" hreflang="en">KNOCKDOWN Structure Fire 04/16/2024 INC#1483</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04162024-inc1483" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1483; 06:33PM; 10312 N Norris Av; MAP: &lt;a href="https://bit.ly/441ptPa" target="_blank" rel="noopener"&gt;https://bit.ly/441ptPa&lt;/a&gt;; #Pacoima; Firefighters forced entry into the one-story commercial building to find smoke inside. As they investigated further, they located a fire inside, which had not yet spread to the structural members (contents fire only). Crews quickly deployed hose lines to extinguish the flames before they had more widely spread. It took 32 firefighters 20 minutes to respond, access, and extinguish the flames. No reported injuries. Cause under investigation.; FS 98; Batt 12; Valley Bureau; Council District 7; AR1  BC10  BC12  BC14  BC15  CM40  CM42  E24  E274  E275  E289  E290  E298  E474  E75  E77  E81  E87  E89  E98  EM15  HR3  RA898  RA98  SO1  SQ87  T74  T75  T89  T90  T98  UR88  UR89; CH8; 17  18; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>Valley</category>
-                            <category>#Pacoima</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04162024-inc1483" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, April 16, 2024 - 19:17</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
