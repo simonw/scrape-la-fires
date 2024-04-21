@@ -5,11 +5,33 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 20 Apr 2024 01:56:01 -0700</lastBuildDate>
-<pubDate>Sat, 20 Apr 2024 01:55:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5"/>
+<lastBuildDate>Sat, 20 Apr 2024 18:33:41 -0700</lastBuildDate>
+<pubDate>Sat, 20 Apr 2024 18:33:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">KNOCKDOWN Structure Fire 04/20/2024 INC#1245</a></title>
+  <link><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">view</a></link>
+  <description>KNOCKDOWN Structure Fire; INC#1245; 06:09PM; 11878 S Main St; MAP: &lt;a href="https://bit.ly/3W1Jmno" target="_blank" rel="noopener"&gt;https://bit.ly/3W1Jmno&lt;/a&gt;; #BroadwayManchester; Firefighters made access to the vacant 50' x 50' one-story building and found fire inside and burning up into the attic. Crews advanced hose lines inside, while others ascended ladders to ventilate the roof. Ultimately, it took 32 firefighters 19 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 64; Batt 13; South Bureau; Council District 15; BC11  BC13  E233  E264  E57  E64  E65  RA264  RA64  RA864  SO1  T33  T64; CH7; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#BroadwayManchester</category>
+                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 20, 2024 - 18:33</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-04202024-inc1245" hreflang="en">Structure Fire 04/20/2024 INC#1245</a></title>
+  <link><a href="/alert/structure-fire-04202024-inc1245" hreflang="en">view</a></link>
+  <description>Structure Fire; INC#1245; 05:47PM; 11878 S Main St; MAP: &lt;a href="https://bit.ly/3W1Jmno" target="_blank" rel="noopener"&gt;https://bit.ly/3W1Jmno&lt;/a&gt;; #BroadwayManchester; Firefighters responded to a 50' x 50' one-story commercial building with smoke showing (site of a previous burn). Offensive mode.; FS 64; Batt 13; South Bureau; Council District 15; BC11  BC13  E233  E264  E57  E64  E65  RA264  RA64  RA864  SO1  T33  T64; CH9; 12; Nicholas Prange</description>
+  <category>Structure Fire</category>
+                            <category>South</category>
+                            <category>#BroadwayManchester</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-04202024-inc1245" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 20, 2024 - 17:59</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">Structure Fire - Knockdown 04/20/2024 INC#0080</a></title>
   <link><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">view</a></link>
   <description>Structure Fire - Knockdown; INC#0080; 01:02AM; 15001 W Mission Hills Rd; MAP: &lt;a href="https://bit.ly/4aNcy63" target="_blank" rel="noopener"&gt;https://bit.ly/4aNcy63&lt;/a&gt;; #MissionHills; Firefighters responded to a one-story single-family home with heavy fire showing. Firefighters operated in the defensive mode (from the exterior only) to apply large amounts of water to the intense flames from around the perimeter of the structure. It took a total of 48 firefighters 45 minutes (1:47am) to extinguish the blaze. No reported injuries. Cause under investigation.; FS 75; Batt 12; Valley Bureau; Council District 7; BC12  BC15  E275  E298  E474  E7  E75  E98  RA75  RA891  RA91  T75  T98; CH9; 17; Nicholas Prange</description>
@@ -18,7 +40,7 @@
                             <category>#MissionHills</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-knockdown-04202024-inc0080" hreflang="en">view</a></guid>
                             <pubDate>Saturday, April 20, 2024 - 01:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/multipatient-traffic-collision-04192024-inc1523" hreflang="en">Multi-Patient Traffic Collision 04/19/2024 INC#1523</a></title>
@@ -29,7 +51,7 @@
                             <category>#Reseda</category>
                             <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-04192024-inc1523" hreflang="en">view</a></guid>
                             <pubDate>Friday, April 19, 2024 - 20:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/vehicle-vs-pedestrians-04182024-inc1876" hreflang="en">Vehicle vs Pedestrians 04/18/2024 INC#1876</a></title>
@@ -40,7 +62,7 @@
                             <category>#Westlake</category>
                             <guid isPermaLink="false"><a href="/alert/vehicle-vs-pedestrians-04182024-inc1876" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 23:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04182024-inc1742" hreflang="en">KNOCKDOWN Structure Fire 04/18/2024 INC#1742</a></title>
@@ -51,7 +73,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04182024-inc1742" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 22:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04182024-inc1742" hreflang="en">Structure Fire 04/18/2024 INC#1742</a></title>
@@ -62,7 +84,7 @@
                             <category>#VermontVista</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04182024-inc1742" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 21:24</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-04182024-inc0896" hreflang="en">Hiker Rescue 04/18/2024 INC#0896</a></title>
@@ -73,7 +95,7 @@
                             <category>#HollywoodHills</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-04182024-inc0896" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 13:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04182024-inc0716" hreflang="en">KNOCKDOWN Structure Fire 04/18/2024 INC#0716</a></title>
@@ -84,7 +106,7 @@
                             <category>#PicoRobertson</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04182024-inc0716" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 12:31</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04182024-inc0716" hreflang="en">Structure Fire 04/18/2024 INC#0716</a></title>
@@ -95,29 +117,7 @@
                             <category>#PicoRobertson</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04182024-inc0716" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 18, 2024 - 11:41</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-04162024-inc1777" hreflang="en">Structure Fire - Now Out 04/16/2024 INC#1777</a></title>
-  <link><a href="/alert/structure-fire-now-out-04162024-inc1777" hreflang="en">view</a></link>
-  <description>Structure Fire - Now Out; INC#1777; 09:34PM; 3033 W Beverly Bl; MAP: &lt;a href="https://bit.ly/3W2Rt30" target="_blank" rel="noopener"&gt;https://bit.ly/3W2Rt30&lt;/a&gt;; #Westlake; One-story restaurant with fire showing.  - Firefighters made access to the restaurant doing business as "Jim's Burgers" and quickly extinguished the flames in 14 minutes from the time of alarm (32 firefighters). No reported injuries. Cause under investigation.; FS 6; Batt 11; Central Bureau; Council District 13; BC11  BC5  E11  E13  E211  E220  E6  RA11  RA20  RA811  T11  T20; CH9; 12; Nicholas Prange</description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Central</category>
-                            <category>#Westlake</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-04162024-inc1777" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, April 16, 2024 - 22:00</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/multipatient-traffic-collision-04162024-inc1524" hreflang="en">Multi-Patient Traffic Collision 04/16/2024 INC#1524</a></title>
-  <link><a href="/alert/multipatient-traffic-collision-04162024-inc1524" hreflang="en">view</a></link>
-  <description>Multi-Patient Traffic Collision; INC#1524; 06:36PM; 674 S Figueroa St; MAP: &lt;a href="https://bit.ly/3JswP4F" target="_blank" rel="noopener"&gt;https://bit.ly/3JswP4F&lt;/a&gt;; #Downtown; Firefighters responded to a law enforcement bus that was transporting 13 men in custody. As a result of a traffic collision, at least 8 of them (all between the ages of 18 and 24) are being transported to a local hospital with minor injuries.; FS 11; Batt 11; Central Bureau; Council District 14; BC11  E209  E211  EM11  RA810  RA811  RA834  RA858  RA894  RA9  T11; CH7; 12; Nicholas Prange</description>
-  <category>Multi-Patient Traffic Collision</category>
-                            <category>Central</category>
-                            <category>#Downtown</category>
-                            <guid isPermaLink="false"><a href="/alert/multipatient-traffic-collision-04162024-inc1524" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, April 16, 2024 - 19:54</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=2ecb3b57-ff7f-11ee-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
