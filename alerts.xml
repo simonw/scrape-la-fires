@@ -5,11 +5,22 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 23 Apr 2024 10:46:07 -0700</lastBuildDate>
-<pubDate>Tue, 23 Apr 2024 10:46:00 -0700</pubDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5"/>
+<lastBuildDate>Tue, 23 Apr 2024 22:16:42 -0700</lastBuildDate>
+<pubDate>Tue, 23 Apr 2024 22:16:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">Traffic Collision with Entrapment 04/23/2024 INC#1572</a></title>
+  <link><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">view</a></link>
+  <description>Traffic Collision with Entrapment; INC#1572; 09:54PM; NB 5 Fwy x Calzona St Offramp; MAP: &lt;a href="https://bit.ly/3wgS7iN" target="_blank" rel="noopener"&gt;https://bit.ly/3wgS7iN&lt;/a&gt;; #BoyleHeights; PRELIM: Traffic collision (at the end of a vehicle pursuit?) with a total of four patients, three were trapped in the wreckage. No further details. Media Inquiries: CHP Log #2709; FS 25; Batt 1; Central Bureau; Council District 14; BC1  E17  E202  E209  E25  EM1  HR3  RA1  RA2  RA209  RA25  RA4  T2  T9; CH7; 12; Brian Humphrey</description>
+  <category>Traffic Collision with Entrapment</category>
+                            <category>Central</category>
+                            <category>#BoyleHeights</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, April 23, 2024 - 22:16</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04232024-inc0507" hreflang="en">Knockdown -  Structure Fire 04/23/2024 INC#0507</a></title>
   <link><a href="/alert/knockdown-structure-fire-04232024-inc0507" hreflang="en">view</a></link>
   <description>Knockdown -  Structure Fire; INC#0507; 10:41AM; 1391 S Westwood Bl; MAP: &lt;a href="https://bit.ly/4aO7SNf" target="_blank" rel="noopener"&gt;https://bit.ly/4aO7SNf&lt;/a&gt;; #Westwood; 60 Firefighters took just 29 minutes to access, confine and fully extinguish flames in a storage shed to the rear of a one-story row of commercial businesses, preventing fire spread to the common attic shared by an adjacent one-story restaurant and gallery. No injury. Fire cause under investigation. ; FS 37; Batt 9; West Bureau; Council District 5; BC4  BC9  E19  E237  E261  E292  E37  E43  E59  E61  E69  RA62  RA63  RA837  RA92  SO1  T37  T61  T63  T92; CH9; 12; Brian Humphrey</description>
@@ -18,7 +29,7 @@
                             <category>#Westwood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04232024-inc0507" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 10:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04232024-inc0507" hreflang="en">Structure Fire 04/23/2024 INC#0507</a></title>
@@ -29,7 +40,7 @@
                             <category>#Westwood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04232024-inc0507" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 10:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">KNOCKDOWN #PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
@@ -39,7 +50,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 21:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">#PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
@@ -50,7 +61,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 19:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-boyleheights-pallet-fire-04212024-inc1291" hreflang="en">KNOCKDOWN #BoyleHeights Pallet Fire 04/21/2024 INC#1291</a></title>
@@ -60,7 +71,7 @@
                             <category>Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-boyleheights-pallet-fire-04212024-inc1291" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 19:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/boyleheights-pallet-fire-04212024-inc1291" hreflang="en">#BoyleHeights Pallet Fire 04/21/2024 INC#1291</a></title>
@@ -70,7 +81,7 @@
                             <category>Central</category>
                             <guid isPermaLink="false"><a href="/alert/boyleheights-pallet-fire-04212024-inc1291" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 18:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/pacoima-train-vs-pedestrian-04212024-inc0608" hreflang="en">#Pacoima Train vs Pedestrian 04/21/2024 INC#0608</a></title>
@@ -80,7 +91,7 @@
                             <category>Valley</category>
                             <guid isPermaLink="false"><a href="/alert/pacoima-train-vs-pedestrian-04212024-inc0608" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 11:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hollywoodhills-hiker-rescue-04212024-inc0457" hreflang="en">#HollywoodHills Hiker Rescue 04/21/2024 INC#0457</a></title>
@@ -90,7 +101,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/hollywoodhills-hiker-rescue-04212024-inc0457" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 09:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-sunvalley-structure-fire-04212024-inc0424" hreflang="en">KNOCKDOWN #SunValley Structure Fire 04/21/2024 INC#0424</a></title>
@@ -100,18 +111,7 @@
                             <category>Valley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-sunvalley-structure-fire-04212024-inc0424" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 08:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">KNOCKDOWN Structure Fire 04/20/2024 INC#1245</a></title>
-  <link><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">view</a></link>
-  <description>KNOCKDOWN Structure Fire; INC#1245; 06:09PM; 11878 S Main St; MAP: &lt;a href="https://bit.ly/3W1Jmno" target="_blank" rel="noopener"&gt;https://bit.ly/3W1Jmno&lt;/a&gt;; #BroadwayManchester; Firefighters made access to the vacant 50' x 50' one-story building and found fire inside and burning up into the attic. Crews advanced hose lines inside, while others ascended ladders to ventilate the roof. Ultimately, it took 32 firefighters 19 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 64; Batt 13; South Bureau; Council District 15; BC11  BC13  E233  E264  E57  E64  E65  RA264  RA64  RA864  SO1  T33  T64; CH7; 12; Nicholas Prange</description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#BroadwayManchester</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04202024-inc1245" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, April 20, 2024 - 18:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
                             </item>
 
   </channel>
