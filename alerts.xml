@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5"/>
-<lastBuildDate>Tue, 23 Apr 2024 22:16:42 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Wed, 24 Apr 2024 08:38:14 -0700</lastBuildDate>
 <pubDate>Tue, 23 Apr 2024 22:16:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 22:16</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-04232024-inc0507" hreflang="en">Knockdown -  Structure Fire 04/23/2024 INC#0507</a></title>
@@ -29,7 +29,7 @@
                             <category>#Westwood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-04232024-inc0507" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 10:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-04232024-inc0507" hreflang="en">Structure Fire 04/23/2024 INC#0507</a></title>
@@ -40,7 +40,7 @@
                             <category>#Westwood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04232024-inc0507" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 10:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">KNOCKDOWN #PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
@@ -50,7 +50,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 21:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">#PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
@@ -61,7 +61,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 19:55</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-boyleheights-pallet-fire-04212024-inc1291" hreflang="en">KNOCKDOWN #BoyleHeights Pallet Fire 04/21/2024 INC#1291</a></title>
@@ -71,7 +71,7 @@
                             <category>Central</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-boyleheights-pallet-fire-04212024-inc1291" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 19:02</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/boyleheights-pallet-fire-04212024-inc1291" hreflang="en">#BoyleHeights Pallet Fire 04/21/2024 INC#1291</a></title>
@@ -81,7 +81,7 @@
                             <category>Central</category>
                             <guid isPermaLink="false"><a href="/alert/boyleheights-pallet-fire-04212024-inc1291" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 18:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/pacoima-train-vs-pedestrian-04212024-inc0608" hreflang="en">#Pacoima Train vs Pedestrian 04/21/2024 INC#0608</a></title>
@@ -91,7 +91,7 @@
                             <category>Valley</category>
                             <guid isPermaLink="false"><a href="/alert/pacoima-train-vs-pedestrian-04212024-inc0608" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 11:39</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hollywoodhills-hiker-rescue-04212024-inc0457" hreflang="en">#HollywoodHills Hiker Rescue 04/21/2024 INC#0457</a></title>
@@ -101,7 +101,7 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/hollywoodhills-hiker-rescue-04212024-inc0457" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 09:06</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-sunvalley-structure-fire-04212024-inc0424" hreflang="en">KNOCKDOWN #SunValley Structure Fire 04/21/2024 INC#0424</a></title>
@@ -111,7 +111,7 @@
                             <category>Valley</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-sunvalley-structure-fire-04212024-inc0424" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 08:19</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=d51dc95c-01f9-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
