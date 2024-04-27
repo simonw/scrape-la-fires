@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Fri, 26 Apr 2024 17:20:01 -0700</lastBuildDate>
-<pubDate>Fri, 26 Apr 2024 15:00:00 -0700</pubDate>
+<lastBuildDate>Sat, 27 Apr 2024 03:58:01 -0700</lastBuildDate>
+<pubDate>Sat, 27 Apr 2024 03:57:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/fatality-traffic-collision-04272024-inc0168" hreflang="en">Fatality Traffic Collision 04/27/2024 INC#0168</a></title>
+  <link><a href="/alert/fatality-traffic-collision-04272024-inc0168" hreflang="en">view</a></link>
+  <description>Fatality Traffic Collision; INC#0168; 02:55AM; 2601 W Obama Bl; MAP: &lt;a href="https://bit.ly/3UadIBm" target="_blank" rel="noopener"&gt;https://bit.ly/3UadIBm&lt;/a&gt;; #LeimertPark; *Address Tentative* PRELIM: Two vehicle collision with one vehicle shearing a fire hydrant before traveling into a house, which subsequently caught fire. Four patients total, all believed to be from vehicle(s). Three were taken by LAFD Paramedics to a regional trauma center with unspecified injuries, including a 30-year-old female, 18-year-old-male and 19-year-old female. One additional patient (undetermined age/gender) was determined deceased and remains at scene. Media Inquiries: LAPD South Traffic Division (Incident #503) and Medical Examiner. ; FS 34; Batt 18; South Bureau; Council District 10; AR1  BC18  E294  E34  E94  RA26  RA34  RA834  RA94  T94; CH7; 12; Brian Humphrey</description>
+  <category>Fatality Traffic Collision</category>
+                            <category>South</category>
+                            <category>#LeimertPark</category>
+                            <guid isPermaLink="false"><a href="/alert/fatality-traffic-collision-04272024-inc0168" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, April 27, 2024 - 03:57</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-04262024-inc0950" hreflang="en">Knockdown - Structure Fire 04/26/2024 INC#0950</a></title>
   <link><a href="/alert/knockdown-structure-fire-04262024-inc0950" hreflang="en">view</a></link>
   <description>Knockdown - Structure Fire; INC#0950; 02:59PM; 1161 N Virgil Av; MAP: &lt;a href="https://bit.ly/44lVCkS" target="_blank" rel="noopener"&gt;https://bit.ly/44lVCkS&lt;/a&gt;; #EastHollywood; *Address Remains Tentative*. First arriving 30 LAFD Firefighters took just 21 minutes to access, confine and fully extinguish stubborn flames in a one-story detached residence to the rear of a one-story home. No injury. Fire cause under investigation.; FS 35; Batt 5; West Bureau; Council District 13; BC11  BC2  BC5  CM20  CM22  E20  E211  E227  E235  E35  E52  E6  EM11  EM5  RA20  RA35  RA52  RA835  T11  T27  T35; CH9; 12; Brian Humphrey</description>
@@ -105,17 +116,6 @@
                             <category>West</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
                             <pubDate>Sunday, April 21, 2024 - 21:28</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">#PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
-  <link><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></link>
-  <description>#PacificPalisades Structure Fire; INC#1397; 07:45PM; 17310 W Vereda De La Montura; MAP: &lt;a href="https://bit.ly/3UbYvQm" target="_blank" rel="noopener"&gt;https://bit.ly/3UbYvQm&lt;/a&gt;; First arriving companies report a convalescent home (3 residential stories over a parking structure) with light smoke showing due to one automobile on fire in parking structure. Firefighters are operating in offensive mode.
-; FS 23; Batt 9; West Bureau; Council District 11; BC17  BC9  E19  E23  E237  E269  E69  RA23  RA69  T37  T69; CH9; 12; Lyndsey Lantz</description>
-  <category>#PacificPalisades Structure Fire</category>
-                            <category>West</category>
-                            <guid isPermaLink="false"><a href="/alert/pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, April 21, 2024 - 19:55</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
