@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sat, 27 Apr 2024 11:21:20 -0700</lastBuildDate>
-<pubDate>Sat, 27 Apr 2024 03:57:00 -0700</pubDate>
+<lastBuildDate>Sun, 28 Apr 2024 10:54:52 -0700</lastBuildDate>
+<pubDate>Sun, 28 Apr 2024 10:54:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/hiker-rescue-04282024-inc0585" hreflang="en">Hiker Rescue 04/28/2024 INC#0585</a></title>
+  <link><a href="/alert/hiker-rescue-04282024-inc0585" hreflang="en">view</a></link>
+  <description>Hiker Rescue; INC#0585; 10:26AM; Hogback Trail; MAP: &lt;a href="https://bit.ly/3QmNJpA" target="_blank" rel="noopener"&gt;https://bit.ly/3QmNJpA&lt;/a&gt;; #GriffithPark; PRELIM: LAFD ground and air response with L.A. Park Rangers to an adult female hiker with an injured ankle on a remote section of Hogback Trail west of Vista del Valle Drive in Griffith Park. An LAFD Rescue Helicopter lowered a Flight Paramedic to medically assess and stabilize the patient, who will soon be hoisted along with the LAFD Flight Paramedic into the hovering helicopter for continuing in-flight care during direct air transport to an area hospital.; FS 35; Batt 5; West Bureau; Council District 4; BC5  E235  E35  H4  H7  HA4  HA7  RA35  RH114  T35 + Griffith Park Rangers; CH7; 12; Brian Humphrey</description>
+  <category>Hiker Rescue</category>
+                            <category>West</category>
+                            <category>#GriffithPark</category>
+                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-04282024-inc0585" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, April 28, 2024 - 10:54</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/fatality-traffic-collision-04272024-inc0168" hreflang="en">Fatality Traffic Collision 04/27/2024 INC#0168</a></title>
   <link><a href="/alert/fatality-traffic-collision-04272024-inc0168" hreflang="en">view</a></link>
   <description>Fatality Traffic Collision; INC#0168; 02:55AM; 2601 W Obama Bl; MAP: &lt;a href="https://bit.ly/3UadIBm" target="_blank" rel="noopener"&gt;https://bit.ly/3UadIBm&lt;/a&gt;; #LeimertPark; *Address Tentative* PRELIM: Two vehicle collision with one vehicle shearing a fire hydrant before traveling into a house, which subsequently caught fire. Four patients total, all believed to be from vehicle(s). Three were taken by LAFD Paramedics to a regional trauma center with unspecified injuries, including a 30-year-old female, 18-year-old-male and 19-year-old female. One additional patient (undetermined age/gender) was determined deceased and remains at scene. Media Inquiries: LAPD South Traffic Division (Incident #503) and Medical Examiner. ; FS 34; Batt 18; South Bureau; Council District 10; AR1  BC18  E294  E34  E94  RA26  RA34  RA834  RA94  T94; CH7; 12; Brian Humphrey</description>
@@ -106,16 +117,6 @@
                             <category>#Westwood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04232024-inc0507" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 23, 2024 - 10:32</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">KNOCKDOWN #PacificPalisades Structure Fire 04/21/2024 INC#1397</a></title>
-  <link><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></link>
-  <description>KNOCKDOWN #PacificPalisades Structure Fire; INC#1397; 07:45PM; 17310 W Vereda De La Montura; MAP: &lt;a href="https://bit.ly/3UbYvQm" target="_blank" rel="noopener"&gt;https://bit.ly/3UbYvQm&lt;/a&gt;; Automobile on fire in the parking structure beneath an assisted living facility was extinguished in 34 minutes. One female patient sustained a fall injury while evacuating the building; she was transported by LAFD paramedics to a local hospital. Cause under investigation.; FS 23; Batt 9; West Bureau; Council District 11; BC17  BC18  BC9  E19  E23  E237  E269  E69  RA23  RA69  T37  T69; CH9; 12; Lyndsey Lantz</description>
-  <category>#PacificPalisades Structure Fire</category>
-                            <category>West</category>
-                            <guid isPermaLink="false"><a href="/alert/knockdown-pacificpalisades-structure-fire-04212024-inc1397" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, April 21, 2024 - 21:28</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
