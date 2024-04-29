@@ -6,10 +6,21 @@
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
     <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Sun, 28 Apr 2024 22:45:11 -0700</lastBuildDate>
-<pubDate>Sun, 28 Apr 2024 19:45:00 -0700</pubDate>
+<lastBuildDate>Mon, 29 Apr 2024 04:39:33 -0700</lastBuildDate>
+<pubDate>Mon, 29 Apr 2024 04:39:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/fatal-traffic-collision-04292024-inc0212" hreflang="en">Fatal Traffic Collision 04/29/2024 INC#0212</a></title>
+  <link><a href="/alert/fatal-traffic-collision-04292024-inc0212" hreflang="en">view</a></link>
+  <description>Fatal Traffic Collision; INC#0212; 04:11AM; 18840 W Sesnon Bl; MAP: &lt;a href="https://bit.ly/3UE0I8T" target="_blank" rel="noopener"&gt;https://bit.ly/3UE0I8T&lt;/a&gt;; #PorterRanch; PRELIM: Solo vehicle traffic collision with fire in Porter Ranch Park. One person (undetermined age/gender) deceased and remains at scene. No other injuries. Media Inquiries: LAPD Valley Traffic Division (Incident #593) and Medical Examiner; FS 8; Batt 15; Valley Bureau; Council District 12; E8; CH8; Brian Humphrey</description>
+  <category>Fatal Traffic Collision</category>
+                            <category>Valley</category>
+                            <category>#PorterRanch</category>
+                            <guid isPermaLink="false"><a href="/alert/fatal-traffic-collision-04292024-inc0212" hreflang="en">view</a></guid>
+                            <pubDate>Monday, April 29, 2024 - 04:39</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-civilian-fatality-structure-fire-04282024-inc1273" hreflang="en">Update Civilian Fatality Structure Fire 04/28/2024 INC#1273</a></title>
   <link><a href="/alert/update-civilian-fatality-structure-fire-04282024-inc1273" hreflang="en">view</a></link>
   <description>Update Civilian Fatality Structure Fire; INC#1273; 07:30PM; 140 E 71st St; MAP: &lt;a href="https://bit.ly/4bdZdUi" target="_blank" rel="noopener"&gt;https://bit.ly/4bdZdUi&lt;/a&gt;; #Florence; *Address Corrected* 40 LAFD Firefighters took just 14 minutes to fully extinguish fire within one room of a one-story single family home. While battling flames, firefighters discovered a *52-year-old male* deceased within his residence. No other injuries were reported. One woman displaced by the fire, desired to seek her own accommodations. There was no evidence of functional smoke alarms in the residence, as required by law. The 101-year-old building was not equipped with optional residential fire sprinklers. A positive identification of the decedent, as well as the specific cause, time and manner of his death, will be determined by the County of Los Angeles Medical Examiner. The cause of the fire remains under active investigation by LAFD Investigators. LAFD Public Information Officer Captain Cody Weireter is at scene to assist the media.; FS 33; Batt 13; South Bureau; Council District 9; AR1  BC1  BC11  BC13  E21  E221  E233  E266  E33  E57  E65  PH1  PI3  RA21  RA33  RA833  SQ21  T21  T33  T66; CH7; 12; Brian Humphrey</description>
@@ -106,17 +117,6 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-04252024-inc0463" hreflang="en">view</a></guid>
                             <pubDate>Thursday, April 25, 2024 - 09:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">Traffic Collision with Entrapment 04/23/2024 INC#1572</a></title>
-  <link><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">view</a></link>
-  <description>Traffic Collision with Entrapment; INC#1572; 09:54PM; NB 5 Fwy x Calzona St Offramp; MAP: &lt;a href="https://bit.ly/3wgS7iN" target="_blank" rel="noopener"&gt;https://bit.ly/3wgS7iN&lt;/a&gt;; #BoyleHeights; PRELIM: Traffic collision (at the end of a vehicle pursuit?) with a total of four patients, three were trapped in the wreckage. No further details. Media Inquiries: CHP Log #2709; FS 25; Batt 1; Central Bureau; Council District 14; BC1  E17  E202  E209  E25  EM1  HR3  RA1  RA2  RA209  RA25  RA4  T2  T9; CH7; 12; Brian Humphrey</description>
-  <category>Traffic Collision with Entrapment</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-04232024-inc1572" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, April 23, 2024 - 22:16</pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
