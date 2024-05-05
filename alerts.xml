@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description>Alerts Feeds -- Los Angeles Fire Department</description>
     <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5"/>
-<lastBuildDate>Sat, 04 May 2024 22:42:41 -0700</lastBuildDate>
+    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
+<lastBuildDate>Sun, 05 May 2024 07:29:02 -0700</lastBuildDate>
 <pubDate>Sat, 04 May 2024 12:29:00 -0700</pubDate>
 
     <item>
@@ -18,7 +18,7 @@
                             <category>#PicoRobertson</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05042024-inc0732" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 4, 2024 - 12:29</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-05032024-inc0181" hreflang="en">Knockdown -  Major Emergency Structure Fire 05/03/2024 INC#0181</a></title>
@@ -29,7 +29,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-05032024-inc0181" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 3, 2024 - 06:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/major-emergency-structure-fire-05032024-inc0181" hreflang="en">Major Emergency Structure Fire 05/03/2024 INC#0181</a></title>
@@ -40,7 +40,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/major-emergency-structure-fire-05032024-inc0181" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 3, 2024 - 04:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-05032024-inc0181" hreflang="en">Greater Alarm Structure Fire 05/03/2024 INC#0181</a></title>
@@ -51,7 +51,7 @@
                             <category>#Downtown</category>
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-05032024-inc0181" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 3, 2024 - 04:26</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05012024-inc1739" hreflang="en">Structure Fire - Now Out 05/01/2024 INC#1739</a></title>
@@ -62,7 +62,7 @@
                             <category>#Hollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05012024-inc1739" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 1, 2024 - 22:17</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/concluded-earthquake-mode-05012024-inc1002" hreflang="en">CONCLUDED Earthquake Mode 05/01/2024 INC#1002</a></title>
@@ -73,7 +73,7 @@
                             <category>Citywide</category>
                             <guid isPermaLink="false"><a href="/alert/concluded-earthquake-mode-05012024-inc1002" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 1, 2024 - 14:36</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/earthquake-mode-05012024-inc1002" hreflang="en">Earthquake Mode 05/01/2024 INC#1002</a></title>
@@ -84,7 +84,7 @@
                             <category>Citywide</category>
                             <guid isPermaLink="false"><a href="/alert/earthquake-mode-05012024-inc1002" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 1, 2024 - 14:01</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05012024-inc0903" hreflang="en">KNOCKDOWN Structure Fire 05/01/2024 INC#0903</a></title>
@@ -95,7 +95,7 @@
                             <category>#NorthHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05012024-inc0903" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 1, 2024 - 13:49</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05012024-inc0903" hreflang="en">Structure Fire 05/01/2024 INC#0903</a></title>
@@ -106,7 +106,7 @@
                             <category>#NorthHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05012024-inc0903" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 1, 2024 - 13:14</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-train-vs-bus-complete-04302024-inc0749" hreflang="en">Update Train vs Bus COMPLETE 04/30/2024 INC#0749</a></title>
@@ -117,7 +117,7 @@
                             <category>#ExpositionPark</category>
                             <guid isPermaLink="false"><a href="/alert/update-train-vs-bus-complete-04302024-inc0749" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, April 30, 2024 - 14:22</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=498ddecf-0aa2-11ef-b87c-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
