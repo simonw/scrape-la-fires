@@ -1,124 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xml:base="https://www.lafd.org/">
-  <channel>
-    <title>Alerts Feed</title>
-    <link>https://www.lafd.org/</link>
-    <description>Alerts Feeds -- Los Angeles Fire Department</description>
-    <language>en</language>
-    <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"/>
-<lastBuildDate>Tue, 07 May 2024 19:57:01 -0700</lastBuildDate>
-<pubDate>Sun, 05 May 2024 19:43:00 -0700</pubDate>
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/android-chrome-512x512_0.png" type="image/png" />
 
-    <item>
-  <title><a href="/alert/update-physical-rescue-05052024-inc1342" hreflang="en">Update Physical Rescue 05/05/2024 INC#1342</a></title>
-  <link><a href="/alert/update-physical-rescue-05052024-inc1342" hreflang="en">view</a></link>
-  <description>Update Physical Rescue; INC#1342; 07:30PM; 4738 W Venice Bl; MAP: &lt;a href="https://bit.ly/3wuTFFZ" target="_blank" rel="noopener"&gt;https://bit.ly/3wuTFFZ&lt;/a&gt;; #MidCity; Firefighters extricated one person from a two-vehicle collision, using hydraulic rescue tools. There were a total of 6 patients, and 5 were treated and transported to area hospitals by LAFD. The following are the age/gender/condition of the transported patients: 51F and 62F - critical, 51M - serious, 40F and 13F - moderate. One 46M declined transport, with only minor injuries. Additional circumstances unknown. Nothing further.; FS 68; Batt 18; South Bureau; Council District 10; BC18  E226  E26  E261  E61  E68  EM11  EM5  EM9  HR3  RA26  RA29  RA34  RA61  RA62  RA829  RA858  RA861  T26  T61; CH7; 12; Nicholas Prange</description>
-  <category>Physical Rescue</category>
-                            <category>South</category>
-                            <category>#MidCity</category>
-                            <guid isPermaLink="false"><a href="/alert/update-physical-rescue-05052024-inc1342" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 19:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-sinking-vessel-05052024-inc1240" hreflang="en">Update Sinking Vessel 05/05/2024 INC#1240</a></title>
-  <link><a href="/alert/update-sinking-vessel-05052024-inc1240" hreflang="en">view</a></link>
-  <description>Update Sinking Vessel; INC#1240; 06:40PM; Los Angeles Harbor; MAP: &lt;a href="https://bit.ly/3QUVrYj" target="_blank" rel="noopener"&gt;https://bit.ly/3QUVrYj&lt;/a&gt;; #SanPedro; LAFD Fire Boats are working on flipping the vessel upright and towing it to the launch ramp. All six people who were rescued off the sinking vessel, and brought to shore by LA County Lifeguards, are in good condition and none required hospital transport. LAFD will assist them back to their vehicles. Nothing further.; FS 111; Batt 6; South Bureau; Council District outside city; BC6  BT1  BT2  BT3  BT5  E112  E248  E36  RA101  RA112  T48; CH7; 12; Nicholas Prange</description>
-  <category>Sinking Vessel</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/update-sinking-vessel-05052024-inc1240" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 18:43</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/physical-rescue-05052024-inc1342" hreflang="en">Physical Rescue 05/05/2024 INC#1342</a></title>
-  <link><a href="/alert/physical-rescue-05052024-inc1342" hreflang="en">view</a></link>
-  <description>Physical Rescue; INC#1342; 06:30PM; 4738 W Venice Bl; MAP: &lt;a href="https://bit.ly/3wuTFFZ" target="_blank" rel="noopener"&gt;https://bit.ly/3wuTFFZ&lt;/a&gt;; #MidCity; PRELIM: Two-vehicle traffic collision involving a pedestrian. One person trapped. Firefighters are initiating medical care and extrication operations.; FS 68; Batt 18; South Bureau; Council District 10; BC18  E226  E26  E261  E61  EM11  HR3  RA26  RA29  T26  T61; CH7; 12; Nicholas Prange</description>
-  <category>Physical Rescue</category>
-                            <category>South</category>
-                            <category>#MidCity</category>
-                            <guid isPermaLink="false"><a href="/alert/physical-rescue-05052024-inc1342" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 18:40</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-traffic-collision-05052024-inc1265" hreflang="en">Update Traffic Collision 05/05/2024 INC#1265</a></title>
-  <link><a href="/alert/update-traffic-collision-05052024-inc1265" hreflang="en">view</a></link>
-  <description>Update Traffic Collision; INC#1265; 06:25PM; 20900 W Saticoy St; MAP: &lt;a href="https://bit.ly/3QsjSf5" target="_blank" rel="noopener"&gt;https://bit.ly/3QsjSf5&lt;/a&gt;; #Winnetka; Firefighters responded to a 3-vehicle collision with no entrapment. Seven people were assessed by firefighters and paramedics on scene. One 17-year-old female refused transport. The other six patients were transported to area hospitals in good-to-fair condition, all with minor injuries. The ages and genders of those transported are: 18-month-old male, 34F, 25M, 12M, 14F, and 17F. Nothing further.; FS 72; Batt 17; Valley Bureau; Council District 3; BC17  E72  EM15  EM17  RA104  RA72  RA828  RA896; CH8; 13  18; Nicholas Prange</description>
-  <category>Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#Winnetka</category>
-                            <guid isPermaLink="false"><a href="/alert/update-traffic-collision-05052024-inc1265" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 18:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-collision-05052024-inc1265" hreflang="en">Traffic Collision 05/05/2024 INC#1265</a></title>
-  <link><a href="/alert/traffic-collision-05052024-inc1265" hreflang="en">view</a></link>
-  <description>Traffic Collision; INC#1265; 05:45PM; 20900 W Saticoy St; MAP: &lt;a href="https://bit.ly/3QsjSf5" target="_blank" rel="noopener"&gt;https://bit.ly/3QsjSf5&lt;/a&gt;; #Winnetka; LAFD is on scene of a three-vehicle collision with at least seven patients requiring medical assistance. LAPD Inc #3270.; FS 72; Batt 17; Valley Bureau; Council District 3; BC17  E72  EM15  RA72  RA828  RA896; CH8; Nicholas Prange</description>
-  <category>Traffic Collision</category>
-                            <category>Valley</category>
-                            <category>#Winnetka</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-collision-05052024-inc1265" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 17:56</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/sinking-vessel-05052024-inc1240" hreflang="en">Sinking Vessel 05/05/2024 INC#1240</a></title>
-  <link><a href="/alert/sinking-vessel-05052024-inc1240" hreflang="en">view</a></link>
-  <description>Sinking Vessel; INC#1240; 05:20PM; Los Angeles Harbor; MAP: &lt;a href="https://bit.ly/3QUVrYj" target="_blank" rel="noopener"&gt;https://bit.ly/3QUVrYj&lt;/a&gt;; #SanPedro; LAFD fire boat crews responded to a capsized vessel, where they will attempt to assist with uprighting the vessel. LA County Lifeguard Boat has picked up 6 people from the sinking vessel and will be taking them to Fire Station 110 for medical assessment by LAFD Paramedics. All are in minor-to-moderate condition.; FS 111; Batt 6; South Bureau; Council District outside city; BC6  BT1  BT2  BT3  BT5  E112  E248  E36  RA101  RA112  T48; CH7; 12; Nicholas Prange</description>
-  <category>Sinking Vessel</category>
-                            <category>South</category>
-                            <category>#SanPedro</category>
-                            <guid isPermaLink="false"><a href="/alert/sinking-vessel-05052024-inc1240" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 17:46</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/contained-brush-fire-05052024-inc1074" hreflang="en">CONTAINED Brush Fire 05/05/2024 INC#1074</a></title>
-  <link><a href="/alert/contained-brush-fire-05052024-inc1074" hreflang="en">view</a></link>
-  <description>CONTAINED Brush Fire; INC#1074; 04:51PM; 6100 N Woodley Av; MAP: &lt;a href="https://bit.ly/3JmOXNT" target="_blank" rel="noopener"&gt;https://bit.ly/3JmOXNT&lt;/a&gt;; #SepulvedaBasin; Firefighters responded to the archery range, where a two-acre brush fire burned nearby, stoked by sustained winds. Employees and patrons of the archery range were evacuated temporarily while firefighters went to work to contain the flames. Ultimately, it took 41 firefighters an hour and 19 minutes to contain the vegetation fire to approximately two acres, which consumed grass, brush, and trees. Evacuation has been lifted. No reported injuries. Cause under investigation.; FS 88; Batt 10; Valley Bureau; Council District 6; AO1  AO2  BC10  BC14  CM40  CM42  E100  E288  E290  E39  E81  E83  E88  E90  EM14  EM17  H0B  H0C  H3  H4  H7  HA3  HA4  HA7  RA88  T88  T90  UR88  WT88; CH8; 17; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>#SepulvedaBasin</category>
-                            <guid isPermaLink="false"><a href="/alert/contained-brush-fire-05052024-inc1074" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 17:33</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/grass-fire-05052024-inc1074" hreflang="en">Grass Fire 05/05/2024 INC#1074</a></title>
-  <link><a href="/alert/grass-fire-05052024-inc1074" hreflang="en">view</a></link>
-  <description>Grass Fire; INC#1074; 03:32PM; 6100 N Woodley Av; MAP: &lt;a href="https://bit.ly/3JmOXNT" target="_blank" rel="noopener"&gt;https://bit.ly/3JmOXNT&lt;/a&gt;; #SepulvedaBasin; Approximately two acres of grass burning with 10 mph winds (gusts 20-30 mph) moving to the southeast (near the archery range).; FS 88; Batt 10; Valley Bureau; Council District 6; BC10  CM40  CM42  E288  E39  E83  E88  T88; CH8; 17; Nicholas Prange</description>
-  <category>Grass Fire</category>
-                            <category>Valley</category>
-                            <category>#SepulvedaBasin</category>
-                            <guid isPermaLink="false"><a href="/alert/grass-fire-05052024-inc1074" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 16:25</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/brush-fire-05052024-inc1026" hreflang="en">Brush Fire 05/05/2024 INC#1026</a></title>
-  <link><a href="/alert/brush-fire-05052024-inc1026" hreflang="en">view</a></link>
-  <description>Brush Fire; INC#1026; 02:53PM; NB 170 Fwy x Burbank Bl; MAP: &lt;a href="https://bit.ly/4ad8JWx" target="_blank" rel="noopener"&gt;https://bit.ly/4ad8JWx&lt;/a&gt;; #NorthHollywood; Crews are battling flames in approximately one-quarter acre of brush burning on the embankment just south of Burbank Blvd (near the offramp). It took 24 firefighters 25 minutes to extinguish the flames. No reported injuries. Cause under investigation.; FS 60; Batt 14; Valley Bureau; Council District 2; BC14  E102  E260  E60  E76  E86  T60; CH8; 18; Nicholas Prange</description>
-  <category>Brush Fire</category>
-                            <category>Valley</category>
-                            <category>#NorthHollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/brush-fire-05052024-inc1026" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 15:27</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/update-hazardous-materials-05052024-inc0673" hreflang="en">Update Hazardous Materials 05/05/2024 INC#0673</a></title>
-  <link><a href="/alert/update-hazardous-materials-05052024-inc0673" hreflang="en">view</a></link>
-  <description>Update Hazardous Materials; INC#0673; 03:15PM; 8700 N Lindley Av; MAP: &lt;a href="https://bit.ly/4b46s1o" target="_blank" rel="noopener"&gt;https://bit.ly/4b46s1o&lt;/a&gt;; #Northridge; LAFD Hazardous Materials specialists scanned the area and found all readings normal (wind dissipated the small amounts of powder initially observed). No off-site hazard. No evacuations. No additional injuries. Crews remained on scene to assist the LA Medical Examiner with both body recoveries. Nothing further.; FS 103; Batt 15; Valley Bureau; Council District 12; BC15  CM40  CM42  E28  E287  E288  E88  E95  JT1  JT4  RA70  RA87  RA90  SQ87  SQ95  T87  T88  UR88; CH8; 17  18; Nicholas Prange</description>
-  <category>Hazardous Materials</category>
-                            <category>Valley</category>
-                            <category>#Northridge</category>
-                            <guid isPermaLink="false"><a href="/alert/update-hazardous-materials-05052024-inc0673" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 5, 2024 - 15:21</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
+    <title>Site under maintenance | Los Angeles Fire Department</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lVi9EvLPIY9x_i79kk0nY5JIOBXIujBFXzkGBSzEhNw.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_eW6_FVcDWvleiWBWJpMu12QSbPZWAF8KuwO2q0reWqU.css" />
 
-  </channel>
-</rss>
+    <script src="/core/misc/touchevents-test.js?v=9.5.10"></script>
+
+  </head>
+  <body class="maintenance-page path-alerts-rssxml">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="page-wrapper dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+          <h2 class="site-name">Los Angeles Fire Department</h2>
+      </header>
+
+  
+  <main role="main" class="main-content">
+          <h1 class="title">Site under maintenance</h1>
+        
+    <div class="content">
+      Los Angeles Fire Department is currently under maintenance. We should be back shortly. Thank you for your patience.
+    </div>
+  </main>
+
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"alerts-rss.xml","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"9dbd228042becbb60c4893a6acf58b5c539318abb8a0149910429c90fef68de7"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.init.js?v=9.5.10"></script>
+<script src="/core/misc/debounce.js?v=9.5.10"></script>
+<script src="/core/misc/announce.js?v=9.5.10"></script>
+<script src="/core/misc/message.js?v=9.5.10"></script>
+<script src="/core/themes/claro/js/messages.js?sd6ilb"></script>
+<script src="/core/themes/claro/js/mobile.install.js?v=9.5.10"></script>
+
+  </body>
+</html>
