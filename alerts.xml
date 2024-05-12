@@ -6,10 +6,22 @@
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
-<lastBuildDate>Sat, 11 May 2024 11:12:46 -0700</lastBuildDate>
-<pubDate>Sat, 11 May 2024 11:12:00 -0700</pubDate>
+<lastBuildDate>Sat, 11 May 2024 13:07:25 -0700</lastBuildDate>
+<pubDate>Sat, 11 May 2024 13:07:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/cliff-rescue-05112024-inc0792" hreflang="en">Cliff Rescue 05/11/2024 INC#0792</a></title>
+  <link><a href="/alert/cliff-rescue-05112024-inc0792" hreflang="en">view</a></link>
+  <description><![CDATA[Cliff Rescue; INC#0792; 12:38PM; 753 W Paseo Del Mar; MAP: &lt;a href=&quot;https://bit.ly/3wnC1nQ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3wnC1nQ&lt;/a&gt;; #SanPedro; Firefighters responded to reports of a person at the bottom of the cliffs near Point Fermin. LAFD arrived by air, land, and sea to find someone deceased at the bottom. Crews will provide assistance to law enforcement and the Medical Examiner in recovering the body. No additional patients. No details regarding the circumstances surrounding the death. The scene is under investigation.; FS 48; Batt 6; South Bureau; Council District 15; AO1  AO2  BC6  BT1  BT2  BT5  E101  E238  E285  E48  E85  EM13  H1  H4  HA1  HA4  RA101  RH114  T38  T85  UR85  UR88; CH7; 12; Nicholas Prange]]></description>
+  <category>Cliff Rescue</category>
+                            <category>South</category>
+                            <category>#SanPedro</category>
+                            <guid isPermaLink="false"><a href="/alert/cliff-rescue-05112024-inc0792" hreflang="en">view</a></guid>
+                            <pubDate>Saturday, May 11, 2024 - 13:07
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-structure-fire-05112024-inc0534" hreflang="en">KNOCKDOWN Structure Fire 05/11/2024 INC#0534</a></title>
   <link><a href="/alert/knockdown-structure-fire-05112024-inc0534" hreflang="en">view</a></link>
   <description><![CDATA[KNOCKDOWN Structure Fire; INC#0534; 10:22AM; 5460 E Nordyke St; MAP: &lt;a href=&quot;https://bit.ly/3WI90hr&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3WI90hr&lt;/a&gt;; #EagleRock; Firefighter found an ascending hillside home with heavy smoke showing. Crews deployed hose lines into the structure and found a well-developed attic fire. It took 30 firefighters 25 minutes to access, confine, and extinguish the flames. The cause is under investigation.; FS 55; Batt 2; Central Bureau; Council District 14; BC1  BC2  BC5  CM20  CM22  E1  E201  E235  E250  E42  E44  E55  EM1  RA56  RA850  T1  T35  T50; CH7; 13; Nicholas Prange]]></description>
@@ -114,18 +126,6 @@
                             <category>#EastHollywood</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05092024-inc0458" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 9, 2024 - 10:01
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-05092024-inc0458" hreflang="en">Structure Fire 05/09/2024 INC#0458</a></title>
-  <link><a href="/alert/structure-fire-05092024-inc0458" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire; INC#0458; 08:57AM; 1557 N Harvard Bl; MAP: &lt;a href=&quot;https://bit.ly/4bsaDnp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4bsaDnp&lt;/a&gt;; #EastHollywood; First arriving companies report a single family dwelling with heavy smoke showing from what appears to be the attic space. Lower floors are clear. Companies are currently mounting a coordinated fire attack.; FS 82; Batt 5; West Bureau; Council District 13; BC11  BC5  E227  E35  E41  E52  RA52  RA82  T27  T35; CH9; 12; Lyndsey Lantz]]></description>
-  <category>Structure Fire</category>
-                            <category>West</category>
-                            <category>#EastHollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-05092024-inc0458" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, May 9, 2024 - 09:11
 </pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
