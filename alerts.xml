@@ -6,10 +6,23 @@
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
-<lastBuildDate>Fri, 17 May 2024 08:16:01 -0700</lastBuildDate>
-<pubDate>Fri, 17 May 2024 05:54:00 -0700</pubDate>
+<lastBuildDate>Fri, 17 May 2024 17:29:18 -0700</lastBuildDate>
+<pubDate>Fri, 17 May 2024 17:29:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/traffic-collision-entrapment-05172024-inc1279" hreflang="en">Traffic Collision with Entrapment 05/17/2024 INC#1279</a></title>
+  <link><a href="/alert/traffic-collision-entrapment-05172024-inc1279" hreflang="en">view</a></link>
+  <description><![CDATA[Traffic Collision with Entrapment; INC#1279; 05:14PM; 6230 N Sepulveda Bl; MAP: &lt;a href=&quot;https://bit.ly/4bAesqU&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4bAesqU&lt;/a&gt;; #VanNuys; PRELIM: Two vehicle collision with one person trapped. #LATraffic: Closure of both northbound and southbound Sepulveda Boulevard between Victory Boulevard and Erwin Street until LAFD &amp; LAPD operations are complete. Motorists, expect congestion and delay, avoid the immediate area and consider an alternate route. Detours are readily available. Media Inquiries: LAPD Valley Traffic Division (Incident #3585).
+; FS 39; Batt 10; Valley Bureau; Council District 6; BC10  E100  E239  E290  E39  EM14  HR3  RA100  RA839  RA90  T39  T90  UR88; CH8; 17; Brian Humphrey]]></description>
+  <category>Traffic Collision with Entrapment</category>
+                            <category>Valley</category>
+                            <category>#VanNuys</category>
+                            <guid isPermaLink="false"><a href="/alert/traffic-collision-entrapment-05172024-inc1279" hreflang="en">view</a></guid>
+                            <pubDate>Friday, May 17, 2024 - 17:29
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/end-police-pursuit-trapped-vehicle-05172024-inc0251" hreflang="en">End of Police Pursuit  Trapped Vehicle 05/17/2024 INC#0251</a></title>
   <link><a href="/alert/end-police-pursuit-trapped-vehicle-05172024-inc0251" hreflang="en">view</a></link>
   <description><![CDATA[End of Police Pursuit  Trapped Vehicle; INC#0251; 05:25AM; Nb 405 Fy; MAP: &lt;a href=&quot;https://bit.ly/3wFcjuW&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3wFcjuW&lt;/a&gt;; #Brentwood; Firefighters arrived to a traffic accident involving Police Officers who were in pursuit of a vehicle. This resulted in a vehicle crashing into parked vehicles and hitting a Police car. Four total Officers with one being transported to an area hospital. This incident expanded to the freeway where the van did go the wrong way and the pursuit ended with crashing into three vehicles on the freeway. No extrication was needed. One patient was transported to an area hospital. The incident is now static. ; FS 37; Batt 9; West Bureau; Council District 11; BC18  BC9  E109  E19  E237  E37  E71  EM14  HR3  RA19  RA71  T37  UR88; CH7; 12; Krishan Vadukul]]></description>
@@ -114,18 +127,6 @@
                             <category>#BoyleHeights</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05122024-inc0590" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 12, 2024 - 11:04
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-05122024-inc0590" hreflang="en">Structure Fire 05/12/2024 INC#0590</a></title>
-  <link><a href="/alert/structure-fire-05122024-inc0590" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire; INC#0590; 10:32AM; 2334 E 4th St; MAP: &lt;a href=&quot;https://bit.ly/4akm4fM&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4akm4fM&lt;/a&gt;; #BoyleHeights; *Address Tentative* PRELIM: Defensive firefight at a fully involved, abandoned and apparently vacant detached one-story commercial building (former restaurant), the site of a previous fire.; FS 2; Batt 1; Central Bureau; Council District 14; BC1  BC2  E2  E202  E25  E4  RA2  RA25  SQ21  T2  T9; CH9; 12; Brian Humphrey]]></description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#BoyleHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-05122024-inc0590" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, May 12, 2024 - 10:41
 </pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
