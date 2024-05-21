@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5"></atom:link>
-<lastBuildDate>Mon, 20 May 2024 08:55:42 -0700</lastBuildDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Mon, 20 May 2024 19:11:41 -0700</lastBuildDate>
 <pubDate>Mon, 20 May 2024 06:03:00 -0700</pubDate>
 
     <item>
@@ -19,7 +19,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05202024-inc0235" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 20, 2024 - 06:03
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/advisory-05192024" hreflang="en">ADVISORY 05/19/2024</a></title>
@@ -30,7 +30,7 @@
                             <guid isPermaLink="false"><a href="/alert/advisory-05192024" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 10:38
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-05192024-inc0178" hreflang="en">Knockdown -  Major Emergency Structure Fire 05/19/2024 INC#0178</a></title>
@@ -42,7 +42,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 04:54
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-05192024-inc0178" hreflang="en">Update Major Emergency Structure Fire 05/19/2024 INC#0178</a></title>
@@ -54,7 +54,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 04:17
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-05192024-inc0178" hreflang="en">Greater Alarm Structure Fire 05/19/2024 INC#0178</a></title>
@@ -66,7 +66,7 @@
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 03:40
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-05182024-inc1561" hreflang="en">Update Structure Fire 05/18/2024 INC#1561</a></title>
@@ -78,7 +78,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:47
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05182024-inc1561" hreflang="en">Knockdown -  Structure Fire 05/18/2024 INC#1561</a></title>
@@ -90,7 +90,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:41
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">Structure Fire 05/18/2024 INC#1561</a></title>
@@ -102,7 +102,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:31
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05182024-inc0688" hreflang="en">Hiker Rescue 05/18/2024 INC#0688</a></title>
@@ -114,7 +114,7 @@
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05182024-inc0688" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 12:27
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/pedestrian-struck-train-05182024-inc0492" hreflang="en">Pedestrian Struck by Train 05/18/2024 INC#0492</a></title>
@@ -126,7 +126,7 @@
                             <guid isPermaLink="false"><a href="/alert/pedestrian-struck-train-05182024-inc0492" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 10:07
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=688c9c53-16c1-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
