@@ -5,11 +5,35 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5"></atom:link>
-<lastBuildDate>Tue, 21 May 2024 11:12:42 -0700</lastBuildDate>
-<pubDate>Mon, 20 May 2024 06:03:00 -0700</pubDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Tue, 21 May 2024 18:56:28 -0700</lastBuildDate>
+<pubDate>Tue, 21 May 2024 18:56:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/update-auto-rollover-05212024-inc1204" hreflang="en">Update Auto Rollover 05/21/2024 INC#1204</a></title>
+  <link><a href="/alert/update-auto-rollover-05212024-inc1204" hreflang="en">view</a></link>
+  <description><![CDATA[Update Auto Rollover; INC#1204; 06:50PM; 17010 W Sunset Bl; MAP: &lt;a href=&quot;https://bit.ly/4bsjt50&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4bsjt50&lt;/a&gt;; #PacificPalisades; Crews found one overturned vehicle, which came to rest against a two-story apartment building. Firefighters provided medical assessment and ongoing care en route to the hospital to three patients (2 serious, 1 moderate). Three others were in good-to-fair condition and received an assessment and care on scene, but declined ambulance transport. LAPD Inc #3938.; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  E69  EM14  EM17  EM9  RA23  RA59  RA69  RA837  RA862  T69; CH4; 12; Nicholas Prange]]></description>
+  <category>Auto Rollover</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/update-auto-rollover-05212024-inc1204" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, May 21, 2024 - 18:56
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/auto-rollover-05212024-inc1204" hreflang="en">Auto Rollover 05/21/2024 INC#1204</a></title>
+  <link><a href="/alert/auto-rollover-05212024-inc1204" hreflang="en">view</a></link>
+  <description><![CDATA[Auto Rollover; INC#1204; 05:49PM; 17010 W Sunset Bl; MAP: &lt;a href=&quot;https://bit.ly/4bsjt50&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4bsjt50&lt;/a&gt;; #PacificPalisades; Firefighters are on scene of a rollover crash involving a structure. No patients trapped. Preliminary reports suggest there are 6 patients requiring medical aid.; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  E69  EM14  EM17  EM9  RA23  RA59  RA69  RA837  RA862  T69; CH4; 12; Nicholas Prange]]></description>
+  <category>Auto Rollover</category>
+                            <category>West</category>
+                            <category>#PacificPalisades</category>
+                            <guid isPermaLink="false"><a href="/alert/auto-rollover-05212024-inc1204" hreflang="en">view</a></guid>
+                            <pubDate>Tuesday, May 21, 2024 - 18:17
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-05202024-inc0235" hreflang="en">Structure Fire - Now Out 05/20/2024 INC#0235</a></title>
   <link><a href="/alert/structure-fire-now-out-05202024-inc0235" hreflang="en">view</a></link>
   <description><![CDATA[Structure Fire - Now Out; INC#0235; 05:36AM; 3865 W Boyce Av; MAP: &lt;a href=&quot;https://bit.ly/3QTuNim&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3QTuNim&lt;/a&gt;; #AtwaterVillage; *Address Tentative* 30 LAFD Firefighters took 26 minutes (6:02 AM) to extinguish flames in a one-story home that was well involved with fire on their arrival. No injury. Fire cause under active investigation.; FS 50; Batt 2; Central Bureau; Council District 13; BC1  BC2  BC5  CM20  CM22  E201  E220  E235  E35  E44  E55  E56  EM5  RA35  RA850  SO1  T1  T20  T35; CH9; 12; Brian Humphrey]]></description>
@@ -19,7 +43,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05202024-inc0235" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 20, 2024 - 06:03
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/advisory-05192024" hreflang="en">ADVISORY 05/19/2024</a></title>
@@ -30,7 +54,7 @@
                             <guid isPermaLink="false"><a href="/alert/advisory-05192024" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 10:38
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-major-emergency-structure-fire-05192024-inc0178" hreflang="en">Knockdown -  Major Emergency Structure Fire 05/19/2024 INC#0178</a></title>
@@ -42,7 +66,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-major-emergency-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 04:54
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-major-emergency-structure-fire-05192024-inc0178" hreflang="en">Update Major Emergency Structure Fire 05/19/2024 INC#0178</a></title>
@@ -54,7 +78,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-major-emergency-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 04:17
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-05192024-inc0178" hreflang="en">Greater Alarm Structure Fire 05/19/2024 INC#0178</a></title>
@@ -66,7 +90,7 @@
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-05192024-inc0178" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 19, 2024 - 03:40
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-structure-fire-05182024-inc1561" hreflang="en">Update Structure Fire 05/18/2024 INC#1561</a></title>
@@ -78,7 +102,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:47
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05182024-inc1561" hreflang="en">Knockdown -  Structure Fire 05/18/2024 INC#1561</a></title>
@@ -90,7 +114,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:41
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">Structure Fire 05/18/2024 INC#1561</a></title>
@@ -102,31 +126,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:31
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-05182024-inc0688" hreflang="en">Hiker Rescue 05/18/2024 INC#0688</a></title>
-  <link><a href="/alert/hiker-rescue-05182024-inc0688" hreflang="en">view</a></link>
-  <description><![CDATA[Hiker Rescue; INC#0688; 12:01PM; Santa Monica Mountains; MAP: &lt;a href=&quot;https://bit.ly/3QRsrQO&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3QRsrQO&lt;/a&gt;; #PacificPalisades; PRELIM: LAFD ground and air response to an 28 year-old female hiker with an apparent ankle fracture, on a remote section of the Temescal Ridge Trail in Topanga State Park. An LAFD Rescue Helicopter has lowered a Flight Paramedic to medically assess and stabilize the patient, who will soon be hoisted along with the LAFD Flight Paramedic into the hovering helicopter for continuing in-flight care during direct air transport to an area hospital.; FS 69; Batt 9; West Bureau; Council District 11; AO1  BC9  E269  E69  H1  H6  HA1  HA6  RA69  RH114  T69; CH7; 12; Brian Humphrey]]></description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#PacificPalisades</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-05182024-inc0688" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, May 18, 2024 - 12:27
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/pedestrian-struck-train-05182024-inc0492" hreflang="en">Pedestrian Struck by Train 05/18/2024 INC#0492</a></title>
-  <link><a href="/alert/pedestrian-struck-train-05182024-inc0492" hreflang="en">view</a></link>
-  <description><![CDATA[Pedestrian Struck by Train; INC#0492; 09:44AM; 6900 Vineland Ave; MAP: &lt;a href=&quot;https://maps.app.goo.gl/YRBysA7kz98jj76z6&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://maps.app.goo.gl/YRBysA7kz98jj76z6&lt;/a&gt;; #NorthHollywood; PRELIM: One pedestrian (unknown age / gender / affiliation / circumstances) deceased after apparently being struck by southbound Amtrak Pacific Surfliner Train #770. The person and train remain at scene. None of the approximately 150 persons aboard the intercity passenger train are injured. Media Inquiries: Amtrak, LAPD Valley Traffic Division (Incident #1566) and Medical Examiner.; FS 89; Batt 14; Valley Bureau; Council District 2; BC14  E102  E239  E60  E86  E89  EM5  HR3  RA257  RA60  T39  UR88; CH8; 17; Brian Humphrey]]></description>
-  <category>Pedestrian Struck by Train</category>
-                            <category>Valley</category>
-                            <category>#NorthHollywood</category>
-                            <guid isPermaLink="false"><a href="/alert/pedestrian-struck-train-05182024-inc0492" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, May 18, 2024 - 10:07
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=b67c66ad-179d-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
