@@ -6,10 +6,22 @@
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
-<lastBuildDate>Wed, 22 May 2024 16:15:48 -0700</lastBuildDate>
-<pubDate>Tue, 21 May 2024 18:56:00 -0700</pubDate>
+<lastBuildDate>Thu, 23 May 2024 08:54:46 -0700</lastBuildDate>
+<pubDate>Thu, 23 May 2024 08:54:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/agency-assist-05232024-inc0396" hreflang="en">Agency Assist 05/23/2024 INC#0396</a></title>
+  <link><a href="/alert/agency-assist-05232024-inc0396" hreflang="en">view</a></link>
+  <description><![CDATA[Agency Assist; INC#0396; 08:31AM; Tujunga Wash; MAP: &lt;a href=&quot;https://maps.app.goo.gl/ULndatrrrN8bsh948&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://maps.app.goo.gl/ULndatrrrN8bsh948&lt;/a&gt;; #ShadowHills; PRELIM: LAFD ground crews assisting LAPD Foothill Division (Incident #1277) and Medical Examiner with the recovery of a person discovered deceased (undetermined age / gender / body condition / affiliation / circumstances) by a hiker in remnant floodwater along a remote section of the Tujunga Wash flood control channel. No further details.; FS 24; Batt 12; Valley Bureau; Council District 7; E274  E275  EM12  RA74  T74; CH8; 17; Brian Humphrey]]></description>
+  <category>Agency Assist</category>
+                            <category>Valley</category>
+                            <category>#ShadowHills</category>
+                            <guid isPermaLink="false"><a href="/alert/agency-assist-05232024-inc0396" hreflang="en">view</a></guid>
+                            <pubDate>Thursday, May 23, 2024 - 08:54
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/update-auto-rollover-05212024-inc1204" hreflang="en">Update Auto Rollover 05/21/2024 INC#1204</a></title>
   <link><a href="/alert/update-auto-rollover-05212024-inc1204" hreflang="en">view</a></link>
   <description><![CDATA[Update Auto Rollover; INC#1204; 06:50PM; 17010 W Sunset Bl; MAP: &lt;a href=&quot;https://bit.ly/4bsjt50&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4bsjt50&lt;/a&gt;; #PacificPalisades; Crews found one overturned vehicle, which came to rest against a two-story apartment building. Firefighters provided medical assessment and ongoing care en route to the hospital to three patients (2 serious, 1 moderate). Three others were in good-to-fair condition and received an assessment and care on scene, but declined ambulance transport. LAPD Inc #3938.; FS 23; Batt 9; West Bureau; Council District 11; BC9  E23  E269  E69  EM14  EM17  EM9  RA23  RA59  RA69  RA837  RA862  T69; CH4; 12; Nicholas Prange]]></description>
@@ -113,18 +125,6 @@
                             <category>#VermontSquare</category>
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 18, 2024 - 21:41
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">Structure Fire 05/18/2024 INC#1561</a></title>
-  <link><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire; INC#1561; 09:20PM; 1120 W 47th St; MAP: &lt;a href=&quot;https://bit.ly/4boe27c&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4boe27c&lt;/a&gt;; #VermontSquare; PRELIM: Two story detached residence over garage well involved with fire.; FS 46; Batt 13; South Bureau; Council District 9; BC11  BC13  E15  E215  E266  E46  E66  RA246  RA846  SQ21  T15  T66; CH9; 12; Brian Humphrey]]></description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#VermontSquare</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-05182024-inc1561" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, May 18, 2024 - 21:31
 </pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
