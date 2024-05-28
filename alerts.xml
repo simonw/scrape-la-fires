@@ -5,8 +5,8 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5"></atom:link>
-<lastBuildDate>Mon, 27 May 2024 09:21:42 -0700</lastBuildDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Mon, 27 May 2024 18:38:10 -0700</lastBuildDate>
 <pubDate>Mon, 27 May 2024 09:21:00 -0700</pubDate>
 
     <item>
@@ -19,7 +19,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05272024-inc0442" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 27, 2024 - 09:21
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05272024-inc0442" hreflang="en">Structure Fire 05/27/2024 INC#0442</a></title>
@@ -31,7 +31,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05272024-inc0442" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 27, 2024 - 09:09
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/traffic-collision-fatality-05272024-inc0150" hreflang="en">Traffic Collision - Fatality 05/27/2024 INC#0150</a></title>
@@ -43,7 +43,7 @@
                             <guid isPermaLink="false"><a href="/alert/traffic-collision-fatality-05272024-inc0150" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 27, 2024 - 03:35
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05272024-inc0138" hreflang="en">Structure Fire - Now Out 05/27/2024 INC#0138</a></title>
@@ -55,7 +55,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05272024-inc0138" hreflang="en">view</a></guid>
                             <pubDate>Monday, May 27, 2024 - 03:18
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-05262024-inc0055" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 05/26/2024 INC#0055</a></title>
@@ -67,7 +67,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-05262024-inc0055" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 26, 2024 - 02:06
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05262024-inc0055" hreflang="en">Structure Fire 05/26/2024 INC#0055</a></title>
@@ -79,7 +79,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05262024-inc0055" hreflang="en">view</a></guid>
                             <pubDate>Sunday, May 26, 2024 - 01:16
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/rv-fire-05252024-inc0183" hreflang="en">RV Fire 05/25/2024 INC#0183</a></title>
@@ -91,7 +91,7 @@
                             <guid isPermaLink="false"><a href="/alert/rv-fire-05252024-inc0183" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 25, 2024 - 04:26
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05252024-inc0151" hreflang="en">Structure Fire - Now Out 05/25/2024 INC#0151</a></title>
@@ -103,7 +103,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05252024-inc0151" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 25, 2024 - 04:23
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05252024-inc0103" hreflang="en">Structure Fire - Now Out 05/25/2024 INC#0103</a></title>
@@ -115,7 +115,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05252024-inc0103" hreflang="en">view</a></guid>
                             <pubDate>Saturday, May 25, 2024 - 04:20
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05242024-inc1368" hreflang="en">KNOCKDOWN Structure Fire 05/24/2024 INC#1368</a></title>
@@ -127,7 +127,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05242024-inc1368" hreflang="en">view</a></guid>
                             <pubDate>Friday, May 24, 2024 - 20:13
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=333df5ff-1c45-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
