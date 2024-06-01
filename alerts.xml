@@ -5,11 +5,23 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5"></atom:link>
-<lastBuildDate>Fri, 31 May 2024 09:39:42 -0700</lastBuildDate>
-<pubDate>Thu, 30 May 2024 18:11:00 -0700</pubDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Fri, 31 May 2024 14:10:42 -0700</lastBuildDate>
+<pubDate>Fri, 31 May 2024 14:05:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/train-vs-pedestrian-fatality-05312024-inc0906" hreflang="en">Train vs. Pedestrian Fatality 05/31/2024 INC#0906</a></title>
+  <link><a href="/alert/train-vs-pedestrian-fatality-05312024-inc0906" hreflang="en">view</a></link>
+  <description><![CDATA[Train vs. Pedestrian Fatality; INC#0906; 01:47PM; 4421 S Long Beach Av; MAP: &lt;a href=&quot;https://bit.ly/3mOKcP9&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3mOKcP9&lt;/a&gt;; #CentralAlameda; PRELIM: One pedestrian (unknown age / gender / affiliation / circumstances) deceased at scene after being struck by and removed by firefighters from beneath a Metro A (Blue) Line light rail train that remains at the location. No injuries reported among the 42 total persons aboard the train. Media Inquiries: Metro, LAPD Central Traffic Division (Incident #2614) and Medical Examiner.; FS 21; Batt 13; South Bureau; Council District 9; BC1  BC13  E14  E15  E221  E46  EM1  HR3  RA14  T21; CH7; 14; Brian Humphrey]]></description>
+  <category>Train vs. Pedestrian Fatality</category>
+                            <category>South</category>
+                            <category>#CentralAlameda</category>
+                            <guid isPermaLink="false"><a href="/alert/train-vs-pedestrian-fatality-05312024-inc0906" hreflang="en">view</a></guid>
+                            <pubDate>Friday, May 31, 2024 - 14:05
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-05302024-inc1301" hreflang="en">Knockdown -  Greater Alarm Structure Fire 05/30/2024 INC#1301</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-05302024-inc1301" hreflang="en">view</a></link>
   <description><![CDATA[Knockdown -  Greater Alarm Structure Fire; INC#1301; 06:10PM; 1400 N Soto St; MAP: &lt;a href=&quot;https://bit.ly/4e42Gac&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4e42Gac&lt;/a&gt;; #BoyleHeights; *Address Corrected* 98 LAFD Firefighters took 87 minutes in largely defensive firefighting operations, to access, confine and fully extinguish heavy fire deep within and atop a vacant three-story apartment building in the final stages of construction. LAFD crews prevented fire spread to two nearby occupied structures. No injury. Fire cause under active investigation.; FS 2; Batt 1; Central Bureau; Council District 14; AR1  BC1  BC11  BC2  BC5  CM20  CM22  E1  E16  E2  E201  E202  E203  E211  E25  E27  E3  E47  EA2  EM1  EM11  HR3  RA2  RA27  RA47  RA801  RA803  SO1  SQ21  T1  T11  T2  T3  T9  UR27  UR3  UR88; CH9; 12  13; Brian Humphrey]]></description>
@@ -19,7 +31,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-05302024-inc1301" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 30, 2024 - 18:11
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-05302024-inc1301" hreflang="en">Greater Alarm Structure Fire 05/30/2024 INC#1301</a></title>
@@ -31,7 +43,7 @@
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-05302024-inc1301" hreflang="en">view</a></guid>
                             <pubDate>Thursday, May 30, 2024 - 16:52
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-now-out-05292024-inc1671" hreflang="en">Structure Fire - Now Out 05/29/2024 INC#1671</a></title>
@@ -43,7 +55,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-05292024-inc1671" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 22:50
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05292024-inc0854" hreflang="en">KNOCKDOWN Structure Fire 05/29/2024 INC#0854</a></title>
@@ -55,7 +67,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05292024-inc0854" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 16:00
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05292024-inc0854" hreflang="en">Structure Fire 05/29/2024 INC#0854</a></title>
@@ -68,7 +80,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05292024-inc0854" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 14:45
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/hiker-rescue-05292024-inc0696" hreflang="en">Hiker Rescue 05/29/2024 INC#0696</a></title>
@@ -80,7 +92,7 @@
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-05292024-inc0696" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 12:27
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-05292024-inc0408" hreflang="en">KNOCKDOWN Structure Fire 05/29/2024 INC#0408</a></title>
@@ -92,7 +104,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-05292024-inc0408" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 09:18
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-05292024-inc0408" hreflang="en">Structure Fire 05/29/2024 INC#0408</a></title>
@@ -104,7 +116,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-05292024-inc0408" hreflang="en">view</a></guid>
                             <pubDate>Wednesday, May 29, 2024 - 09:08
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/technical-rescue-05282024-inc1682" hreflang="en">Technical Rescue 05/28/2024 INC#1682</a></title>
@@ -116,19 +128,7 @@
                             <guid isPermaLink="false"><a href="/alert/technical-rescue-05282024-inc1682" hreflang="en">view</a></guid>
                             <pubDate>Tuesday, May 28, 2024 - 21:30
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/traffic-05282024-inc1556" hreflang="en">Traffic 05/28/2024 INC#1556</a></title>
-  <link><a href="/alert/traffic-05282024-inc1556" hreflang="en">view</a></link>
-  <description><![CDATA[Traffic; INC#1556; 07:29PM; 491 E 42nd Pl; MAP: &lt;a href=&quot;https://bit.ly/3V2rfvf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3V2rfvf&lt;/a&gt;; Historic South-Central; LAFD on scene of a 4 vehicle traffic collision with no entrapment. Seven patients are being assessed for injuries, with two persons being transported to area hospitals. #LATraffic: Expects delays due street closures until LAFD and LAPD operations are complete. No further details. LAPD Inc# 4120.; FS 14; Batt 1; Central Bureau; Council District 9; BC1  E14  E21  E221  E46  EM1  HR3  RA14  RA21  SQ21  T21; CH7; 13; Jennifer Middleton]]></description>
-  <category>Traffic</category>
-                            <category>Central</category>
-                            <category>Historic South-Central</category>
-                            <guid isPermaLink="false"><a href="/alert/traffic-05282024-inc1556" hreflang="en">view</a></guid>
-                            <pubDate>Tuesday, May 28, 2024 - 19:50
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60a51380-1f6c-11ef-b87d-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
