@@ -5,11 +5,35 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5"></atom:link>
-<lastBuildDate>Sat, 29 Jun 2024 17:30:41 -0700</lastBuildDate>
-<pubDate>Sat, 29 Jun 2024 17:27:00 -0700</pubDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Sun, 30 Jun 2024 07:35:22 -0700</lastBuildDate>
+<pubDate>Sun, 30 Jun 2024 07:12:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-06302024-inc0374" hreflang="en">Structure Fire - Now Out 06/30/2024 INC#0374</a></title>
+  <link><a href="/alert/structure-fire-now-out-06302024-inc0374" hreflang="en">view</a></link>
+  <description><![CDATA[Structure Fire - Now Out; INC#0374; 06:59AM; 8100 W Sunset Bl; MAP: &lt;a href=&quot;https://bit.ly/4eJ4R3e&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4eJ4R3e&lt;/a&gt;; #HollywoodHillsWest; First-arriving companies reported a one-story single family dwelling with fire showing from the front. Firefighters proceeded in offensive mode -- breaching entrances to fight fire and search for victims, and ascending to the roof to ventilate pressurized smoke and heat. Full extinguishment accomplished in 35 minutes with 37 firefighters on-scene. Fire cause is unknown and under investigation.; FS 41; Batt 5; West Bureau; Council District 4; BC18  BC5  E227  E261  E27  E61  E97  RA27  RA827  T27  T61; CH9; 12; Lyndsey Lantz]]></description>
+  <category>Structure Fire - Now Out</category>
+                            <category>West</category>
+                            <category>#HollywoodHillsWest</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06302024-inc0374" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, June 30, 2024 - 07:12
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
+  <title><a href="/alert/structure-fire-now-out-06302024-inc0047" hreflang="en">Structure Fire - Now Out 06/30/2024 INC#0047</a></title>
+  <link><a href="/alert/structure-fire-now-out-06302024-inc0047" hreflang="en">view</a></link>
+  <description><![CDATA[Structure Fire - Now Out; INC#0047; 01:03AM; 1018 E 79th St; MAP: &lt;a href=&quot;https://bit.ly/3RPKxDD&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3RPKxDD&lt;/a&gt;; #Florence; Crews arrived to find that fire in an alley had spread to an automobile garage and to a one-story single family dwelling. The initial companies assigned were able to fully extinguish the fire within 24 minutes. No injuries reported. Cause of the fire remains under investigation.; FS 33; Batt 13; South Bureau; Council District 9; BC11  BC13  E14  E21  E221  E233  E33  E57  RA21  RA833  SQ21  T21  T33; CH9; 12; Lyndsey Lantz]]></description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#Florence</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06302024-inc0047" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, June 30, 2024 - 01:25
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-06292024-inc1207" hreflang="en">KNOCKDOWN Greater Alarm Structure Fire 06/29/2024 INC#1207</a></title>
   <link><a href="/alert/knockdown-greater-alarm-structure-fire-06292024-inc1207" hreflang="en">view</a></link>
   <description><![CDATA[Update KNOCKDOWN Greater Alarm Structure Fire; INC#1207; 05:12PM; 1042 W 62nd St; MAP: &lt;a href=&quot;https://bit.ly/3XMfTig&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3XMfTig&lt;/a&gt;; #Vermont-Slauson; 76 firefighters were able to extinguish this tricky fire in 41 minutes. Flames from a power pole initially extended into an outside storage building, before also extending to a nearby house. Crews maintained an offensive posture against the flames, aggressively fighting fire and prioritizing the search for any victims. No injuries were reported. Several companies remain on-scene to overhaul the affected buildings and salvage as much property as possible for residents. ; FS 57; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E266  E33  E57  E66  RA257  RA57  T33  T66; CH9; 13; Lyndsey Lantz]]></description>
@@ -19,7 +43,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-06292024-inc1207" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 29, 2024 - 17:27
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-06292024-inc1207" hreflang="en">Structure Fire 06/29/2024 INC#1207</a></title>
@@ -31,7 +55,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-06292024-inc1207" hreflang="en">view</a></guid>
                             <pubDate>Saturday, June 29, 2024 - 16:45
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-now-out-06282024-inc1639" hreflang="en">Greater Alarm Structure Fire - Now Out 06/28/2024 INC#1639</a></title>
@@ -43,7 +67,7 @@
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-now-out-06282024-inc1639" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 28, 2024 - 20:36
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/fully-contained-brush-fire-06282024-inc1388" hreflang="en">Fully Contained -  Brush Fire 06/28/2024 INC#1388</a></title>
@@ -55,7 +79,7 @@
                             <guid isPermaLink="false"><a href="/alert/fully-contained-brush-fire-06282024-inc1388" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 28, 2024 - 19:47
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/contained-brush-fire-06282024-inc1388" hreflang="en">Contained -  Brush Fire 06/28/2024 INC#1388</a></title>
@@ -67,7 +91,7 @@
                             <guid isPermaLink="false"><a href="/alert/contained-brush-fire-06282024-inc1388" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 28, 2024 - 19:27
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/brush-fire-06282024-inc1388" hreflang="en">Brush Fire 06/28/2024 INC#1388</a></title>
@@ -79,7 +103,7 @@
                             <guid isPermaLink="false"><a href="/alert/brush-fire-06282024-inc1388" hreflang="en">view</a></guid>
                             <pubDate>Friday, June 28, 2024 - 18:10
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-06272024-inc1663" hreflang="en">Knockdown -  Greater Alarm Structure Fire 06/27/2024 INC#1663</a></title>
@@ -91,7 +115,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-06272024-inc1663" hreflang="en">view</a></guid>
                             <pubDate>Thursday, June 27, 2024 - 20:42
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-greater-alarm-structure-fire-06272024-inc1663" hreflang="en">Update Greater Alarm Structure Fire 06/27/2024 INC#1663</a></title>
@@ -103,31 +127,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-greater-alarm-structure-fire-06272024-inc1663" hreflang="en">view</a></guid>
                             <pubDate>Thursday, June 27, 2024 - 20:14
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-06272024-inc1663" hreflang="en">Structure Fire 06/27/2024 INC#1663</a></title>
-  <link><a href="/alert/structure-fire-06272024-inc1663" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire; INC#1663; 08:03PM; 10924 S Broadway St; MAP: &lt;a href=&quot;https://bit.ly/3L3wc2o&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L3wc2o&lt;/a&gt;; #BroadwayManchester; PRELIM: Two-story U-shaped motel with fire on both floors.; FS 64; Batt 13; South Bureau; Council District 8; BC11  BC13  E233  E264  E57  E64  E65  EM1  EM11  EM13  RA264  RA46  RA64  RA65  RA864  T33  T64; CH9; 12; Brian Humphrey]]></description>
-  <category>Structure Fire</category>
-                            <category>South</category>
-                            <category>#BroadwayManchester</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-06272024-inc1663" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, June 27, 2024 - 20:07
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-now-out-06272024-inc0119" hreflang="en">Structure Fire - Now Out 06/27/2024 INC#0119</a></title>
-  <link><a href="/alert/structure-fire-now-out-06272024-inc0119" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire - Now Out; INC#0119; 02:21AM; 1935 S La Salle Av; MAP: &lt;a href=&quot;https://bit.ly/3RHuxDq&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3RHuxDq&lt;/a&gt;; #HarvardHeights; 48 LAFD Firefighters took 32 minutes (2:53 AM) to extinguish fire in one second floor unit of a 29,000 square foot three-story 33 unit garden style apartment building, with slight extension to the unit above. No injury. Fire cause under investigation. ; FS 26; Batt 11; Central Bureau; Council District 10; BC11  BC18  E11  E13  E15  E211  E215  E226  E26  RA13  RA26  RA826  SQ21  T11  T15  T26; CH9; 12; Brian Humphrey]]></description>
-  <category>Structure Fire - Now Out</category>
-                            <category>Central</category>
-                            <category>#HarvardHeights</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-06272024-inc0119" hreflang="en">view</a></guid>
-                            <pubDate>Thursday, June 27, 2024 - 02:59
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=fa8cf337-3677-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
