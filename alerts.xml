@@ -6,10 +6,22 @@
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
         <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
-<lastBuildDate>Tue, 02 Jul 2024 22:29:34 -0700</lastBuildDate>
-<pubDate>Tue, 02 Jul 2024 22:28:00 -0700</pubDate>
+<lastBuildDate>Wed, 03 Jul 2024 02:38:26 -0700</lastBuildDate>
+<pubDate>Wed, 03 Jul 2024 02:37:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/technical-rescue-07032024-inc0094" hreflang="en">Technical Rescue 07/03/2024 INC#0094</a></title>
+  <link><a href="/alert/technical-rescue-07032024-inc0094" hreflang="en">view</a></link>
+  <description><![CDATA[Technical Rescue; INC#0094; 01:51AM; 8469 Mulholland Dr; MAP: &lt;a href=&quot;https://bit.ly/3L7tadF&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3L7tadF&lt;/a&gt;; #StudioCity; The LAFD is performing a ground-based rescue of a 23-year-old female from a low-angle slope -- an LAFD helicopter is in the air to assist with illuminating the area. No vehicular involvement, no major injury. ; FS 97; Batt 14; Valley Bureau; Council District 4; AO1  AO2  BC14  BC18  BC5  E227  E260  E288  E289  E88  E89  E97  EM14  H1  H4  HA1  HA4  HR3  RA827  RA90  RA97  RH114  T27  T60  T88  T89  UR27  UR88  UR89; CH8; 17; Lyndsey Lantz]]></description>
+  <category>Technical Rescue</category>
+                            <category>Valley</category>
+                            <category>#StudioCity</category>
+                            <guid isPermaLink="false"><a href="/alert/technical-rescue-07032024-inc0094" hreflang="en">view</a></guid>
+                            <pubDate>Wednesday, July 3, 2024 - 02:37
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/contained-brush-fire-07022024-inc1725" hreflang="en">CONTAINED Brush Fire 07/02/2024 INC#1725</a></title>
   <link><a href="/alert/contained-brush-fire-07022024-inc1725" hreflang="en">view</a></link>
   <description><![CDATA[CONTAINED Brush Fire; INC#1725; 10:16PM; 2800 W Observatory Rd; MAP: &lt;a href=&quot;https://bit.ly/4cvD98z&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4cvD98z&lt;/a&gt;; #GriffithPark; The fire burning near Griffith Observatory was fully contained by LAFD air and ground crews, assisted by Griffith Park rangers, without any significant spread beyond the initial 15&#039; x 15&#039; area. No structures were threatened and no injuries were reported; fire cause is under investigation.; FS 35; Batt 5; West Bureau; Council District 4; AO1  AO2  BC11  BC5  E20  E220  E235  E27  E290  E3  E35  E52  E56  E6  E76  E90  EM5  H1  H4  H5  HA1  HA4  HA5  RA35  T20  T35  T90; CH5; 12; Lyndsey Lantz]]></description>
@@ -114,18 +126,6 @@
                             <category>#Tujunga</category>
                             <guid isPermaLink="false"><a href="/alert/hiker-rescue-06302024-inc1350" hreflang="en">view</a></guid>
                             <pubDate>Sunday, June 30, 2024 - 18:57
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/structure-fire-automatic-aid-06302024-inc0886" hreflang="en">Structure Fire, Automatic Aid 06/30/2024 INC#0886</a></title>
-  <link><a href="/alert/structure-fire-automatic-aid-06302024-inc0886" hreflang="en">view</a></link>
-  <description><![CDATA[Structure Fire, Automatic Aid; INC#0886; 01:23PM; 733 Salem St; MAP: &lt;a href=&quot;https://bit.ly/3xPSjq1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3xPSjq1&lt;/a&gt;; #Glendale; Two LAFD companies are currently on-scene in Glendale to assist with a 5th alarm structure fire that has extended significantly since inception. We respectfully refer media inquiries to Glendale Fire and Verdugo Fire Communications Center for timely and reliable incident information.; FS 50; Batt 2; Central Bureau; Council District outside city; BC11  BC2  E235  E250  T35  T50; CH7; 12; Lyndsey Lantz]]></description>
-  <category>Structure Fire</category>
-                            <category>Central</category>
-                            <category>#Glendale</category>
-                            <guid isPermaLink="false"><a href="/alert/structure-fire-automatic-aid-06302024-inc0886" hreflang="en">view</a></guid>
-                            <pubDate>Sunday, June 30, 2024 - 14:25
 </pubDate>
                             <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
