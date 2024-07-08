@@ -5,11 +5,23 @@
     <link>https://www.lafd.org/</link>
     <description><![CDATA[Alerts Feeds -- Los Angeles Fire Department]]></description>
     <language>en</language>
-        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5"></atom:link>
-<lastBuildDate>Sun, 07 Jul 2024 01:17:41 -0700</lastBuildDate>
-<pubDate>Sun, 07 Jul 2024 01:17:00 -0700</pubDate>
+        <atom:link rel="self" href="https://www.lafd.org/alerts-rss.xml"></atom:link>
+<lastBuildDate>Sun, 07 Jul 2024 17:40:54 -0700</lastBuildDate>
+<pubDate>Sun, 07 Jul 2024 12:39:00 -0700</pubDate>
 
     <item>
+  <title><a href="/alert/structure-fire-now-out-07072024-inc0776" hreflang="en">Structure Fire - Now Out 07/07/2024 INC#0776</a></title>
+  <link><a href="/alert/structure-fire-now-out-07072024-inc0776" hreflang="en">view</a></link>
+  <description><![CDATA[Structure Fire - Now Out; INC#0776; 12:19PM; 340 E 95th St; MAP: &lt;a href=&quot;https://bit.ly/45WFpTV&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/45WFpTV&lt;/a&gt;; #GreenMeadows; First arriving crews found smoke showing from a detached garage to the rear of a single family dwelling. One male patient, the only occupant of the structure (partially converted to living space), is being transported to a local hospital for smoke inhalation injuries. 34 firefighters extinguished all flames in 12 minutes, found no further patients, and prevented extension to any surrounding structures. Fire cause is under investigation.; FS 64; Batt 13; South Bureau; Council District 8; BC1  BC11  E233  E264  E57  E64  E65  RA264  RA864  T33  T64; CH9; 12; Lyndsey Lantz]]></description>
+  <category>Structure Fire - Now Out</category>
+                            <category>South</category>
+                            <category>#GreenMeadows</category>
+                            <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-07072024-inc0776" hreflang="en">view</a></guid>
+                            <pubDate>Sunday, July 7, 2024 - 12:39
+</pubDate>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
+                            </item>
+<item>
   <title><a href="/alert/structure-fire-now-out-07072024-inc0026" hreflang="en">Structure Fire - Now Out 07/07/2024 INC#0026</a></title>
   <link><a href="/alert/structure-fire-now-out-07072024-inc0026" hreflang="en">view</a></link>
   <description><![CDATA[Structure Fire - Now Out; INC#0026; 12:18AM; 4912 N Beeman Av; MAP: &lt;a href=&quot;https://bit.ly/4eTUZ6L&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/4eTUZ6L&lt;/a&gt;; #ValleyVillage; LAFD crews responding to an alarm company notification of an automatic fire alarm, arrived quickly to find a shed attached to the front of a one-story home, well involved with fire, with flames extending into the residence. First arriving firefighters mounted a bold attack on the blaze, as they simultaneously searched the 2,700 square foot home, finding and rescuing an elder adult male resident from the heat, smoke and flames. The man, who sustained burns to his head, was provided on-site medical care, before being transported to an area hospital in fair condition by LAFD Paramedics. Again searching the premises as they completed extinguishment of the flames (at 12:46 AM), firefighters discovered the man&#039;s pet dog deceased within the fire damaged building. No other injuries were reported. The cause of the blaze remains under investigation. ; FS 78; Batt 14; Valley Bureau; Council District 2; BC14  BC5  E102  E108  E260  E278  E289  E60  EM14  RA102  RA60  RA878  RA89  T60  T78  T89; CH8; 17; Brian Humphrey]]></description>
@@ -19,7 +31,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-now-out-07072024-inc0026" hreflang="en">view</a></guid>
                             <pubDate>Sunday, July 7, 2024 - 01:17
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-greater-alarm-structure-fire-07062024-inc1738" hreflang="en">Knockdown -  Greater Alarm Structure Fire 07/06/2024 INC#1738</a></title>
@@ -31,7 +43,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-greater-alarm-structure-fire-07062024-inc1738" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 23:43
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/greater-alarm-structure-fire-07062024-inc1738" hreflang="en">Greater Alarm Structure Fire 07/06/2024 INC#1738</a></title>
@@ -43,7 +55,7 @@
                             <guid isPermaLink="false"><a href="/alert/greater-alarm-structure-fire-07062024-inc1738" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 23:18
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/agency-assist-brush-fire-07062024-inc1703" hreflang="en">Agency Assist - Brush Fire 07/06/2024 INC#1703</a></title>
@@ -55,7 +67,7 @@
                             <guid isPermaLink="false"><a href="/alert/agency-assist-brush-fire-07062024-inc1703" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 23:05
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-truck-fire-07062024-inc1586-0" hreflang="en">Update Truck Fire 07/06/2024 INC#1586</a></title>
@@ -67,7 +79,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-truck-fire-07062024-inc1586-0" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 22:14
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/update-truck-fire-07062024-inc1586" hreflang="en">Update Truck Fire 07/06/2024 INC#1586</a></title>
@@ -79,7 +91,7 @@
                             <guid isPermaLink="false"><a href="/alert/update-truck-fire-07062024-inc1586" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 21:43
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/truck-fire-07062024-inc1586" hreflang="en">Truck Fire 07/06/2024 INC#1586</a></title>
@@ -91,7 +103,7 @@
                             <guid isPermaLink="false"><a href="/alert/truck-fire-07062024-inc1586" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 21:22
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/knockdown-structure-fire-07062024-inc1391" hreflang="en">Knockdown -  Structure Fire 07/06/2024 INC#1391</a></title>
@@ -103,7 +115,7 @@
                             <guid isPermaLink="false"><a href="/alert/knockdown-structure-fire-07062024-inc1391" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 19:44
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 <item>
   <title><a href="/alert/structure-fire-07062024-inc1391" hreflang="en">Structure Fire 07/06/2024 INC#1391</a></title>
@@ -115,19 +127,7 @@
                             <guid isPermaLink="false"><a href="/alert/structure-fire-07062024-inc1391" hreflang="en">view</a></guid>
                             <pubDate>Saturday, July 6, 2024 - 19:34
 </pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
-                            </item>
-<item>
-  <title><a href="/alert/hiker-rescue-07062024-inc1054" hreflang="en">Hiker Rescue 07/06/2024 INC#1054</a></title>
-  <link><a href="/alert/hiker-rescue-07062024-inc1054" hreflang="en">view</a></link>
-  <description><![CDATA[Hiker Rescue; INC#1054; 03:37PM; Santa Monica Mountains; MAP: &lt;a href=&quot;https://bit.ly/3WabGUf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/3WabGUf&lt;/a&gt;; #PacificPalisades; PRELIM: LAFD ground and air response to a 66-year-old female hiker suffering from exhaustion on the Bienveneda Trail north of Leacock Trail near Topanga State Park. An LAFD Rescue Helicopter has lowered a Flight Paramedic to medically assess and stabilize the patient, whose condition is undetermined. The patient and LAFD Flight Paramedic will soon be hoisted into the hovering helicopter for continuing in-flight care during direct air transport to an area hospital.; FS 69; Batt 9; West Bureau; Council District 11; BC9  E23  E269  H1  H6  HA1  HA6  RA23  RH114  T69; CH7; 12; Brian Humphrey]]></description>
-  <category>Hiker Rescue</category>
-                            <category>West</category>
-                            <category>#PacificPalisades</category>
-                            <guid isPermaLink="false"><a href="/alert/hiker-rescue-07062024-inc1054" hreflang="en">view</a></guid>
-                            <pubDate>Saturday, July 6, 2024 - 16:06
-</pubDate>
-                            <source url="https://www.lafd.org/alerts-rss.xml?fbzunique=60b0f20b-3c39-11ef-b87e-002590f4cea5">Alerts Feed</source>
+                            <source url="https://www.lafd.org/alerts-rss.xml">Alerts Feed</source>
                             </item>
 
   </channel>
